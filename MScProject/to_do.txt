@@ -1,0 +1,17 @@
+giffy
+
+diffrential expressed genes
+ : see how these are in the main network
+
+ref list of gene annotation, dissease annotation etc in her dropbox
+
+compare the list we have with the pre and post synaptic
+
+try clustering algo, and perform nrichmnt on each 
+sensible size of cluster : we looking for
+
+
+
+
+
+ 

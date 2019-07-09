@@ -1,0 +1,11 @@
+CHANGES IN RCLUSTERING
+
+CHANGES IN SETUP:
+mainDIr: path to folder with datsets
+DIRS: all the directories in the mainDIR
+dataDIR: folder inside mainDIR that has the datasets
+subDIR: list of csv files in dataDIR
+rndDIR: randomization files
+disease stuff maybe
+paramFiles: folder directory to the file which has the names of the graphs
+regions stuf: comment out for now and ask colin

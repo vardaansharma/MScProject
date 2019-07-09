@@ -1,0 +1,8 @@
+
+Create map
+	make the table with deatials from each paper
+	make folders with exel sheets of the proteins from each paper
+
+compare whole map to healthy one 
+
+compare map from the one paper to itself to see and validate

@@ -1,0 +1,59 @@
+2.
+LC-MS/MS
+177
+hippocambal membrane
+mouse
+Ntg, 5XFAD mouse
+UNiprotKB Mouse database
+Supp table 1: Ntg intact vs impaired
+Supp table 2: AD intact vs impaired (table 2)
+Supp table 3: AD vs normal aging mice
+Supp table 4: AD vs normal, reglardless of CFM tests
+
+
+3.
+prefrontal cortex
+synaptic proteins
+LS-SRM/MS
+27103636
+
+
+4.
+RP-LC MS/MS
+1043 TABLE HAS 88
+
+
+6.
+2013
+humans
+6 AD, 6 non AD
+hippcampus and temporal cortex
+Protein identification: either matrix-assisted laser desorption ionization time-of-flight(MALDI-TOF) or electrospray ionisation quadrupole-time of flight mass spectrometry
+39 proteins
+synaptic proteins / synaptosomal proteins 
+
+7.
+PID: 30103319
+2018
+hippocamus
+hippocampal postsynaptic densities of NDAN, AD and healthy (NDAN: Non-demented with Alzeihmers Neuropathology)
+Post synaptic densities(PSD)
+human
+method: MALDI-TOF MS
+39 proteins in main(based on assension number), (34 based on geneID), (31 according to the paper)
+122+5
+
+
+8.
+PMID: 30021459
+humans + mouse
+dorsotal prefrontal cortex
+method: immunohistochemical + LC-MS/MS
+PSD
+419
+supp2: AD with vs without psychosis
+supp4: supp2 only enriched
+supp6: rel of levels to synaptic levels
+aupp7:
+
+

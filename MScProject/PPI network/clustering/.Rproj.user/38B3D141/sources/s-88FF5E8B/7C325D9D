@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562497503112.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "102996641",
+    "id" : "7C325D9D",
+    "lastKnownWriteTime" : 1562519750,
+    "last_content_update" : 1562519750780,
+    "path" : "C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/clustering/Rclustering.R",
+    "project_path" : "Rclustering.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "16"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

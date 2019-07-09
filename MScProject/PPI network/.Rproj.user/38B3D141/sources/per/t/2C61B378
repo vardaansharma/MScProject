@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562438979124.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "365825736",
+    "id" : "2C61B378",
+    "lastKnownWriteTime" : 1562496947,
+    "last_content_update" : 1562496947904,
+    "path" : "C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/setUp.R",
+    "project_path" : "setUp.R",
+    "properties" : {
+        "cursorPosition" : "8,48",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560617434418.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "592E8B58",
+    "lastKnownWriteTime" : 1560617347,
+    "last_content_update" : 1560617434418,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C3D81A45",
+        "caption" : "PPI_List_Unique",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=PPI_List_Unique&cache_key=C3D81A45",
+        "displayedObservations" : 3561,
+        "environment" : "",
+        "expression" : "PPI_List_Unique",
+        "object" : "PPI_List_Unique",
+        "preview" : 0,
+        "totalObservations" : 3561,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

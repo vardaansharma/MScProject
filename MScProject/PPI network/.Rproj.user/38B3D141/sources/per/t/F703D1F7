@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560616795944.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F703D1F7",
+    "lastKnownWriteTime" : 2650923,
+    "last_content_update" : 1560616795944,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "954E6EB9",
+        "caption" : "all_proteins",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=all_proteins&cache_key=954E6EB9",
+        "displayedObservations" : 1926,
+        "environment" : "",
+        "expression" : "all_proteins",
+        "object" : "all_proteins",
+        "preview" : 0,
+        "totalObservations" : 1926,
+        "variables" : 11
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

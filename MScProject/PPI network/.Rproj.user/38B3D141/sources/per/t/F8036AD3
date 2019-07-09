@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561438524784.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F8036AD3",
+    "lastKnownWriteTime" : 729618470927414835,
+    "last_content_update" : 1561438524784,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "4112369b24694418855dee57fecbf384",
+        "name" : "graph_all",
+        "title" : "graph_all"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
