@@ -4,6 +4,8 @@ rm(list=ls())
 version="17_05_2019"
 #mainDir <- sprintf("/afs/inf.ed.ac.uk/user/c/cmclean5/WORK/DATA/Human_synaptosome_%s",version)
 mainDir <- "C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/clustering"
+mainDir <- "/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/PPI network/clustering"
+
 
 #Get Path to all top-level directories in folder
 DIRS <- list.dirs(mainDir,recursive=F)
