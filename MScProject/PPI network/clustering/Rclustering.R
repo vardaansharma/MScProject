@@ -36,73 +36,85 @@ ids <- V(gg)$name;
 #> R CMD INSTALL CDMSuite_0.1.0.tar.gz
 #---
 library(CDMSuite)
-Cnmin <- 1 #can set the minimum community size
+Cnmin <- (0.25 * length(V(gg)))/100 #can set the minimum community size
 el    <- as.data.frame(get.edgelist(gg,names=T))
 spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
 mem   <- spec$K[match(V(gg)$name,spec$ID)]
 gg    <- igraph::set.vertex.attribute(gg,"Spectral",V(gg), mem)
-#---
 
 
-#---
-# Run lec Clustering
-# No parameters to tune here
-ptm <- proc.time()
-lec     <- igraph::leading.eigenvector.community(gg) 
-ll      <- igraph::leading.eigenvector.community(gg, start=membership(lec))
-pet <- proc.time() - ptm
-cat("lec \n")
-cat(sprintf("time = %.3f \n", pet[[1]]))
-cat(sprintf("mod=%.3f \n",max(lec$modularity)))
-cat("---\n")
-cc      <- matrix(NA, ncol=2, nrow=length(ids))
-cc[,1]  <- as.character(ll$names)
-cc[,2]  <- as.character(ll$membership)
-cc      <- as.data.frame(cc)
-outfile <- file(sprintf("%s/lec_communities.csv",cldir),"w")
+#saving the Spectral clustering to a file
+cc <- matrix(NA, ncol=2, nrow=length(ids))
+cc[,1] <- as.character(V(gg)$name)
+cc[,2] <- as.character(V(gg)$Spectral)
+cc <- as.data.frame(cc)
+outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,Cnmin),"w")
 cat("#communities",file=outfile,"\n")
 write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
 close(outfile);
-#---
-igraph::set.vertex.attribute(gg,"lec",V(gg),NA)
-for( i in 1:length(ids) ){
-  ind1 = which(cc[,1]==ids[i])
-  Str <- "";
-  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-  V(gg)[i]$lec = as.integer(Str); 
-}
-#---
 
 #---
-# Run wt Clustering
-#Parameters:
-#Steps=4, optimal value as discussed in paper.
-ptm <- proc.time()
-wt  <- igraph::walktrap.community(gg)
-pet <- proc.time() - ptm
-cat("wt \n")
-cat(sprintf("time = %.3f \n", pet[[1]]))
-cat(sprintf("mod=%.3f \n",max(wt$modularity)))
-cat("---\n")
-cc      <- matrix(NA, ncol=2, nrow=length(ids))
-cc[,1]  <- as.character(wt$names)
-cc[,2]  <- as.character(wt$membership)
-cc      <- as.data.frame(cc)
-outfile <- file(sprintf("%s/wt_communities.csv",cldir),"w")
-cat("#communities",file=outfile,"\n")
-write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
-close(outfile);
-#---
-igraph::set.vertex.attribute(gg,"wt",V(gg),NA)
-for( i in 1:length(ids) ){
-  ind1 = which(cc[,1]==ids[i])
-  Str <- "";
-  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-  V(gg)[i]$wt = as.integer(Str); 
-}
-#---
 
-#---
+# 
+# #---
+# # Run lec Clustering
+# # No parameters to tune here
+# ptm <- proc.time()
+# lec     <- igraph::leading.eigenvector.community(gg) 
+# ll      <- igraph::leading.eigenvector.community(gg, start=membership(lec))
+# pet <- proc.time() - ptm
+# cat("lec \n")
+# cat(sprintf("time = %.3f \n", pet[[1]]))
+# cat(sprintf("mod=%.3f \n",max(lec$modularity)))
+# cat("---\n")
+# cc      <- matrix(NA, ncol=2, nrow=length(ids))
+# cc[,1]  <- as.character(ll$names)
+# cc[,2]  <- as.character(ll$membership)
+# cc      <- as.data.frame(cc)
+# outfile <- file(sprintf("%s/lec_communities.csv",cldir),"w")
+# cat("#communities",file=outfile,"\n")
+# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+# close(outfile);
+# #---
+# igraph::set.vertex.attribute(gg,"lec",V(gg),NA)
+# for( i in 1:length(ids) ){
+#   ind1 = which(cc[,1]==ids[i])
+#   Str <- "";
+#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+#   V(gg)[i]$lec = as.integer(Str); 
+# }
+# #---
+# 
+# #---
+# # Run wt Clustering
+# #Parameters:
+# #Steps=4, optimal value as discussed in paper.
+# ptm <- proc.time()
+# wt  <- igraph::walktrap.community(gg)
+# pet <- proc.time() - ptm
+# cat("wt \n")
+# cat(sprintf("time = %.3f \n", pet[[1]]))
+# cat(sprintf("mod=%.3f \n",max(wt$modularity)))
+# cat("---\n")
+# cc      <- matrix(NA, ncol=2, nrow=length(ids))
+# cc[,1]  <- as.character(wt$names)
+# cc[,2]  <- as.character(wt$membership)
+# cc      <- as.data.frame(cc)
+# outfile <- file(sprintf("%s/wt_communities.csv",cldir),"w")
+# cat("#communities",file=outfile,"\n")
+# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+# close(outfile);
+# #---
+# igraph::set.vertex.attribute(gg,"wt",V(gg),NA)
+# for( i in 1:length(ids) ){
+#   ind1 = which(cc[,1]==ids[i])
+#   Str <- "";
+#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+#   V(gg)[i]$wt = as.integer(Str); 
+# }
+# #---
+# 
+# #---
 # Run fc Clustering
 #No parameters needed to be tuned.
 ptm <- proc.time()
@@ -126,9 +138,15 @@ for( i in 1:length(ids) ){
   ind1 = which(cc[,1]==ids[i])
   Str <- "";
   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+<<<<<<< HEAD
   V(gg)[i]$fc = as.integer(Str); 
 }
 #---
+=======
+  V(gg)[i]$fc = as.integer(Str);
+}
+# #---
+>>>>>>> 968aedd3e0e59ded5ca025555a5079e94f05dcb1
 # 
 # #---
 # # Run louvain Clustering
