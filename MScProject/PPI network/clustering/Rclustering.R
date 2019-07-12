@@ -36,11 +36,23 @@ ids <- V(gg)$name;
 #> R CMD INSTALL CDMSuite_0.1.0.tar.gz
 #---
 library(CDMSuite)
-Cnmin <- 1 #can set the minimum community size
+Cnmin <- (0.25 * length(V(gg)))/100 #can set the minimum community size
 el    <- as.data.frame(get.edgelist(gg,names=T))
 spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
 mem   <- spec$K[match(V(gg)$name,spec$ID)]
 gg    <- igraph::set.vertex.attribute(gg,"Spectral",V(gg), mem)
+
+
+#saving the Spectral clustering to a file
+cc <- matrix(NA, ncol=2, nrow=length(ids))
+cc[,1] <- as.character(V(gg)$name)
+cc[,2] <- as.character(V(gg)$Spectral)
+cc <- as.data.frame(cc)
+outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,Cnmin),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+
 #---
 
 # 
@@ -103,31 +115,31 @@ gg    <- igraph::set.vertex.attribute(gg,"Spectral",V(gg), mem)
 # #---
 # 
 # #---
-# # Run fc Clustering
-# #No parameters needed to be tuned.
-# ptm <- proc.time()
-# fc  <- igraph::fastgreedy.community(gg)
-# pet <- proc.time() - ptm
-# cat("fc \n")
-# cat(sprintf("time = %.3f \n", pet[[1]]))
-# cat(sprintf("mod=%.3f \n",max(fc$modularity)))
-# cat("---\n")
-# cc      <- matrix(NA, ncol=2, nrow=length(ids))
-# cc[,1]  <- as.character(fc$names)
-# cc[,2]  <- as.character(fc$membership)
-# cc      <- as.data.frame(cc)
-# outfile <- file(sprintf("%s/fc_communities.csv",cldir),"w")
-# cat("#communities",file=outfile,"\n")
-# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
-# close(outfile);
-# #---
-# igraph::set.vertex.attribute(gg,"fc",V(gg),NA)
-# for( i in 1:length(ids) ){
-#   ind1 = which(cc[,1]==ids[i])
-#   Str <- "";
-#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-#   V(gg)[i]$fc = as.integer(Str); 
-# }
+# Run fc Clustering
+#No parameters needed to be tuned.
+ptm <- proc.time()
+fc  <- igraph::fastgreedy.community(gg)
+pet <- proc.time() - ptm
+cat("fc \n")
+cat(sprintf("time = %.3f \n", pet[[1]]))
+cat(sprintf("mod=%.3f \n",max(fc$modularity)))
+cat("---\n")
+cc      <- matrix(NA, ncol=2, nrow=length(ids))
+cc[,1]  <- as.character(fc$names)
+cc[,2]  <- as.character(fc$membership)
+cc      <- as.data.frame(cc)
+outfile <- file(sprintf("%s/fc_communities.csv",cldir),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+#---
+igraph::set.vertex.attribute(gg,"fc",V(gg),NA)
+for( i in 1:length(ids) ){
+  ind1 = which(cc[,1]==ids[i])
+  Str <- "";
+  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+  V(gg)[i]$fc = as.integer(Str);
+}
 # #---
 # 
 # #---

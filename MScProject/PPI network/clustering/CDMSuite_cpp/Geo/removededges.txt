@@ -1,0 +1,2 @@
+Removed Edges
+so 	 IDso 	 si 	 IDsi 	 we 	 Globalweight 	 key
