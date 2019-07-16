@@ -1,8 +1,8 @@
-Max Q: 0.494463 +- 0.00353863
-cputime: 1484.87 seconds 
-Network (nodes): 1244 (edges): 3175
-0	1
-community: 1 size: 1
+#Max Q: 0.494463 +- 0.00353863
+#cputime: 1484.87 seconds 
+#Network (nodes): 1244 (edges): 3175
+#0	1
+#community: 1 size: 1
 18	2
 273	2
 613	2
@@ -109,7 +109,7 @@ community: 1 size: 1
 147179	2
 196403	2
 399687	2
-community: 2 size: 106
+#community: 2 size: 106
 37	3
 527	3
 547	3
@@ -130,7 +130,7 @@ community: 2 size: 106
 22859	3
 25930	3
 80017	3
-community: 3 size: 20
+#community: 3 size: 20
 38	4
 226	4
 230	4
@@ -159,7 +159,7 @@ community: 3 size: 20
 10476	4
 54704	4
 64756	4
-community: 4 size: 28
+#community: 4 size: 28
 47	5
 883	5
 1152	5
@@ -182,7 +182,7 @@ community: 4 size: 28
 55697	5
 83451	5
 261726	5
-community: 5 size: 22
+#community: 5 size: 22
 48	6
 161	6
 163	6
@@ -203,7 +203,7 @@ community: 5 size: 22
 25885	6
 26088	6
 51566	6
-community: 6 size: 20
+#community: 6 size: 20
 60	7
 71	7
 829	7
@@ -222,7 +222,7 @@ community: 6 size: 20
 11034	7
 64837	7
 80273	7
-community: 7 size: 18
+#community: 7 size: 18
 81	8
 87	8
 348	8
@@ -351,7 +351,7 @@ community: 7 size: 18
 200186	8
 253260	8
 282974	8
-community: 8 size: 128
+#community: 8 size: 128
 98	9
 288	9
 874	9
@@ -373,7 +373,7 @@ community: 8 size: 128
 55577	9
 56648	9
 80318	9
-community: 9 size: 21
+#community: 9 size: 21
 118	10
 120	10
 1783	10
@@ -383,7 +383,7 @@ community: 9 size: 21
 22848	10
 51143	10
 57584	10
-community: 10 size: 9
+#community: 10 size: 9
 119	11
 682	11
 989	11
@@ -407,7 +407,7 @@ community: 10 size: 9
 23603	11
 55752	11
 65108	11
-community: 11 size: 23
+#community: 11 size: 23
 128	12
 481	12
 1646	12
@@ -425,7 +425,7 @@ community: 11 size: 23
 23564	12
 26578	12
 57447	12
-community: 12 size: 17
+#community: 12 size: 17
 160	13
 287	13
 785	13
@@ -463,14 +463,14 @@ community: 12 size: 17
 112755	13
 116841	13
 246213	13
-community: 13 size: 37
+#community: 13 size: 37
 162	14
 361	14
 1173	14
 4354	14
 6169	14
 23549	14
-community: 14 size: 6
+#community: 14 size: 6
 178	15
 274	15
 5878	15
@@ -480,13 +480,13 @@ community: 14 size: 6
 51493	15
 55198	15
 63893	15
-community: 15 size: 9
+#community: 15 size: 9
 213	16
 4715	16
 5481	16
 10989	16
 25934	16
-community: 16 size: 5
+#community: 16 size: 5
 214	17
 2010	17
 3857	17
@@ -506,7 +506,7 @@ community: 16 size: 5
 26230	17
 30011	17
 387680	17
-community: 17 size: 19
+#community: 17 size: 19
 216	18
 217	18
 293	18
@@ -589,7 +589,7 @@ community: 17 size: 19
 129285	18
 149371	18
 374291	18
-community: 18 size: 82
+#community: 18 size: 82
 286	19
 1973	19
 1974	19
@@ -615,11 +615,11 @@ community: 18 size: 82
 84457	19
 87178	19
 116988	19
-community: 19 size: 25
+#community: 19 size: 25
 309	20
 6130	20
 79784	20
-community: 20 size: 3
+#community: 20 size: 3
 310	21
 523	21
 738	21
@@ -652,7 +652,7 @@ community: 20 size: 3
 140885	21
 221184	21
 347733	21
-community: 21 size: 32
+#community: 21 size: 32
 321	22
 351	22
 811	22
@@ -666,7 +666,7 @@ community: 21 size: 32
 10675	22
 22883	22
 55754	22
-community: 22 size: 13
+#community: 22 size: 13
 327	23
 3799	23
 5577	23
@@ -686,7 +686,7 @@ community: 22 size: 13
 81631	23
 113146	23
 126298	23
-community: 23 size: 19
+#community: 23 size: 19
 347	24
 4259	24
 5354	24
@@ -703,7 +703,7 @@ community: 23 size: 19
 91663	24
 94097	24
 283578	24
-community: 24 size: 16
+#community: 24 size: 16
 375	25
 387	25
 391	25
@@ -730,7 +730,7 @@ community: 24 size: 16
 54443	25
 55738	25
 116986	25
-community: 25 size: 26
+#community: 25 size: 26
 388	26
 1854	26
 4130	26
@@ -739,7 +739,7 @@ community: 25 size: 26
 11171	26
 26227	26
 58497	26
-community: 26 size: 8
+#community: 26 size: 8
 408	27
 2617	27
 2776	27
@@ -752,7 +752,7 @@ community: 26 size: 8
 6416	27
 9255	27
 23193	27
-community: 27 size: 12
+#community: 27 size: 12
 427	28
 997	28
 4684	28
@@ -783,7 +783,7 @@ community: 27 size: 12
 57599	28
 80124	28
 93664	28
-community: 28 size: 30
+#community: 28 size: 30
 471	29
 873	29
 966	29
@@ -806,7 +806,7 @@ community: 28 size: 30
 11315	29
 53358	29
 54187	29
-community: 29 size: 22
+#community: 29 size: 22
 477	30
 667	30
 1962	30
@@ -824,7 +824,7 @@ community: 29 size: 22
 56850	30
 57017	30
 146691	30
-community: 30 size: 17
+#community: 30 size: 17
 479	31
 1508	31
 2286	31
@@ -861,7 +861,7 @@ community: 30 size: 17
 84056	31
 345557	31
 441518	31
-community: 31 size: 36
+#community: 31 size: 36
 483	32
 2697	32
 3337	32
@@ -871,7 +871,7 @@ community: 31 size: 36
 8682	32
 10322	32
 55229	32
-community: 32 size: 9
+#community: 32 size: 9
 488	33
 490	33
 491	33
@@ -890,7 +890,7 @@ community: 32 size: 9
 25824	33
 53616	33
 144402	33
-community: 33 size: 18
+#community: 33 size: 18
 492	34
 822	34
 2058	34
@@ -916,7 +916,7 @@ community: 33 size: 18
 114793	34
 114882	34
 493856	34
-community: 34 size: 25
+#community: 34 size: 25
 493	35
 1159	35
 1329	35
@@ -924,7 +924,7 @@ community: 34 size: 25
 7385	35
 9961	35
 10211	35
-community: 35 size: 7
+#community: 35 size: 7
 509	36
 8027	36
 10617	36
@@ -934,12 +934,12 @@ community: 35 size: 7
 84284	36
 91782	36
 128866	36
-community: 36 size: 9
+#community: 36 size: 9
 535	37
 3939	37
 3945	37
 8723	37
-community: 37 size: 4
+#community: 37 size: 4
 537	38
 1743	38
 2314	38
@@ -950,7 +950,7 @@ community: 37 size: 4
 10383	38
 23256	38
 79187	38
-community: 38 size: 10
+#community: 38 size: 10
 813	39
 2051	39
 4691	39
@@ -959,14 +959,14 @@ community: 38 size: 10
 23380	39
 29789	39
 55466	39
-community: 39 size: 8
+#community: 39 size: 8
 821	40
 5910	40
 5912	40
 54769	40
 58473	40
 148252	40
-community: 40 size: 6
+#community: 40 size: 6
 1267	41
 1272	41
 2890	41
@@ -983,7 +983,7 @@ community: 40 size: 6
 134957	41
 221692	41
 286262	41
-community: 41 size: 16
+#community: 41 size: 16
 1374	42
 3309	42
 5036	42
@@ -993,7 +993,7 @@ community: 41 size: 16
 55102	42
 58513	42
 80728	42
-community: 42 size: 9
+#community: 42 size: 9
 1384	43
 1762	43
 2193	43
@@ -1042,7 +1042,7 @@ community: 42 size: 9
 57662	43
 83658	43
 140690	43
-community: 43 size: 48
+#community: 43 size: 48
 1445	44
 1938	44
 2521	44
@@ -1076,7 +1076,7 @@ community: 43 size: 48
 51645	44
 53938	44
 386617	44
-community: 44 size: 33
+#community: 44 size: 33
 1457	45
 1459	45
 1654	45
@@ -1096,7 +1096,7 @@ community: 44 size: 33
 54521	45
 64423	45
 92675	45
-community: 45 size: 19
+#community: 45 size: 19
 1537	46
 5245	46
 5447	46
@@ -1107,7 +1107,7 @@ community: 45 size: 19
 54828	46
 54940	46
 80262	46
-community: 46 size: 10
+#community: 46 size: 10
 1605	47
 1728	47
 2023	47
@@ -1126,7 +1126,7 @@ community: 46 size: 10
 26232	47
 57698	47
 84263	47
-community: 47 size: 18
+#community: 47 size: 18
 1639	48
 1781	48
 3267	48
@@ -1165,15 +1165,15 @@ community: 47 size: 18
 136319	48
 254863	48
 283638	48
-community: 48 size: 38
+#community: 48 size: 38
 2631	49
 5834	49
 5837	49
-community: 49 size: 3
+#community: 49 size: 3
 2861	50
 6543	50
 57348	50
-community: 50 size: 3
+#community: 50 size: 3
 2944	51
 2946	51
 2947	51
@@ -1184,7 +1184,7 @@ community: 51 size: 4
 5414	52
 8537	52
 8655	52
-community: 52 size: 5
+#community: 52 size: 5
 3991	53
 7415	53
 9927	53
@@ -1194,7 +1194,7 @@ community: 52 size: 5
 55968	53
 80700	53
 653689	53
-community: 53 size: 9
+#community: 53 size: 9
 4478	54
 5962	54
 7430	54
@@ -1205,32 +1205,32 @@ community: 53 size: 9
 57617	54
 64601	54
 65082	54
-community: 54 size: 10
+#community: 54 size: 10
 4522	55
 6217	55
 6223	55
 7417	55
 7419	55
 79026	55
-community: 55 size: 6
+#community: 55 size: 6
 4698	56
 4701	56
 4705	56
 4722	56
 8834	56
-community: 56 size: 5
+#community: 56 size: 5
 4723	57
 4731	57
 6252	57
 9796	57
 10397	57
 79885	57
-community: 57 size: 6
+#community: 57 size: 6
 5372	58
 5870	58
 7879	58
 23637	58
-community: 58 size: 4
+#community: 58 size: 4
 5780	59
 6642	59
 6643	59
@@ -1259,25 +1259,25 @@ community: 58 size: 4
 114569	59
 192683	59
 203068	59
-community: 59 size: 28
+#community: 59 size: 28
 5786	60
 10409	60
 11336	60
 23362	60
-community: 60 size: 4
+#community: 60 size: 4
 5864	61
 5876	61
 5877	61
 22895	61
 56267	61
 115827	61
-community: 61 size: 6
+#community: 61 size: 6
 6635	62
 6636	62
 9218	62
 9885	62
 114876	62
-community: 62 size: 5
+#community: 62 size: 5
 6950	63
 7203	63
 10574	63
@@ -1288,28 +1288,28 @@ community: 62 size: 5
 55844	63
 80349	63
 333926	63
-community: 63 size: 10
+#community: 63 size: 10
 8774	64
 9230	64
 10133	64
 10890	64
 26056	64
 51552	64
-community: 64 size: 6
+#community: 64 size: 6
 9559	65
 51699	65
 55737	65
 112936	65
-community: 65 size: 4
+#community: 65 size: 4
 9751	66
 23474	66
 51606	66
-community: 66 size: 3
+#community: 66 size: 3
 10092	67
 10093	67
 81873	67
-community: 67 size: 3
+#community: 67 size: 3
 25813	68
 54927	68
 84303	68
-community: 68 size: 3
+#community: 68 size: 3

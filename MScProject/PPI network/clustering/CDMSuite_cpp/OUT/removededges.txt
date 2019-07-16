@@ -1,5 +1,2 @@
 Removed Edges
 so 	 IDso 	 si 	 IDsi 	 we 	 Globalweight 	 key
-143	143	362	362	10195.9	1	1322
-94	94	364	364	12380	1	3049
-255	255	555	555	9872	1	82
