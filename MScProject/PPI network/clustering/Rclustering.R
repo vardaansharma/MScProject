@@ -138,9 +138,15 @@ for( i in 1:length(ids) ){
   ind1 = which(cc[,1]==ids[i])
   Str <- "";
   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+<<<<<<< HEAD
+  V(gg)[i]$fc = as.integer(Str); 
+}
+#---
+=======
   V(gg)[i]$fc = as.integer(Str);
 }
 # #---
+>>>>>>> 968aedd3e0e59ded5ca025555a5079e94f05dcb1
 # 
 # #---
 # # Run louvain Clustering
