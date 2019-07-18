@@ -1,4 +1,4 @@
-Creator "igraph version 1.2.4 Sun Jul 07 19:28:26 2019"
+Creator "igraph version 1.2.4 Wed Jul 17 23:09:27 2019"
 Version 1
 graph
 [
@@ -16,6 +16,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 43
+    sgG12 2
+    Spectral2 11
+    louvain2 12
+    lec2 22
+    wt2 21
   ]
   node
   [
@@ -30,6 +36,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 43
+    sgG12 2
+    Spectral2 11
+    louvain2 12
+    lec2 22
+    wt2 21
   ]
   node
   [
@@ -44,6 +56,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 43
+    sgG12 2
+    Spectral2 11
+    louvain2 12
+    lec2 24
+    wt2 21
   ]
   node
   [
@@ -58,6 +76,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -72,6 +96,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 13
+    sgG12 2
+    Spectral2 303
+    louvain2 12
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -86,6 +116,12 @@ graph
     sgG1 11
     sgG2 13
     sgG5 26
+    fc2 42
+    sgG12 11
+    Spectral2 11
+    louvain2 25
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -100,6 +136,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 43
+    sgG12 2
+    Spectral2 11
+    louvain2 12
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -114,6 +156,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -128,6 +176,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -142,6 +196,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 50
+    wt2 21
   ]
   node
   [
@@ -156,6 +216,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -170,6 +236,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 12
+    wt2 21
   ]
   node
   [
@@ -184,6 +256,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 51
+    fc2 36
+    sgG12 32
+    Spectral2 53
+    louvain2 6
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -198,6 +276,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 24
+    louvain2 18
+    lec2 26
+    wt2 12
   ]
   node
   [
@@ -212,6 +296,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 119
+    louvain2 10
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -226,6 +316,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -240,6 +336,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -254,6 +356,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 32
+    wt2 123
   ]
   node
   [
@@ -268,6 +376,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 81
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 28
+    wt2 21
   ]
   node
   [
@@ -282,6 +396,12 @@ graph
     sgG1 2
     sgG2 38
     sgG5 78
+    fc2 14
+    sgG12 2
+    Spectral2 306
+    louvain2 16
+    lec2 40
+    wt2 172
   ]
   node
   [
@@ -296,6 +416,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 39
+    fc2 5
+    sgG12 16
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 21
   ]
   node
   [
@@ -310,6 +436,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -324,6 +456,12 @@ graph
     sgG1 33
     sgG2 23
     sgG5 40
+    fc2 43
+    sgG12 32
+    Spectral2 8
+    louvain2 12
+    lec2 63
+    wt2 176
   ]
   node
   [
@@ -338,6 +476,12 @@ graph
     sgG1 26
     sgG2 48
     sgG5 33
+    fc2 2
+    sgG12 25
+    Spectral2 11
+    louvain2 9
+    lec2 22
+    wt2 21
   ]
   node
   [
@@ -352,6 +496,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 2
+    sgG12 25
+    Spectral2 87
+    louvain2 12
+    lec2 26
+    wt2 21
   ]
   node
   [
@@ -366,6 +516,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 43
+    sgG12 2
+    Spectral2 11
+    louvain2 12
+    lec2 21
+    wt2 21
   ]
   node
   [
@@ -380,6 +536,12 @@ graph
     sgG1 23
     sgG2 35
     sgG5 6
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 21
+    wt2 6
   ]
   node
   [
@@ -394,6 +556,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 29
+    fc2 43
+    sgG12 15
+    Spectral2 11
+    louvain2 12
+    lec2 22
+    wt2 28
   ]
   node
   [
@@ -408,6 +576,12 @@ graph
     sgG1 26
     sgG2 38
     sgG5 71
+    fc2 2
+    sgG12 25
+    Spectral2 6
+    louvain2 9
+    lec2 65
+    wt2 178
   ]
   node
   [
@@ -422,6 +596,12 @@ graph
     sgG1 33
     sgG2 4
     sgG5 64
+    fc2 1
+    sgG12 32
+    Spectral2 104
+    louvain2 13
+    lec2 1
+    wt2 28
   ]
   node
   [
@@ -436,6 +616,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -450,6 +636,12 @@ graph
     sgG1 26
     sgG2 48
     sgG5 19
+    fc2 2
+    sgG12 25
+    Spectral2 210
+    louvain2 9
+    lec2 13
+    wt2 21
   ]
   node
   [
@@ -464,6 +656,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -478,6 +676,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 21
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -492,6 +696,12 @@ graph
     sgG1 11
     sgG2 47
     sgG5 36
+    fc2 43
+    sgG12 11
+    Spectral2 161
+    louvain2 8
+    lec2 21
+    wt2 6
   ]
   node
   [
@@ -506,6 +716,12 @@ graph
     sgG1 11
     sgG2 26
     sgG5 15
+    fc2 7
+    sgG12 11
+    Spectral2 11
+    louvain2 21
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -520,6 +736,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 9
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 59
+    wt2 21
   ]
   node
   [
@@ -534,6 +756,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 11
+    louvain2 14
+    lec2 60
+    wt2 6
   ]
   node
   [
@@ -548,6 +776,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 56
+    fc2 43
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 68
+    wt2 21
   ]
   node
   [
@@ -562,6 +796,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 43
+    sgG12 2
+    Spectral2 11
+    louvain2 12
+    lec2 23
+    wt2 21
   ]
   node
   [
@@ -576,6 +816,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 84
+    fc2 33
+    sgG12 29
+    Spectral2 246
+    louvain2 14
+    lec2 59
+    wt2 1
   ]
   node
   [
@@ -590,6 +836,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 158
+    louvain2 13
+    lec2 3
+    wt2 2
   ]
   node
   [
@@ -604,6 +856,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 66
+    fc2 24
+    sgG12 34
+    Spectral2 287
+    louvain2 7
+    lec2 42
+    wt2 175
   ]
   node
   [
@@ -618,6 +876,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -632,6 +896,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -646,6 +916,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -660,6 +936,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -674,6 +956,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -688,6 +976,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 15
+    wt2 18
   ]
   node
   [
@@ -702,6 +996,12 @@ graph
     sgG1 7
     sgG2 50
     sgG5 63
+    fc2 45
+    sgG12 7
+    Spectral2 235
+    louvain2 6
+    lec2 25
+    wt2 187
   ]
   node
   [
@@ -716,6 +1016,12 @@ graph
     sgG1 7
     sgG2 50
     sgG5 63
+    fc2 45
+    sgG12 7
+    Spectral2 235
+    louvain2 6
+    lec2 14
+    wt2 187
   ]
   node
   [
@@ -730,6 +1036,12 @@ graph
     sgG1 8
     sgG2 50
     sgG5 59
+    fc2 45
+    sgG12 8
+    Spectral2 235
+    louvain2 6
+    lec2 49
+    wt2 175
   ]
   node
   [
@@ -744,6 +1056,12 @@ graph
     sgG1 7
     sgG2 50
     sgG5 63
+    fc2 45
+    sgG12 7
+    Spectral2 235
+    louvain2 6
+    lec2 25
+    wt2 184
   ]
   node
   [
@@ -758,6 +1076,12 @@ graph
     sgG1 7
     sgG2 50
     sgG5 63
+    fc2 45
+    sgG12 7
+    Spectral2 235
+    louvain2 6
+    lec2 14
+    wt2 187
   ]
   node
   [
@@ -772,6 +1096,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 44
+    sgG12 7
+    Spectral2 47
+    louvain2 3
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -786,6 +1116,12 @@ graph
     sgG1 7
     sgG2 50
     sgG5 63
+    fc2 45
+    sgG12 7
+    Spectral2 235
+    louvain2 6
+    lec2 14
+    wt2 187
   ]
   node
   [
@@ -800,6 +1136,12 @@ graph
     sgG1 27
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 26
+    Spectral2 258
+    louvain2 14
+    lec2 15
+    wt2 6
   ]
   node
   [
@@ -814,6 +1156,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 52
+    fc2 15
+    sgG12 39
+    Spectral2 303
+    louvain2 15
+    lec2 40
+    wt2 180
   ]
   node
   [
@@ -828,6 +1176,12 @@ graph
     sgG1 27
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 26
+    Spectral2 254
+    louvain2 14
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -842,6 +1196,12 @@ graph
     sgG1 2
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 2
+    Spectral2 153
+    louvain2 14
+    lec2 1
+    wt2 6
   ]
   node
   [
@@ -856,6 +1216,12 @@ graph
     sgG1 27
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 26
+    Spectral2 203
+    louvain2 14
+    lec2 15
+    wt2 6
   ]
   node
   [
@@ -870,6 +1236,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 62
+    wt2 5
   ]
   node
   [
@@ -884,6 +1256,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 59
+    wt2 27
   ]
   node
   [
@@ -898,6 +1276,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 25
+    wt2 32
   ]
   node
   [
@@ -912,6 +1296,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 62
+    wt2 5
   ]
   node
   [
@@ -926,6 +1316,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 25
+    wt2 5
   ]
   node
   [
@@ -940,6 +1336,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 7
+    louvain2 11
+    lec2 62
+    wt2 5
   ]
   node
   [
@@ -954,6 +1356,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 235
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -968,6 +1376,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 39
+    fc2 4
+    sgG12 16
+    Spectral2 75
+    louvain2 12
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -982,6 +1396,12 @@ graph
     sgG1 2
     sgG2 41
     sgG5 30
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 1
+    wt2 96
   ]
   node
   [
@@ -996,6 +1416,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 274
+    louvain2 2
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -1010,6 +1436,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 81
+    fc2 46
+    sgG12 2
+    Spectral2 11
+    louvain2 12
+    lec2 28
+    wt2 21
   ]
   node
   [
@@ -1024,6 +1456,12 @@ graph
     sgG1 26
     sgG2 22
     sgG5 19
+    fc2 48
+    sgG12 25
+    Spectral2 86
+    louvain2 1
+    lec2 71
+    wt2 9
   ]
   node
   [
@@ -1038,6 +1476,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 123
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -1052,6 +1496,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -1066,6 +1516,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 22
+    sgG12 25
+    Spectral2 87
+    louvain2 12
+    lec2 26
+    wt2 21
   ]
   node
   [
@@ -1080,6 +1536,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 75
+    louvain2 1
+    lec2 62
+    wt2 99
   ]
   node
   [
@@ -1094,6 +1556,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 53
+    wt2 4
   ]
   node
   [
@@ -1108,6 +1576,12 @@ graph
     sgG1 31
     sgG2 22
     sgG5 11
+    fc2 48
+    sgG12 30
+    Spectral2 104
+    louvain2 1
+    lec2 71
+    wt2 9
   ]
   node
   [
@@ -1122,6 +1596,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 19
+    fc2 42
+    sgG12 8
+    Spectral2 49
+    louvain2 25
+    lec2 25
+    wt2 14
   ]
   node
   [
@@ -1136,6 +1616,12 @@ graph
     sgG1 26
     sgG2 22
     sgG5 19
+    fc2 48
+    sgG12 25
+    Spectral2 117
+    louvain2 1
+    lec2 71
+    wt2 9
   ]
   node
   [
@@ -1150,6 +1636,12 @@ graph
     sgG1 26
     sgG2 22
     sgG5 19
+    fc2 48
+    sgG12 25
+    Spectral2 86
+    louvain2 1
+    lec2 71
+    wt2 130
   ]
   node
   [
@@ -1164,6 +1656,12 @@ graph
     sgG1 26
     sgG2 22
     sgG5 19
+    fc2 48
+    sgG12 25
+    Spectral2 86
+    louvain2 1
+    lec2 71
+    wt2 130
   ]
   node
   [
@@ -1178,6 +1676,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 46
+    fc2 1
+    sgG12 8
+    Spectral2 240
+    louvain2 3
+    lec2 17
+    wt2 7
   ]
   node
   [
@@ -1192,6 +1696,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 46
+    sgG12 8
+    Spectral2 5
+    louvain2 3
+    lec2 34
+    wt2 14
   ]
   node
   [
@@ -1206,6 +1716,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 46
+    fc2 1
+    sgG12 8
+    Spectral2 240
+    louvain2 3
+    lec2 21
+    wt2 7
   ]
   node
   [
@@ -1220,6 +1736,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 8
+    fc2 47
+    sgG12 11
+    Spectral2 296
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -1234,6 +1756,12 @@ graph
     sgG1 33
     sgG2 42
     sgG5 46
+    fc2 4
+    sgG12 32
+    Spectral2 114
+    louvain2 12
+    lec2 23
+    wt2 25
   ]
   node
   [
@@ -1248,6 +1776,12 @@ graph
     sgG1 4
     sgG2 49
     sgG5 65
+    fc2 3
+    sgG12 4
+    Spectral2 72
+    louvain2 6
+    lec2 57
+    wt2 38
   ]
   node
   [
@@ -1262,6 +1796,12 @@ graph
     sgG1 32
     sgG2 50
     sgG5 89
+    fc2 11
+    sgG12 31
+    Spectral2 208
+    louvain2 13
+    lec2 14
+    wt2 20
   ]
   node
   [
@@ -1276,6 +1816,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 23
+    wt2 185
   ]
   node
   [
@@ -1290,6 +1836,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 45
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -1304,6 +1856,12 @@ graph
     sgG1 7
     sgG2 50
     sgG5 63
+    fc2 45
+    sgG12 7
+    Spectral2 227
+    louvain2 6
+    lec2 14
+    wt2 84
   ]
   node
   [
@@ -1318,6 +1876,12 @@ graph
     sgG1 7
     sgG2 50
     sgG5 63
+    fc2 45
+    sgG12 7
+    Spectral2 235
+    louvain2 9
+    lec2 14
+    wt2 175
   ]
   node
   [
@@ -1332,6 +1896,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 222
+    louvain2 14
+    lec2 14
+    wt2 24
   ]
   node
   [
@@ -1346,6 +1916,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 2
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 53
+    wt2 21
   ]
   node
   [
@@ -1360,6 +1936,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 2
+    sgG12 25
+    Spectral2 89
+    louvain2 9
+    lec2 52
+    wt2 21
   ]
   node
   [
@@ -1374,6 +1956,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 175
+    louvain2 11
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -1388,6 +1976,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 53
+    wt2 4
   ]
   node
   [
@@ -1402,6 +1996,12 @@ graph
     sgG1 17
     sgG2 43
     sgG5 85
+    fc2 2
+    sgG12 44
+    Spectral2 291
+    louvain2 9
+    lec2 53
+    wt2 1
   ]
   node
   [
@@ -1416,6 +2016,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 2
+    sgG12 25
+    Spectral2 149
+    louvain2 9
+    lec2 3
+    wt2 21
   ]
   node
   [
@@ -1430,6 +2036,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 12
+    fc2 2
+    sgG12 26
+    Spectral2 123
+    louvain2 23
+    lec2 51
+    wt2 6
   ]
   node
   [
@@ -1444,6 +2056,12 @@ graph
     sgG1 27
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 26
+    Spectral2 202
+    louvain2 14
+    lec2 15
+    wt2 179
   ]
   node
   [
@@ -1458,6 +2076,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 202
+    louvain2 14
+    lec2 14
+    wt2 24
   ]
   node
   [
@@ -1472,6 +2096,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 51
+    fc2 36
+    sgG12 32
+    Spectral2 53
+    louvain2 6
+    lec2 1
+    wt2 39
   ]
   node
   [
@@ -1486,6 +2116,12 @@ graph
     sgG1 27
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 26
+    Spectral2 202
+    louvain2 14
+    lec2 14
+    wt2 20
   ]
   node
   [
@@ -1500,6 +2136,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 293
+    louvain2 2
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -1514,6 +2156,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 60
+    wt2 13
   ]
   node
   [
@@ -1528,6 +2176,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 23
+    wt2 7
   ]
   node
   [
@@ -1542,6 +2196,12 @@ graph
     sgG1 33
     sgG2 44
     sgG5 40
+    fc2 24
+    sgG12 32
+    Spectral2 210
+    louvain2 12
+    lec2 16
+    wt2 179
   ]
   node
   [
@@ -1556,6 +2216,12 @@ graph
     sgG1 24
     sgG2 44
     sgG5 42
+    fc2 5
+    sgG12 23
+    Spectral2 210
+    louvain2 14
+    lec2 16
+    wt2 179
   ]
   node
   [
@@ -1570,6 +2236,12 @@ graph
     sgG1 17
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 35
+    Spectral2 202
+    louvain2 3
+    lec2 21
+    wt2 14
   ]
   node
   [
@@ -1584,6 +2256,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 41
+    fc2 7
+    sgG12 3
+    Spectral2 11
+    louvain2 17
+    lec2 15
+    wt2 100
   ]
   node
   [
@@ -1598,6 +2276,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 88
+    fc2 24
+    sgG12 34
+    Spectral2 303
+    louvain2 4
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -1612,6 +2296,12 @@ graph
     sgG1 27
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 26
+    Spectral2 202
+    louvain2 14
+    lec2 59
+    wt2 20
   ]
   node
   [
@@ -1626,6 +2316,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 46
+    sgG12 8
+    Spectral2 142
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -1640,6 +2336,12 @@ graph
     sgG1 27
     sgG2 29
     sgG5 70
+    fc2 1
+    sgG12 26
+    Spectral2 272
+    louvain2 4
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -1654,6 +2356,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 1
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -1668,6 +2376,12 @@ graph
     sgG1 17
     sgG2 49
     sgG5 11
+    fc2 18
+    sgG12 34
+    Spectral2 307
+    louvain2 4
+    lec2 13
+    wt2 1
   ]
   node
   [
@@ -1682,6 +2396,12 @@ graph
     sgG1 9
     sgG2 44
     sgG5 92
+    fc2 1
+    sgG12 9
+    Spectral2 202
+    louvain2 2
+    lec2 15
+    wt2 21
   ]
   node
   [
@@ -1696,6 +2416,12 @@ graph
     sgG1 8
     sgG2 44
     sgG5 89
+    fc2 45
+    sgG12 8
+    Spectral2 210
+    louvain2 14
+    lec2 14
+    wt2 179
   ]
   node
   [
@@ -1710,6 +2436,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 4
+    sgG12 16
+    Spectral2 202
+    louvain2 10
+    lec2 18
+    wt2 40
   ]
   node
   [
@@ -1724,6 +2456,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 16
+    lec2 18
+    wt2 69
   ]
   node
   [
@@ -1738,6 +2476,12 @@ graph
     sgG1 27
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 26
+    Spectral2 202
+    louvain2 14
+    lec2 15
+    wt2 179
   ]
   node
   [
@@ -1752,6 +2496,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -1766,6 +2516,12 @@ graph
     sgG1 27
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 26
+    Spectral2 228
+    louvain2 14
+    lec2 15
+    wt2 60
   ]
   node
   [
@@ -1780,6 +2536,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 247
+    louvain2 5
+    lec2 15
+    wt2 111
   ]
   node
   [
@@ -1794,6 +2556,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 32
+    fc2 15
+    sgG12 39
+    Spectral2 297
+    louvain2 4
+    lec2 16
+    wt2 175
   ]
   node
   [
@@ -1808,6 +2576,12 @@ graph
     sgG1 27
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 26
+    Spectral2 202
+    louvain2 14
+    lec2 15
+    wt2 179
   ]
   node
   [
@@ -1822,6 +2596,12 @@ graph
     sgG1 27
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 26
+    Spectral2 202
+    louvain2 14
+    lec2 15
+    wt2 179
   ]
   node
   [
@@ -1836,6 +2616,12 @@ graph
     sgG1 27
     sgG2 22
     sgG5 19
+    fc2 48
+    sgG12 26
+    Spectral2 236
+    louvain2 1
+    lec2 15
+    wt2 130
   ]
   node
   [
@@ -1850,6 +2636,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 161
+    louvain2 10
+    lec2 18
+    wt2 21
   ]
   node
   [
@@ -1864,6 +2656,12 @@ graph
     sgG1 2
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 2
+    Spectral2 66
+    louvain2 14
+    lec2 59
+    wt2 21
   ]
   node
   [
@@ -1878,6 +2676,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 36
+    louvain2 15
+    lec2 23
+    wt2 123
   ]
   node
   [
@@ -1892,6 +2696,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 5
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -1906,6 +2716,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 52
+    fc2 15
+    sgG12 43
+    Spectral2 252
+    louvain2 25
+    lec2 25
+    wt2 1
   ]
   node
   [
@@ -1920,6 +2736,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 46
+    sgG12 8
+    Spectral2 136
+    louvain2 3
+    lec2 1
+    wt2 22
   ]
   node
   [
@@ -1934,6 +2756,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 53
+    fc2 15
+    sgG12 39
+    Spectral2 306
+    louvain2 4
+    lec2 40
+    wt2 180
   ]
   node
   [
@@ -1948,6 +2776,12 @@ graph
     sgG1 17
     sgG2 26
     sgG5 6
+    fc2 4
+    sgG12 35
+    Spectral2 299
+    louvain2 15
+    lec2 49
+    wt2 6
   ]
   node
   [
@@ -1962,6 +2796,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 73
+    fc2 15
+    sgG12 39
+    Spectral2 304
+    louvain2 4
+    lec2 40
+    wt2 172
   ]
   node
   [
@@ -1976,6 +2816,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 52
+    fc2 15
+    sgG12 43
+    Spectral2 303
+    louvain2 15
+    lec2 15
+    wt2 180
   ]
   node
   [
@@ -1990,6 +2836,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -2004,6 +2856,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 303
+    louvain2 15
+    lec2 23
+    wt2 123
   ]
   node
   [
@@ -2018,6 +2876,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 34
+    fc2 15
+    sgG12 39
+    Spectral2 303
+    louvain2 15
+    lec2 40
+    wt2 180
   ]
   node
   [
@@ -2032,6 +2896,12 @@ graph
     sgG1 22
     sgG2 15
     sgG5 52
+    fc2 15
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 180
   ]
   node
   [
@@ -2046,6 +2916,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 28
+    wt2 9
   ]
   node
   [
@@ -2060,6 +2936,12 @@ graph
     sgG1 32
     sgG2 13
     sgG5 84
+    fc2 20
+    sgG12 31
+    Spectral2 53
+    louvain2 4
+    lec2 59
+    wt2 1
   ]
   node
   [
@@ -2074,6 +2956,12 @@ graph
     sgG1 27
     sgG2 29
     sgG5 70
+    fc2 26
+    sgG12 26
+    Spectral2 276
+    louvain2 5
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -2088,6 +2976,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 6
+    fc2 4
+    sgG12 22
+    Spectral2 210
+    louvain2 15
+    lec2 32
+    wt2 141
   ]
   node
   [
@@ -2102,6 +2996,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2116,6 +3016,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 14
+    sgG12 11
+    Spectral2 304
+    louvain2 24
+    lec2 40
+    wt2 172
   ]
   node
   [
@@ -2130,6 +3036,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 47
+    sgG12 11
+    Spectral2 35
+    louvain2 21
+    lec2 34
+    wt2 46
   ]
   node
   [
@@ -2144,6 +3056,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2158,6 +3076,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 13
+    wt2 7
   ]
   node
   [
@@ -2172,6 +3096,12 @@ graph
     sgG1 11
     sgG2 47
     sgG5 36
+    fc2 13
+    sgG12 11
+    Spectral2 309
+    louvain2 8
+    lec2 13
+    wt2 172
   ]
   node
   [
@@ -2186,6 +3116,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 298
+    louvain2 5
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2200,6 +3136,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 225
+    louvain2 9
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -2214,6 +3156,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 55
+    fc2 38
+    sgG12 23
+    Spectral2 253
+    louvain2 11
+    lec2 13
+    wt2 1
   ]
   node
   [
@@ -2228,6 +3176,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2242,6 +3196,12 @@ graph
     sgG1 11
     sgG2 26
     sgG5 15
+    fc2 3
+    sgG12 11
+    Spectral2 11
+    louvain2 19
+    lec2 13
+    wt2 6
   ]
   node
   [
@@ -2256,6 +3216,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 52
+    fc2 15
+    sgG12 43
+    Spectral2 303
+    louvain2 4
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -2270,6 +3236,12 @@ graph
     sgG1 11
     sgG2 47
     sgG5 36
+    fc2 13
+    sgG12 11
+    Spectral2 303
+    louvain2 4
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -2284,6 +3256,12 @@ graph
     sgG1 27
     sgG2 29
     sgG5 14
+    fc2 1
+    sgG12 26
+    Spectral2 220
+    louvain2 4
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2298,6 +3276,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 32
+    fc2 15
+    sgG12 39
+    Spectral2 297
+    louvain2 4
+    lec2 13
+    wt2 180
   ]
   node
   [
@@ -2312,6 +3296,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2326,6 +3316,12 @@ graph
     sgG1 11
     sgG2 25
     sgG5 58
+    fc2 17
+    sgG12 11
+    Spectral2 182
+    louvain2 18
+    lec2 28
+    wt2 175
   ]
   node
   [
@@ -2340,6 +3336,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2354,6 +3356,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2368,6 +3376,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2382,6 +3396,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 225
+    louvain2 9
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -2396,6 +3416,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 88
+    fc2 25
+    sgG12 43
+    Spectral2 303
+    louvain2 4
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -2410,6 +3436,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 24
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2424,6 +3456,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -2438,6 +3476,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -2452,6 +3496,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 202
+    louvain2 14
+    lec2 4
+    wt2 83
   ]
   node
   [
@@ -2466,6 +3516,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 81
+    louvain2 14
+    lec2 6
+    wt2 48
   ]
   node
   [
@@ -2480,6 +3536,12 @@ graph
     sgG1 28
     sgG2 50
     sgG5 89
+    fc2 11
+    sgG12 27
+    Spectral2 217
+    louvain2 14
+    lec2 14
+    wt2 179
   ]
   node
   [
@@ -2494,6 +3556,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 235
+    louvain2 14
+    lec2 49
+    wt2 41
   ]
   node
   [
@@ -2508,6 +3576,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 202
+    louvain2 14
+    lec2 59
+    wt2 24
   ]
   node
   [
@@ -2522,6 +3596,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 179
+    louvain2 14
+    lec2 14
+    wt2 105
   ]
   node
   [
@@ -2536,6 +3616,12 @@ graph
     sgG1 29
     sgG2 11
     sgG5 47
+    fc2 39
+    sgG12 28
+    Spectral2 53
+    louvain2 1
+    lec2 70
+    wt2 1
   ]
   node
   [
@@ -2550,6 +3636,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 234
+    louvain2 14
+    lec2 14
+    wt2 24
   ]
   node
   [
@@ -2564,6 +3656,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 202
+    louvain2 14
+    lec2 14
+    wt2 24
   ]
   node
   [
@@ -2578,6 +3676,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 202
+    louvain2 14
+    lec2 59
+    wt2 24
   ]
   node
   [
@@ -2592,6 +3696,12 @@ graph
     sgG1 29
     sgG2 37
     sgG5 34
+    fc2 40
+    sgG12 28
+    Spectral2 230
+    louvain2 14
+    lec2 21
+    wt2 32
   ]
   node
   [
@@ -2606,6 +3716,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 109
+    louvain2 14
+    lec2 56
+    wt2 88
   ]
   node
   [
@@ -2620,6 +3736,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 84
+    fc2 33
+    sgG12 29
+    Spectral2 202
+    louvain2 14
+    lec2 4
+    wt2 24
   ]
   node
   [
@@ -2634,6 +3756,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 151
+    louvain2 10
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -2648,6 +3776,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 153
+    louvain2 10
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -2662,6 +3796,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 65
+    wt2 174
   ]
   node
   [
@@ -2676,6 +3816,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 71
+    fc2 2
+    sgG12 25
+    Spectral2 3
+    louvain2 9
+    lec2 48
+    wt2 178
   ]
   node
   [
@@ -2690,6 +3836,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 16
+    lec2 65
+    wt2 69
   ]
   node
   [
@@ -2704,6 +3856,12 @@ graph
     sgG1 26
     sgG2 38
     sgG5 71
+    fc2 2
+    sgG12 25
+    Spectral2 6
+    louvain2 9
+    lec2 28
+    wt2 178
   ]
   node
   [
@@ -2718,6 +3876,12 @@ graph
     sgG1 26
     sgG2 38
     sgG5 71
+    fc2 2
+    sgG12 25
+    Spectral2 6
+    louvain2 9
+    lec2 65
+    wt2 144
   ]
   node
   [
@@ -2732,6 +3896,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 11
+    louvain2 18
+    lec2 28
+    wt2 12
   ]
   node
   [
@@ -2746,6 +3916,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 24
+    louvain2 18
+    lec2 52
+    wt2 12
   ]
   node
   [
@@ -2760,6 +3936,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 23
+    louvain2 18
+    lec2 26
+    wt2 12
   ]
   node
   [
@@ -2774,6 +3956,12 @@ graph
     sgG1 11
     sgG2 13
     sgG5 26
+    fc2 42
+    sgG12 11
+    Spectral2 11
+    louvain2 25
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -2788,6 +3976,12 @@ graph
     sgG1 33
     sgG2 11
     sgG5 49
+    fc2 37
+    sgG12 32
+    Spectral2 287
+    louvain2 25
+    lec2 2
+    wt2 1
   ]
   node
   [
@@ -2802,6 +3996,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 52
+    fc2 15
+    sgG12 43
+    Spectral2 303
+    louvain2 25
+    lec2 15
+    wt2 1
   ]
   node
   [
@@ -2816,6 +4016,12 @@ graph
     sgG1 27
     sgG2 46
     sgG5 12
+    fc2 6
+    sgG12 26
+    Spectral2 11
+    louvain2 23
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -2830,6 +4036,12 @@ graph
     sgG1 6
     sgG2 37
     sgG5 75
+    fc2 6
+    sgG12 6
+    Spectral2 11
+    louvain2 14
+    lec2 28
+    wt2 33
   ]
   node
   [
@@ -2844,6 +4056,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 12
+    fc2 6
+    sgG12 26
+    Spectral2 123
+    louvain2 23
+    lec2 50
+    wt2 6
   ]
   node
   [
@@ -2858,6 +4076,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 40
+    fc2 43
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -2872,6 +4096,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 196
+    louvain2 2
+    lec2 45
+    wt2 1
   ]
   node
   [
@@ -2886,6 +4116,12 @@ graph
     sgG1 11
     sgG2 35
     sgG5 54
+    fc2 49
+    sgG12 11
+    Spectral2 241
+    louvain2 19
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -2900,6 +4136,12 @@ graph
     sgG1 11
     sgG2 35
     sgG5 15
+    fc2 3
+    sgG12 11
+    Spectral2 241
+    louvain2 19
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -2914,6 +4156,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 40
+    fc2 16
+    sgG12 32
+    Spectral2 192
+    louvain2 12
+    lec2 16
+    wt2 1
   ]
   node
   [
@@ -2928,6 +4176,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 248
+    louvain2 16
+    lec2 18
+    wt2 8
   ]
   node
   [
@@ -2942,6 +4196,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 235
+    louvain2 5
+    lec2 21
+    wt2 13
   ]
   node
   [
@@ -2956,6 +4216,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 29
+    fc2 44
+    sgG12 8
+    Spectral2 8
+    louvain2 3
+    lec2 25
+    wt2 176
   ]
   node
   [
@@ -2970,6 +4236,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -2984,6 +4256,12 @@ graph
     sgG1 33
     sgG2 44
     sgG5 51
+    fc2 24
+    sgG12 32
+    Spectral2 210
+    louvain2 6
+    lec2 21
+    wt2 171
   ]
   node
   [
@@ -2998,6 +4276,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 7
+    sgG12 25
+    Spectral2 292
+    louvain2 6
+    lec2 21
+    wt2 30
   ]
   node
   [
@@ -3012,6 +4296,12 @@ graph
     sgG1 27
     sgG2 35
     sgG5 1
+    fc2 29
+    sgG12 26
+    Spectral2 286
+    louvain2 14
+    lec2 21
+    wt2 13
   ]
   node
   [
@@ -3026,6 +4316,12 @@ graph
     sgG1 33
     sgG2 29
     sgG5 59
+    fc2 36
+    sgG12 32
+    Spectral2 190
+    louvain2 6
+    lec2 16
+    wt2 1
   ]
   node
   [
@@ -3040,6 +4336,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 17
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -3054,6 +4356,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -3068,6 +4376,12 @@ graph
     sgG1 26
     sgG2 49
     sgG5 33
+    fc2 22
+    sgG12 25
+    Spectral2 307
+    louvain2 4
+    lec2 16
+    wt2 18
   ]
   node
   [
@@ -3082,6 +4396,12 @@ graph
     sgG1 17
     sgG2 34
     sgG5 52
+    fc2 8
+    sgG12 43
+    Spectral2 217
+    louvain2 15
+    lec2 21
+    wt2 180
   ]
   node
   [
@@ -3096,6 +4416,12 @@ graph
     sgG1 11
     sgG2 35
     sgG5 54
+    fc2 49
+    sgG12 11
+    Spectral2 304
+    louvain2 19
+    lec2 16
+    wt2 173
   ]
   node
   [
@@ -3110,6 +4436,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 21
+    wt2 4
   ]
   node
   [
@@ -3124,6 +4456,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 239
+    louvain2 11
+    lec2 21
+    wt2 87
   ]
   node
   [
@@ -3138,6 +4476,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 48
+    wt2 175
   ]
   node
   [
@@ -3152,6 +4496,12 @@ graph
     sgG1 17
     sgG2 6
     sgG5 66
+    fc2 24
+    sgG12 34
+    Spectral2 247
+    louvain2 7
+    lec2 14
+    wt2 175
   ]
   node
   [
@@ -3166,6 +4516,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 271
+    louvain2 4
+    lec2 16
+    wt2 172
   ]
   node
   [
@@ -3180,6 +4536,12 @@ graph
     sgG1 33
     sgG2 42
     sgG5 46
+    fc2 4
+    sgG12 32
+    Spectral2 287
+    louvain2 12
+    lec2 21
+    wt2 25
   ]
   node
   [
@@ -3194,6 +4556,12 @@ graph
     sgG1 33
     sgG2 11
     sgG5 49
+    fc2 37
+    sgG12 32
+    Spectral2 287
+    louvain2 7
+    lec2 15
+    wt2 1
   ]
   node
   [
@@ -3208,6 +4576,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 20
+    Spectral2 203
+    louvain2 15
+    lec2 21
+    wt2 11
   ]
   node
   [
@@ -3222,6 +4596,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 88
+    fc2 19
+    sgG12 31
+    Spectral2 257
+    louvain2 13
+    lec2 14
+    wt2 20
   ]
   node
   [
@@ -3236,6 +4616,12 @@ graph
     sgG1 33
     sgG2 29
     sgG5 59
+    fc2 36
+    sgG12 32
+    Spectral2 220
+    louvain2 6
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -3250,6 +4636,12 @@ graph
     sgG1 13
     sgG2 35
     sgG5 86
+    fc2 32
+    sgG12 13
+    Spectral2 224
+    louvain2 6
+    lec2 21
+    wt2 145
   ]
   node
   [
@@ -3264,6 +4656,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 29
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 21
+    wt2 176
   ]
   node
   [
@@ -3278,6 +4676,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 245
+    louvain2 16
+    lec2 21
+    wt2 8
   ]
   node
   [
@@ -3292,6 +4696,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 209
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3306,6 +4716,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 14
+    wt2 28
   ]
   node
   [
@@ -3320,6 +4736,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 237
+    louvain2 6
+    lec2 21
+    wt2 6
   ]
   node
   [
@@ -3334,6 +4756,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 14
+    wt2 7
   ]
   node
   [
@@ -3348,6 +4776,12 @@ graph
     sgG1 33
     sgG2 35
     sgG5 51
+    fc2 36
+    sgG12 32
+    Spectral2 213
+    louvain2 6
+    lec2 21
+    wt2 1
   ]
   node
   [
@@ -3362,6 +4796,12 @@ graph
     sgG1 17
     sgG2 43
     sgG5 85
+    fc2 24
+    sgG12 35
+    Spectral2 291
+    louvain2 6
+    lec2 21
+    wt2 6
   ]
   node
   [
@@ -3376,6 +4816,12 @@ graph
     sgG1 17
     sgG2 47
     sgG5 36
+    fc2 13
+    sgG12 37
+    Spectral2 304
+    louvain2 4
+    lec2 16
+    wt2 172
   ]
   node
   [
@@ -3390,6 +4836,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -3404,6 +4856,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 66
+    fc2 24
+    sgG12 34
+    Spectral2 161
+    louvain2 7
+    lec2 40
+    wt2 175
   ]
   node
   [
@@ -3418,6 +4876,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 40
+    Spectral2 282
+    louvain2 7
+    lec2 15
+    wt2 18
   ]
   node
   [
@@ -3432,6 +4896,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 66
+    fc2 24
+    sgG12 34
+    Spectral2 161
+    louvain2 6
+    lec2 21
+    wt2 15
   ]
   node
   [
@@ -3446,6 +4916,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 202
+    louvain2 17
+    lec2 21
+    wt2 101
   ]
   node
   [
@@ -3460,6 +4936,12 @@ graph
     sgG1 16
     sgG2 35
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 16
+    lec2 21
+    wt2 69
   ]
   node
   [
@@ -3474,6 +4956,12 @@ graph
     sgG1 16
     sgG2 35
     sgG5 54
+    fc2 5
+    sgG12 16
+    Spectral2 218
+    louvain2 16
+    lec2 21
+    wt2 8
   ]
   node
   [
@@ -3488,6 +4976,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 10
+    lec2 21
+    wt2 40
   ]
   node
   [
@@ -3502,6 +4996,12 @@ graph
     sgG1 17
     sgG2 44
     sgG5 72
+    fc2 44
+    sgG12 35
+    Spectral2 228
+    louvain2 3
+    lec2 21
+    wt2 14
   ]
   node
   [
@@ -3516,6 +5016,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 59
+    fc2 14
+    sgG12 35
+    Spectral2 220
+    louvain2 4
+    lec2 49
+    wt2 175
   ]
   node
   [
@@ -3530,6 +5036,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 304
+    louvain2 19
+    lec2 21
+    wt2 173
   ]
   node
   [
@@ -3544,6 +5056,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 45
+    fc2 15
+    sgG12 39
+    Spectral2 305
+    louvain2 4
+    lec2 16
+    wt2 172
   ]
   node
   [
@@ -3558,6 +5076,12 @@ graph
     sgG1 27
     sgG2 35
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 210
+    louvain2 14
+    lec2 21
+    wt2 13
   ]
   node
   [
@@ -3572,6 +5096,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 235
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3586,6 +5116,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 206
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3600,6 +5136,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 212
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3614,6 +5156,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 298
+    louvain2 5
+    lec2 21
+    wt2 9
   ]
   node
   [
@@ -3628,6 +5176,12 @@ graph
     sgG1 11
     sgG2 47
     sgG5 25
+    fc2 14
+    sgG12 11
+    Spectral2 304
+    louvain2 21
+    lec2 45
+    wt2 6
   ]
   node
   [
@@ -3642,6 +5196,12 @@ graph
     sgG1 11
     sgG2 35
     sgG5 54
+    fc2 49
+    sgG12 11
+    Spectral2 241
+    louvain2 19
+    lec2 21
+    wt2 6
   ]
   node
   [
@@ -3656,6 +5216,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 59
+    fc2 45
+    sgG12 8
+    Spectral2 235
+    louvain2 6
+    lec2 49
+    wt2 175
   ]
   node
   [
@@ -3670,6 +5236,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 9
+    fc2 11
+    sgG12 31
+    Spectral2 202
+    louvain2 13
+    lec2 21
+    wt2 20
   ]
   node
   [
@@ -3684,6 +5256,12 @@ graph
     sgG1 11
     sgG2 35
     sgG5 90
+    fc2 24
+    sgG12 11
+    Spectral2 231
+    louvain2 6
+    lec2 21
+    wt2 6
   ]
   node
   [
@@ -3698,6 +5276,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 210
+    louvain2 4
+    lec2 21
+    wt2 65
   ]
   node
   [
@@ -3712,6 +5296,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 223
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3726,6 +5316,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 207
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3740,6 +5336,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 243
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3754,6 +5356,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 219
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3768,6 +5376,12 @@ graph
     sgG1 27
     sgG2 20
     sgG5 48
+    fc2 6
+    sgG12 26
+    Spectral2 11
+    louvain2 14
+    lec2 21
+    wt2 37
   ]
   node
   [
@@ -3782,6 +5396,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 205
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3796,6 +5416,12 @@ graph
     sgG1 17
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 35
+    Spectral2 172
+    louvain2 11
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -3810,6 +5436,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 202
+    louvain2 6
+    lec2 21
+    wt2 175
   ]
   node
   [
@@ -3824,6 +5456,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 45
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 49
+    wt2 175
   ]
   node
   [
@@ -3838,6 +5476,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 10
+    louvain2 21
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -3852,6 +5496,12 @@ graph
     sgG1 8
     sgG2 13
     sgG5 82
+    fc2 42
+    sgG12 8
+    Spectral2 11
+    louvain2 23
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -3866,6 +5516,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 45
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 49
+    wt2 175
   ]
   node
   [
@@ -3880,6 +5536,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 45
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 49
+    wt2 175
   ]
   node
   [
@@ -3894,6 +5556,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 79
+    fc2 7
+    sgG12 3
+    Spectral2 286
+    louvain2 7
+    lec2 49
+    wt2 1
   ]
   node
   [
@@ -3908,6 +5576,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 45
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -3922,6 +5596,12 @@ graph
     sgG1 22
     sgG2 16
     sgG5 78
+    fc2 5
+    sgG12 21
+    Spectral2 161
+    louvain2 10
+    lec2 18
+    wt2 146
   ]
   node
   [
@@ -3936,6 +5616,12 @@ graph
     sgG1 22
     sgG2 16
     sgG5 78
+    fc2 5
+    sgG12 21
+    Spectral2 161
+    louvain2 10
+    lec2 18
+    wt2 40
   ]
   node
   [
@@ -3950,6 +5636,12 @@ graph
     sgG1 28
     sgG2 50
     sgG5 89
+    fc2 11
+    sgG12 27
+    Spectral2 216
+    louvain2 14
+    lec2 14
+    wt2 45
   ]
   node
   [
@@ -3964,6 +5656,12 @@ graph
     sgG1 28
     sgG2 50
     sgG5 89
+    fc2 11
+    sgG12 27
+    Spectral2 221
+    louvain2 14
+    lec2 14
+    wt2 45
   ]
   node
   [
@@ -3978,6 +5676,12 @@ graph
     sgG1 28
     sgG2 50
     sgG5 89
+    fc2 11
+    sgG12 27
+    Spectral2 216
+    louvain2 14
+    lec2 4
+    wt2 45
   ]
   node
   [
@@ -3992,6 +5696,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 26
+    fc2 42
+    sgG12 11
+    Spectral2 11
+    louvain2 25
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -4006,6 +5716,12 @@ graph
     sgG1 11
     sgG2 32
     sgG5 26
+    fc2 42
+    sgG12 11
+    Spectral2 11
+    louvain2 25
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -4020,6 +5736,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 26
+    fc2 42
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 32
+    wt2 6
   ]
   node
   [
@@ -4034,6 +5756,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 26
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 25
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -4048,6 +5776,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 26
+    fc2 42
+    sgG12 11
+    Spectral2 24
+    louvain2 25
+    lec2 32
+    wt2 6
   ]
   node
   [
@@ -4062,6 +5796,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 26
+    fc2 42
+    sgG12 9
+    Spectral2 11
+    louvain2 2
+    lec2 32
+    wt2 9
   ]
   node
   [
@@ -4076,6 +5816,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 32
+    louvain2 18
+    lec2 25
+    wt2 12
   ]
   node
   [
@@ -4090,6 +5836,12 @@ graph
     sgG1 11
     sgG2 13
     sgG5 26
+    fc2 42
+    sgG12 11
+    Spectral2 20
+    louvain2 25
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -4104,6 +5856,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 11
+    fc2 48
+    sgG12 11
+    Spectral2 11
+    louvain2 25
+    lec2 25
+    wt2 9
   ]
   node
   [
@@ -4118,6 +5876,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 13
+    fc2 2
+    sgG12 25
+    Spectral2 89
+    louvain2 9
+    lec2 52
+    wt2 97
   ]
   node
   [
@@ -4132,6 +5896,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 13
+    fc2 2
+    sgG12 25
+    Spectral2 89
+    louvain2 9
+    lec2 52
+    wt2 97
   ]
   node
   [
@@ -4146,6 +5916,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 13
+    fc2 2
+    sgG12 25
+    Spectral2 89
+    louvain2 9
+    lec2 23
+    wt2 97
   ]
   node
   [
@@ -4160,6 +5936,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 106
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -4174,6 +5956,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 13
+    fc2 2
+    sgG12 25
+    Spectral2 89
+    louvain2 9
+    lec2 3
+    wt2 97
   ]
   node
   [
@@ -4188,6 +5976,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 13
+    fc2 2
+    sgG12 25
+    Spectral2 89
+    louvain2 9
+    lec2 3
+    wt2 97
   ]
   node
   [
@@ -4202,6 +5996,12 @@ graph
     sgG1 4
     sgG2 49
     sgG5 65
+    fc2 3
+    sgG12 4
+    Spectral2 72
+    louvain2 6
+    lec2 57
+    wt2 38
   ]
   node
   [
@@ -4216,6 +6016,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 123
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4230,6 +6036,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 123
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4244,6 +6056,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 123
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4258,6 +6076,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 123
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4272,6 +6096,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 60
+    wt2 13
   ]
   node
   [
@@ -4286,6 +6116,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 185
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4300,6 +6136,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 18
+    fc2 27
+    sgG12 11
+    Spectral2 268
+    louvain2 24
+    lec2 50
+    wt2 173
   ]
   node
   [
@@ -4314,6 +6156,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 247
+    louvain2 5
+    lec2 50
+    wt2 111
   ]
   node
   [
@@ -4328,6 +6176,12 @@ graph
     sgG1 19
     sgG2 42
     sgG5 76
+    fc2 4
+    sgG12 18
+    Spectral2 123
+    louvain2 13
+    lec2 55
+    wt2 91
   ]
   node
   [
@@ -4342,6 +6196,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 24
+    fc2 10
+    sgG12 26
+    Spectral2 112
+    louvain2 10
+    lec2 54
+    wt2 21
   ]
   node
   [
@@ -4356,6 +6216,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 247
+    louvain2 5
+    lec2 15
+    wt2 13
   ]
   node
   [
@@ -4370,6 +6236,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 12
+    fc2 6
+    sgG12 26
+    Spectral2 123
+    louvain2 23
+    lec2 50
+    wt2 21
   ]
   node
   [
@@ -4384,6 +6256,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 185
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4398,6 +6276,12 @@ graph
     sgG1 3
     sgG2 3
     sgG5 79
+    fc2 26
+    sgG12 3
+    Spectral2 53
+    louvain2 2
+    lec2 50
+    wt2 1
   ]
   node
   [
@@ -4412,6 +6296,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 34
+    fc2 15
+    sgG12 26
+    Spectral2 184
+    louvain2 17
+    lec2 40
+    wt2 177
   ]
   node
   [
@@ -4426,6 +6316,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 28
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -4440,6 +6336,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 60
+    wt2 13
   ]
   node
   [
@@ -4454,6 +6356,12 @@ graph
     sgG1 27
     sgG2 40
     sgG5 35
+    fc2 6
+    sgG12 26
+    Spectral2 104
+    louvain2 9
+    lec2 53
+    wt2 4
   ]
   node
   [
@@ -4468,6 +6376,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 24
+    fc2 2
+    sgG12 26
+    Spectral2 113
+    louvain2 4
+    lec2 54
+    wt2 183
   ]
   node
   [
@@ -4482,6 +6396,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 103
+    louvain2 1
+    lec2 14
+    wt2 21
   ]
   node
   [
@@ -4496,6 +6416,12 @@ graph
     sgG1 27
     sgG2 35
     sgG5 61
+    fc2 29
+    sgG12 26
+    Spectral2 286
+    louvain2 14
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4510,6 +6436,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 247
+    louvain2 5
+    lec2 15
+    wt2 111
   ]
   node
   [
@@ -4524,6 +6456,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 110
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4538,6 +6476,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 123
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4552,6 +6496,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 16
+    fc2 31
+    sgG12 26
+    Spectral2 100
+    louvain2 9
+    lec2 50
+    wt2 7
   ]
   node
   [
@@ -4566,6 +6516,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 123
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4580,6 +6536,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 34
+    fc2 27
+    sgG12 26
+    Spectral2 185
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4594,6 +6556,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 235
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4608,6 +6576,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 156
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4622,6 +6596,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 53
+    wt2 4
   ]
   node
   [
@@ -4636,6 +6616,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 298
+    louvain2 5
+    lec2 13
+    wt2 176
   ]
   node
   [
@@ -4650,6 +6636,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 3
+    fc2 9
+    sgG12 26
+    Spectral2 195
+    louvain2 5
+    lec2 50
+    wt2 50
   ]
   node
   [
@@ -4664,6 +6656,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 121
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -4678,6 +6676,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 21
   ]
   node
   [
@@ -4692,6 +6696,12 @@ graph
     sgG1 31
     sgG2 43
     sgG5 11
+    fc2 1
+    sgG12 30
+    Spectral2 89
+    louvain2 1
+    lec2 1
+    wt2 9
   ]
   node
   [
@@ -4706,6 +6716,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 92
   ]
   node
   [
@@ -4720,6 +6736,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 7
+    sgG12 25
+    Spectral2 252
+    louvain2 6
+    lec2 21
+    wt2 30
   ]
   node
   [
@@ -4734,6 +6756,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -4748,6 +6776,12 @@ graph
     sgG1 33
     sgG2 42
     sgG5 25
+    fc2 14
+    sgG12 32
+    Spectral2 8
+    louvain2 21
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -4762,6 +6796,12 @@ graph
     sgG1 33
     sgG2 23
     sgG5 56
+    fc2 43
+    sgG12 32
+    Spectral2 11
+    louvain2 12
+    lec2 68
+    wt2 4
   ]
   node
   [
@@ -4776,6 +6816,12 @@ graph
     sgG1 33
     sgG2 13
     sgG5 14
+    fc2 37
+    sgG12 32
+    Spectral2 11
+    louvain2 23
+    lec2 51
+    wt2 1
   ]
   node
   [
@@ -4790,6 +6836,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 88
+    fc2 47
+    sgG12 11
+    Spectral2 303
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -4804,6 +6856,12 @@ graph
     sgG1 33
     sgG2 25
     sgG5 65
+    fc2 36
+    sgG12 32
+    Spectral2 53
+    louvain2 6
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -4818,6 +6876,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 90
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 25
+    wt2 5
   ]
   node
   [
@@ -4832,6 +6896,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 10
+    louvain2 21
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -4846,6 +6916,12 @@ graph
     sgG1 11
     sgG2 47
     sgG5 36
+    fc2 42
+    sgG12 11
+    Spectral2 11
+    louvain2 25
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -4860,6 +6936,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 47
+    fc2 47
+    sgG12 11
+    Spectral2 10
+    louvain2 23
+    lec2 24
+    wt2 12
   ]
   node
   [
@@ -4874,6 +6956,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -4888,6 +6976,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 48
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 29
+    wt2 6
   ]
   node
   [
@@ -4902,6 +6996,12 @@ graph
     sgG1 11
     sgG2 15
     sgG5 32
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 180
   ]
   node
   [
@@ -4916,6 +7016,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 47
+    fc2 40
+    sgG12 7
+    Spectral2 11
+    louvain2 23
+    lec2 28
+    wt2 1
   ]
   node
   [
@@ -4930,6 +7036,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -4944,6 +7056,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -4958,6 +7076,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -4972,6 +7096,12 @@ graph
     sgG1 27
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 26
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 13
   ]
   node
   [
@@ -4986,6 +7116,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 18
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5000,6 +7136,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 47
+    sgG12 11
+    Spectral2 23
+    louvain2 18
+    lec2 25
+    wt2 12
   ]
   node
   [
@@ -5014,6 +7156,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 90
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 28
+    wt2 22
   ]
   node
   [
@@ -5028,6 +7176,12 @@ graph
     sgG1 27
     sgG2 36
     sgG5 12
+    fc2 2
+    sgG12 26
+    Spectral2 11
+    louvain2 23
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5042,6 +7196,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5056,6 +7216,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 6
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 32
+    wt2 172
   ]
   node
   [
@@ -5070,6 +7236,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 49
+    louvain2 11
+    lec2 28
+    wt2 175
   ]
   node
   [
@@ -5084,6 +7256,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 9
+    fc2 11
+    sgG12 31
+    Spectral2 193
+    louvain2 13
+    lec2 53
+    wt2 20
   ]
   node
   [
@@ -5098,6 +7276,12 @@ graph
     sgG1 8
     sgG2 38
     sgG5 10
+    fc2 42
+    sgG12 8
+    Spectral2 5
+    louvain2 16
+    lec2 28
+    wt2 51
   ]
   node
   [
@@ -5112,6 +7296,12 @@ graph
     sgG1 8
     sgG2 18
     sgG5 20
+    fc2 6
+    sgG12 8
+    Spectral2 123
+    louvain2 15
+    lec2 28
+    wt2 13
   ]
   node
   [
@@ -5126,6 +7316,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 21
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -5140,6 +7336,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 21
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -5154,6 +7356,12 @@ graph
     sgG1 11
     sgG2 47
     sgG5 36
+    fc2 13
+    sgG12 11
+    Spectral2 161
+    louvain2 8
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5168,6 +7376,12 @@ graph
     sgG1 17
     sgG2 43
     sgG5 25
+    fc2 2
+    sgG12 44
+    Spectral2 285
+    louvain2 2
+    lec2 28
+    wt2 1
   ]
   node
   [
@@ -5182,6 +7396,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -5196,6 +7416,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 27
+    wt2 6
   ]
   node
   [
@@ -5210,6 +7436,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 21
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -5224,6 +7456,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 21
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -5238,6 +7476,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -5252,6 +7496,12 @@ graph
     sgG1 11
     sgG2 15
     sgG5 53
+    fc2 15
+    sgG12 11
+    Spectral2 306
+    louvain2 4
+    lec2 28
+    wt2 180
   ]
   node
   [
@@ -5266,6 +7516,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 90
+    fc2 8
+    sgG12 23
+    Spectral2 162
+    louvain2 11
+    lec2 28
+    wt2 32
   ]
   node
   [
@@ -5280,6 +7536,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 247
+    louvain2 2
+    lec2 28
+    wt2 9
   ]
   node
   [
@@ -5294,6 +7556,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5308,6 +7576,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5322,6 +7596,12 @@ graph
     sgG1 23
     sgG2 25
     sgG5 58
+    fc2 4
+    sgG12 22
+    Spectral2 39
+    louvain2 11
+    lec2 23
+    wt2 185
   ]
   node
   [
@@ -5336,6 +7616,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 90
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5350,6 +7636,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -5364,6 +7656,12 @@ graph
     sgG1 11
     sgG2 26
     sgG5 15
+    fc2 3
+    sgG12 11
+    Spectral2 11
+    louvain2 19
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5378,6 +7676,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 90
+    fc2 43
+    sgG12 7
+    Spectral2 8
+    louvain2 17
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5392,6 +7696,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 25
+    fc2 14
+    sgG12 32
+    Spectral2 76
+    louvain2 2
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -5406,6 +7716,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 53
+    louvain2 1
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -5420,6 +7736,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 193
+    louvain2 2
+    lec2 45
+    wt2 1
   ]
   node
   [
@@ -5434,6 +7756,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 53
+    louvain2 12
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -5448,6 +7776,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 196
+    louvain2 2
+    lec2 16
+    wt2 1
   ]
   node
   [
@@ -5462,6 +7796,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 53
+    louvain2 1
+    lec2 70
+    wt2 54
   ]
   node
   [
@@ -5476,6 +7816,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 150
+    louvain2 9
+    lec2 24
+    wt2 7
   ]
   node
   [
@@ -5490,6 +7836,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 11
+    louvain2 2
+    lec2 1
+    wt2 9
   ]
   node
   [
@@ -5504,6 +7856,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 53
+    louvain2 1
+    lec2 1
+    wt2 137
   ]
   node
   [
@@ -5518,6 +7876,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 84
+    fc2 33
+    sgG12 32
+    Spectral2 53
+    louvain2 14
+    lec2 59
+    wt2 1
   ]
   node
   [
@@ -5532,6 +7896,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 69
+    fc2 8
+    sgG12 23
+    Spectral2 65
+    louvain2 1
+    lec2 65
+    wt2 174
   ]
   node
   [
@@ -5546,6 +7916,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 53
+    louvain2 1
+    lec2 1
+    wt2 137
   ]
   node
   [
@@ -5560,6 +7936,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 53
+    louvain2 1
+    lec2 70
+    wt2 54
   ]
   node
   [
@@ -5574,6 +7956,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 153
+    louvain2 1
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -5588,6 +7976,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 137
+    louvain2 1
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -5602,6 +7996,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 193
+    louvain2 2
+    lec2 63
+    wt2 1
   ]
   node
   [
@@ -5616,6 +8016,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 76
+    louvain2 2
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -5630,6 +8036,12 @@ graph
     sgG1 33
     sgG2 29
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 190
+    louvain2 2
+    lec2 45
+    wt2 1
   ]
   node
   [
@@ -5644,6 +8056,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 25
+    fc2 14
+    sgG12 44
+    Spectral2 282
+    louvain2 2
+    lec2 39
+    wt2 1
   ]
   node
   [
@@ -5658,6 +8076,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 53
+    louvain2 2
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -5672,6 +8096,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 51
+    fc2 1
+    sgG12 32
+    Spectral2 53
+    louvain2 1
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -5686,6 +8116,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 25
+    fc2 33
+    sgG12 32
+    Spectral2 303
+    louvain2 2
+    lec2 45
+    wt2 1
   ]
   node
   [
@@ -5700,6 +8136,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 191
+    louvain2 2
+    lec2 45
+    wt2 1
   ]
   node
   [
@@ -5714,6 +8156,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -5728,6 +8176,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 34
+    sgG12 21
+    Spectral2 196
+    louvain2 2
+    lec2 45
+    wt2 1
   ]
   node
   [
@@ -5742,6 +8196,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 196
+    louvain2 2
+    lec2 45
+    wt2 1
   ]
   node
   [
@@ -5756,6 +8216,12 @@ graph
     sgG1 24
     sgG2 45
     sgG5 4
+    fc2 1
+    sgG12 23
+    Spectral2 128
+    louvain2 12
+    lec2 12
+    wt2 25
   ]
   node
   [
@@ -5770,6 +8236,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 53
+    louvain2 12
+    lec2 32
+    wt2 1
   ]
   node
   [
@@ -5784,6 +8256,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 13
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 59
+    wt2 13
   ]
   node
   [
@@ -5798,6 +8276,12 @@ graph
     sgG1 2
     sgG2 45
     sgG5 4
+    fc2 1
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 12
+    wt2 25
   ]
   node
   [
@@ -5812,6 +8296,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 162
+    louvain2 11
+    lec2 12
+    wt2 32
   ]
   node
   [
@@ -5826,6 +8316,12 @@ graph
     sgG1 11
     sgG2 45
     sgG5 4
+    fc2 37
+    sgG12 11
+    Spectral2 18
+    louvain2 12
+    lec2 26
+    wt2 6
   ]
   node
   [
@@ -5840,6 +8336,12 @@ graph
     sgG1 24
     sgG2 45
     sgG5 4
+    fc2 4
+    sgG12 23
+    Spectral2 142
+    louvain2 12
+    lec2 23
+    wt2 25
   ]
   node
   [
@@ -5854,6 +8356,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 64
+    fc2 1
+    sgG12 15
+    Spectral2 129
+    louvain2 13
+    lec2 1
+    wt2 28
   ]
   node
   [
@@ -5868,6 +8376,12 @@ graph
     sgG1 24
     sgG2 45
     sgG5 4
+    fc2 1
+    sgG12 23
+    Spectral2 141
+    louvain2 12
+    lec2 4
+    wt2 25
   ]
   node
   [
@@ -5882,6 +8396,12 @@ graph
     sgG1 24
     sgG2 45
     sgG5 4
+    fc2 1
+    sgG12 23
+    Spectral2 54
+    louvain2 12
+    lec2 62
+    wt2 21
   ]
   node
   [
@@ -5896,6 +8416,12 @@ graph
     sgG1 24
     sgG2 45
     sgG5 4
+    fc2 1
+    sgG12 23
+    Spectral2 153
+    louvain2 12
+    lec2 4
+    wt2 25
   ]
   node
   [
@@ -5910,6 +8436,12 @@ graph
     sgG1 33
     sgG2 23
     sgG5 40
+    fc2 43
+    sgG12 32
+    Spectral2 11
+    louvain2 12
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -5924,6 +8456,12 @@ graph
     sgG1 33
     sgG2 6
     sgG5 91
+    fc2 41
+    sgG12 32
+    Spectral2 77
+    louvain2 2
+    lec2 32
+    wt2 4
   ]
   node
   [
@@ -5938,6 +8476,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 34
+    fc2 15
+    sgG12 39
+    Spectral2 313
+    louvain2 4
+    lec2 40
+    wt2 172
   ]
   node
   [
@@ -5952,6 +8496,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 26
+    fc2 42
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 32
+    wt2 6
   ]
   node
   [
@@ -5966,6 +8516,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 6
+    fc2 3
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 32
+    wt2 29
   ]
   node
   [
@@ -5980,6 +8536,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 84
+    fc2 43
+    sgG12 31
+    Spectral2 53
+    louvain2 4
+    lec2 63
+    wt2 1
   ]
   node
   [
@@ -5994,6 +8556,12 @@ graph
     sgG1 26
     sgG2 48
     sgG5 24
+    fc2 2
+    sgG12 25
+    Spectral2 235
+    louvain2 4
+    lec2 69
+    wt2 183
   ]
   node
   [
@@ -6008,6 +8576,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 81
+    fc2 4
+    sgG12 2
+    Spectral2 98
+    louvain2 12
+    lec2 69
+    wt2 21
   ]
   node
   [
@@ -6022,6 +8596,12 @@ graph
     sgG1 33
     sgG2 10
     sgG5 40
+    fc2 43
+    sgG12 32
+    Spectral2 8
+    louvain2 12
+    lec2 68
+    wt2 176
   ]
   node
   [
@@ -6036,6 +8616,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 31
+    fc2 43
+    sgG12 22
+    Spectral2 46
+    louvain2 3
+    lec2 13
+    wt2 176
   ]
   node
   [
@@ -6050,6 +8636,12 @@ graph
     sgG1 12
     sgG2 51
     sgG5 55
+    fc2 38
+    sgG12 12
+    Spectral2 8
+    louvain2 11
+    lec2 63
+    wt2 26
   ]
   node
   [
@@ -6064,6 +8656,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 40
+    fc2 7
+    sgG12 7
+    Spectral2 8
+    louvain2 17
+    lec2 63
+    wt2 6
   ]
   node
   [
@@ -6078,6 +8676,12 @@ graph
     sgG1 11
     sgG2 45
     sgG5 40
+    fc2 43
+    sgG12 11
+    Spectral2 8
+    louvain2 12
+    lec2 28
+    wt2 6
   ]
   node
   [
@@ -6092,6 +8696,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 40
+    fc2 22
+    sgG12 25
+    Spectral2 54
+    louvain2 12
+    lec2 63
+    wt2 21
   ]
   node
   [
@@ -6106,6 +8716,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 73
+    wt2 8
   ]
   node
   [
@@ -6120,6 +8736,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 8
+    louvain2 1
+    lec2 70
+    wt2 54
   ]
   node
   [
@@ -6134,6 +8756,12 @@ graph
     sgG1 33
     sgG2 23
     sgG5 40
+    fc2 43
+    sgG12 32
+    Spectral2 8
+    louvain2 12
+    lec2 63
+    wt2 68
   ]
   node
   [
@@ -6148,6 +8776,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 247
+    louvain2 5
+    lec2 63
+    wt2 111
   ]
   node
   [
@@ -6162,6 +8796,12 @@ graph
     sgG1 33
     sgG2 23
     sgG5 40
+    fc2 43
+    sgG12 32
+    Spectral2 8
+    louvain2 12
+    lec2 63
+    wt2 176
   ]
   node
   [
@@ -6176,6 +8816,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 51
+    fc2 42
+    sgG12 32
+    Spectral2 53
+    louvain2 6
+    lec2 18
+    wt2 1
   ]
   node
   [
@@ -6190,6 +8836,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 51
+    fc2 36
+    sgG12 32
+    Spectral2 53
+    louvain2 6
+    lec2 1
+    wt2 39
   ]
   node
   [
@@ -6204,6 +8856,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 1
+    wt2 39
   ]
   node
   [
@@ -6218,6 +8876,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 51
+    fc2 36
+    sgG12 32
+    Spectral2 53
+    louvain2 6
+    lec2 1
+    wt2 39
   ]
   node
   [
@@ -6232,6 +8896,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 25
+    louvain2 18
+    lec2 31
+    wt2 12
   ]
   node
   [
@@ -6246,6 +8916,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 4
+    sgG12 2
+    Spectral2 135
+    louvain2 12
+    lec2 12
+    wt2 21
   ]
   node
   [
@@ -6260,6 +8936,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 6
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 32
+    wt2 6
   ]
   node
   [
@@ -6274,6 +8956,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 64
+    wt2 21
   ]
   node
   [
@@ -6288,6 +8976,12 @@ graph
     sgG1 23
     sgG2 19
     sgG5 48
+    fc2 4
+    sgG12 22
+    Spectral2 42
+    louvain2 2
+    lec2 23
+    wt2 6
   ]
   node
   [
@@ -6302,6 +8996,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 44
+    fc2 35
+    sgG12 32
+    Spectral2 53
+    louvain2 6
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -6316,6 +9016,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 51
+    fc2 40
+    sgG12 32
+    Spectral2 76
+    louvain2 12
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -6330,6 +9036,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 18
+    wt2 8
   ]
   node
   [
@@ -6344,6 +9056,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 90
+    louvain2 3
+    lec2 1
+    wt2 22
   ]
   node
   [
@@ -6358,6 +9076,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 18
+    fc2 36
+    sgG12 32
+    Spectral2 76
+    louvain2 2
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -6372,6 +9096,12 @@ graph
     sgG1 17
     sgG2 4
     sgG5 52
+    fc2 17
+    sgG12 43
+    Spectral2 302
+    louvain2 4
+    lec2 16
+    wt2 1
   ]
   node
   [
@@ -6386,6 +9116,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 51
+    fc2 36
+    sgG12 32
+    Spectral2 120
+    louvain2 6
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -6400,6 +9136,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 51
+    fc2 36
+    sgG12 32
+    Spectral2 70
+    louvain2 6
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -6414,6 +9156,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 10
+    louvain2 21
+    lec2 24
+    wt2 46
   ]
   node
   [
@@ -6428,6 +9176,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 44
+    fc2 3
+    sgG12 9
+    Spectral2 53
+    louvain2 2
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -6442,6 +9196,12 @@ graph
     sgG1 24
     sgG2 21
     sgG5 44
+    fc2 35
+    sgG12 23
+    Spectral2 53
+    louvain2 11
+    lec2 60
+    wt2 23
   ]
   node
   [
@@ -6456,6 +9216,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 44
+    fc2 35
+    sgG12 32
+    Spectral2 108
+    louvain2 6
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -6470,6 +9236,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 304
+    louvain2 4
+    lec2 16
+    wt2 172
   ]
   node
   [
@@ -6484,6 +9256,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 44
+    fc2 35
+    sgG12 32
+    Spectral2 102
+    louvain2 6
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -6498,6 +9276,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 44
+    fc2 35
+    sgG12 32
+    Spectral2 153
+    louvain2 6
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -6512,6 +9296,12 @@ graph
     sgG1 33
     sgG2 13
     sgG5 44
+    fc2 35
+    sgG12 32
+    Spectral2 87
+    louvain2 6
+    lec2 60
+    wt2 1
   ]
   node
   [
@@ -6526,6 +9316,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 19
+    sgG12 31
+    Spectral2 305
+    louvain2 13
+    lec2 55
+    wt2 20
   ]
   node
   [
@@ -6540,6 +9336,12 @@ graph
     sgG1 12
     sgG2 51
     sgG5 55
+    fc2 38
+    sgG12 12
+    Spectral2 8
+    louvain2 11
+    lec2 36
+    wt2 120
   ]
   node
   [
@@ -6554,6 +9356,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 34
+    fc2 27
+    sgG12 26
+    Spectral2 180
+    louvain2 5
+    lec2 13
+    wt2 13
   ]
   node
   [
@@ -6568,6 +9376,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 16
+    wt2 28
   ]
   node
   [
@@ -6582,6 +9396,12 @@ graph
     sgG1 14
     sgG2 12
     sgG5 36
+    fc2 26
+    sgG12 14
+    Spectral2 309
+    louvain2 8
+    lec2 39
+    wt2 106
   ]
   node
   [
@@ -6596,6 +9416,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 36
+    fc2 20
+    sgG12 31
+    Spectral2 296
+    louvain2 4
+    lec2 16
+    wt2 172
   ]
   node
   [
@@ -6610,6 +9436,12 @@ graph
     sgG1 1
     sgG2 8
     sgG5 16
+    fc2 21
+    sgG12 1
+    Spectral2 247
+    louvain2 7
+    lec2 39
+    wt2 188
   ]
   node
   [
@@ -6624,6 +9456,12 @@ graph
     sgG1 11
     sgG2 47
     sgG5 36
+    fc2 13
+    sgG12 11
+    Spectral2 310
+    louvain2 8
+    lec2 13
+    wt2 172
   ]
   node
   [
@@ -6638,6 +9476,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -6652,6 +9496,12 @@ graph
     sgG1 22
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 21
+    Spectral2 161
+    louvain2 3
+    lec2 13
+    wt2 74
   ]
   node
   [
@@ -6666,6 +9516,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 74
+    fc2 3
+    sgG12 11
+    Spectral2 38
+    louvain2 18
+    lec2 23
+    wt2 12
   ]
   node
   [
@@ -6680,6 +9536,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -6694,6 +9556,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 23
+    wt2 7
   ]
   node
   [
@@ -6708,6 +9576,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 269
+    louvain2 5
+    lec2 58
+    wt2 181
   ]
   node
   [
@@ -6722,6 +9596,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 277
+    louvain2 9
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -6736,6 +9616,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 298
+    louvain2 5
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -6750,6 +9636,12 @@ graph
     sgG1 1
     sgG2 8
     sgG5 16
+    fc2 21
+    sgG12 1
+    Spectral2 247
+    louvain2 7
+    lec2 3
+    wt2 186
   ]
   node
   [
@@ -6764,6 +9656,12 @@ graph
     sgG1 8
     sgG2 3
     sgG5 31
+    fc2 27
+    sgG12 8
+    Spectral2 306
+    louvain2 5
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -6778,6 +9676,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 20
+    Spectral2 245
+    louvain2 15
+    lec2 23
+    wt2 11
   ]
   node
   [
@@ -6792,6 +9696,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 20
+    Spectral2 203
+    louvain2 15
+    lec2 21
+    wt2 11
   ]
   node
   [
@@ -6806,6 +9716,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 33
+    fc2 2
+    sgG12 25
+    Spectral2 91
+    louvain2 9
+    lec2 52
+    wt2 107
   ]
   node
   [
@@ -6820,6 +9736,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -6834,6 +9756,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 22
+    sgG12 25
+    Spectral2 95
+    louvain2 12
+    lec2 16
+    wt2 21
   ]
   node
   [
@@ -6848,6 +9776,12 @@ graph
     sgG1 16
     sgG2 43
     sgG5 85
+    fc2 5
+    sgG12 16
+    Spectral2 87
+    louvain2 16
+    lec2 3
+    wt2 21
   ]
   node
   [
@@ -6862,6 +9796,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 2
+    sgG12 25
+    Spectral2 87
+    louvain2 12
+    lec2 26
+    wt2 21
   ]
   node
   [
@@ -6876,6 +9816,12 @@ graph
     sgG1 6
     sgG2 37
     sgG5 75
+    fc2 6
+    sgG12 6
+    Spectral2 87
+    louvain2 14
+    lec2 60
+    wt2 33
   ]
   node
   [
@@ -6890,6 +9836,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -6904,6 +9856,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 2
+    sgG12 25
+    Spectral2 75
+    louvain2 12
+    lec2 26
+    wt2 21
   ]
   node
   [
@@ -6918,6 +9876,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 27
+    louvain2 18
+    lec2 25
+    wt2 12
   ]
   node
   [
@@ -6932,6 +9896,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 28
+    louvain2 18
+    lec2 68
+    wt2 12
   ]
   node
   [
@@ -6946,6 +9916,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 19
+    sgG12 31
+    Spectral2 247
+    louvain2 13
+    lec2 55
+    wt2 20
   ]
   node
   [
@@ -6960,6 +9936,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 17
+    sgG12 31
+    Spectral2 305
+    louvain2 13
+    lec2 16
+    wt2 28
   ]
   node
   [
@@ -6974,6 +9956,12 @@ graph
     sgG1 32
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 31
+    Spectral2 233
+    louvain2 14
+    lec2 55
+    wt2 20
   ]
   node
   [
@@ -6988,6 +9976,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 304
+    louvain2 4
+    lec2 61
+    wt2 181
   ]
   node
   [
@@ -7002,6 +9996,12 @@ graph
     sgG1 25
     sgG2 20
     sgG5 48
+    fc2 8
+    sgG12 24
+    Spectral2 49
+    louvain2 13
+    lec2 55
+    wt2 62
   ]
   node
   [
@@ -7016,6 +10016,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 88
+    fc2 19
+    sgG12 31
+    Spectral2 305
+    louvain2 13
+    lec2 55
+    wt2 20
   ]
   node
   [
@@ -7030,6 +10036,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 309
+    louvain2 13
+    lec2 55
+    wt2 32
   ]
   node
   [
@@ -7044,6 +10056,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 25
+    sgG12 31
+    Spectral2 305
+    louvain2 13
+    lec2 55
+    wt2 142
   ]
   node
   [
@@ -7058,6 +10076,12 @@ graph
     sgG1 32
     sgG2 50
     sgG5 89
+    fc2 19
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 55
+    wt2 20
   ]
   node
   [
@@ -7072,6 +10096,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -7086,6 +10116,12 @@ graph
     sgG1 22
     sgG2 8
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 13
+    lec2 55
+    wt2 20
   ]
   node
   [
@@ -7100,6 +10136,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 19
+    sgG12 31
+    Spectral2 305
+    louvain2 13
+    lec2 55
+    wt2 20
   ]
   node
   [
@@ -7114,6 +10156,12 @@ graph
     sgG1 23
     sgG2 8
     sgG5 19
+    fc2 47
+    sgG12 22
+    Spectral2 49
+    louvain2 21
+    lec2 34
+    wt2 14
   ]
   node
   [
@@ -7128,6 +10176,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 46
+    sgG12 8
+    Spectral2 142
+    louvain2 3
+    lec2 18
+    wt2 14
   ]
   node
   [
@@ -7142,6 +10196,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 88
+    fc2 19
+    sgG12 31
+    Spectral2 305
+    louvain2 13
+    lec2 55
+    wt2 20
   ]
   node
   [
@@ -7156,6 +10216,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 19
+    sgG12 31
+    Spectral2 305
+    louvain2 13
+    lec2 55
+    wt2 71
   ]
   node
   [
@@ -7170,6 +10236,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 19
+    sgG12 31
+    Spectral2 247
+    louvain2 13
+    lec2 55
+    wt2 72
   ]
   node
   [
@@ -7184,6 +10256,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 6
+    sgG12 11
+    Spectral2 229
+    louvain2 24
+    lec2 34
+    wt2 11
   ]
   node
   [
@@ -7198,6 +10276,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 47
+    sgG12 11
+    Spectral2 49
+    louvain2 21
+    lec2 34
+    wt2 46
   ]
   node
   [
@@ -7212,6 +10296,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 14
+    sgG12 11
+    Spectral2 304
+    louvain2 24
+    lec2 4
+    wt2 172
   ]
   node
   [
@@ -7226,6 +10316,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 14
+    sgG12 11
+    Spectral2 304
+    louvain2 24
+    lec2 4
+    wt2 172
   ]
   node
   [
@@ -7240,6 +10336,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 30
+    sgG12 11
+    Spectral2 290
+    louvain2 21
+    lec2 42
+    wt2 46
   ]
   node
   [
@@ -7254,6 +10356,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 18
+    fc2 21
+    sgG12 11
+    Spectral2 304
+    louvain2 24
+    lec2 40
+    wt2 173
   ]
   node
   [
@@ -7268,6 +10376,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 43
+    fc2 7
+    sgG12 7
+    Spectral2 171
+    louvain2 24
+    lec2 38
+    wt2 185
   ]
   node
   [
@@ -7282,6 +10396,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 14
+    sgG12 11
+    Spectral2 304
+    louvain2 24
+    lec2 4
+    wt2 78
   ]
   node
   [
@@ -7296,6 +10416,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 14
+    sgG12 11
+    Spectral2 247
+    louvain2 24
+    lec2 4
+    wt2 172
   ]
   node
   [
@@ -7310,6 +10436,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 18
+    fc2 36
+    sgG12 32
+    Spectral2 76
+    louvain2 2
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -7324,6 +10456,12 @@ graph
     sgG1 2
     sgG2 10
     sgG5 56
+    fc2 43
+    sgG12 2
+    Spectral2 75
+    louvain2 9
+    lec2 3
+    wt2 27
   ]
   node
   [
@@ -7338,6 +10476,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 153
+    louvain2 2
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -7352,6 +10496,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 47
+    fc2 40
+    sgG12 32
+    Spectral2 76
+    louvain2 23
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -7366,6 +10516,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 305
+    louvain2 4
+    lec2 13
+    wt2 172
   ]
   node
   [
@@ -7380,6 +10536,12 @@ graph
     sgG1 11
     sgG2 11
     sgG5 49
+    fc2 3
+    sgG12 11
+    Spectral2 161
+    louvain2 18
+    lec2 13
+    wt2 12
   ]
   node
   [
@@ -7394,6 +10556,12 @@ graph
     sgG1 11
     sgG2 35
     sgG5 15
+    fc2 3
+    sgG12 11
+    Spectral2 241
+    louvain2 19
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -7408,6 +10576,12 @@ graph
     sgG1 11
     sgG2 35
     sgG5 15
+    fc2 3
+    sgG12 11
+    Spectral2 241
+    louvain2 19
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -7422,6 +10596,12 @@ graph
     sgG1 11
     sgG2 35
     sgG5 15
+    fc2 3
+    sgG12 11
+    Spectral2 241
+    louvain2 19
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -7436,6 +10616,12 @@ graph
     sgG1 33
     sgG2 44
     sgG5 18
+    fc2 24
+    sgG12 32
+    Spectral2 183
+    louvain2 4
+    lec2 49
+    wt2 1
   ]
   node
   [
@@ -7450,6 +10636,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 47
+    louvain2 3
+    lec2 38
+    wt2 14
   ]
   node
   [
@@ -7464,6 +10656,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -7478,6 +10676,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 26
+    fc2 42
+    sgG12 25
+    Spectral2 104
+    louvain2 25
+    lec2 25
+    wt2 1
   ]
   node
   [
@@ -7492,6 +10696,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 3
+    wt2 7
   ]
   node
   [
@@ -7506,6 +10716,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -7520,6 +10736,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 119
+    louvain2 10
+    lec2 1
+    wt2 132
   ]
   node
   [
@@ -7534,6 +10756,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 46
+    sgG12 8
+    Spectral2 148
+    louvain2 3
+    lec2 1
+    wt2 14
   ]
   node
   [
@@ -7548,6 +10776,12 @@ graph
     sgG1 12
     sgG2 51
     sgG5 55
+    fc2 38
+    sgG12 12
+    Spectral2 8
+    louvain2 11
+    lec2 63
+    wt2 26
   ]
   node
   [
@@ -7562,6 +10796,12 @@ graph
     sgG1 22
     sgG2 16
     sgG5 37
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 10
+    lec2 13
+    wt2 57
   ]
   node
   [
@@ -7576,6 +10816,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 111
+    louvain2 10
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -7590,6 +10836,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 119
+    louvain2 10
+    lec2 18
+    wt2 132
   ]
   node
   [
@@ -7604,6 +10856,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 119
+    louvain2 10
+    lec2 1
+    wt2 132
   ]
   node
   [
@@ -7618,6 +10876,12 @@ graph
     sgG1 8
     sgG2 27
     sgG5 27
+    fc2 16
+    sgG12 8
+    Spectral2 144
+    louvain2 10
+    lec2 1
+    wt2 19
   ]
   node
   [
@@ -7632,6 +10896,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 119
+    louvain2 10
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -7646,6 +10916,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 88
+    fc2 46
+    sgG12 8
+    Spectral2 185
+    louvain2 4
+    lec2 24
+    wt2 13
   ]
   node
   [
@@ -7660,6 +10936,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 24
+    fc2 10
+    sgG12 26
+    Spectral2 119
+    louvain2 10
+    lec2 54
+    wt2 135
   ]
   node
   [
@@ -7674,6 +10956,12 @@ graph
     sgG1 22
     sgG2 36
     sgG5 92
+    fc2 1
+    sgG12 21
+    Spectral2 119
+    louvain2 4
+    lec2 15
+    wt2 6
   ]
   node
   [
@@ -7688,6 +10976,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 119
+    louvain2 10
+    lec2 1
+    wt2 21
   ]
   node
   [
@@ -7702,6 +10996,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 119
+    louvain2 10
+    lec2 1
+    wt2 132
   ]
   node
   [
@@ -7716,6 +11016,12 @@ graph
     sgG1 8
     sgG2 18
     sgG5 20
+    fc2 6
+    sgG12 8
+    Spectral2 161
+    louvain2 15
+    lec2 18
+    wt2 13
   ]
   node
   [
@@ -7730,6 +11036,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 161
+    louvain2 10
+    lec2 18
+    wt2 21
   ]
   node
   [
@@ -7744,6 +11056,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 161
+    louvain2 10
+    lec2 18
+    wt2 21
   ]
   node
   [
@@ -7758,6 +11076,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 161
+    louvain2 10
+    lec2 18
+    wt2 21
   ]
   node
   [
@@ -7772,6 +11096,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 56
+    fc2 43
+    sgG12 2
+    Spectral2 75
+    louvain2 9
+    lec2 59
+    wt2 27
   ]
   node
   [
@@ -7786,6 +11116,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 39
+    fc2 4
+    sgG12 2
+    Spectral2 75
+    louvain2 12
+    lec2 59
+    wt2 27
   ]
   node
   [
@@ -7800,6 +11136,12 @@ graph
     sgG1 33
     sgG2 29
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 190
+    louvain2 2
+    lec2 14
+    wt2 1
   ]
   node
   [
@@ -7814,6 +11156,12 @@ graph
     sgG1 22
     sgG2 49
     sgG5 11
+    fc2 18
+    sgG12 21
+    Spectral2 197
+    louvain2 2
+    lec2 45
+    wt2 1
   ]
   node
   [
@@ -7828,6 +11176,12 @@ graph
     sgG1 13
     sgG2 35
     sgG5 86
+    fc2 32
+    sgG12 13
+    Spectral2 244
+    louvain2 6
+    lec2 21
+    wt2 124
   ]
   node
   [
@@ -7842,6 +11196,12 @@ graph
     sgG1 13
     sgG2 35
     sgG5 86
+    fc2 32
+    sgG12 13
+    Spectral2 244
+    louvain2 6
+    lec2 4
+    wt2 124
   ]
   node
   [
@@ -7856,6 +11216,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 64
+    fc2 1
+    sgG12 15
+    Spectral2 104
+    louvain2 13
+    lec2 1
+    wt2 3
   ]
   node
   [
@@ -7870,6 +11236,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 64
+    fc2 1
+    sgG12 15
+    Spectral2 134
+    louvain2 13
+    lec2 1
+    wt2 3
   ]
   node
   [
@@ -7884,6 +11256,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 1
+    wt2 28
   ]
   node
   [
@@ -7898,6 +11276,12 @@ graph
     sgG1 33
     sgG2 19
     sgG5 91
+    fc2 18
+    sgG12 32
+    Spectral2 185
+    louvain2 2
+    lec2 14
+    wt2 1
   ]
   node
   [
@@ -7912,6 +11296,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 196
+    louvain2 8
+    lec2 59
+    wt2 1
   ]
   node
   [
@@ -7926,6 +11316,12 @@ graph
     sgG1 33
     sgG2 45
     sgG5 49
+    fc2 37
+    sgG12 32
+    Spectral2 33
+    louvain2 12
+    lec2 33
+    wt2 17
   ]
   node
   [
@@ -7940,6 +11336,12 @@ graph
     sgG1 33
     sgG2 52
     sgG5 58
+    fc2 1
+    sgG12 32
+    Spectral2 53
+    louvain2 7
+    lec2 3
+    wt2 82
   ]
   node
   [
@@ -7954,6 +11356,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 53
+    louvain2 12
+    lec2 32
+    wt2 1
   ]
   node
   [
@@ -7968,6 +11376,12 @@ graph
     sgG1 33
     sgG2 40
     sgG5 35
+    fc2 4
+    sgG12 32
+    Spectral2 128
+    louvain2 12
+    lec2 61
+    wt2 4
   ]
   node
   [
@@ -7982,6 +11396,12 @@ graph
     sgG1 23
     sgG2 19
     sgG5 48
+    fc2 4
+    sgG12 22
+    Spectral2 42
+    louvain2 2
+    lec2 23
+    wt2 6
   ]
   node
   [
@@ -7996,6 +11416,12 @@ graph
     sgG1 26
     sgG2 19
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 183
+    louvain2 2
+    lec2 14
+    wt2 7
   ]
   node
   [
@@ -8010,6 +11436,12 @@ graph
     sgG1 33
     sgG2 19
     sgG5 11
+    fc2 18
+    sgG12 32
+    Spectral2 185
+    louvain2 2
+    lec2 14
+    wt2 1
   ]
   node
   [
@@ -8024,6 +11456,12 @@ graph
     sgG1 27
     sgG2 19
     sgG5 91
+    fc2 18
+    sgG12 26
+    Spectral2 185
+    louvain2 2
+    lec2 59
+    wt2 143
   ]
   node
   [
@@ -8038,6 +11476,12 @@ graph
     sgG1 27
     sgG2 19
     sgG5 91
+    fc2 18
+    sgG12 26
+    Spectral2 185
+    louvain2 2
+    lec2 59
+    wt2 143
   ]
   node
   [
@@ -8052,6 +11496,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 60
+    wt2 110
   ]
   node
   [
@@ -8066,6 +11516,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 13
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 61
+    wt2 4
   ]
   node
   [
@@ -8080,6 +11536,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 60
+    wt2 18
   ]
   node
   [
@@ -8094,6 +11556,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 60
+    wt2 13
   ]
   node
   [
@@ -8108,6 +11576,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 256
+    louvain2 7
+    lec2 42
+    wt2 18
   ]
   node
   [
@@ -8122,6 +11596,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 25
+    fc2 14
+    sgG12 44
+    Spectral2 262
+    louvain2 2
+    lec2 40
+    wt2 1
   ]
   node
   [
@@ -8136,6 +11616,12 @@ graph
     sgG1 33
     sgG2 33
     sgG5 91
+    fc2 41
+    sgG12 32
+    Spectral2 77
+    louvain2 2
+    lec2 11
+    wt2 118
   ]
   node
   [
@@ -8150,6 +11636,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 36
+    louvain2 15
+    lec2 32
+    wt2 123
   ]
   node
   [
@@ -8164,6 +11656,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 41
+    sgG12 25
+    Spectral2 77
+    louvain2 9
+    lec2 53
+    wt2 4
   ]
   node
   [
@@ -8178,6 +11676,12 @@ graph
     sgG1 26
     sgG2 42
     sgG5 46
+    fc2 4
+    sgG12 25
+    Spectral2 287
+    louvain2 6
+    lec2 40
+    wt2 182
   ]
   node
   [
@@ -8192,6 +11696,12 @@ graph
     sgG1 26
     sgG2 42
     sgG5 46
+    fc2 4
+    sgG12 25
+    Spectral2 287
+    louvain2 6
+    lec2 40
+    wt2 182
   ]
   node
   [
@@ -8206,6 +11716,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 69
+    wt2 7
   ]
   node
   [
@@ -8220,6 +11736,12 @@ graph
     sgG1 23
     sgG2 19
     sgG5 48
+    fc2 4
+    sgG12 22
+    Spectral2 102
+    louvain2 16
+    lec2 23
+    wt2 53
   ]
   node
   [
@@ -8234,6 +11756,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 25
+    lec2 3
+    wt2 184
   ]
   node
   [
@@ -8248,6 +11776,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 3
+    fc2 9
+    sgG12 26
+    Spectral2 195
+    louvain2 5
+    lec2 16
+    wt2 50
   ]
   node
   [
@@ -8262,6 +11796,12 @@ graph
     sgG1 32
     sgG2 27
     sgG5 27
+    fc2 16
+    sgG12 31
+    Spectral2 192
+    louvain2 10
+    lec2 16
+    wt2 19
   ]
   node
   [
@@ -8276,6 +11816,12 @@ graph
     sgG1 33
     sgG2 44
     sgG5 40
+    fc2 24
+    sgG12 32
+    Spectral2 194
+    louvain2 12
+    lec2 16
+    wt2 1
   ]
   node
   [
@@ -8290,6 +11836,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 40
+    fc2 16
+    sgG12 32
+    Spectral2 200
+    louvain2 12
+    lec2 16
+    wt2 1
   ]
   node
   [
@@ -8304,6 +11856,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 40
+    fc2 16
+    sgG12 32
+    Spectral2 199
+    louvain2 12
+    lec2 16
+    wt2 77
   ]
   node
   [
@@ -8318,6 +11876,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 40
+    fc2 16
+    sgG12 32
+    Spectral2 201
+    louvain2 12
+    lec2 16
+    wt2 1
   ]
   node
   [
@@ -8332,6 +11896,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 29
+    fc2 43
+    sgG12 15
+    Spectral2 53
+    louvain2 12
+    lec2 24
+    wt2 28
   ]
   node
   [
@@ -8346,6 +11916,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 29
+    fc2 44
+    sgG12 8
+    Spectral2 53
+    louvain2 3
+    lec2 1
+    wt2 176
   ]
   node
   [
@@ -8360,6 +11936,12 @@ graph
     sgG1 26
     sgG2 48
     sgG5 14
+    fc2 2
+    sgG12 25
+    Spectral2 214
+    louvain2 9
+    lec2 13
+    wt2 12
   ]
   node
   [
@@ -8374,6 +11956,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 91
+    fc2 34
+    sgG12 32
+    Spectral2 196
+    louvain2 8
+    lec2 16
+    wt2 1
   ]
   node
   [
@@ -8388,6 +11976,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 81
+    fc2 34
+    sgG12 2
+    Spectral2 53
+    louvain2 12
+    lec2 69
+    wt2 21
   ]
   node
   [
@@ -8402,6 +11996,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 3
+    fc2 9
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 16
+    wt2 50
   ]
   node
   [
@@ -8416,6 +12016,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 248
+    louvain2 16
+    lec2 18
+    wt2 8
   ]
   node
   [
@@ -8430,6 +12036,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 260
+    louvain2 9
+    lec2 40
+    wt2 4
   ]
   node
   [
@@ -8444,6 +12056,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 67
+    wt2 8
   ]
   node
   [
@@ -8458,6 +12076,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 18
+    wt2 8
   ]
   node
   [
@@ -8472,6 +12096,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 248
+    louvain2 16
+    lec2 18
+    wt2 8
   ]
   node
   [
@@ -8486,6 +12116,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 36
+    sgG12 23
+    Spectral2 189
+    louvain2 11
+    lec2 44
+    wt2 1
   ]
   node
   [
@@ -8500,6 +12136,12 @@ graph
     sgG1 33
     sgG2 33
     sgG5 91
+    fc2 41
+    sgG12 32
+    Spectral2 95
+    louvain2 2
+    lec2 11
+    wt2 118
   ]
   node
   [
@@ -8514,6 +12156,12 @@ graph
     sgG1 33
     sgG2 33
     sgG5 91
+    fc2 41
+    sgG12 32
+    Spectral2 122
+    louvain2 2
+    lec2 11
+    wt2 118
   ]
   node
   [
@@ -8528,6 +12176,12 @@ graph
     sgG1 33
     sgG2 33
     sgG5 91
+    fc2 41
+    sgG12 32
+    Spectral2 57
+    louvain2 2
+    lec2 11
+    wt2 118
   ]
   node
   [
@@ -8542,6 +12196,12 @@ graph
     sgG1 33
     sgG2 45
     sgG5 14
+    fc2 37
+    sgG12 32
+    Spectral2 16
+    louvain2 12
+    lec2 33
+    wt2 17
   ]
   node
   [
@@ -8556,6 +12216,12 @@ graph
     sgG1 17
     sgG2 45
     sgG5 14
+    fc2 24
+    sgG12 34
+    Spectral2 303
+    louvain2 4
+    lec2 43
+    wt2 12
   ]
   node
   [
@@ -8570,6 +12236,12 @@ graph
     sgG1 33
     sgG2 45
     sgG5 14
+    fc2 37
+    sgG12 32
+    Spectral2 29
+    louvain2 12
+    lec2 33
+    wt2 17
   ]
   node
   [
@@ -8584,6 +12256,12 @@ graph
     sgG1 33
     sgG2 45
     sgG5 14
+    fc2 37
+    sgG12 32
+    Spectral2 12
+    louvain2 12
+    lec2 33
+    wt2 17
   ]
   node
   [
@@ -8598,6 +12276,12 @@ graph
     sgG1 33
     sgG2 23
     sgG5 56
+    fc2 43
+    sgG12 32
+    Spectral2 11
+    louvain2 12
+    lec2 72
+    wt2 95
   ]
   node
   [
@@ -8612,6 +12296,12 @@ graph
     sgG1 33
     sgG2 42
     sgG5 46
+    fc2 4
+    sgG12 32
+    Spectral2 153
+    louvain2 12
+    lec2 21
+    wt2 25
   ]
   node
   [
@@ -8626,6 +12316,12 @@ graph
     sgG1 33
     sgG2 42
     sgG5 46
+    fc2 4
+    sgG12 32
+    Spectral2 98
+    louvain2 12
+    lec2 23
+    wt2 25
   ]
   node
   [
@@ -8640,6 +12336,12 @@ graph
     sgG1 33
     sgG2 42
     sgG5 46
+    fc2 4
+    sgG12 32
+    Spectral2 153
+    louvain2 12
+    lec2 23
+    wt2 25
   ]
   node
   [
@@ -8654,6 +12356,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 46
+    fc2 1
+    sgG12 8
+    Spectral2 114
+    louvain2 3
+    lec2 19
+    wt2 108
   ]
   node
   [
@@ -8668,6 +12376,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 238
+    louvain2 9
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -8682,6 +12396,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 92
+    fc2 1
+    sgG12 9
+    Spectral2 53
+    louvain2 2
+    lec2 62
+    wt2 21
   ]
   node
   [
@@ -8696,6 +12416,12 @@ graph
     sgG1 27
     sgG2 45
     sgG5 14
+    fc2 2
+    sgG12 26
+    Spectral2 214
+    louvain2 4
+    lec2 13
+    wt2 12
   ]
   node
   [
@@ -8710,6 +12436,12 @@ graph
     sgG1 9
     sgG2 34
     sgG5 92
+    fc2 8
+    sgG12 9
+    Spectral2 53
+    louvain2 2
+    lec2 66
+    wt2 21
   ]
   node
   [
@@ -8724,6 +12456,12 @@ graph
     sgG1 27
     sgG2 8
     sgG5 43
+    fc2 30
+    sgG12 26
+    Spectral2 290
+    louvain2 5
+    lec2 47
+    wt2 81
   ]
   node
   [
@@ -8738,6 +12476,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 53
+    louvain2 1
+    lec2 70
+    wt2 147
   ]
   node
   [
@@ -8752,6 +12496,12 @@ graph
     sgG1 24
     sgG2 24
     sgG5 42
+    fc2 5
+    sgG12 23
+    Spectral2 94
+    louvain2 14
+    lec2 64
+    wt2 117
   ]
   node
   [
@@ -8766,6 +12516,12 @@ graph
     sgG1 24
     sgG2 24
     sgG5 42
+    fc2 5
+    sgG12 23
+    Spectral2 104
+    louvain2 14
+    lec2 64
+    wt2 117
   ]
   node
   [
@@ -8780,6 +12536,12 @@ graph
     sgG1 24
     sgG2 24
     sgG5 42
+    fc2 5
+    sgG12 23
+    Spectral2 92
+    louvain2 14
+    lec2 64
+    wt2 117
   ]
   node
   [
@@ -8794,6 +12556,12 @@ graph
     sgG1 24
     sgG2 24
     sgG5 42
+    fc2 5
+    sgG12 23
+    Spectral2 94
+    louvain2 14
+    lec2 64
+    wt2 117
   ]
   node
   [
@@ -8808,6 +12576,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 48
+    fc2 47
+    sgG12 8
+    Spectral2 8
+    louvain2 3
+    lec2 29
+    wt2 6
   ]
   node
   [
@@ -8822,6 +12596,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 29
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 3
+    lec2 23
+    wt2 176
   ]
   node
   [
@@ -8836,6 +12616,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 39
+    fc2 5
+    sgG12 16
+    Spectral2 140
+    louvain2 16
+    lec2 1
+    wt2 47
   ]
   node
   [
@@ -8850,6 +12636,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 8
+    Spectral2 145
+    louvain2 3
+    lec2 3
+    wt2 73
   ]
   node
   [
@@ -8864,6 +12656,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 8
+    Spectral2 139
+    louvain2 3
+    lec2 3
+    wt2 73
   ]
   node
   [
@@ -8878,6 +12676,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -8892,6 +12696,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -8906,6 +12716,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 47
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -8920,6 +12736,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 40
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -8934,6 +12756,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 64
   ]
   node
   [
@@ -8948,6 +12776,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 28
+    sgG12 23
+    Spectral2 168
+    louvain2 11
+    lec2 16
+    wt2 32
   ]
   node
   [
@@ -8962,6 +12796,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 14
+    wt2 2
   ]
   node
   [
@@ -8976,6 +12816,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 36
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 6
   ]
   node
   [
@@ -8990,6 +12836,12 @@ graph
     sgG1 22
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 21
+    Spectral2 296
+    louvain2 4
+    lec2 48
+    wt2 6
   ]
   node
   [
@@ -9004,6 +12856,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 13
+    wt2 174
   ]
   node
   [
@@ -9018,6 +12876,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -9032,6 +12896,12 @@ graph
     sgG1 22
     sgG2 25
     sgG5 67
+    fc2 28
+    sgG12 21
+    Spectral2 161
+    louvain2 11
+    lec2 43
+    wt2 52
   ]
   node
   [
@@ -9046,6 +12916,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 23
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 121
   ]
   node
   [
@@ -9060,6 +12936,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -9074,6 +12956,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -9088,6 +12976,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 67
+    fc2 13
+    sgG12 22
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 6
   ]
   node
   [
@@ -9102,6 +12996,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 120
+    louvain2 16
+    lec2 13
+    wt2 10
   ]
   node
   [
@@ -9116,6 +13016,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -9130,6 +13036,12 @@ graph
     sgG1 22
     sgG2 49
     sgG5 67
+    fc2 3
+    sgG12 21
+    Spectral2 161
+    louvain2 18
+    lec2 13
+    wt2 12
   ]
   node
   [
@@ -9144,6 +13056,12 @@ graph
     sgG1 11
     sgG2 26
     sgG5 84
+    fc2 3
+    sgG12 11
+    Spectral2 11
+    louvain2 19
+    lec2 25
+    wt2 1
   ]
   node
   [
@@ -9158,6 +13076,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 50
+    fc2 13
+    sgG12 21
+    Spectral2 210
+    louvain2 8
+    lec2 13
+    wt2 171
   ]
   node
   [
@@ -9172,6 +13096,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 13
+    wt2 14
   ]
   node
   [
@@ -9186,6 +13116,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -9200,6 +13136,12 @@ graph
     sgG1 22
     sgG2 10
     sgG5 67
+    fc2 2
+    sgG12 21
+    Spectral2 161
+    louvain2 9
+    lec2 13
+    wt2 7
   ]
   node
   [
@@ -9214,6 +13156,12 @@ graph
     sgG1 22
     sgG2 11
     sgG5 49
+    fc2 37
+    sgG12 21
+    Spectral2 161
+    louvain2 7
+    lec2 15
+    wt2 1
   ]
   node
   [
@@ -9228,6 +13176,12 @@ graph
     sgG1 23
     sgG2 15
     sgG5 52
+    fc2 15
+    sgG12 22
+    Spectral2 161
+    louvain2 15
+    lec2 15
+    wt2 180
   ]
   node
   [
@@ -9242,6 +13196,12 @@ graph
     sgG1 29
     sgG2 11
     sgG5 47
+    fc2 1
+    sgG12 28
+    Spectral2 161
+    louvain2 15
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -9256,6 +13216,12 @@ graph
     sgG1 22
     sgG2 10
     sgG5 56
+    fc2 6
+    sgG12 21
+    Spectral2 133
+    louvain2 9
+    lec2 13
+    wt2 116
   ]
   node
   [
@@ -9270,6 +13236,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -9284,6 +13256,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -9298,6 +13276,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -9312,6 +13296,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 13
+    wt2 175
   ]
   node
   [
@@ -9326,6 +13316,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 16
+    wt2 1
   ]
   node
   [
@@ -9340,6 +13336,12 @@ graph
     sgG1 31
     sgG2 13
     sgG5 12
+    fc2 2
+    sgG12 30
+    Spectral2 110
+    louvain2 23
+    lec2 13
+    wt2 129
   ]
   node
   [
@@ -9354,6 +13356,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 43
+    wt2 177
   ]
   node
   [
@@ -9368,6 +13376,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -9382,6 +13396,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 1
+    lec2 15
+    wt2 6
   ]
   node
   [
@@ -9396,6 +13416,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -9410,6 +13436,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 247
+    louvain2 5
+    lec2 50
+    wt2 111
   ]
   node
   [
@@ -9424,6 +13456,12 @@ graph
     sgG1 24
     sgG2 21
     sgG5 44
+    fc2 35
+    sgG12 23
+    Spectral2 97
+    louvain2 11
+    lec2 68
+    wt2 23
   ]
   node
   [
@@ -9438,6 +13476,12 @@ graph
     sgG1 24
     sgG2 21
     sgG5 44
+    fc2 35
+    sgG12 23
+    Spectral2 86
+    louvain2 11
+    lec2 68
+    wt2 23
   ]
   node
   [
@@ -9452,6 +13496,12 @@ graph
     sgG1 19
     sgG2 42
     sgG5 76
+    fc2 4
+    sgG12 18
+    Spectral2 123
+    louvain2 13
+    lec2 55
+    wt2 91
   ]
   node
   [
@@ -9466,6 +13516,12 @@ graph
     sgG1 19
     sgG2 42
     sgG5 76
+    fc2 4
+    sgG12 18
+    Spectral2 123
+    louvain2 13
+    lec2 55
+    wt2 91
   ]
   node
   [
@@ -9480,6 +13536,12 @@ graph
     sgG1 19
     sgG2 42
     sgG5 76
+    fc2 4
+    sgG12 18
+    Spectral2 52
+    louvain2 13
+    lec2 23
+    wt2 91
   ]
   node
   [
@@ -9494,6 +13556,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 67
+    wt2 8
   ]
   node
   [
@@ -9508,6 +13576,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 65
+    wt2 102
   ]
   node
   [
@@ -9522,6 +13596,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 67
+    wt2 8
   ]
   node
   [
@@ -9536,6 +13616,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 67
+    wt2 8
   ]
   node
   [
@@ -9550,6 +13636,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 65
+    wt2 69
   ]
   node
   [
@@ -9564,6 +13656,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 131
+    louvain2 9
+    lec2 53
+    wt2 59
   ]
   node
   [
@@ -9578,6 +13676,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 22
+    sgG12 25
+    Spectral2 55
+    louvain2 12
+    lec2 26
+    wt2 21
   ]
   node
   [
@@ -9592,6 +13696,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 65
+    fc2 3
+    sgG12 11
+    Spectral2 21
+    louvain2 23
+    lec2 31
+    wt2 43
   ]
   node
   [
@@ -9606,6 +13716,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 3
+    sgG12 7
+    Spectral2 24
+    louvain2 18
+    lec2 31
+    wt2 92
   ]
   node
   [
@@ -9620,6 +13736,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 22
+    louvain2 18
+    lec2 31
+    wt2 12
   ]
   node
   [
@@ -9634,6 +13756,12 @@ graph
     sgG1 34
     sgG2 40
     sgG5 53
+    fc2 3
+    sgG12 33
+    Spectral2 176
+    louvain2 9
+    lec2 40
+    wt2 12
   ]
   node
   [
@@ -9648,6 +13776,12 @@ graph
     sgG1 11
     sgG2 45
     sgG5 14
+    fc2 24
+    sgG12 11
+    Spectral2 303
+    louvain2 4
+    lec2 4
+    wt2 12
   ]
   node
   [
@@ -9662,6 +13796,12 @@ graph
     sgG1 8
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 8
+    Spectral2 75
+    louvain2 18
+    lec2 3
+    wt2 12
   ]
   node
   [
@@ -9676,6 +13816,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 81
+    fc2 4
+    sgG12 2
+    Spectral2 98
+    louvain2 12
+    lec2 69
+    wt2 49
   ]
   node
   [
@@ -9690,6 +13836,12 @@ graph
     sgG1 2
     sgG2 49
     sgG5 65
+    fc2 4
+    sgG12 2
+    Spectral2 153
+    louvain2 23
+    lec2 69
+    wt2 43
   ]
   node
   [
@@ -9704,6 +13856,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 81
+    fc2 4
+    sgG12 2
+    Spectral2 98
+    louvain2 12
+    lec2 69
+    wt2 49
   ]
   node
   [
@@ -9718,6 +13876,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 81
+    fc2 4
+    sgG12 2
+    Spectral2 98
+    louvain2 12
+    lec2 69
+    wt2 49
   ]
   node
   [
@@ -9732,6 +13896,12 @@ graph
     sgG1 22
     sgG2 10
     sgG5 56
+    fc2 6
+    sgG12 21
+    Spectral2 133
+    louvain2 9
+    lec2 60
+    wt2 116
   ]
   node
   [
@@ -9746,6 +13916,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 59
+    louvain2 14
+    lec2 60
+    wt2 110
   ]
   node
   [
@@ -9760,6 +13936,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 83
+    louvain2 14
+    lec2 60
+    wt2 110
   ]
   node
   [
@@ -9774,6 +13956,12 @@ graph
     sgG1 12
     sgG2 51
     sgG5 55
+    fc2 38
+    sgG12 12
+    Spectral2 8
+    louvain2 11
+    lec2 36
+    wt2 120
   ]
   node
   [
@@ -9788,6 +13976,12 @@ graph
     sgG1 12
     sgG2 51
     sgG5 55
+    fc2 38
+    sgG12 12
+    Spectral2 8
+    louvain2 11
+    lec2 36
+    wt2 120
   ]
   node
   [
@@ -9802,6 +13996,12 @@ graph
     sgG1 12
     sgG2 51
     sgG5 55
+    fc2 38
+    sgG12 12
+    Spectral2 8
+    louvain2 11
+    lec2 36
+    wt2 120
   ]
   node
   [
@@ -9816,6 +14016,12 @@ graph
     sgG1 12
     sgG2 51
     sgG5 55
+    fc2 38
+    sgG12 12
+    Spectral2 8
+    louvain2 11
+    lec2 36
+    wt2 120
   ]
   node
   [
@@ -9830,6 +14036,12 @@ graph
     sgG1 33
     sgG2 31
     sgG5 28
+    fc2 34
+    sgG12 32
+    Spectral2 196
+    louvain2 8
+    lec2 16
+    wt2 148
   ]
   node
   [
@@ -9844,6 +14056,12 @@ graph
     sgG1 33
     sgG2 31
     sgG5 28
+    fc2 34
+    sgG12 32
+    Spectral2 198
+    louvain2 8
+    lec2 4
+    wt2 125
   ]
   node
   [
@@ -9858,6 +14076,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 81
+    fc2 4
+    sgG12 2
+    Spectral2 67
+    louvain2 12
+    lec2 61
+    wt2 49
   ]
   node
   [
@@ -9872,6 +14096,12 @@ graph
     sgG1 29
     sgG2 11
     sgG5 47
+    fc2 1
+    sgG12 28
+    Spectral2 161
+    louvain2 15
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -9886,6 +14116,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 16
+    lec2 13
+    wt2 69
   ]
   node
   [
@@ -9900,6 +14136,12 @@ graph
     sgG1 23
     sgG2 40
     sgG5 6
+    fc2 4
+    sgG12 22
+    Spectral2 242
+    louvain2 9
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -9914,6 +14156,12 @@ graph
     sgG1 34
     sgG2 40
     sgG5 53
+    fc2 3
+    sgG12 33
+    Spectral2 176
+    louvain2 9
+    lec2 13
+    wt2 75
   ]
   node
   [
@@ -9928,6 +14176,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 1
+    sgG12 32
+    Spectral2 53
+    louvain2 1
+    lec2 1
+    wt2 9
   ]
   node
   [
@@ -9942,6 +14196,12 @@ graph
     sgG1 1
     sgG2 8
     sgG5 16
+    fc2 21
+    sgG12 1
+    Spectral2 247
+    louvain2 7
+    lec2 3
+    wt2 186
   ]
   node
   [
@@ -9956,6 +14216,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 46
+    fc2 1
+    sgG12 8
+    Spectral2 114
+    louvain2 3
+    lec2 4
+    wt2 108
   ]
   node
   [
@@ -9970,6 +14236,12 @@ graph
     sgG1 8
     sgG2 18
     sgG5 20
+    fc2 6
+    sgG12 8
+    Spectral2 161
+    louvain2 15
+    lec2 23
+    wt2 13
   ]
   node
   [
@@ -9984,6 +14256,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 20
+    fc2 6
+    sgG12 20
+    Spectral2 203
+    louvain2 15
+    lec2 48
+    wt2 139
   ]
   node
   [
@@ -9998,6 +14276,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 36
+    sgG12 23
+    Spectral2 189
+    louvain2 11
+    lec2 44
+    wt2 149
   ]
   node
   [
@@ -10012,6 +14296,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 36
+    sgG12 23
+    Spectral2 189
+    louvain2 11
+    lec2 43
+    wt2 1
   ]
   node
   [
@@ -10026,6 +14316,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 261
+    louvain2 1
+    lec2 4
+    wt2 55
   ]
   node
   [
@@ -10040,6 +14336,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 261
+    louvain2 1
+    lec2 40
+    wt2 55
   ]
   node
   [
@@ -10054,6 +14356,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 29
+    fc2 6
+    sgG12 15
+    Spectral2 134
+    louvain2 13
+    lec2 7
+    wt2 28
   ]
   node
   [
@@ -10068,6 +14376,12 @@ graph
     sgG1 24
     sgG2 21
     sgG5 44
+    fc2 35
+    sgG12 23
+    Spectral2 53
+    louvain2 11
+    lec2 4
+    wt2 23
   ]
   node
   [
@@ -10082,6 +14396,12 @@ graph
     sgG1 24
     sgG2 21
     sgG5 44
+    fc2 35
+    sgG12 23
+    Spectral2 53
+    louvain2 11
+    lec2 4
+    wt2 93
   ]
   node
   [
@@ -10096,6 +14416,12 @@ graph
     sgG1 24
     sgG2 21
     sgG5 44
+    fc2 35
+    sgG12 23
+    Spectral2 53
+    louvain2 11
+    lec2 4
+    wt2 93
   ]
   node
   [
@@ -10110,6 +14436,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 65
+    fc2 38
+    sgG12 23
+    Spectral2 264
+    louvain2 6
+    lec2 48
+    wt2 1
   ]
   node
   [
@@ -10124,6 +14456,12 @@ graph
     sgG1 29
     sgG2 11
     sgG5 47
+    fc2 40
+    sgG12 28
+    Spectral2 110
+    louvain2 23
+    lec2 38
+    wt2 1
   ]
   node
   [
@@ -10138,6 +14476,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -10152,6 +14496,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 55
+    fc2 38
+    sgG12 23
+    Spectral2 253
+    louvain2 11
+    lec2 13
+    wt2 1
   ]
   node
   [
@@ -10166,6 +14516,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 55
+    fc2 28
+    sgG12 23
+    Spectral2 282
+    louvain2 11
+    lec2 39
+    wt2 1
   ]
   node
   [
@@ -10180,6 +14536,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 55
+    fc2 38
+    sgG12 23
+    Spectral2 247
+    louvain2 11
+    lec2 13
+    wt2 1
   ]
   node
   [
@@ -10194,6 +14556,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 9
+    fc2 11
+    sgG12 31
+    Spectral2 202
+    louvain2 13
+    lec2 14
+    wt2 20
   ]
   node
   [
@@ -10208,6 +14576,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 46
+    sgG12 7
+    Spectral2 136
+    louvain2 3
+    lec2 1
+    wt2 22
   ]
   node
   [
@@ -10222,6 +14596,12 @@ graph
     sgG1 2
     sgG2 10
     sgG5 56
+    fc2 43
+    sgG12 2
+    Spectral2 86
+    louvain2 9
+    lec2 3
+    wt2 27
   ]
   node
   [
@@ -10236,6 +14616,12 @@ graph
     sgG1 17
     sgG2 52
     sgG5 16
+    fc2 1
+    sgG12 34
+    Spectral2 247
+    louvain2 7
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -10250,6 +14636,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 42
+    wt2 18
   ]
   node
   [
@@ -10264,6 +14656,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 66
+    fc2 24
+    sgG12 34
+    Spectral2 293
+    louvain2 7
+    lec2 42
+    wt2 175
   ]
   node
   [
@@ -10278,6 +14676,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 66
+    fc2 24
+    sgG12 34
+    Spectral2 249
+    louvain2 7
+    lec2 42
+    wt2 175
   ]
   node
   [
@@ -10292,6 +14696,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 46
+    sgG12 8
+    Spectral2 142
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10306,6 +14716,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 75
+    louvain2 4
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10320,6 +14736,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 41
+    fc2 7
+    sgG12 3
+    Spectral2 104
+    louvain2 17
+    lec2 3
+    wt2 100
   ]
   node
   [
@@ -10334,6 +14756,12 @@ graph
     sgG1 8
     sgG2 15
     sgG5 53
+    fc2 15
+    sgG12 8
+    Spectral2 306
+    louvain2 4
+    lec2 3
+    wt2 180
   ]
   node
   [
@@ -10348,6 +14776,12 @@ graph
     sgG1 24
     sgG2 4
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 146
+    louvain2 13
+    lec2 3
+    wt2 2
   ]
   node
   [
@@ -10362,6 +14796,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 99
+    louvain2 3
+    lec2 3
+    wt2 22
   ]
   node
   [
@@ -10376,6 +14816,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10390,6 +14836,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10404,6 +14856,12 @@ graph
     sgG1 9
     sgG2 9
     sgG5 38
+    fc2 1
+    sgG12 9
+    Spectral2 153
+    louvain2 2
+    lec2 3
+    wt2 103
   ]
   node
   [
@@ -10418,6 +14876,12 @@ graph
     sgG1 6
     sgG2 37
     sgG5 75
+    fc2 6
+    sgG12 6
+    Spectral2 87
+    louvain2 14
+    lec2 3
+    wt2 33
   ]
   node
   [
@@ -10432,6 +14896,12 @@ graph
     sgG1 29
     sgG2 11
     sgG5 47
+    fc2 1
+    sgG12 28
+    Spectral2 76
+    louvain2 15
+    lec2 3
+    wt2 4
   ]
   node
   [
@@ -10446,6 +14916,12 @@ graph
     sgG1 5
     sgG2 1
     sgG5 13
+    fc2 2
+    sgG12 5
+    Spectral2 89
+    louvain2 9
+    lec2 3
+    wt2 113
   ]
   node
   [
@@ -10460,6 +14936,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 47
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10474,6 +14956,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10488,6 +14976,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10502,6 +14996,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10516,6 +15016,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10530,6 +15036,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 160
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10544,6 +15056,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 54
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10558,6 +15076,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 129
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10572,6 +15096,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 101
+    louvain2 2
+    lec2 3
+    wt2 61
   ]
   node
   [
@@ -10586,6 +15116,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 104
+    louvain2 3
+    lec2 3
+    wt2 66
   ]
   node
   [
@@ -10600,6 +15136,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 169
+    louvain2 3
+    lec2 3
+    wt2 32
   ]
   node
   [
@@ -10614,6 +15156,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 173
+    louvain2 3
+    lec2 3
+    wt2 175
   ]
   node
   [
@@ -10628,6 +15176,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 85
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10642,6 +15196,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 110
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10656,6 +15216,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 150
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10670,6 +15236,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 88
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -10684,6 +15256,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 92
+    fc2 1
+    sgG12 9
+    Spectral2 53
+    louvain2 9
+    lec2 40
+    wt2 122
   ]
   node
   [
@@ -10698,6 +15276,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 92
+    fc2 1
+    sgG12 9
+    Spectral2 53
+    louvain2 9
+    lec2 62
+    wt2 122
   ]
   node
   [
@@ -10712,6 +15296,12 @@ graph
     sgG1 6
     sgG2 37
     sgG5 75
+    fc2 6
+    sgG12 6
+    Spectral2 247
+    louvain2 14
+    lec2 4
+    wt2 33
   ]
   node
   [
@@ -10726,6 +15316,12 @@ graph
     sgG1 6
     sgG2 37
     sgG5 75
+    fc2 6
+    sgG12 6
+    Spectral2 150
+    louvain2 14
+    lec2 43
+    wt2 33
   ]
   node
   [
@@ -10740,6 +15336,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 53
+    louvain2 1
+    lec2 1
+    wt2 137
   ]
   node
   [
@@ -10754,6 +15356,12 @@ graph
     sgG1 6
     sgG2 37
     sgG5 75
+    fc2 6
+    sgG12 6
+    Spectral2 80
+    louvain2 14
+    lec2 66
+    wt2 33
   ]
   node
   [
@@ -10768,6 +15376,12 @@ graph
     sgG1 6
     sgG2 37
     sgG5 75
+    fc2 6
+    sgG12 6
+    Spectral2 11
+    louvain2 14
+    lec2 28
+    wt2 33
   ]
   node
   [
@@ -10782,6 +15396,12 @@ graph
     sgG1 6
     sgG2 37
     sgG5 75
+    fc2 6
+    sgG12 6
+    Spectral2 11
+    louvain2 14
+    lec2 28
+    wt2 33
   ]
   node
   [
@@ -10796,6 +15416,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 70
+    fc2 26
+    sgG12 42
+    Spectral2 273
+    louvain2 7
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -10810,6 +15436,12 @@ graph
     sgG1 1
     sgG2 8
     sgG5 16
+    fc2 21
+    sgG12 1
+    Spectral2 247
+    louvain2 7
+    lec2 3
+    wt2 186
   ]
   node
   [
@@ -10824,6 +15456,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 44
+    fc2 35
+    sgG12 23
+    Spectral2 93
+    louvain2 11
+    lec2 60
+    wt2 85
   ]
   node
   [
@@ -10838,6 +15476,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 44
+    fc2 35
+    sgG12 23
+    Spectral2 93
+    louvain2 11
+    lec2 60
+    wt2 85
   ]
   node
   [
@@ -10852,6 +15496,12 @@ graph
     sgG1 8
     sgG2 48
     sgG5 19
+    fc2 2
+    sgG12 8
+    Spectral2 210
+    louvain2 9
+    lec2 13
+    wt2 80
   ]
   node
   [
@@ -10866,6 +15516,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 24
+    fc2 10
+    sgG12 26
+    Spectral2 119
+    louvain2 10
+    lec2 54
+    wt2 135
   ]
   node
   [
@@ -10880,6 +15536,12 @@ graph
     sgG1 8
     sgG2 30
     sgG5 82
+    fc2 42
+    sgG12 8
+    Spectral2 49
+    louvain2 10
+    lec2 68
+    wt2 21
   ]
   node
   [
@@ -10894,6 +15556,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 303
+    louvain2 4
+    lec2 48
+    wt2 65
   ]
   node
   [
@@ -10908,6 +15576,12 @@ graph
     sgG1 27
     sgG2 20
     sgG5 48
+    fc2 6
+    sgG12 26
+    Spectral2 11
+    louvain2 14
+    lec2 24
+    wt2 37
   ]
   node
   [
@@ -10922,6 +15596,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 296
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -10936,6 +15616,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 247
+    louvain2 2
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -10950,6 +15636,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 247
+    louvain2 2
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -10964,6 +15656,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 31
+    fc2 26
+    sgG12 9
+    Spectral2 295
+    louvain2 3
+    lec2 15
+    wt2 14
   ]
   node
   [
@@ -10978,6 +15676,12 @@ graph
     sgG1 32
     sgG2 39
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 5
+    wt2 128
   ]
   node
   [
@@ -10992,6 +15696,12 @@ graph
     sgG1 32
     sgG2 39
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 5
+    wt2 128
   ]
   node
   [
@@ -11006,6 +15716,12 @@ graph
     sgG1 32
     sgG2 39
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 5
+    wt2 128
   ]
   node
   [
@@ -11020,6 +15736,12 @@ graph
     sgG1 10
     sgG2 13
     sgG5 12
+    fc2 2
+    sgG12 10
+    Spectral2 123
+    louvain2 25
+    lec2 51
+    wt2 36
   ]
   node
   [
@@ -11034,6 +15756,12 @@ graph
     sgG1 10
     sgG2 13
     sgG5 26
+    fc2 2
+    sgG12 10
+    Spectral2 11
+    louvain2 25
+    lec2 32
+    wt2 36
   ]
   node
   [
@@ -11048,6 +15776,12 @@ graph
     sgG1 2
     sgG2 41
     sgG5 30
+    fc2 4
+    sgG12 2
+    Spectral2 78
+    louvain2 12
+    lec2 1
+    wt2 114
   ]
   node
   [
@@ -11062,6 +15796,12 @@ graph
     sgG1 2
     sgG2 41
     sgG5 30
+    fc2 4
+    sgG12 2
+    Spectral2 64
+    louvain2 12
+    lec2 1
+    wt2 96
   ]
   node
   [
@@ -11076,6 +15816,12 @@ graph
     sgG1 26
     sgG2 48
     sgG5 19
+    fc2 2
+    sgG12 25
+    Spectral2 211
+    louvain2 9
+    lec2 13
+    wt2 21
   ]
   node
   [
@@ -11090,6 +15836,12 @@ graph
     sgG1 26
     sgG2 48
     sgG5 19
+    fc2 2
+    sgG12 25
+    Spectral2 210
+    louvain2 9
+    lec2 24
+    wt2 21
   ]
   node
   [
@@ -11104,6 +15856,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 247
+    louvain2 2
+    lec2 56
+    wt2 9
   ]
   node
   [
@@ -11118,6 +15876,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 279
+    louvain2 2
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -11132,6 +15896,12 @@ graph
     sgG1 26
     sgG2 25
     sgG5 65
+    fc2 36
+    sgG12 25
+    Spectral2 53
+    louvain2 6
+    lec2 68
+    wt2 1
   ]
   node
   [
@@ -11146,6 +15916,12 @@ graph
     sgG1 33
     sgG2 25
     sgG5 65
+    fc2 36
+    sgG12 32
+    Spectral2 53
+    louvain2 6
+    lec2 1
+    wt2 1
   ]
   node
   [
@@ -11160,6 +15936,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 65
+    fc2 15
+    sgG12 34
+    Spectral2 312
+    louvain2 4
+    lec2 16
+    wt2 172
   ]
   node
   [
@@ -11174,6 +15956,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 79
+    fc2 1
+    sgG12 3
+    Spectral2 287
+    louvain2 7
+    lec2 15
+    wt2 1
   ]
   node
   [
@@ -11188,6 +15976,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 247
+    louvain2 2
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -11202,6 +15996,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 38
+    fc2 1
+    sgG12 9
+    Spectral2 247
+    louvain2 2
+    lec2 14
+    wt2 34
   ]
   node
   [
@@ -11216,6 +16016,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 36
+    wt2 7
   ]
   node
   [
@@ -11230,6 +16036,12 @@ graph
     sgG1 16
     sgG2 10
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 16
+    lec2 40
+    wt2 7
   ]
   node
   [
@@ -11244,6 +16056,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 23
+    fc2 10
+    sgG12 29
+    Spectral2 82
+    louvain2 15
+    lec2 36
+    wt2 131
   ]
   node
   [
@@ -11258,6 +16076,12 @@ graph
     sgG1 11
     sgG2 13
     sgG5 26
+    fc2 42
+    sgG12 11
+    Spectral2 11
+    louvain2 25
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -11272,6 +16096,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 26
+    fc2 5
+    sgG12 16
+    Spectral2 30
+    louvain2 16
+    lec2 64
+    wt2 21
   ]
   node
   [
@@ -11286,6 +16116,12 @@ graph
     sgG1 34
     sgG2 40
     sgG5 53
+    fc2 3
+    sgG12 33
+    Spectral2 176
+    louvain2 9
+    lec2 4
+    wt2 75
   ]
   node
   [
@@ -11300,6 +16136,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 29
+    fc2 6
+    sgG12 26
+    Spectral2 123
+    louvain2 9
+    lec2 51
+    wt2 13
   ]
   node
   [
@@ -11314,6 +16156,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 29
+    fc2 6
+    sgG12 15
+    Spectral2 132
+    louvain2 9
+    lec2 51
+    wt2 138
   ]
   node
   [
@@ -11328,6 +16176,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 79
+    fc2 29
+    sgG12 3
+    Spectral2 286
+    louvain2 7
+    lec2 26
+    wt2 1
   ]
   node
   [
@@ -11342,6 +16196,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 79
+    fc2 7
+    sgG12 3
+    Spectral2 286
+    louvain2 7
+    lec2 35
+    wt2 42
   ]
   node
   [
@@ -11356,6 +16216,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 66
+    wt2 32
   ]
   node
   [
@@ -11370,6 +16236,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 25
+    wt2 56
   ]
   node
   [
@@ -11384,6 +16256,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 304
+    louvain2 11
+    lec2 25
+    wt2 32
   ]
   node
   [
@@ -11398,6 +16276,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 22
   ]
   node
   [
@@ -11412,6 +16296,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 296
+    louvain2 11
+    lec2 48
+    wt2 32
   ]
   node
   [
@@ -11426,6 +16316,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 247
+    louvain2 2
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -11440,6 +16336,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 53
+    louvain2 14
+    lec2 56
+    wt2 35
   ]
   node
   [
@@ -11454,6 +16356,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 9
+    louvain2 18
+    lec2 26
+    wt2 12
   ]
   node
   [
@@ -11468,6 +16376,12 @@ graph
     sgG1 31
     sgG2 13
     sgG5 12
+    fc2 2
+    sgG12 30
+    Spectral2 115
+    louvain2 23
+    lec2 51
+    wt2 129
   ]
   node
   [
@@ -11482,6 +16396,12 @@ graph
     sgG1 31
     sgG2 13
     sgG5 12
+    fc2 2
+    sgG12 30
+    Spectral2 63
+    louvain2 23
+    lec2 58
+    wt2 129
   ]
   node
   [
@@ -11496,6 +16416,12 @@ graph
     sgG1 5
     sgG2 1
     sgG5 13
+    fc2 2
+    sgG12 5
+    Spectral2 89
+    louvain2 9
+    lec2 3
+    wt2 113
   ]
   node
   [
@@ -11510,6 +16436,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 23
+    wt2 123
   ]
   node
   [
@@ -11524,6 +16456,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 36
+    louvain2 15
+    lec2 23
+    wt2 123
   ]
   node
   [
@@ -11538,6 +16476,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 45
+    sgG12 26
+    Spectral2 246
+    louvain2 14
+    lec2 60
+    wt2 13
   ]
   node
   [
@@ -11552,6 +16496,12 @@ graph
     sgG1 16
     sgG2 13
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 124
+    louvain2 14
+    lec2 60
+    wt2 136
   ]
   node
   [
@@ -11566,6 +16516,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 75
+    louvain2 1
+    lec2 60
+    wt2 99
   ]
   node
   [
@@ -11580,6 +16536,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 130
+    louvain2 14
+    lec2 60
+    wt2 13
   ]
   node
   [
@@ -11594,6 +16556,12 @@ graph
     sgG1 24
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 23
+    Spectral2 167
+    louvain2 14
+    lec2 14
+    wt2 6
   ]
   node
   [
@@ -11608,6 +16576,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 123
+    louvain2 14
+    lec2 60
+    wt2 13
   ]
   node
   [
@@ -11622,6 +16596,12 @@ graph
     sgG1 27
     sgG2 20
     sgG5 48
+    fc2 6
+    sgG12 26
+    Spectral2 104
+    louvain2 14
+    lec2 60
+    wt2 37
   ]
   node
   [
@@ -11636,6 +16616,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 130
+    louvain2 14
+    lec2 60
+    wt2 13
   ]
   node
   [
@@ -11650,6 +16636,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 125
+    louvain2 14
+    lec2 60
+    wt2 13
   ]
   node
   [
@@ -11664,6 +16656,12 @@ graph
     sgG1 8
     sgG2 50
     sgG5 59
+    fc2 2
+    sgG12 8
+    Spectral2 220
+    louvain2 9
+    lec2 49
+    wt2 7
   ]
   node
   [
@@ -11678,6 +16676,12 @@ graph
     sgG1 11
     sgG2 13
     sgG5 26
+    fc2 42
+    sgG12 11
+    Spectral2 11
+    louvain2 25
+    lec2 25
+    wt2 6
   ]
   node
   [
@@ -11692,6 +16696,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 79
+    fc2 49
+    sgG12 3
+    Spectral2 286
+    louvain2 7
+    lec2 24
+    wt2 1
   ]
   node
   [
@@ -11706,6 +16716,12 @@ graph
     sgG1 32
     sgG2 30
     sgG5 82
+    fc2 16
+    sgG12 31
+    Spectral2 11
+    louvain2 10
+    lec2 30
+    wt2 2
   ]
   node
   [
@@ -11720,6 +16736,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -11734,6 +16756,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 15
+    louvain2 20
+    lec2 48
+    wt2 6
   ]
   node
   [
@@ -11748,6 +16776,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -11762,6 +16796,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 11
+    louvain2 18
+    lec2 25
+    wt2 12
   ]
   node
   [
@@ -11776,6 +16816,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 56
+    fc2 43
+    sgG12 31
+    Spectral2 53
+    louvain2 4
+    lec2 68
+    wt2 21
   ]
   node
   [
@@ -11790,6 +16836,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 18
+    fc2 24
+    sgG12 41
+    Spectral2 174
+    louvain2 4
+    lec2 49
+    wt2 31
   ]
   node
   [
@@ -11804,6 +16856,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 18
+    fc2 24
+    sgG12 41
+    Spectral2 185
+    louvain2 4
+    lec2 49
+    wt2 31
   ]
   node
   [
@@ -11818,6 +16876,12 @@ graph
     sgG1 2
     sgG2 23
     sgG5 81
+    fc2 37
+    sgG12 2
+    Spectral2 11
+    louvain2 12
+    lec2 28
+    wt2 17
   ]
   node
   [
@@ -11832,6 +16896,12 @@ graph
     sgG1 29
     sgG2 37
     sgG5 34
+    fc2 40
+    sgG12 28
+    Spectral2 110
+    louvain2 14
+    lec2 66
+    wt2 32
   ]
   node
   [
@@ -11846,6 +16916,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 163
+    louvain2 11
+    lec2 66
+    wt2 32
   ]
   node
   [
@@ -11860,6 +16936,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 66
+    wt2 56
   ]
   node
   [
@@ -11874,6 +16956,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 202
+    louvain2 14
+    lec2 4
+    wt2 83
   ]
   node
   [
@@ -11888,6 +16976,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 40
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -11902,6 +16996,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 40
+    Spectral2 282
+    louvain2 7
+    lec2 23
+    wt2 18
   ]
   node
   [
@@ -11916,6 +17016,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 23
+    louvain2 18
+    lec2 26
+    wt2 12
   ]
   node
   [
@@ -11930,6 +17036,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 23
+    louvain2 18
+    lec2 26
+    wt2 12
   ]
   node
   [
@@ -11944,6 +17056,12 @@ graph
     sgG1 4
     sgG2 49
     sgG5 65
+    fc2 3
+    sgG12 4
+    Spectral2 74
+    louvain2 6
+    lec2 57
+    wt2 38
   ]
   node
   [
@@ -11958,6 +17076,12 @@ graph
     sgG1 4
     sgG2 49
     sgG5 65
+    fc2 3
+    sgG12 4
+    Spectral2 72
+    louvain2 6
+    lec2 57
+    wt2 38
   ]
   node
   [
@@ -11972,6 +17096,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 56
+    fc2 2
+    sgG12 25
+    Spectral2 56
+    louvain2 9
+    lec2 68
+    wt2 58
   ]
   node
   [
@@ -11986,6 +17116,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 56
+    fc2 2
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 68
+    wt2 58
   ]
   node
   [
@@ -12000,6 +17136,12 @@ graph
     sgG1 23
     sgG2 30
     sgG5 82
+    fc2 4
+    sgG12 22
+    Spectral2 53
+    louvain2 10
+    lec2 59
+    wt2 2
   ]
   node
   [
@@ -12014,6 +17156,12 @@ graph
     sgG1 23
     sgG2 30
     sgG5 82
+    fc2 4
+    sgG12 22
+    Spectral2 53
+    louvain2 10
+    lec2 1
+    wt2 2
   ]
   node
   [
@@ -12028,6 +17176,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 7
+    sgG12 25
+    Spectral2 252
+    louvain2 6
+    lec2 21
+    wt2 30
   ]
   node
   [
@@ -12042,6 +17196,12 @@ graph
     sgG1 26
     sgG2 43
     sgG5 85
+    fc2 7
+    sgG12 25
+    Spectral2 292
+    louvain2 6
+    lec2 21
+    wt2 30
   ]
   node
   [
@@ -12056,6 +17216,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 34
+    fc2 15
+    sgG12 39
+    Spectral2 303
+    louvain2 4
+    lec2 40
+    wt2 172
   ]
   node
   [
@@ -12070,6 +17236,12 @@ graph
     sgG1 17
     sgG2 40
     sgG5 52
+    fc2 2
+    sgG12 43
+    Spectral2 303
+    louvain2 9
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -12084,6 +17256,12 @@ graph
     sgG1 1
     sgG2 44
     sgG5 18
+    fc2 21
+    sgG12 1
+    Spectral2 189
+    louvain2 4
+    lec2 49
+    wt2 133
   ]
   node
   [
@@ -12098,6 +17276,12 @@ graph
     sgG1 1
     sgG2 8
     sgG5 18
+    fc2 21
+    sgG12 1
+    Spectral2 304
+    louvain2 4
+    lec2 3
+    wt2 133
   ]
   node
   [
@@ -12112,6 +17296,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 23
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 17
+    wt2 121
   ]
   node
   [
@@ -12126,6 +17316,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 23
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 24
+    wt2 121
   ]
   node
   [
@@ -12140,6 +17336,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 126
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -12154,6 +17356,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 10
+    louvain2 21
+    lec2 24
+    wt2 46
   ]
   node
   [
@@ -12168,6 +17376,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 10
+    louvain2 21
+    lec2 24
+    wt2 46
   ]
   node
   [
@@ -12182,6 +17396,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 47
+    sgG12 11
+    Spectral2 51
+    louvain2 21
+    lec2 34
+    wt2 46
   ]
   node
   [
@@ -12196,6 +17416,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 4
+    wt2 56
   ]
   node
   [
@@ -12210,6 +17436,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 4
+    louvain2 11
+    lec2 4
+    wt2 5
   ]
   node
   [
@@ -12224,6 +17456,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 9
+    fc2 11
+    sgG12 31
+    Spectral2 202
+    louvain2 13
+    lec2 21
+    wt2 20
   ]
   node
   [
@@ -12238,6 +17476,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 36
+    louvain2 15
+    lec2 23
+    wt2 123
   ]
   node
   [
@@ -12252,6 +17496,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 16
+    wt2 28
   ]
   node
   [
@@ -12266,6 +17516,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 34
+    fc2 15
+    sgG12 39
+    Spectral2 252
+    louvain2 4
+    lec2 40
+    wt2 172
   ]
   node
   [
@@ -12280,6 +17536,12 @@ graph
     sgG1 32
     sgG2 39
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 5
+    wt2 128
   ]
   node
   [
@@ -12294,6 +17556,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 34
+    fc2 15
+    sgG12 39
+    Spectral2 303
+    louvain2 4
+    lec2 48
+    wt2 172
   ]
   node
   [
@@ -12308,6 +17576,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 167
+    louvain2 11
+    lec2 12
+    wt2 32
   ]
   node
   [
@@ -12322,6 +17596,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 164
+    louvain2 3
+    lec2 3
+    wt2 32
   ]
   node
   [
@@ -12336,6 +17616,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 266
+    louvain2 4
+    lec2 61
+    wt2 181
   ]
   node
   [
@@ -12350,6 +17636,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 170
+    louvain2 11
+    lec2 12
+    wt2 32
   ]
   node
   [
@@ -12364,6 +17656,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 166
+    louvain2 11
+    lec2 12
+    wt2 32
   ]
   node
   [
@@ -12378,6 +17676,12 @@ graph
     sgG1 25
     sgG2 20
     sgG5 48
+    fc2 8
+    sgG12 24
+    Spectral2 49
+    louvain2 13
+    lec2 23
+    wt2 6
   ]
   node
   [
@@ -12392,6 +17696,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 8
+    sgG12 23
+    Spectral2 167
+    louvain2 11
+    lec2 12
+    wt2 32
   ]
   node
   [
@@ -12406,6 +17716,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 81
+    louvain2 14
+    lec2 6
+    wt2 48
   ]
   node
   [
@@ -12420,6 +17736,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 81
+    louvain2 14
+    lec2 6
+    wt2 48
   ]
   node
   [
@@ -12434,6 +17756,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 66
+    fc2 24
+    sgG12 34
+    Spectral2 161
+    louvain2 6
+    lec2 40
+    wt2 15
   ]
   node
   [
@@ -12448,6 +17776,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 66
+    fc2 24
+    sgG12 34
+    Spectral2 161
+    louvain2 6
+    lec2 40
+    wt2 15
   ]
   node
   [
@@ -12462,6 +17796,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 53
+    louvain2 14
+    lec2 59
+    wt2 35
   ]
   node
   [
@@ -12476,6 +17816,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 53
+    louvain2 14
+    lec2 59
+    wt2 35
   ]
   node
   [
@@ -12490,6 +17836,12 @@ graph
     sgG1 8
     sgG2 29
     sgG5 70
+    fc2 44
+    sgG12 8
+    Spectral2 35
+    louvain2 21
+    lec2 34
+    wt2 14
   ]
   node
   [
@@ -12504,6 +17856,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 47
+    sgG12 11
+    Spectral2 44
+    louvain2 21
+    lec2 34
+    wt2 46
   ]
   node
   [
@@ -12518,6 +17876,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 47
+    sgG12 11
+    Spectral2 48
+    louvain2 21
+    lec2 34
+    wt2 46
   ]
   node
   [
@@ -12532,6 +17896,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 20
+    Spectral2 203
+    louvain2 24
+    lec2 21
+    wt2 11
   ]
   node
   [
@@ -12546,6 +17916,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 16
+    fc2 31
+    sgG12 42
+    Spectral2 247
+    louvain2 7
+    lec2 39
+    wt2 188
   ]
   node
   [
@@ -12560,6 +17936,12 @@ graph
     sgG1 23
     sgG2 40
     sgG5 31
+    fc2 4
+    sgG12 22
+    Spectral2 153
+    louvain2 9
+    lec2 23
+    wt2 14
   ]
   node
   [
@@ -12574,6 +17956,12 @@ graph
     sgG1 33
     sgG2 11
     sgG5 49
+    fc2 37
+    sgG12 32
+    Spectral2 287
+    louvain2 3
+    lec2 13
+    wt2 1
   ]
   node
   [
@@ -12588,6 +17976,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -12602,6 +17996,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -12616,6 +18016,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 8
+    Spectral2 69
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -12630,6 +18036,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 8
+    Spectral2 152
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -12644,6 +18056,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 8
+    Spectral2 153
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -12658,6 +18076,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 88
+    fc2 28
+    sgG12 38
+    Spectral2 247
+    louvain2 4
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -12672,6 +18096,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 6
+    fc2 4
+    sgG12 22
+    Spectral2 184
+    louvain2 15
+    lec2 40
+    wt2 6
   ]
   node
   [
@@ -12686,6 +18116,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -12700,6 +18136,12 @@ graph
     sgG1 23
     sgG2 38
     sgG5 78
+    fc2 4
+    sgG12 22
+    Spectral2 202
+    louvain2 10
+    lec2 32
+    wt2 40
   ]
   node
   [
@@ -12714,6 +18156,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 6
+    fc2 7
+    sgG12 7
+    Spectral2 49
+    louvain2 17
+    lec2 38
+    wt2 92
   ]
   node
   [
@@ -12728,6 +18176,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 6
+    fc2 4
+    sgG12 22
+    Spectral2 210
+    louvain2 15
+    lec2 32
+    wt2 141
   ]
   node
   [
@@ -12742,6 +18196,12 @@ graph
     sgG1 29
     sgG2 11
     sgG5 47
+    fc2 1
+    sgG12 28
+    Spectral2 49
+    louvain2 15
+    lec2 32
+    wt2 4
   ]
   node
   [
@@ -12756,6 +18216,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 53
+    fc2 28
+    sgG12 38
+    Spectral2 296
+    louvain2 4
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -12770,6 +18236,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 53
+    fc2 15
+    sgG12 25
+    Spectral2 278
+    louvain2 9
+    lec2 68
+    wt2 21
   ]
   node
   [
@@ -12784,6 +18256,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 32
+    fc2 15
+    sgG12 39
+    Spectral2 259
+    louvain2 4
+    lec2 40
+    wt2 180
   ]
   node
   [
@@ -12798,6 +18276,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 247
+    louvain2 1
+    lec2 40
+    wt2 99
   ]
   node
   [
@@ -12812,6 +18296,12 @@ graph
     sgG1 32
     sgG2 15
     sgG5 53
+    fc2 19
+    sgG12 31
+    Spectral2 257
+    louvain2 13
+    lec2 40
+    wt2 20
   ]
   node
   [
@@ -12826,6 +18316,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 53
+    fc2 15
+    sgG12 39
+    Spectral2 306
+    louvain2 4
+    lec2 40
+    wt2 180
   ]
   node
   [
@@ -12840,6 +18336,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 53
+    fc2 27
+    sgG12 26
+    Spectral2 185
+    louvain2 4
+    lec2 40
+    wt2 13
   ]
   node
   [
@@ -12854,6 +18356,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 28
+    louvain2 16
+    lec2 64
+    wt2 12
   ]
   node
   [
@@ -12868,6 +18376,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 47
+    fc2 5
+    sgG12 16
+    Spectral2 10
+    louvain2 16
+    lec2 24
+    wt2 12
   ]
   node
   [
@@ -12882,6 +18396,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 49
+    louvain2 11
+    lec2 3
+    wt2 6
   ]
   node
   [
@@ -12896,6 +18416,12 @@ graph
     sgG1 24
     sgG2 6
     sgG5 66
+    fc2 28
+    sgG12 23
+    Spectral2 186
+    louvain2 11
+    lec2 14
+    wt2 174
   ]
   node
   [
@@ -12910,6 +18436,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 175
+    louvain2 11
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -12924,6 +18456,12 @@ graph
     sgG1 23
     sgG2 48
     sgG5 14
+    fc2 4
+    sgG12 22
+    Spectral2 188
+    louvain2 9
+    lec2 43
+    wt2 12
   ]
   node
   [
@@ -12938,6 +18476,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 175
+    louvain2 11
+    lec2 43
+    wt2 6
   ]
   node
   [
@@ -12952,6 +18496,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 46
+    wt2 18
   ]
   node
   [
@@ -12966,6 +18516,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 3
+    sgG12 23
+    Spectral2 181
+    louvain2 11
+    lec2 43
+    wt2 87
   ]
   node
   [
@@ -12980,6 +18536,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 187
+    louvain2 11
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -12994,6 +18556,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 183
+    louvain2 11
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -13008,6 +18576,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 175
+    louvain2 11
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -13022,6 +18596,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 187
+    louvain2 11
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -13036,6 +18616,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 178
+    louvain2 11
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -13050,6 +18636,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 58
+    fc2 28
+    sgG12 23
+    Spectral2 177
+    louvain2 11
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -13064,6 +18656,12 @@ graph
     sgG1 2
     sgG2 49
     sgG5 81
+    fc2 3
+    sgG12 2
+    Spectral2 27
+    louvain2 12
+    lec2 28
+    wt2 126
   ]
   node
   [
@@ -13078,6 +18676,12 @@ graph
     sgG1 27
     sgG2 10
     sgG5 16
+    fc2 31
+    sgG12 26
+    Spectral2 100
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -13092,6 +18696,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 51
+    wt2 28
   ]
   node
   [
@@ -13106,6 +18716,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 16
+    wt2 28
   ]
   node
   [
@@ -13120,6 +18736,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 16
+    wt2 28
   ]
   node
   [
@@ -13134,6 +18756,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 16
+    wt2 28
   ]
   node
   [
@@ -13148,6 +18776,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 8
+    wt2 28
   ]
   node
   [
@@ -13162,6 +18796,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 16
+    wt2 28
   ]
   node
   [
@@ -13176,6 +18816,12 @@ graph
     sgG1 33
     sgG2 29
     sgG5 59
+    fc2 36
+    sgG12 32
+    Spectral2 199
+    louvain2 6
+    lec2 16
+    wt2 150
   ]
   node
   [
@@ -13190,6 +18836,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 14
+    louvain2 20
+    lec2 24
+    wt2 6
   ]
   node
   [
@@ -13204,6 +18856,12 @@ graph
     sgG1 22
     sgG2 36
     sgG5 92
+    fc2 7
+    sgG12 21
+    Spectral2 11
+    louvain2 4
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -13218,6 +18876,12 @@ graph
     sgG1 25
     sgG2 20
     sgG5 48
+    fc2 8
+    sgG12 24
+    Spectral2 50
+    louvain2 13
+    lec2 23
+    wt2 6
   ]
   node
   [
@@ -13232,6 +18896,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 67
+    wt2 10
   ]
   node
   [
@@ -13246,6 +18916,12 @@ graph
     sgG1 22
     sgG2 47
     sgG5 67
+    fc2 13
+    sgG12 21
+    Spectral2 161
+    louvain2 8
+    lec2 17
+    wt2 64
   ]
   node
   [
@@ -13260,6 +18936,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 222
+    louvain2 14
+    lec2 4
+    wt2 41
   ]
   node
   [
@@ -13274,6 +18956,12 @@ graph
     sgG1 3
     sgG2 5
     sgG5 79
+    fc2 26
+    sgG12 3
+    Spectral2 286
+    louvain2 7
+    lec2 4
+    wt2 98
   ]
   node
   [
@@ -13288,6 +18976,12 @@ graph
     sgG1 3
     sgG2 5
     sgG5 79
+    fc2 26
+    sgG12 3
+    Spectral2 286
+    louvain2 7
+    lec2 4
+    wt2 98
   ]
   node
   [
@@ -13302,6 +18996,12 @@ graph
     sgG1 3
     sgG2 5
     sgG5 79
+    fc2 26
+    sgG12 3
+    Spectral2 286
+    louvain2 7
+    lec2 39
+    wt2 1
   ]
   node
   [
@@ -13316,6 +19016,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -13330,6 +19036,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -13344,6 +19056,12 @@ graph
     sgG1 33
     sgG2 23
     sgG5 56
+    fc2 43
+    sgG12 32
+    Spectral2 11
+    louvain2 12
+    lec2 72
+    wt2 95
   ]
   node
   [
@@ -13358,6 +19076,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 77
+    fc2 28
+    sgG12 23
+    Spectral2 168
+    louvain2 11
+    lec2 16
+    wt2 32
   ]
   node
   [
@@ -13372,6 +19096,12 @@ graph
     sgG1 32
     sgG2 30
     sgG5 82
+    fc2 17
+    sgG12 31
+    Spectral2 49
+    louvain2 10
+    lec2 30
+    wt2 2
   ]
   node
   [
@@ -13386,6 +19116,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 58
+    louvain2 1
+    lec2 62
+    wt2 99
   ]
   node
   [
@@ -13400,6 +19136,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 147
+    louvain2 1
+    lec2 62
+    wt2 63
   ]
   node
   [
@@ -13414,6 +19156,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 150
+    louvain2 1
+    lec2 62
+    wt2 99
   ]
   node
   [
@@ -13428,6 +19176,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 41
+    fc2 7
+    sgG12 3
+    Spectral2 292
+    louvain2 7
+    lec2 35
+    wt2 134
   ]
   node
   [
@@ -13442,6 +19196,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 41
+    fc2 7
+    sgG12 3
+    Spectral2 2
+    louvain2 17
+    lec2 4
+    wt2 100
   ]
   node
   [
@@ -13456,6 +19216,12 @@ graph
     sgG1 27
     sgG2 29
     sgG5 70
+    fc2 3
+    sgG12 26
+    Spectral2 275
+    louvain2 4
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -13470,6 +19236,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 88
+    fc2 24
+    sgG12 34
+    Spectral2 303
+    louvain2 4
+    lec2 43
+    wt2 175
   ]
   node
   [
@@ -13484,6 +19256,12 @@ graph
     sgG1 32
     sgG2 50
     sgG5 89
+    fc2 11
+    sgG12 31
+    Spectral2 208
+    louvain2 13
+    lec2 14
+    wt2 20
   ]
   node
   [
@@ -13498,6 +19276,12 @@ graph
     sgG1 7
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 7
+    Spectral2 23
+    louvain2 14
+    lec2 38
+    wt2 20
   ]
   node
   [
@@ -13512,6 +19296,12 @@ graph
     sgG1 2
     sgG2 49
     sgG5 81
+    fc2 3
+    sgG12 2
+    Spectral2 23
+    louvain2 12
+    lec2 26
+    wt2 126
   ]
   node
   [
@@ -13526,6 +19316,12 @@ graph
     sgG1 2
     sgG2 49
     sgG5 81
+    fc2 3
+    sgG12 2
+    Spectral2 26
+    louvain2 12
+    lec2 37
+    wt2 126
   ]
   node
   [
@@ -13540,6 +19336,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 267
+    louvain2 4
+    lec2 58
+    wt2 181
   ]
   node
   [
@@ -13554,6 +19356,12 @@ graph
     sgG1 23
     sgG2 40
     sgG5 35
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 12
+    lec2 48
+    wt2 4
   ]
   node
   [
@@ -13568,6 +19376,12 @@ graph
     sgG1 23
     sgG2 48
     sgG5 14
+    fc2 4
+    sgG12 22
+    Spectral2 188
+    louvain2 9
+    lec2 23
+    wt2 12
   ]
   node
   [
@@ -13582,6 +19396,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -13596,6 +19416,12 @@ graph
     sgG1 31
     sgG2 13
     sgG5 12
+    fc2 2
+    sgG12 30
+    Spectral2 110
+    louvain2 23
+    lec2 23
+    wt2 1
   ]
   node
   [
@@ -13610,6 +19436,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 43
+    louvain2 15
+    lec2 23
+    wt2 185
   ]
   node
   [
@@ -13624,6 +19456,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 34
+    louvain2 15
+    lec2 23
+    wt2 185
   ]
   node
   [
@@ -13638,6 +19476,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 40
+    louvain2 15
+    lec2 23
+    wt2 185
   ]
   node
   [
@@ -13652,6 +19496,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 23
+    wt2 185
   ]
   node
   [
@@ -13666,6 +19516,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 41
+    fc2 7
+    sgG12 3
+    Spectral2 259
+    louvain2 7
+    lec2 23
+    wt2 134
   ]
   node
   [
@@ -13680,6 +19536,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 74
+    fc2 7
+    sgG12 7
+    Spectral2 49
+    louvain2 17
+    lec2 38
+    wt2 22
   ]
   node
   [
@@ -13694,6 +19556,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 39
+    louvain2 15
+    lec2 23
+    wt2 185
   ]
   node
   [
@@ -13708,6 +19576,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 23
+    wt2 185
   ]
   node
   [
@@ -13722,6 +19596,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 37
+    louvain2 15
+    lec2 23
+    wt2 185
   ]
   node
   [
@@ -13736,6 +19616,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 12
+    fc2 6
+    sgG12 26
+    Spectral2 61
+    louvain2 23
+    lec2 50
+    wt2 151
   ]
   node
   [
@@ -13750,6 +19636,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 185
+    louvain2 17
+    lec2 50
+    wt2 22
   ]
   node
   [
@@ -13764,6 +19656,12 @@ graph
     sgG1 27
     sgG2 8
     sgG5 43
+    fc2 30
+    sgG12 26
+    Spectral2 288
+    louvain2 5
+    lec2 4
+    wt2 81
   ]
   node
   [
@@ -13778,6 +19676,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 18
+    fc2 24
+    sgG12 41
+    Spectral2 180
+    louvain2 4
+    lec2 49
+    wt2 31
   ]
   node
   [
@@ -13792,6 +19696,12 @@ graph
     sgG1 8
     sgG2 13
     sgG5 26
+    fc2 42
+    sgG12 8
+    Spectral2 11
+    louvain2 25
+    lec2 32
+    wt2 6
   ]
   node
   [
@@ -13806,6 +19716,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 23
+    fc2 10
+    sgG12 29
+    Spectral2 41
+    louvain2 15
+    lec2 16
+    wt2 6
   ]
   node
   [
@@ -13820,6 +19736,12 @@ graph
     sgG1 26
     sgG2 49
     sgG5 33
+    fc2 25
+    sgG12 25
+    Spectral2 283
+    louvain2 4
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -13834,6 +19756,12 @@ graph
     sgG1 26
     sgG2 49
     sgG5 33
+    fc2 22
+    sgG12 25
+    Spectral2 307
+    louvain2 4
+    lec2 16
+    wt2 67
   ]
   node
   [
@@ -13848,6 +19776,12 @@ graph
     sgG1 26
     sgG2 49
     sgG5 33
+    fc2 22
+    sgG12 25
+    Spectral2 307
+    louvain2 4
+    lec2 16
+    wt2 67
   ]
   node
   [
@@ -13862,6 +19796,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 65
+    fc2 3
+    sgG12 11
+    Spectral2 31
+    louvain2 23
+    lec2 4
+    wt2 43
   ]
   node
   [
@@ -13876,6 +19816,12 @@ graph
     sgG1 11
     sgG2 35
     sgG5 54
+    fc2 49
+    sgG12 11
+    Spectral2 247
+    louvain2 19
+    lec2 16
+    wt2 173
   ]
   node
   [
@@ -13890,6 +19836,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 53
+    wt2 4
   ]
   node
   [
@@ -13904,6 +19856,12 @@ graph
     sgG1 24
     sgG2 6
     sgG5 66
+    fc2 28
+    sgG12 23
+    Spectral2 189
+    louvain2 11
+    lec2 4
+    wt2 152
   ]
   node
   [
@@ -13918,6 +19876,12 @@ graph
     sgG1 22
     sgG2 8
     sgG5 61
+    fc2 29
+    sgG12 21
+    Spectral2 311
+    louvain2 14
+    lec2 21
+    wt2 13
   ]
   node
   [
@@ -13932,6 +19896,12 @@ graph
     sgG1 17
     sgG2 26
     sgG5 6
+    fc2 4
+    sgG12 35
+    Spectral2 299
+    louvain2 15
+    lec2 49
+    wt2 6
   ]
   node
   [
@@ -13946,6 +19916,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 23
+    fc2 10
+    sgG12 29
+    Spectral2 299
+    louvain2 15
+    lec2 49
+    wt2 16
   ]
   node
   [
@@ -13960,6 +19936,12 @@ graph
     sgG1 12
     sgG2 51
     sgG5 55
+    fc2 38
+    sgG12 12
+    Spectral2 11
+    louvain2 11
+    lec2 63
+    wt2 26
   ]
   node
   [
@@ -13974,6 +19956,12 @@ graph
     sgG1 27
     sgG2 29
     sgG5 70
+    fc2 26
+    sgG12 26
+    Spectral2 298
+    louvain2 5
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -13988,6 +19976,12 @@ graph
     sgG1 27
     sgG2 29
     sgG5 70
+    fc2 3
+    sgG12 26
+    Spectral2 280
+    louvain2 4
+    lec2 26
+    wt2 9
   ]
   node
   [
@@ -14002,6 +19996,12 @@ graph
     sgG1 31
     sgG2 29
     sgG5 70
+    fc2 1
+    sgG12 30
+    Spectral2 281
+    louvain2 4
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -14016,6 +20016,12 @@ graph
     sgG1 27
     sgG2 29
     sgG5 70
+    fc2 1
+    sgG12 26
+    Spectral2 1
+    louvain2 4
+    lec2 15
+    wt2 9
   ]
   node
   [
@@ -14030,6 +20036,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 1
+    sgG12 36
+    Spectral2 251
+    louvain2 4
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -14044,6 +20056,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 6
+    fc2 3
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 15
+    wt2 29
   ]
   node
   [
@@ -14058,6 +20076,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 1
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 15
+    wt2 175
   ]
   node
   [
@@ -14072,6 +20096,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 1
+    sgG12 31
+    Spectral2 308
+    louvain2 13
+    lec2 15
+    wt2 28
   ]
   node
   [
@@ -14086,6 +20116,12 @@ graph
     sgG1 27
     sgG2 36
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 296
+    louvain2 14
+    lec2 15
+    wt2 6
   ]
   node
   [
@@ -14100,6 +20136,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 23
+    louvain2 18
+    lec2 26
+    wt2 12
   ]
   node
   [
@@ -14114,6 +20156,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 62
+    fc2 7
+    sgG12 7
+    Spectral2 23
+    louvain2 17
+    lec2 38
+    wt2 22
   ]
   node
   [
@@ -14128,6 +20176,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 239
+    louvain2 11
+    lec2 49
+    wt2 87
   ]
   node
   [
@@ -14142,6 +20196,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 239
+    louvain2 11
+    lec2 17
+    wt2 87
   ]
   node
   [
@@ -14156,6 +20216,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 232
+    louvain2 11
+    lec2 17
+    wt2 87
   ]
   node
   [
@@ -14170,6 +20236,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 239
+    louvain2 11
+    lec2 17
+    wt2 87
   ]
   node
   [
@@ -14184,6 +20256,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 6
+    fc2 3
+    sgG12 22
+    Spectral2 49
+    louvain2 15
+    lec2 32
+    wt2 29
   ]
   node
   [
@@ -14198,6 +20276,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 23
+    fc2 10
+    sgG12 29
+    Spectral2 49
+    louvain2 15
+    lec2 32
+    wt2 6
   ]
   node
   [
@@ -14212,6 +20296,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 23
+    fc2 10
+    sgG12 29
+    Spectral2 109
+    louvain2 15
+    lec2 9
+    wt2 16
   ]
   node
   [
@@ -14226,6 +20316,12 @@ graph
     sgG1 11
     sgG2 49
     sgG5 62
+    fc2 3
+    sgG12 11
+    Spectral2 13
+    louvain2 18
+    lec2 52
+    wt2 12
   ]
   node
   [
@@ -14240,6 +20336,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 225
+    louvain2 9
+    lec2 38
+    wt2 4
   ]
   node
   [
@@ -14254,6 +20356,12 @@ graph
     sgG1 32
     sgG2 36
     sgG5 45
+    fc2 25
+    sgG12 31
+    Spectral2 296
+    louvain2 13
+    lec2 48
+    wt2 142
   ]
   node
   [
@@ -14268,6 +20376,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 48
+    wt2 175
   ]
   node
   [
@@ -14282,6 +20396,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 20
+    fc2 6
+    sgG12 20
+    Spectral2 203
+    louvain2 15
+    lec2 48
+    wt2 139
   ]
   node
   [
@@ -14296,6 +20416,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 48
+    wt2 175
   ]
   node
   [
@@ -14310,6 +20436,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 48
+    wt2 175
   ]
   node
   [
@@ -14324,6 +20456,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 3
+    fc2 9
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 16
+    wt2 50
   ]
   node
   [
@@ -14338,6 +20476,12 @@ graph
     sgG1 17
     sgG2 49
     sgG5 11
+    fc2 18
+    sgG12 34
+    Spectral2 296
+    louvain2 4
+    lec2 16
+    wt2 172
   ]
   node
   [
@@ -14352,6 +20496,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 247
+    louvain2 4
+    lec2 48
+    wt2 175
   ]
   node
   [
@@ -14366,6 +20516,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 48
+    wt2 175
   ]
   node
   [
@@ -14380,6 +20536,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -14394,6 +20556,12 @@ graph
     sgG1 23
     sgG2 26
     sgG5 6
+    fc2 15
+    sgG12 22
+    Spectral2 304
+    louvain2 4
+    lec2 16
+    wt2 172
   ]
   node
   [
@@ -14408,6 +20576,12 @@ graph
     sgG1 22
     sgG2 16
     sgG5 37
+    fc2 13
+    sgG12 21
+    Spectral2 215
+    louvain2 10
+    lec2 4
+    wt2 57
   ]
   node
   [
@@ -14422,6 +20596,12 @@ graph
     sgG1 7
     sgG2 50
     sgG5 63
+    fc2 45
+    sgG12 7
+    Spectral2 227
+    louvain2 6
+    lec2 4
+    wt2 84
   ]
   node
   [
@@ -14436,6 +20616,12 @@ graph
     sgG1 16
     sgG2 43
     sgG5 85
+    fc2 7
+    sgG12 16
+    Spectral2 255
+    louvain2 6
+    lec2 64
+    wt2 30
   ]
   node
   [
@@ -14450,6 +20636,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -14464,6 +20656,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 11
+    louvain2 14
+    lec2 60
+    wt2 18
   ]
   node
   [
@@ -14478,6 +20676,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 33
+    fc2 2
+    sgG12 25
+    Spectral2 91
+    louvain2 9
+    lec2 68
+    wt2 107
   ]
   node
   [
@@ -14492,6 +20696,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 33
+    fc2 2
+    sgG12 25
+    Spectral2 91
+    louvain2 9
+    lec2 68
+    wt2 107
   ]
   node
   [
@@ -14506,6 +20716,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 1
+    louvain2 4
+    lec2 16
+    wt2 153
   ]
   node
   [
@@ -14520,6 +20736,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -14534,6 +20756,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -14548,6 +20776,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -14562,6 +20796,12 @@ graph
     sgG1 17
     sgG2 49
     sgG5 11
+    fc2 18
+    sgG12 34
+    Spectral2 307
+    louvain2 4
+    lec2 13
+    wt2 79
   ]
   node
   [
@@ -14576,6 +20816,12 @@ graph
     sgG1 17
     sgG2 49
     sgG5 11
+    fc2 18
+    sgG12 34
+    Spectral2 247
+    louvain2 4
+    lec2 4
+    wt2 79
   ]
   node
   [
@@ -14590,6 +20836,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 11
+    fc2 8
+    sgG12 23
+    Spectral2 307
+    louvain2 11
+    lec2 13
+    wt2 140
   ]
   node
   [
@@ -14604,6 +20856,12 @@ graph
     sgG1 24
     sgG2 34
     sgG5 11
+    fc2 8
+    sgG12 23
+    Spectral2 307
+    louvain2 11
+    lec2 65
+    wt2 140
   ]
   node
   [
@@ -14618,6 +20876,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 247
+    louvain2 5
+    lec2 4
+    wt2 90
   ]
   node
   [
@@ -14632,6 +20896,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 247
+    louvain2 5
+    lec2 15
+    wt2 90
   ]
   node
   [
@@ -14646,6 +20916,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 304
+    louvain2 4
+    lec2 16
+    wt2 94
   ]
   node
   [
@@ -14660,6 +20936,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 73
+    fc2 15
+    sgG12 39
+    Spectral2 304
+    louvain2 4
+    lec2 40
+    wt2 172
   ]
   node
   [
@@ -14674,6 +20956,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 11
+    fc2 2
+    sgG12 25
+    Spectral2 225
+    louvain2 9
+    lec2 13
+    wt2 4
   ]
   node
   [
@@ -14688,6 +20976,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 247
+    louvain2 5
+    lec2 15
+    wt2 111
   ]
   node
   [
@@ -14702,6 +20996,12 @@ graph
     sgG1 33
     sgG2 42
     sgG5 46
+    fc2 4
+    sgG12 32
+    Spectral2 287
+    louvain2 12
+    lec2 21
+    wt2 154
   ]
   node
   [
@@ -14716,6 +21016,12 @@ graph
     sgG1 29
     sgG2 37
     sgG5 34
+    fc2 40
+    sgG12 28
+    Spectral2 116
+    louvain2 14
+    lec2 66
+    wt2 155
   ]
   node
   [
@@ -14730,6 +21036,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 283
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -14744,6 +21056,12 @@ graph
     sgG1 33
     sgG2 11
     sgG5 49
+    fc2 37
+    sgG12 32
+    Spectral2 287
+    louvain2 7
+    lec2 15
+    wt2 1
   ]
   node
   [
@@ -14758,6 +21076,12 @@ graph
     sgG1 26
     sgG2 49
     sgG5 33
+    fc2 22
+    sgG12 25
+    Spectral2 306
+    louvain2 9
+    lec2 68
+    wt2 67
   ]
   node
   [
@@ -14772,6 +21096,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 23
+    fc2 10
+    sgG12 29
+    Spectral2 108
+    louvain2 15
+    lec2 9
+    wt2 16
   ]
   node
   [
@@ -14786,6 +21116,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 20
+    Spectral2 203
+    louvain2 14
+    lec2 15
+    wt2 11
   ]
   node
   [
@@ -14800,6 +21136,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 83
+    fc2 6
+    sgG12 20
+    Spectral2 203
+    louvain2 15
+    lec2 21
+    wt2 11
   ]
   node
   [
@@ -14814,6 +21156,12 @@ graph
     sgG1 22
     sgG2 35
     sgG5 61
+    fc2 29
+    sgG12 21
+    Spectral2 311
+    louvain2 14
+    lec2 21
+    wt2 13
   ]
   node
   [
@@ -14828,6 +21176,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 41
+    fc2 7
+    sgG12 3
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 100
   ]
   node
   [
@@ -14842,6 +21196,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 143
+    louvain2 14
+    lec2 56
+    wt2 88
   ]
   node
   [
@@ -14856,6 +21216,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 88
+    fc2 19
+    sgG12 31
+    Spectral2 257
+    louvain2 25
+    lec2 4
+    wt2 6
   ]
   node
   [
@@ -14870,6 +21236,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 88
+    fc2 19
+    sgG12 31
+    Spectral2 250
+    louvain2 13
+    lec2 14
+    wt2 20
   ]
   node
   [
@@ -14884,6 +21256,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 88
+    fc2 19
+    sgG12 31
+    Spectral2 265
+    louvain2 13
+    lec2 14
+    wt2 20
   ]
   node
   [
@@ -14898,6 +21276,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 88
+    fc2 19
+    sgG12 31
+    Spectral2 1
+    louvain2 13
+    lec2 14
+    wt2 20
   ]
   node
   [
@@ -14912,6 +21296,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 204
+    louvain2 14
+    lec2 4
+    wt2 41
   ]
   node
   [
@@ -14926,6 +21316,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 56
+    fc2 43
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 68
+    wt2 21
   ]
   node
   [
@@ -14940,6 +21336,12 @@ graph
     sgG1 33
     sgG2 26
     sgG5 84
+    fc2 3
+    sgG12 32
+    Spectral2 157
+    louvain2 14
+    lec2 59
+    wt2 1
   ]
   node
   [
@@ -14954,6 +21356,12 @@ graph
     sgG1 32
     sgG2 30
     sgG5 84
+    fc2 16
+    sgG12 31
+    Spectral2 53
+    louvain2 10
+    lec2 59
+    wt2 2
   ]
   node
   [
@@ -14968,6 +21376,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 84
+    fc2 33
+    sgG12 32
+    Spectral2 53
+    louvain2 14
+    lec2 59
+    wt2 1
   ]
   node
   [
@@ -14982,6 +21396,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 84
+    fc2 33
+    sgG12 32
+    Spectral2 53
+    louvain2 14
+    lec2 59
+    wt2 1
   ]
   node
   [
@@ -14996,6 +21416,12 @@ graph
     sgG1 32
     sgG2 27
     sgG5 27
+    fc2 16
+    sgG12 31
+    Spectral2 65
+    louvain2 10
+    lec2 59
+    wt2 19
   ]
   node
   [
@@ -15010,6 +21436,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 25
+    fc2 33
+    sgG12 32
+    Spectral2 265
+    louvain2 2
+    lec2 4
+    wt2 1
   ]
   node
   [
@@ -15024,6 +21456,12 @@ graph
     sgG1 32
     sgG2 27
     sgG5 27
+    fc2 16
+    sgG12 31
+    Spectral2 127
+    louvain2 10
+    lec2 4
+    wt2 19
   ]
   node
   [
@@ -15038,6 +21476,12 @@ graph
     sgG1 16
     sgG2 34
     sgG5 92
+    fc2 8
+    sgG12 16
+    Spectral2 102
+    louvain2 2
+    lec2 65
+    wt2 86
   ]
   node
   [
@@ -15052,6 +21496,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 40
+    fc2 16
+    sgG12 32
+    Spectral2 190
+    louvain2 12
+    lec2 4
+    wt2 77
   ]
   node
   [
@@ -15066,6 +21516,12 @@ graph
     sgG1 31
     sgG2 43
     sgG5 11
+    fc2 1
+    sgG12 30
+    Spectral2 89
+    louvain2 1
+    lec2 1
+    wt2 9
   ]
   node
   [
@@ -15080,6 +21536,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 128
+    louvain2 9
+    lec2 4
+    wt2 59
   ]
   node
   [
@@ -15094,6 +21556,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 53
+    wt2 4
   ]
   node
   [
@@ -15108,6 +21576,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 270
+    louvain2 4
+    lec2 58
+    wt2 181
   ]
   node
   [
@@ -15122,6 +21596,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 15
+    sgG12 31
+    Spectral2 304
+    louvain2 4
+    lec2 16
+    wt2 181
   ]
   node
   [
@@ -15136,6 +21616,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 52
+    fc2 15
+    sgG12 43
+    Spectral2 301
+    louvain2 15
+    lec2 15
+    wt2 89
   ]
   node
   [
@@ -15150,6 +21636,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 52
+    fc2 15
+    sgG12 43
+    Spectral2 263
+    louvain2 15
+    lec2 4
+    wt2 89
   ]
   node
   [
@@ -15164,6 +21656,12 @@ graph
     sgG1 32
     sgG2 13
     sgG5 84
+    fc2 20
+    sgG12 31
+    Spectral2 53
+    louvain2 4
+    lec2 59
+    wt2 1
   ]
   node
   [
@@ -15178,6 +21676,12 @@ graph
     sgG1 23
     sgG2 36
     sgG5 74
+    fc2 4
+    sgG12 22
+    Spectral2 300
+    louvain2 4
+    lec2 15
+    wt2 123
   ]
   node
   [
@@ -15192,6 +21696,12 @@ graph
     sgG1 15
     sgG2 2
     sgG5 60
+    fc2 2
+    sgG12 15
+    Spectral2 21
+    louvain2 9
+    lec2 27
+    wt2 44
   ]
   node
   [
@@ -15206,6 +21716,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 69
+    wt2 7
   ]
   node
   [
@@ -15220,6 +21736,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 69
+    wt2 7
   ]
   node
   [
@@ -15234,6 +21756,12 @@ graph
     sgG1 11
     sgG2 46
     sgG5 2
+    fc2 47
+    sgG12 11
+    Spectral2 11
+    louvain2 21
+    lec2 24
+    wt2 46
   ]
   node
   [
@@ -15248,6 +21776,12 @@ graph
     sgG1 6
     sgG2 37
     sgG5 75
+    fc2 6
+    sgG12 6
+    Spectral2 152
+    louvain2 14
+    lec2 4
+    wt2 156
   ]
   node
   [
@@ -15262,6 +21796,12 @@ graph
     sgG1 8
     sgG2 10
     sgG5 46
+    fc2 1
+    sgG12 8
+    Spectral2 240
+    louvain2 3
+    lec2 17
+    wt2 7
   ]
   node
   [
@@ -15276,6 +21816,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 107
+    louvain2 13
+    lec2 3
+    wt2 157
   ]
   node
   [
@@ -15290,6 +21836,12 @@ graph
     sgG1 25
     sgG2 20
     sgG5 48
+    fc2 8
+    sgG12 24
+    Spectral2 52
+    louvain2 13
+    lec2 55
+    wt2 62
   ]
   node
   [
@@ -15304,6 +21856,12 @@ graph
     sgG1 8
     sgG2 38
     sgG5 10
+    fc2 42
+    sgG12 8
+    Spectral2 5
+    louvain2 16
+    lec2 64
+    wt2 51
   ]
   node
   [
@@ -15318,6 +21876,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 56
+    fc2 43
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 68
+    wt2 21
   ]
   node
   [
@@ -15332,6 +21896,12 @@ graph
     sgG1 26
     sgG2 48
     sgG5 14
+    fc2 2
+    sgG12 25
+    Spectral2 241
+    louvain2 9
+    lec2 68
+    wt2 12
   ]
   node
   [
@@ -15346,6 +21916,12 @@ graph
     sgG1 22
     sgG2 10
     sgG5 56
+    fc2 6
+    sgG12 21
+    Spectral2 133
+    louvain2 9
+    lec2 68
+    wt2 116
   ]
   node
   [
@@ -15360,6 +21936,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 56
+    fc2 5
+    sgG12 16
+    Spectral2 86
+    louvain2 16
+    lec2 64
+    wt2 21
   ]
   node
   [
@@ -15374,6 +21956,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 73
+    wt2 21
   ]
   node
   [
@@ -15388,6 +21976,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 56
+    fc2 42
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 68
+    wt2 1
   ]
   node
   [
@@ -15402,6 +21996,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 56
+    fc2 43
+    sgG12 25
+    Spectral2 86
+    louvain2 9
+    lec2 68
+    wt2 21
   ]
   node
   [
@@ -15416,6 +22016,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 69
+    wt2 7
   ]
   node
   [
@@ -15430,6 +22036,12 @@ graph
     sgG1 8
     sgG2 30
     sgG5 82
+    fc2 42
+    sgG12 8
+    Spectral2 49
+    louvain2 10
+    lec2 68
+    wt2 2
   ]
   node
   [
@@ -15444,6 +22056,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 247
+    louvain2 4
+    lec2 48
+    wt2 65
   ]
   node
   [
@@ -15458,6 +22076,12 @@ graph
     sgG1 17
     sgG2 35
     sgG5 54
+    fc2 24
+    sgG12 35
+    Spectral2 303
+    louvain2 4
+    lec2 48
+    wt2 65
   ]
   node
   [
@@ -15472,6 +22096,12 @@ graph
     sgG1 17
     sgG2 47
     sgG5 36
+    fc2 13
+    sgG12 37
+    Spectral2 304
+    louvain2 4
+    lec2 16
+    wt2 189
   ]
   node
   [
@@ -15486,6 +22116,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 286
+    louvain2 17
+    lec2 38
+    wt2 177
   ]
   node
   [
@@ -15500,6 +22136,12 @@ graph
     sgG1 22
     sgG2 25
     sgG5 67
+    fc2 28
+    sgG12 21
+    Spectral2 161
+    louvain2 11
+    lec2 47
+    wt2 52
   ]
   node
   [
@@ -15514,6 +22156,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 64
+    wt2 10
   ]
   node
   [
@@ -15528,6 +22176,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 79
+    louvain2 16
+    lec2 67
+    wt2 10
   ]
   node
   [
@@ -15542,6 +22196,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 4
+    sgG12 25
+    Spectral2 225
+    louvain2 12
+    lec2 61
+    wt2 4
   ]
   node
   [
@@ -15556,6 +22216,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 20
+    fc2 6
+    sgG12 20
+    Spectral2 203
+    louvain2 15
+    lec2 48
+    wt2 109
   ]
   node
   [
@@ -15570,6 +22236,12 @@ graph
     sgG1 21
     sgG2 18
     sgG5 20
+    fc2 6
+    sgG12 20
+    Spectral2 203
+    louvain2 15
+    lec2 4
+    wt2 109
   ]
   node
   [
@@ -15584,6 +22256,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 23
+    fc2 10
+    sgG12 29
+    Spectral2 105
+    louvain2 15
+    lec2 9
+    wt2 16
   ]
   node
   [
@@ -15598,6 +22276,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 24
+    fc2 10
+    sgG12 29
+    Spectral2 110
+    louvain2 15
+    lec2 9
+    wt2 127
   ]
   node
   [
@@ -15612,6 +22296,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 84
+    fc2 33
+    sgG12 29
+    Spectral2 202
+    louvain2 14
+    lec2 20
+    wt2 24
   ]
   node
   [
@@ -15626,6 +22316,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 46
+    sgG12 8
+    Spectral2 5
+    louvain2 3
+    lec2 36
+    wt2 14
   ]
   node
   [
@@ -15640,6 +22336,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 8
+    fc2 25
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 43
+    wt2 177
   ]
   node
   [
@@ -15654,6 +22356,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -15668,6 +22376,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 39
+    wt2 18
   ]
   node
   [
@@ -15682,6 +22396,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 26
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 15
+    wt2 14
   ]
   node
   [
@@ -15696,6 +22416,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 282
+    louvain2 7
+    lec2 41
+    wt2 18
   ]
   node
   [
@@ -15710,6 +22436,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 41
+    fc2 7
+    sgG12 3
+    Spectral2 292
+    louvain2 7
+    lec2 39
+    wt2 134
   ]
   node
   [
@@ -15724,6 +22456,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 87
+    fc2 25
+    sgG12 42
+    Spectral2 284
+    louvain2 7
+    lec2 41
+    wt2 158
   ]
   node
   [
@@ -15738,6 +22476,12 @@ graph
     sgG1 24
     sgG2 25
     sgG5 55
+    fc2 28
+    sgG12 23
+    Spectral2 282
+    louvain2 11
+    lec2 39
+    wt2 159
   ]
   node
   [
@@ -15752,6 +22496,12 @@ graph
     sgG1 17
     sgG2 5
     sgG5 70
+    fc2 26
+    sgG12 42
+    Spectral2 249
+    louvain2 7
+    lec2 4
+    wt2 160
   ]
   node
   [
@@ -15766,6 +22516,12 @@ graph
     sgG1 15
     sgG2 2
     sgG5 60
+    fc2 2
+    sgG12 15
+    Spectral2 21
+    louvain2 9
+    lec2 37
+    wt2 44
   ]
   node
   [
@@ -15780,6 +22536,12 @@ graph
     sgG1 15
     sgG2 2
     sgG5 60
+    fc2 2
+    sgG12 15
+    Spectral2 21
+    louvain2 9
+    lec2 37
+    wt2 44
   ]
   node
   [
@@ -15794,6 +22556,12 @@ graph
     sgG1 15
     sgG2 2
     sgG5 60
+    fc2 2
+    sgG12 15
+    Spectral2 21
+    louvain2 9
+    lec2 37
+    wt2 44
   ]
   node
   [
@@ -15808,6 +22576,12 @@ graph
     sgG1 8
     sgG2 38
     sgG5 10
+    fc2 42
+    sgG12 8
+    Spectral2 4
+    louvain2 16
+    lec2 64
+    wt2 51
   ]
   node
   [
@@ -15822,6 +22596,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 41
+    fc2 7
+    sgG12 3
+    Spectral2 286
+    louvain2 7
+    lec2 35
+    wt2 42
   ]
   node
   [
@@ -15836,6 +22616,12 @@ graph
     sgG1 3
     sgG2 32
     sgG5 79
+    fc2 7
+    sgG12 3
+    Spectral2 286
+    louvain2 7
+    lec2 35
+    wt2 42
   ]
   node
   [
@@ -15850,6 +22636,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 67
+    wt2 8
   ]
   node
   [
@@ -15864,6 +22656,12 @@ graph
     sgG1 8
     sgG2 48
     sgG5 19
+    fc2 2
+    sgG12 8
+    Spectral2 210
+    louvain2 9
+    lec2 4
+    wt2 80
   ]
   node
   [
@@ -15878,6 +22676,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 68
+    fc2 1
+    sgG12 9
+    Spectral2 101
+    louvain2 2
+    lec2 3
+    wt2 61
   ]
   node
   [
@@ -15892,6 +22696,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 67
+    wt2 47
   ]
   node
   [
@@ -15906,6 +22716,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 73
+    wt2 21
   ]
   node
   [
@@ -15920,6 +22736,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 124
+    louvain2 14
+    lec2 60
+    wt2 136
   ]
   node
   [
@@ -15934,6 +22756,12 @@ graph
     sgG1 32
     sgG2 30
     sgG5 82
+    fc2 16
+    sgG12 31
+    Spectral2 11
+    louvain2 10
+    lec2 30
+    wt2 2
   ]
   node
   [
@@ -15948,6 +22776,12 @@ graph
     sgG1 32
     sgG2 30
     sgG5 82
+    fc2 16
+    sgG12 31
+    Spectral2 11
+    louvain2 10
+    lec2 30
+    wt2 2
   ]
   node
   [
@@ -15962,6 +22796,12 @@ graph
     sgG1 23
     sgG2 30
     sgG5 82
+    fc2 4
+    sgG12 22
+    Spectral2 11
+    louvain2 10
+    lec2 30
+    wt2 2
   ]
   node
   [
@@ -15976,6 +22816,12 @@ graph
     sgG1 22
     sgG2 1
     sgG5 31
+    fc2 44
+    sgG12 21
+    Spectral2 161
+    louvain2 3
+    lec2 17
+    wt2 74
   ]
   node
   [
@@ -15990,6 +22836,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 10
+    lec2 18
+    wt2 40
   ]
   node
   [
@@ -16004,6 +22856,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 24
+    fc2 10
+    sgG12 29
+    Spectral2 119
+    louvain2 15
+    lec2 9
+    wt2 127
   ]
   node
   [
@@ -16018,6 +22876,12 @@ graph
     sgG1 26
     sgG2 40
     sgG5 35
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 58
+    wt2 4
   ]
   node
   [
@@ -16032,6 +22896,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 64
+    wt2 10
   ]
   node
   [
@@ -16046,6 +22916,12 @@ graph
     sgG1 18
     sgG2 17
     sgG5 17
+    fc2 12
+    sgG12 17
+    Spectral2 19
+    louvain2 22
+    lec2 37
+    wt2 112
   ]
   node
   [
@@ -16060,6 +22936,12 @@ graph
     sgG1 18
     sgG2 17
     sgG5 17
+    fc2 12
+    sgG12 17
+    Spectral2 19
+    louvain2 22
+    lec2 24
+    wt2 112
   ]
   node
   [
@@ -16074,6 +22956,12 @@ graph
     sgG1 18
     sgG2 17
     sgG5 17
+    fc2 12
+    sgG12 17
+    Spectral2 19
+    louvain2 22
+    lec2 37
+    wt2 112
   ]
   node
   [
@@ -16088,6 +22976,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 16
+    lec2 13
+    wt2 69
   ]
   node
   [
@@ -16102,6 +22996,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 16
+    lec2 65
+    wt2 69
   ]
   node
   [
@@ -16116,6 +23016,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 179
+    louvain2 14
+    lec2 4
+    wt2 105
   ]
   node
   [
@@ -16130,6 +23036,12 @@ graph
     sgG1 29
     sgG2 50
     sgG5 84
+    fc2 33
+    sgG12 28
+    Spectral2 179
+    louvain2 14
+    lec2 4
+    wt2 105
   ]
   node
   [
@@ -16144,6 +23056,12 @@ graph
     sgG1 32
     sgG2 4
     sgG5 22
+    fc2 17
+    sgG12 31
+    Spectral2 128
+    louvain2 13
+    lec2 3
+    wt2 161
   ]
   node
   [
@@ -16158,6 +23076,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -16172,6 +23096,12 @@ graph
     sgG1 2
     sgG2 41
     sgG5 30
+    fc2 4
+    sgG12 2
+    Spectral2 76
+    louvain2 12
+    lec2 1
+    wt2 114
   ]
   node
   [
@@ -16186,6 +23116,12 @@ graph
     sgG1 7
     sgG2 11
     sgG5 49
+    fc2 7
+    sgG12 7
+    Spectral2 289
+    louvain2 3
+    lec2 21
+    wt2 119
   ]
   node
   [
@@ -16200,6 +23136,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 202
+    louvain2 17
+    lec2 21
+    wt2 101
   ]
   node
   [
@@ -16214,6 +23156,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 92
   ]
   node
   [
@@ -16228,6 +23176,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 65
+    wt2 53
   ]
   node
   [
@@ -16242,6 +23196,12 @@ graph
     sgG1 32
     sgG2 27
     sgG5 27
+    fc2 16
+    sgG12 31
+    Spectral2 65
+    louvain2 10
+    lec2 58
+    wt2 19
   ]
   node
   [
@@ -16256,6 +23216,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 60
+    wt2 76
   ]
   node
   [
@@ -16270,6 +23236,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 19
+    sgG12 31
+    Spectral2 305
+    louvain2 13
+    lec2 55
+    wt2 71
   ]
   node
   [
@@ -16284,6 +23256,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 65
+    wt2 53
   ]
   node
   [
@@ -16298,6 +23276,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 65
+    wt2 102
   ]
   node
   [
@@ -16312,6 +23296,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 16
+    lec2 18
+    wt2 162
   ]
   node
   [
@@ -16326,6 +23316,12 @@ graph
     sgG1 16
     sgG2 34
     sgG5 92
+    fc2 8
+    sgG12 16
+    Spectral2 96
+    louvain2 2
+    lec2 65
+    wt2 86
   ]
   node
   [
@@ -16340,6 +23336,12 @@ graph
     sgG1 10
     sgG2 13
     sgG5 26
+    fc2 2
+    sgG12 10
+    Spectral2 11
+    louvain2 25
+    lec2 32
+    wt2 36
   ]
   node
   [
@@ -16354,6 +23356,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 46
+    fc2 1
+    sgG12 8
+    Spectral2 159
+    louvain2 3
+    lec2 4
+    wt2 108
   ]
   node
   [
@@ -16368,6 +23376,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -16382,6 +23396,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 78
+    fc2 5
+    sgG12 16
+    Spectral2 202
+    louvain2 16
+    lec2 18
+    wt2 163
   ]
   node
   [
@@ -16396,6 +23416,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 92
+    fc2 1
+    sgG12 9
+    Spectral2 62
+    louvain2 9
+    lec2 62
+    wt2 122
   ]
   node
   [
@@ -16410,6 +23436,12 @@ graph
     sgG1 9
     sgG2 9
     sgG5 38
+    fc2 1
+    sgG12 9
+    Spectral2 155
+    louvain2 2
+    lec2 3
+    wt2 104
   ]
   node
   [
@@ -16424,6 +23456,12 @@ graph
     sgG1 9
     sgG2 9
     sgG5 38
+    fc2 1
+    sgG12 9
+    Spectral2 155
+    louvain2 2
+    lec2 3
+    wt2 104
   ]
   node
   [
@@ -16438,6 +23476,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 84
+    louvain2 3
+    lec2 3
+    wt2 70
   ]
   node
   [
@@ -16452,6 +23496,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 84
+    louvain2 3
+    lec2 3
+    wt2 70
   ]
   node
   [
@@ -16466,6 +23516,12 @@ graph
     sgG1 26
     sgG2 10
     sgG5 5
+    fc2 2
+    sgG12 25
+    Spectral2 104
+    louvain2 9
+    lec2 52
+    wt2 7
   ]
   node
   [
@@ -16480,6 +23536,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 23
+    fc2 10
+    sgG12 29
+    Spectral2 82
+    louvain2 15
+    lec2 9
+    wt2 131
   ]
   node
   [
@@ -16494,6 +23556,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 64
+    fc2 1
+    sgG12 15
+    Spectral2 104
+    louvain2 13
+    lec2 1
+    wt2 3
   ]
   node
   [
@@ -16508,6 +23576,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 64
+    fc2 1
+    sgG12 15
+    Spectral2 104
+    louvain2 13
+    lec2 10
+    wt2 3
   ]
   node
   [
@@ -16522,6 +23596,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 68
+    louvain2 16
+    lec2 67
+    wt2 47
   ]
   node
   [
@@ -16536,6 +23616,12 @@ graph
     sgG1 9
     sgG2 9
     sgG5 38
+    fc2 1
+    sgG12 9
+    Spectral2 247
+    louvain2 2
+    lec2 3
+    wt2 34
   ]
   node
   [
@@ -16550,6 +23636,12 @@ graph
     sgG1 9
     sgG2 9
     sgG5 38
+    fc2 1
+    sgG12 9
+    Spectral2 138
+    louvain2 2
+    lec2 3
+    wt2 103
   ]
   node
   [
@@ -16564,6 +23656,12 @@ graph
     sgG1 24
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 23
+    Spectral2 165
+    louvain2 14
+    lec2 4
+    wt2 164
   ]
   node
   [
@@ -16578,6 +23676,12 @@ graph
     sgG1 33
     sgG2 52
     sgG5 58
+    fc2 1
+    sgG12 32
+    Spectral2 53
+    louvain2 7
+    lec2 3
+    wt2 82
   ]
   node
   [
@@ -16592,6 +23696,12 @@ graph
     sgG1 1
     sgG2 38
     sgG5 16
+    fc2 5
+    sgG12 1
+    Spectral2 202
+    louvain2 10
+    lec2 21
+    wt2 40
   ]
   node
   [
@@ -16606,6 +23716,12 @@ graph
     sgG1 33
     sgG2 31
     sgG5 28
+    fc2 34
+    sgG12 32
+    Spectral2 198
+    louvain2 8
+    lec2 4
+    wt2 125
   ]
   node
   [
@@ -16620,6 +23736,12 @@ graph
     sgG1 8
     sgG2 16
     sgG5 37
+    fc2 46
+    sgG12 8
+    Spectral2 119
+    louvain2 10
+    lec2 1
+    wt2 132
   ]
   node
   [
@@ -16634,6 +23756,12 @@ graph
     sgG1 30
     sgG2 28
     sgG5 23
+    fc2 10
+    sgG12 29
+    Spectral2 122
+    louvain2 15
+    lec2 9
+    wt2 16
   ]
   node
   [
@@ -16648,6 +23776,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 34
+    fc2 27
+    sgG12 26
+    Spectral2 185
+    louvain2 5
+    lec2 50
+    wt2 13
   ]
   node
   [
@@ -16662,6 +23796,12 @@ graph
     sgG1 7
     sgG2 11
     sgG5 49
+    fc2 7
+    sgG12 7
+    Spectral2 287
+    louvain2 3
+    lec2 4
+    wt2 119
   ]
   node
   [
@@ -16676,6 +23816,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 29
+    fc2 6
+    sgG12 15
+    Spectral2 132
+    louvain2 9
+    lec2 7
+    wt2 138
   ]
   node
   [
@@ -16690,6 +23836,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -16704,6 +23856,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -16718,6 +23876,12 @@ graph
     sgG1 25
     sgG2 20
     sgG5 48
+    fc2 8
+    sgG12 24
+    Spectral2 45
+    louvain2 13
+    lec2 23
+    wt2 165
   ]
   node
   [
@@ -16732,6 +23896,12 @@ graph
     sgG1 25
     sgG2 20
     sgG5 48
+    fc2 8
+    sgG12 24
+    Spectral2 50
+    louvain2 13
+    lec2 23
+    wt2 166
   ]
   node
   [
@@ -16746,6 +23916,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 30
+    sgG12 11
+    Spectral2 294
+    louvain2 21
+    lec2 4
+    wt2 167
   ]
   node
   [
@@ -16760,6 +23936,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 118
+    louvain2 16
+    lec2 64
+    wt2 21
   ]
   node
   [
@@ -16774,6 +23956,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 64
+    wt2 21
   ]
   node
   [
@@ -16788,6 +23976,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 64
+    wt2 21
   ]
   node
   [
@@ -16802,6 +23996,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 102
+    louvain2 16
+    lec2 64
+    wt2 21
   ]
   node
   [
@@ -16816,6 +24016,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 154
+    louvain2 16
+    lec2 64
+    wt2 21
   ]
   node
   [
@@ -16830,6 +24036,12 @@ graph
     sgG1 16
     sgG2 38
     sgG5 7
+    fc2 5
+    sgG12 16
+    Spectral2 73
+    louvain2 16
+    lec2 64
+    wt2 21
   ]
   node
   [
@@ -16844,6 +24056,12 @@ graph
     sgG1 27
     sgG2 44
     sgG5 72
+    fc2 1
+    sgG12 26
+    Spectral2 226
+    louvain2 14
+    lec2 15
+    wt2 60
   ]
   node
   [
@@ -16858,6 +24076,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 22
   ]
   node
   [
@@ -16872,6 +24096,12 @@ graph
     sgG1 29
     sgG2 11
     sgG5 47
+    fc2 40
+    sgG12 28
+    Spectral2 99
+    louvain2 23
+    lec2 4
+    wt2 1
   ]
   node
   [
@@ -16886,6 +24116,12 @@ graph
     sgG1 29
     sgG2 11
     sgG5 47
+    fc2 40
+    sgG12 28
+    Spectral2 110
+    louvain2 23
+    lec2 4
+    wt2 1
   ]
   node
   [
@@ -16900,6 +24136,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 8
+    louvain2 1
+    lec2 70
+    wt2 54
   ]
   node
   [
@@ -16914,6 +24156,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 8
+    louvain2 1
+    lec2 70
+    wt2 54
   ]
   node
   [
@@ -16928,6 +24176,12 @@ graph
     sgG1 33
     sgG2 7
     sgG5 69
+    fc2 39
+    sgG12 32
+    Spectral2 8
+    louvain2 1
+    lec2 70
+    wt2 54
   ]
   node
   [
@@ -16942,6 +24196,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 92
   ]
   node
   [
@@ -16956,6 +24216,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 92
   ]
   node
   [
@@ -16970,6 +24236,12 @@ graph
     sgG1 7
     sgG2 11
     sgG5 49
+    fc2 7
+    sgG12 7
+    Spectral2 289
+    louvain2 3
+    lec2 4
+    wt2 115
   ]
   node
   [
@@ -16984,6 +24256,12 @@ graph
     sgG1 7
     sgG2 11
     sgG5 49
+    fc2 7
+    sgG12 7
+    Spectral2 289
+    louvain2 3
+    lec2 4
+    wt2 115
   ]
   node
   [
@@ -16998,6 +24276,12 @@ graph
     sgG1 24
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 23
+    Spectral2 163
+    louvain2 14
+    lec2 4
+    wt2 168
   ]
   node
   [
@@ -17012,6 +24296,12 @@ graph
     sgG1 11
     sgG2 8
     sgG5 43
+    fc2 14
+    sgG12 11
+    Spectral2 304
+    louvain2 24
+    lec2 4
+    wt2 78
   ]
   node
   [
@@ -17026,6 +24316,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 20
+    sgG12 31
+    Spectral2 304
+    louvain2 4
+    lec2 16
+    wt2 94
   ]
   node
   [
@@ -17040,6 +24336,12 @@ graph
     sgG1 9
     sgG2 6
     sgG5 38
+    fc2 1
+    sgG12 9
+    Spectral2 247
+    louvain2 2
+    lec2 14
+    wt2 34
   ]
   node
   [
@@ -17054,6 +24356,12 @@ graph
     sgG1 15
     sgG2 4
     sgG5 64
+    fc2 1
+    sgG12 15
+    Spectral2 108
+    louvain2 13
+    lec2 10
+    wt2 3
   ]
   node
   [
@@ -17068,6 +24376,12 @@ graph
     sgG1 27
     sgG2 20
     sgG5 48
+    fc2 6
+    sgG12 26
+    Spectral2 11
+    louvain2 14
+    lec2 21
+    wt2 37
   ]
   node
   [
@@ -17082,6 +24396,12 @@ graph
     sgG1 1
     sgG2 8
     sgG5 16
+    fc2 21
+    sgG12 1
+    Spectral2 247
+    louvain2 7
+    lec2 3
+    wt2 186
   ]
   node
   [
@@ -17096,6 +24416,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -17110,6 +24436,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -17124,6 +24456,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 6
   ]
   node
   [
@@ -17138,6 +24476,12 @@ graph
     sgG1 14
     sgG2 12
     sgG5 36
+    fc2 26
+    sgG12 14
+    Spectral2 309
+    louvain2 8
+    lec2 47
+    wt2 106
   ]
   node
   [
@@ -17152,6 +24496,12 @@ graph
     sgG1 14
     sgG2 12
     sgG5 36
+    fc2 26
+    sgG12 14
+    Spectral2 309
+    louvain2 8
+    lec2 47
+    wt2 106
   ]
   node
   [
@@ -17166,6 +24516,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 38
+    wt2 22
   ]
   node
   [
@@ -17180,6 +24536,12 @@ graph
     sgG1 32
     sgG2 8
     sgG5 45
+    fc2 19
+    sgG12 31
+    Spectral2 247
+    louvain2 13
+    lec2 55
+    wt2 72
   ]
   node
   [
@@ -17194,6 +24556,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 19
+    fc2 42
+    sgG12 8
+    Spectral2 49
+    louvain2 25
+    lec2 37
+    wt2 14
   ]
   node
   [
@@ -17208,6 +24576,12 @@ graph
     sgG1 33
     sgG2 23
     sgG5 40
+    fc2 43
+    sgG12 32
+    Spectral2 8
+    louvain2 12
+    lec2 63
+    wt2 68
   ]
   node
   [
@@ -17222,6 +24596,12 @@ graph
     sgG1 7
     sgG2 14
     sgG5 73
+    fc2 7
+    sgG12 7
+    Spectral2 2
+    louvain2 17
+    lec2 1
+    wt2 169
   ]
   node
   [
@@ -17236,6 +24616,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 104
+    louvain2 3
+    lec2 3
+    wt2 66
   ]
   node
   [
@@ -17250,6 +24636,12 @@ graph
     sgG1 27
     sgG2 3
     sgG5 57
+    fc2 27
+    sgG12 26
+    Spectral2 123
+    louvain2 5
+    lec2 50
+    wt2 170
   ]
   node
   [
@@ -17264,6 +24656,12 @@ graph
     sgG1 5
     sgG2 1
     sgG5 13
+    fc2 2
+    sgG12 5
+    Spectral2 89
+    louvain2 9
+    lec2 3
+    wt2 113
   ]
   node
   [
@@ -17278,6 +24676,12 @@ graph
     sgG1 26
     sgG2 22
     sgG5 19
+    fc2 48
+    sgG12 25
+    Spectral2 86
+    louvain2 1
+    lec2 71
+    wt2 130
   ]
   node
   [
@@ -17292,6 +24696,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 3
+    fc2 9
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 16
+    wt2 50
   ]
   node
   [
@@ -17306,6 +24716,12 @@ graph
     sgG1 17
     sgG2 36
     sgG5 3
+    fc2 9
+    sgG12 36
+    Spectral2 296
+    louvain2 4
+    lec2 16
+    wt2 50
   ]
   node
   [
@@ -17320,6 +24736,12 @@ graph
     sgG1 20
     sgG2 22
     sgG5 21
+    fc2 9
+    sgG12 19
+    Spectral2 156
+    louvain2 1
+    lec2 62
+    wt2 63
   ]
   node
   [
@@ -17334,6 +24756,12 @@ graph
     sgG1 17
     sgG2 15
     sgG5 45
+    fc2 15
+    sgG12 39
+    Spectral2 247
+    louvain2 4
+    lec2 16
+    wt2 172
   ]
   node
   [
@@ -17348,6 +24776,12 @@ graph
     sgG1 27
     sgG2 13
     sgG5 1
+    fc2 6
+    sgG12 26
+    Spectral2 128
+    louvain2 14
+    lec2 60
+    wt2 76
   ]
   node
   [
@@ -17362,6 +24796,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 60
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -17376,6 +24816,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 61
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -17390,6 +24836,12 @@ graph
     sgG1 8
     sgG2 1
     sgG5 80
+    fc2 44
+    sgG12 8
+    Spectral2 71
+    louvain2 3
+    lec2 3
+    wt2 14
   ]
   node
   [
@@ -17404,6 +24856,12 @@ graph
     sgG1 1
     sgG2 8
     sgG5 16
+    fc2 21
+    sgG12 1
+    Spectral2 247
+    louvain2 7
+    lec2 3
+    wt2 186
   ]
   edge
   [

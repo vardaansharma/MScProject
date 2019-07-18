@@ -204,23 +204,23 @@ library(scales);
 # library(clusterCons);
 library(plyr);
 library(VennDiagram);
-library(Vennerable);
-library(biomaRt);
-library(latex2exp);
-library(knitr);
-library(poweRlaw);
-library(WriteXLS);
-library(gdata);
-library(methods);
-library(ggpubr);
-library(DBI);
-library(aricode);
-library(reshape2);
-
-library(org.Hs.eg.db)
-library(org.Mm.eg.db)
-library(org.Dm.eg.db)
-library(topGO)
+# library(Vennerable);
+# library(biomaRt);
+# library(latex2exp);
+# library(knitr);
+# library(poweRlaw);
+# library(WriteXLS);
+# library(gdata);
+# library(methods);
+# library(ggpubr);
+# library(DBI);
+# library(aricode);
+# library(reshape2);
+# 
+# library(org.Hs.eg.db)
+# library(org.Mm.eg.db)
+# library(org.Dm.eg.db)
+# library(topGO)
 
 #---Set Scheme in Regions.R for B V. SL Plot Regions in Bridgeness.R
 #--- Select from 1: Basic scheme
