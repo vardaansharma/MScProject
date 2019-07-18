@@ -9,7 +9,8 @@ echo working dir: $WORKINGDIR
 MAINDIR=$(dirname "$WORKINGDIR")
 echo main dir: $MAINDIR
 #Graph Location
-NTWRKDIR=$MAINDIR/Graphs
+NTWRKDIR=$MAINDIR/datasets
+
 echo net dir: $NTWRKDIR
 #Community Location
 COMDIR=$MAINDIR/clustering/Clustering

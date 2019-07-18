@@ -4,7 +4,7 @@ rm(list=ls())
 version="17_05_2019"
 #mainDir <- sprintf("/afs/inf.ed.ac.uk/user/c/cmclean5/WORK/DATA/Human_synaptosome_%s",version)
 mainDir <- "C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/clustering"
-mainDir <- "/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/PPI network/clustering"
+# mainDir <- "/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/PPI network/clustering"
 
 
 #Get Path to all top-level directories in folder
@@ -204,23 +204,23 @@ library(scales);
 # library(clusterCons);
 library(plyr);
 library(VennDiagram);
-library(Vennerable);
-library(biomaRt);
-library(latex2exp);
-library(knitr);
-library(poweRlaw);
-library(WriteXLS);
-library(gdata);
-library(methods);
-library(ggpubr);
-library(DBI);
-library(aricode);
-library(reshape2);
+# library(Vennerable);
+# library(biomaRt);
+# library(latex2exp);
+# library(knitr);
+# library(poweRlaw);
+# library(WriteXLS);
+# library(gdata);
+# library(methods);
+# library(ggpubr);
+# library(DBI);
+# library(aricode);
+# library(reshape2);
 
-library(org.Hs.eg.db)
-library(org.Mm.eg.db)
-library(org.Dm.eg.db)
-library(topGO)
+# library(org.Hs.eg.db)
+# library(org.Mm.eg.db)
+# library(org.Dm.eg.db)
+# library(topGO)
 
 #---Set Scheme in Regions.R for B V. SL Plot Regions in Bridgeness.R
 #--- Select from 1: Basic scheme

@@ -1,4 +1,5 @@
-source('setUp.R')
+source('C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/clustering/setUp.R')
+# source('setUp.R')
 
 library(CDMSuite)
 
