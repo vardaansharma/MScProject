@@ -18,6 +18,11 @@
 1,sgG1_2_communities.csv,sgG1_2
 1,Geodesicdiff_communities.csv,Geodesicdiff
 1,spectral_communities.csv,Spectral
+1,spectral_communities_cmin5.csv,Spectral_5
+1,spectral_communities_cmin2.5.csv,Spectral_2.5
 1,spectral_communities_cmin1.5.csv,Spectral_1.5
 1,spectral_communities_cmin1.25.csv,Spectral_1.25
 1,spectral_communities_cmin1.csv,Spectral_1
+1,spectral_communities_cmin05.csv,Spectral_0.5
+1,Spectral5per_2_communities.csv,Spectral_5_2
+1,Spectral25per_2_communities.csv,Spectral_2.5_2
