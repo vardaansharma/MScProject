@@ -27,7 +27,8 @@ IFS=$',' ARRAY=($(<$graphFILE))
 
 len=${#ARRAY[@]}
 
-# echo gon: $ARRAY
+echo graphON
+echo ---
 k=0
 for ((i=0; i<$len; i=i+2)); do
     graphON[$k]=${ARRAY[$i]}
@@ -35,7 +36,8 @@ for ((i=0; i<$len; i=i+2)); do
     k=$(($k+1))
 done
 #
-# echo subdir: ${graphON[0]}
+echo SUBDIR
+echo ---
 k=0
 for ((i=1; i<$len; i=i+2)); do
     SUBDIR[$k]=${ARRAY[$i]}
@@ -50,6 +52,9 @@ declare -a annoON annoFILES annoTITLES
 
 IFS=$',' ARRAY=($(<$annoFILE))
 
+
+echo annoON
+echo ---
 len=${#ARRAY[@]}
 k=0
 for ((i=0; i<$len; i=i+3)); do
@@ -58,6 +63,9 @@ for ((i=0; i<$len; i=i+3)); do
     k=$(($k+1))
 done
 
+
+echo annoFILES
+echo ---
 k=0
 for ((i=1; i<$len; i=i+3)); do
     annoFILES[$k]=${ARRAY[$i]}
@@ -65,6 +73,9 @@ for ((i=1; i<$len; i=i+3)); do
     k=$(($k+1))
 done
 
+
+echo ANNOTITLES:
+echo ---
 k=0
 for ((i=2; i<$len; i=i+3)); do
     annoTITLES[$k]=${ARRAY[$i]}
@@ -77,13 +88,16 @@ done
 comFILE=$MAINDIR/parameterFiles/clusteringAlg.csv
 declare -a comON comFILES comTITLES
 
-IFS=$',' ARRAY=($(<$comFILE))
+IFS=$'\n,' ARRAY=($(<$comFILE))
 
 #len=${#ARRAY[@]}
 #for ((i=0; i<$len; i++)); do
 #    echo "$i \t" ${ARRAY[$i]}
 #done
 
+
+echo comON
+echo ---
 len=${#ARRAY[@]}
 k=0
 for ((i=0; i<$len; i=i+3)); do
@@ -92,7 +106,8 @@ for ((i=0; i<$len; i=i+3)); do
     k=$(($k+1))
 done
 
-
+echo comFILES
+echo ---
 k=0
 for ((i=1; i<$len; i=i+3)); do
     comFILES[$k]=${ARRAY[$i]}
@@ -100,22 +115,25 @@ for ((i=1; i<$len; i=i+3)); do
     k=$(($k+1))
 done
 
+echo comTITLES
+echo ---
 k=0
 for ((i=2; i<$len; i=i+3)); do
     comTITLES[$k]=${ARRAY[$i]}
     echo ${comTITLES[$k]}
     k=$(($k+1))
 done
+echo \n ${comFILES[0]}
 #---
 #--- END READ-IN
-
-#---Check OUT and RESULTS directories exist
-#--- RESULTS DIR
-RESDIR=$WORKINGDIR/RESULTS
-if [ ! -d $RESDIR ]; then
-    mkdir $RESDIR
-fi
-
+#
+# #---Check OUT and RESULTS directories exist
+# #--- RESULTS DIR
+# RESDIR=$WORKINGDIR/RESULTS
+# if [ ! -d $RESDIR ]; then
+#     mkdir $RESDIR
+# fi
+#
 #--- OUT DIR
 tmpDIR=OUT
 TEMPDIR=$WORKINGDIR/$tmpDIR
@@ -151,7 +169,7 @@ do
 
 	GRAPHENRICHOUT=$WORKINGDIR/RESULTS/${SUBDIR[$g]}
 	if [ ! -d $GRAPHENRICHOUT ]; then
-	    mkdir $GRAPHENRICHOUT
+	    mkdir -p $GRAPHENRICHOUT
 	fi
 
 	#---loop over clustering algorithms
@@ -159,11 +177,7 @@ do
 	do
 	    echo "Running over clustering algorithm ${comTITLES[$k]}:"
 
-	    #---Create output directory for cluster enrichment results
-	    OUTDIR=$WORKINGDIR/RESULTS/${SUBDIR[$g]}/${comTITLES[$k]}
-	    if [ ! -d $OUTDIR ]; then
-		mkdir $OUTDIR
-	    fi
+	   
 
 	    #---loop over annotation set
 	    for a in `seq $START $END`
@@ -172,6 +186,12 @@ do
 
 
 		if [[ ${comON[$k]} -eq "1" && ${annoON[$a]} -ge "1" ]]; then
+
+			 #---Create output directory for cluster enrichment results
+			OUTDIR=$WORKINGDIR/RESULTS/${SUBDIR[$g]}/${comTITLES[$k]}
+	    		if [ ! -d $OUTDIR ]; then
+				mkdir -p $OUTDIR
+	    		fi
 
 		    #--- Clean temp dir, i.e. "OUT/"
 		    #rm $WORKINGDIR/$tmpDIR/*
@@ -194,6 +214,6 @@ do
     fi
 done
 
-echo "$0 done!"
-
-# exit 0
+# echo "$0 done!"
+#
+# # exit 0

@@ -64,11 +64,11 @@ intraEdges <- function(GG, ALG, CC, INTRA=NULL, INTER=NULL){
   inter = NULL #edges going out from community CC   
   
   if( !is.null(igraph::get.vertex.attribute(GG,ALG)) ){
-    
+    # cat("\n in 1\n", ALG)
     coms <- get.vertex.attribute(GG,ALG)
-    
+    # cat(CC)
     if( length(which(coms == CC)) != 0 ){
-      
+      # cat("\n in 2 \n")
       ed_cc = E(GG)[inc(coms == CC)]
       
       all_edges_m <- get.edges(GG, ed_cc) #matrix representation
@@ -97,25 +97,32 @@ intraEdges <- function(GG, ALG, CC, INTRA=NULL, INTER=NULL){
 }
 
 reCluster <- function( GG, ALGN, CnMAX, CnMIN ){
-
+    
+    # cat("\nin recluster function",ALGN)
     if( !is.null(igraph::get.vertex.attribute(GG,ALGN)) ){
-
+        # cat("\n in the if\n")
         #--- algorithm clustering 1
         ALG1 <- get.vertex.attribute(GG,ALGN,V(GG))
         ALG1 <- cbind(V(GG)$name, ALG1)
 
         Cn <- table(as.numeric(ALG1[,2]))    
         cc <- names(Cn)[Cn > CnMAX]
-
+        
+        # if(length(cc) == 0){
+        #   new_cnMax = CnMAX/2
+        #   # cat(new_cnMax)
+        #   cc <- names(Cn)[Cn > new_cnMax]
+        # }
+        # cat("cc:",length(cc))
 
         RES <- list()
         k=1
         for( i in 1:length(cc) ){
-
+            # cat("in the for", cc)
             edCC = intraEdges(GG, ALGN, cc[i], INTRA=TRUE)
 
             if( !is.null(edCC) ){
-
+                # cat("\n in the edcc not null \n")
                 ggLCC    <- graph_from_data_frame(d=edCC, directed=F)
                 
                 #fc
@@ -146,7 +153,9 @@ reCluster <- function( GG, ALGN, CnMAX, CnMIN ){
 
                 #infomap
                 if( ALGN == "infomap" ){
+                  # cat("\n in the if infomap \n")
                     res      <- igraph::cluster_infomap(ggLCC)
+                    # cat(res)
                     oo       <- cbind(res$names, res$membership)         
                 }
 
@@ -156,6 +165,15 @@ reCluster <- function( GG, ALGN, CnMAX, CnMIN ){
                     oo       <- cbind(res$names, res$membership)         
                 }
                 
+                if( ALGN == 'sgG2'){
+                  res      <- igraph::spinglass.community(findLCC(ggLCC), spins=as.numeric(500),gamma=2)
+                  oo       <- cbind(res$names, res$membership)
+                }
+                
+                if( ALGN == 'sgG2'){
+                  res      <- igraph::spinglass.community(findLCC(ggLCC), spins=as.numeric(500),gamma=5)
+                  oo       <- cbind(res$names, res$membership)
+                }
                 
                 #Spectral
                 if( grepl("Spectral", ALGN) ){        
@@ -171,7 +189,9 @@ reCluster <- function( GG, ALGN, CnMAX, CnMIN ){
         }#for
 
 
-        if( length(RES) == 0 ){ return(NULL) }
+        if( length(RES) == 0 ){ 
+          # cat("\n in len res is 0\n")
+          return(NULL) }
         
         #--- algorithm clustering 2
         ALG2     <- cbind(ALG1, rep(-1, length(ALG1[,1])))
@@ -276,7 +296,8 @@ CnMAX <- floor((10*length(V(gg)))/100)
 cat("> CnMAX = ", CnMAX,"\n")
 
 #For example, lets runn over these clustering methods
-ALGN <- ALGS[c(1,2,3,4,5,6,7,8,9)]
+ALGN <- ALGS[c(1,2,3,4,6,7,15,16,17,22)]
+# ALGN <- ALGS[c(7,17)]
 
 
 for( a in 1:length(ALGN) ){
@@ -291,7 +312,7 @@ for( a in 1:length(ALGN) ){
     oo = reCluster( gg, ALGN[a], CnMAX, CnMIN )
 
     if( !is.null(oo) ){
-    
+        cat("\n is reclutering \n")
         #--- reclustering name
         ALGN2 <- sprintf("%s_%s",ALGN[a],"2")
 
@@ -305,7 +326,9 @@ for( a in 1:length(ALGN) ){
         cc[,1]  <- as.character(oo[,1])
         cc[,2]  <- as.character(oo[,4])
         cc      <- as.data.frame(cc)
+        # cat(ALGN2)
         outfile <- file(sprintf("%s/%s_communities.csv",cldir,ALGN2),"w")
+        # outfile <- file(sprintf("%s/%s_communities_cnmax%s.csv",cldir,ALGN2,CnMAX),"w")
         cat("#communities",file=outfile,"\n")
         write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
         close(outfile);

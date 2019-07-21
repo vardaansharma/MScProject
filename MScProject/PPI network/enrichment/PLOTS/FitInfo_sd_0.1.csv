@@ -1,0 +1,17 @@
+alg	isConv	finIter	finTol	stopCode	stopMessage
+fc	TRUE	24	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+lourvain	TRUE	16	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+lec	TRUE	11	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+infomap	TRUE	7	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+sgG1	FALSE	50	1.49011611938477e-08	-1	Number of iterations has reached `maxiter' == 50.
+sgG2	TRUE	10	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+sgG5	TRUE	10	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+wt	TRUE	9	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+fc_2	TRUE	8	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+lourvain_2	TRUE	25	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+sgG1_2	TRUE	8	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+Geodesicdiff	TRUE	8	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+Spectral	TRUE	12	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+Spectral_1.5	TRUE	11	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+Spectral_1.25	TRUE	16	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.
+Spectral_1	TRUE	14	1.49011611938477e-08	1	Relative error in the sum of squares is at most `ftol'.

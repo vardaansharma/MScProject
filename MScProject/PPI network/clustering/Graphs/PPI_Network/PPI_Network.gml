@@ -1,4 +1,4 @@
-Creator "igraph version 1.2.4 Wed Jul 17 23:09:27 2019"
+Creator "igraph version 1.2.4 Sun Jul 21 13:47:18 2019"
 Version 1
 graph
 [
@@ -8,24860 +8,28589 @@ graph
     id 0
     name "273"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 9
     lec 1
     wt 22
     fc 6
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 43
-    sgG12 2
-    Spectral2 11
+    sgG12 7
     louvain2 12
-    lec2 22
-    wt2 21
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 1
     name "1759"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 1
     wt 22
     fc 6
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 43
-    sgG12 2
-    Spectral2 11
+    sgG12 7
     louvain2 12
-    lec2 22
-    wt2 21
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 2
     name "1785"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 1
     wt 22
     fc 6
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 43
-    sgG12 2
-    Spectral2 11
+    sgG12 7
     louvain2 12
-    lec2 24
-    wt2 21
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 3
     name "26052"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 26
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 4
     name "1020"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 64
     lec 17
     wt 13
     fc 1
     louvain 13
-    infomap 1
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    infomap 6
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 13
-    sgG12 2
-    Spectral2 303
+    sgG12 7
     louvain2 12
-    lec2 13
-    wt2 175
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 5
     name "5530"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
     infomap 19
-    sgG1 11
-    sgG2 13
-    sgG5 26
+    sgG1 22
+    sgG2 47
+    sgG5 40
     fc2 42
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 6
     name "8867"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 9
     lec 3
     wt 22
     fc 6
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 43
-    sgG12 2
-    Spectral2 11
+    sgG12 7
     louvain2 12
-    lec2 1
-    wt2 21
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 7
     name "6455"
     Spectral 74
+    Spectral1per 24
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 36
     lec 3
     wt 22
     fc 8
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 1
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 8
     name "6456"
     Spectral 74
+    Spectral1per 24
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 36
     lec 3
     wt 22
     fc 8
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 1
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 9
     name "30011"
     Spectral 74
+    Spectral1per 24
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 36
     lec 4
     wt 22
     fc 8
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 50
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 10
     name "7534"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 11
     name "6457"
     Spectral 74
+    Spectral1per 24
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 36
     lec 16
     wt 22
     fc 8
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 12
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 12
     name "7431"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 33
     lec 3
     wt 1
     fc 3
     louvain 7
     infomap 36
-    sgG1 33
-    sgG2 7
-    sgG5 51
+    sgG1 8
+    sgG2 23
+    sgG5 63
     fc2 36
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 13
     name "392"
     Spectral 23
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 24
+    sgG12 21
     louvain2 18
-    lec2 26
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 14
     name "5689"
     Spectral 118
+    Spectral1per 17
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 24
     lec 3
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 119
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 15
     name "10570"
     Spectral 74
+    Spectral1per 24
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 36
     lec 3
     wt 22
     fc 8
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 1
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 16
     name "114569"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 17
     name "23176"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 124
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 123
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 18
     name "10015"
     Spectral 74
+    Spectral1per 21
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 36
     lec 1
     wt 22
     fc 8
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 81
+    sgG1 7
+    sgG2 41
+    sgG5 80
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 28
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 19
     name "10059"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 65
     lec 2
     wt 13
     fc 1
     louvain 17
     infomap 49
     sgG1 2
-    sgG2 38
-    sgG5 78
+    sgG2 32
+    sgG5 11
     fc2 14
     sgG12 2
-    Spectral2 306
     louvain2 16
-    lec2 40
-    wt2 172
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 20
     name "192683"
     Spectral 103
+    Spectral1per 14
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 22
     fc 9
     louvain 10
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 39
+    sgG2 26
+    sgG5 42
     fc2 5
-    sgG12 16
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 21
     name "2885"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 22
     name "3064"
     Spectral 7
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 13
     fc 6
     louvain 13
-    infomap 20
-    sgG1 33
-    sgG2 23
-    sgG5 40
+    infomap 24
+    sgG1 8
+    sgG2 41
+    sgG5 67
     fc2 43
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 12
-    lec2 63
-    wt2 176
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 23
     name "274"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 9
     lec 1
     wt 22
     fc 5
     louvain 10
-    infomap 45
-    sgG1 26
-    sgG2 48
-    sgG5 33
+    infomap 46
+    sgG1 7
+    sgG2 41
+    sgG5 65
     fc2 2
-    sgG12 25
-    Spectral2 11
+    sgG12 7
     louvain2 9
-    lec2 22
-    wt2 21
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 24
     name "6453"
     Spectral 86
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 28
     lec 1
     wt 22
     fc 5
     louvain 13
     infomap 6
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 2
-    sgG12 25
-    Spectral2 87
+    sgG12 15
     louvain2 12
-    lec2 26
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 25
     name "51429"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 9
     lec 25
     wt 22
     fc 6
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 43
-    sgG12 2
-    Spectral2 11
+    sgG12 7
     louvain2 12
-    lec2 21
-    wt2 21
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 26
     name "5303"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 25
     wt 6
     fc 8
     louvain 16
-    infomap 33
-    sgG1 23
-    sgG2 35
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 17
+    sgG5 66
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 21
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 27
     name "92609"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 1
     wt 29
     fc 6
     louvain 13
-    infomap 94
-    sgG1 15
-    sgG2 4
-    sgG5 29
+    infomap 97
+    sgG1 18
+    sgG2 25
+    sgG5 71
     fc2 43
-    sgG12 15
-    Spectral2 11
+    sgG12 17
     louvain2 12
-    lec2 22
-    wt2 28
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 28
     name "10484"
     Spectral 5
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 3
     lec 5
     wt 13
     fc 5
     louvain 10
-    infomap 108
-    sgG1 26
-    sgG2 38
-    sgG5 71
+    infomap 109
+    sgG1 16
+    sgG2 33
+    sgG5 11
     fc2 2
-    sgG12 25
-    Spectral2 6
+    sgG12 15
     louvain2 9
-    lec2 65
-    wt2 178
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 29
     name "10574"
     Spectral 103
+    Spectral1per 13
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 20
     lec 3
     wt 29
     fc 4
     louvain 14
     infomap 47
-    sgG1 33
-    sgG2 4
-    sgG5 64
+    sgG1 8
+    sgG2 25
+    sgG5 59
     fc2 1
-    sgG12 32
-    Spectral2 104
+    sgG12 8
     louvain2 13
-    lec2 1
-    wt2 28
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 30
     name "1639"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 31
     name "26060"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 49
     lec 17
     wt 22
     fc 5
     louvain 10
     infomap 48
-    sgG1 26
-    sgG2 48
-    sgG5 19
+    sgG1 7
+    sgG2 41
+    sgG5 65
     fc2 2
-    sgG12 25
-    Spectral2 210
+    sgG12 7
     louvain2 9
-    lec2 13
-    wt2 21
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 32
     name "1398"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 33
     name "22941"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 34
     name "2017"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 25
     wt 6
     fc 6
     louvain 9
-    infomap 31
-    sgG1 11
-    sgG2 47
-    sgG5 36
+    infomap 1
+    sgG1 10
+    sgG2 39
+    sgG5 86
     fc2 43
-    sgG12 11
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 21
-    wt2 6
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 35
     name "50944"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 11
     louvain 6
-    infomap 58
-    sgG1 11
-    sgG2 26
-    sgG5 15
+    infomap 1
+    sgG1 22
+    sgG2 38
+    sgG5 73
     fc2 7
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 36
     name "26230"
     Spectral 74
+    Spectral1per 22
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 33
     lec 4
     wt 22
     fc 13
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 9
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 59
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 37
     name "5479"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 4
     wt 6
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 11
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 38
     name "6386"
     Spectral 85
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 24
     lec 5
     wt 22
     fc 6
     louvain 10
-    infomap 34
-    sgG1 26
-    sgG2 10
-    sgG5 56
+    infomap 29
+    sgG1 16
+    sgG2 33
+    sgG5 75
     fc2 43
-    sgG12 25
-    Spectral2 86
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 39
     name "51678"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 1
     wt 22
     fc 6
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 10
     fc2 43
-    sgG12 2
-    Spectral2 11
+    sgG12 7
     louvain2 12
-    lec2 23
-    wt2 21
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 40
     name "6187"
     Spectral 245
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 4
     wt 1
     fc 3
     louvain 15
-    infomap 50
-    sgG1 30
-    sgG2 28
-    sgG5 84
+    infomap 52
+    sgG1 20
+    sgG2 45
+    sgG5 21
     fc2 33
-    sgG12 29
-    Spectral2 246
+    sgG12 19
     louvain2 14
-    lec2 59
-    wt2 1
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 41
     name "5837"
     Spectral 157
+    Spectral1per 10
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 2
     fc 1
     louvain 14
-    infomap 68
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 158
+    sgG12 5
     louvain2 13
-    lec2 3
-    wt2 2
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 42
     name "10273"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 13
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 66
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 24
-    sgG12 34
-    Spectral2 287
+    sgG12 35
     louvain2 7
-    lec2 42
-    wt2 175
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 43
     name "2534"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 44
     name "5708"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 26
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 45
     name "27101"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 26
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 21
+    Spectral5per2 15
   ]
   node
   [
     id 46
     name "23386"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 47
     name "8079"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 48
     name "7265"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 19
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 26
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 15
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 49
     name "1605"
     Spectral 234
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 1
     wt 13
     fc 6
     louvain 7
-    infomap 32
-    sgG1 7
-    sgG2 50
-    sgG5 63
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 91
     fc2 45
-    sgG12 7
-    Spectral2 235
+    sgG12 13
     louvain2 6
-    lec2 25
-    wt2 187
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 50
     name "3688"
     Spectral 234
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 18
     wt 13
     fc 6
     louvain 7
-    infomap 32
-    sgG1 7
-    sgG2 50
-    sgG5 63
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 91
     fc2 45
-    sgG12 7
-    Spectral2 235
+    sgG12 13
     louvain2 6
-    lec2 14
-    wt2 187
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 51
     name "87"
     Spectral 234
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 2
     wt 13
     fc 6
     louvain 7
-    infomap 32
-    sgG1 8
-    sgG2 50
-    sgG5 59
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 39
     fc2 45
-    sgG12 8
-    Spectral2 235
+    sgG12 13
     louvain2 6
-    lec2 49
-    wt2 175
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 52
     name "7414"
     Spectral 234
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 1
     wt 13
     fc 6
     louvain 7
-    infomap 32
-    sgG1 7
-    sgG2 50
-    sgG5 63
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 91
     fc2 45
-    sgG12 7
-    Spectral2 235
+    sgG12 13
     louvain2 6
-    lec2 25
-    wt2 184
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 53
     name "7094"
     Spectral 234
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 18
     wt 13
     fc 6
     louvain 7
-    infomap 32
-    sgG1 7
-    sgG2 50
-    sgG5 63
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 91
     fc2 45
-    sgG12 7
-    Spectral2 235
+    sgG12 13
     louvain2 6
-    lec2 14
-    wt2 187
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 54
     name "7402"
     Spectral 46
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 6
     fc 6
     louvain 3
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 44
-    sgG12 7
-    Spectral2 47
+    sgG12 25
     louvain2 3
-    lec2 38
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 55
     name "7846"
     Spectral 234
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 18
     wt 13
     fc 6
     louvain 7
-    infomap 32
-    sgG1 7
-    sgG2 50
-    sgG5 63
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 91
     fc2 45
-    sgG12 7
-    Spectral2 235
+    sgG12 13
     louvain2 6
-    lec2 14
-    wt2 187
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 56
     name "2923"
     Spectral 257
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 19
     wt 6
     fc 10
     louvain 15
-    infomap 42
-    sgG1 27
-    sgG2 18
-    sgG5 83
+    infomap 31
+    sgG1 7
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 26
-    Spectral2 258
+    sgG12 7
     louvain2 14
-    lec2 15
-    wt2 6
+    Spectral25per2 21
+    Spectral5per2 16
   ]
   node
   [
     id 57
     name "2475"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 13
     fc 1
     louvain 16
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 52
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 14
     fc2 15
-    sgG12 39
-    Spectral2 303
+    sgG12 27
     louvain2 15
-    lec2 40
-    wt2 180
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 58
     name "6786"
     Spectral 253
+    Spectral1per 41
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 56
     lec 1
     wt 6
     fc 10
     louvain 15
-    infomap 42
-    sgG1 27
-    sgG2 18
-    sgG5 83
+    infomap 31
+    sgG1 7
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 26
-    Spectral2 254
+    sgG12 7
     louvain2 14
-    lec2 28
-    wt2 6
+    Spectral25per2 21
+    Spectral5per2 16
   ]
   node
   [
     id 59
     name "129285"
     Spectral 152
+    Spectral1per 22
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 36
     lec 3
     wt 6
     fc 10
     louvain 15
-    infomap 42
-    sgG1 2
-    sgG2 18
-    sgG5 83
+    infomap 31
+    sgG1 7
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 2
-    Spectral2 153
+    sgG12 7
     louvain2 14
-    lec2 1
-    wt2 6
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 60
     name "811"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 19
     wt 6
     fc 10
     louvain 15
-    infomap 42
-    sgG1 27
-    sgG2 18
-    sgG5 83
+    infomap 67
+    sgG1 15
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 26
-    Spectral2 203
+    sgG12 14
     louvain2 14
-    lec2 15
-    wt2 6
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 61
     name "26986"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 5
     wt 5
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 62
-    wt2 5
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 62
     name "6311"
     Spectral 74
+    Spectral1per 12
+    Spectral25per 10
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 28
     fc 8
     louvain 13
-    infomap 102
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    infomap 104
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 59
-    wt2 27
+    Spectral25per2 11
+    Spectral5per2 6
   ]
   node
   [
     id 63
     name "3190"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 1
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 25
-    wt2 32
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 64
     name "5094"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 5
     wt 5
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 62
-    wt2 5
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 65
     name "5093"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 1
     wt 5
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 25
-    wt2 5
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 66
     name "2935"
     Spectral 6
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 3
     lec 5
     wt 5
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 7
+    sgG12 16
     louvain2 11
-    lec2 62
-    wt2 5
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 67
     name "1956"
     Spectral 234
+    Spectral1per 38
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 50
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 235
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 68
     name "2010"
     Spectral 74
+    Spectral1per 24
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 36
     lec 3
     wt 22
     fc 8
     louvain 13
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 39
+    infomap 6
+    sgG1 2
+    sgG2 26
+    sgG5 32
     fc2 4
-    sgG12 16
-    Spectral2 75
+    sgG12 2
     louvain2 12
-    lec2 1
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 69
     name "2947"
     Spectral 74
+    Spectral1per 21
+    Spectral25per 10
+    Spectral5per 3
+    Spectral05per 26
     lec 3
     wt 97
     fc 8
     louvain 13
-    infomap 107
-    sgG1 2
-    sgG2 41
-    sgG5 30
+    infomap 108
+    sgG1 7
+    sgG2 20
+    sgG5 41
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 1
-    wt2 96
+    Spectral25per2 11
+    Spectral5per2 3
   ]
   node
   [
     id 70
     name "71"
     Spectral 274
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 274
+    sgG12 20
     louvain2 2
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 71
     name "25930"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 22
     fc 6
     louvain 13
-    infomap 78
-    sgG1 2
-    sgG2 23
-    sgG5 81
+    infomap 77
+    sgG1 7
+    sgG2 41
+    sgG5 80
     fc2 46
-    sgG12 2
-    Spectral2 11
+    sgG12 7
     louvain2 12
-    lec2 28
-    wt2 21
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 72
     name "10133"
     Spectral 85
+    Spectral1per 22
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 27
     lec 5
     wt 9
     fc 6
     louvain 1
-    infomap 84
-    sgG1 26
-    sgG2 22
-    sgG5 19
+    infomap 85
+    sgG1 25
+    sgG2 42
+    sgG5 89
     fc2 48
-    sgG12 25
-    Spectral2 86
+    sgG12 24
     louvain2 1
-    lec2 71
-    wt2 9
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 73
     name "7316"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 123
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 74
     name "3315"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 75
     name "1213"
     Spectral 86
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 27
     lec 1
     wt 22
     fc 1
     louvain 13
-    infomap 38
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 39
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 22
-    sgG12 25
-    Spectral2 87
+    sgG12 15
     louvain2 12
-    lec2 26
-    wt2 21
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 76
     name "7415"
     Spectral 74
+    Spectral1per 22
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 28
     lec 5
     wt 100
     fc 13
     louvain 1
     infomap 60
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 75
+    sgG12 10
     louvain2 1
-    lec2 62
-    wt2 99
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 77
     name "81631"
     Spectral 85
+    Spectral1per 23
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 28
     lec 4
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 86
+    sgG12 18
     louvain2 9
-    lec2 53
-    wt2 4
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 78
     name "9255"
     Spectral 103
+    Spectral1per 28
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 27
     lec 5
     wt 9
     fc 6
     louvain 1
-    infomap 66
-    sgG1 31
-    sgG2 22
-    sgG5 11
+    infomap 41
+    sgG1 25
+    sgG2 42
+    sgG5 89
     fc2 48
-    sgG12 30
-    Spectral2 104
+    sgG12 24
     louvain2 1
-    lec2 71
-    wt2 9
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 79
     name "667"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 13
     lec 1
     wt 15
     fc 6
     louvain 6
     infomap 48
-    sgG1 8
-    sgG2 1
-    sgG5 19
+    sgG1 23
+    sgG2 18
+    sgG5 65
     fc2 42
-    sgG12 8
-    Spectral2 49
+    sgG12 22
     louvain2 25
-    lec2 25
-    wt2 14
+    Spectral25per2 2
+    Spectral5per2 11
   ]
   node
   [
     id 80
     name "10890"
     Spectral 116
+    Spectral1per 27
+    Spectral25per 7
+    Spectral5per 2
+    Spectral05per 28
     lec 5
     wt 9
     fc 6
     louvain 1
-    infomap 84
-    sgG1 26
-    sgG2 22
-    sgG5 19
+    infomap 85
+    sgG1 25
+    sgG2 42
+    sgG5 89
     fc2 48
-    sgG12 25
-    Spectral2 117
+    sgG12 24
     louvain2 1
-    lec2 71
-    wt2 9
+    Spectral25per2 8
+    Spectral5per2 2
   ]
   node
   [
     id 81
     name "9230"
     Spectral 85
+    Spectral1per 15
+    Spectral25per 11
+    Spectral5per 3
+    Spectral05per 27
     lec 5
     wt 131
     fc 6
     louvain 1
-    infomap 84
-    sgG1 26
-    sgG2 22
-    sgG5 19
+    infomap 85
+    sgG1 25
+    sgG2 42
+    sgG5 89
     fc2 48
-    sgG12 25
-    Spectral2 86
+    sgG12 24
     louvain2 1
-    lec2 71
-    wt2 130
+    Spectral25per2 12
+    Spectral5per2 3
   ]
   node
   [
     id 82
     name "51552"
     Spectral 85
+    Spectral1per 15
+    Spectral25per 11
+    Spectral5per 3
+    Spectral05per 27
     lec 5
     wt 131
     fc 6
     louvain 1
-    infomap 84
-    sgG1 26
-    sgG2 22
-    sgG5 19
+    infomap 85
+    sgG1 25
+    sgG2 42
+    sgG5 89
     fc2 48
-    sgG12 25
-    Spectral2 86
+    sgG12 24
     louvain2 1
-    lec2 71
-    wt2 130
+    Spectral25per2 12
+    Spectral5per2 3
   ]
   node
   [
     id 83
     name "22895"
     Spectral 239
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 21
     wt 7
     fc 4
     louvain 3
-    infomap 97
-    sgG1 8
-    sgG2 1
-    sgG5 46
+    infomap 71
+    sgG1 23
+    sgG2 11
+    sgG5 16
     fc2 1
-    sgG12 8
-    Spectral2 240
+    sgG12 22
     louvain2 3
-    lec2 17
-    wt2 7
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 84
     name "8573"
     Spectral 4
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 3
     lec 1
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 16
     fc2 46
-    sgG12 8
-    Spectral2 5
+    sgG12 22
     louvain2 3
-    lec2 34
-    wt2 14
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 85
     name "5864"
     Spectral 239
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 25
     wt 7
     fc 4
     louvain 3
-    infomap 97
-    sgG1 8
-    sgG2 1
-    sgG5 46
+    infomap 71
+    sgG1 23
+    sgG2 11
+    sgG5 16
     fc2 1
-    sgG12 8
-    Spectral2 240
+    sgG12 22
     louvain2 3
-    lec2 21
-    wt2 7
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 86
     name "2316"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 8
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 296
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 87
     name "10542"
     Spectral 113
+    Spectral1per 13
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 21
     lec 1
     wt 26
     fc 8
     louvain 13
     infomap 62
-    sgG1 33
-    sgG2 42
-    sgG5 46
+    sgG1 8
+    sgG2 46
+    sgG5 58
     fc2 4
-    sgG12 32
-    Spectral2 114
+    sgG12 8
     louvain2 12
-    lec2 23
-    wt2 25
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 88
     name "4830"
     Spectral 71
+    Spectral1per 15
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 26
     lec 4
     wt 39
     fc 7
     louvain 7
-    infomap 86
-    sgG1 4
-    sgG2 49
-    sgG5 65
+    infomap 89
+    sgG1 13
+    sgG2 43
+    sgG5 5
     fc2 3
-    sgG12 4
-    Spectral2 72
+    sgG12 13
     louvain2 6
-    lec2 57
-    wt2 38
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 89
     name "2023"
     Spectral 207
+    Spectral1per 37
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 48
     lec 18
     wt 21
     fc 15
     louvain 14
-    infomap 81
-    sgG1 32
-    sgG2 50
-    sgG5 89
+    infomap 82
+    sgG1 5
+    sgG2 14
+    sgG5 82
     fc2 11
-    sgG12 31
-    Spectral2 208
+    sgG12 5
     louvain2 13
-    lec2 14
-    wt2 20
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 90
     name "4893"
     Spectral 48
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 13
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 185
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 91
     name "7529"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 6
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 45
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 92
     name "2170"
     Spectral 226
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 53
     lec 18
     wt 85
     fc 6
     louvain 7
-    infomap 32
-    sgG1 7
-    sgG2 50
-    sgG5 63
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 91
     fc2 45
-    sgG12 7
-    Spectral2 227
+    sgG12 13
     louvain2 6
-    lec2 14
-    wt2 84
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 93
     name "26232"
     Spectral 234
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 18
     wt 13
     fc 6
     louvain 10
-    infomap 34
-    sgG1 7
-    sgG2 50
-    sgG5 63
+    infomap 29
+    sgG1 13
+    sgG2 7
+    sgG5 91
     fc2 45
-    sgG12 7
-    Spectral2 235
+    sgG12 13
     louvain2 9
-    lec2 14
-    wt2 175
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 94
     name "5162"
     Spectral 221
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 18
     wt 25
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 222
+    sgG12 19
     louvain2 14
-    lec2 14
-    wt2 24
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 95
     name "26088"
     Spectral 85
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 28
     lec 4
     wt 22
     fc 5
     louvain 10
-    infomap 38
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 39
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 2
-    sgG12 25
-    Spectral2 86
+    sgG12 15
     louvain2 9
-    lec2 53
-    wt2 21
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 96
     name "9135"
     Spectral 88
+    Spectral1per 18
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 28
     lec 4
     wt 22
     fc 5
     louvain 10
-    infomap 38
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 39
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 2
-    sgG12 25
-    Spectral2 89
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 97
     name "1457"
     Spectral 174
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 2
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 175
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 98
     name "375"
     Spectral 85
+    Spectral1per 23
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 28
     lec 4
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 86
+    sgG12 18
     louvain2 9
-    lec2 53
-    wt2 4
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 99
     name "6272"
     Spectral 263
+    Spectral1per 42
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 4
     wt 1
     fc 5
     louvain 10
-    infomap 89
-    sgG1 17
-    sgG2 43
-    sgG5 85
+    infomap 95
+    sgG1 14
+    sgG2 7
+    sgG5 69
     fc2 2
-    sgG12 44
-    Spectral2 291
+    sgG12 32
     louvain2 9
-    lec2 53
-    wt2 1
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 100
     name "11276"
     Spectral 148
+    Spectral1per 10
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 17
     lec 7
     wt 22
     fc 5
     louvain 10
-    infomap 38
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 39
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 2
-    sgG12 25
-    Spectral2 149
+    sgG12 15
     louvain2 9
-    lec2 3
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 101
     name "9146"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 21
     lec 4
     wt 6
     fc 5
     louvain 6
-    infomap 37
-    sgG1 27
-    sgG2 13
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 47
+    sgG5 43
     fc2 2
-    sgG12 26
-    Spectral2 123
+    sgG12 21
     louvain2 23
-    lec2 51
-    wt2 6
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 102
     name "351"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 19
     wt 13
     fc 4
     louvain 15
-    infomap 29
-    sgG1 27
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 15
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 26
-    Spectral2 202
+    sgG12 14
     louvain2 14
-    lec2 15
-    wt2 179
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 103
     name "3028"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 18
     wt 25
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 202
+    sgG12 19
     louvain2 14
-    lec2 14
-    wt2 24
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 104
     name "4747"
     Spectral 52
+    Spectral1per 27
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 33
     lec 3
     wt 40
     fc 3
     louvain 7
     infomap 36
-    sgG1 33
-    sgG2 7
-    sgG5 51
+    sgG1 8
+    sgG2 47
+    sgG5 63
     fc2 36
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 39
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 105
     name "5621"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 18
     wt 21
     fc 4
     louvain 15
-    infomap 29
-    sgG1 27
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 15
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 26
-    Spectral2 202
+    sgG12 14
     louvain2 14
-    lec2 14
-    wt2 20
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 106
     name "1072"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 293
+    sgG12 20
     louvain2 2
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 107
     name "29979"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 14
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 108
     name "7165"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 1
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 23
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 109
     name "6622"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 48
     lec 20
     wt 13
     fc 2
     louvain 13
-    infomap 20
-    sgG1 33
-    sgG2 44
-    sgG5 40
+    infomap 24
+    sgG1 15
+    sgG2 11
+    sgG5 35
     fc2 24
-    sgG12 32
-    Spectral2 210
+    sgG12 14
     louvain2 12
-    lec2 16
-    wt2 179
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 110
     name "1509"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 48
     lec 20
     wt 13
     fc 9
     louvain 15
-    infomap 101
-    sgG1 24
-    sgG2 44
-    sgG5 42
+    infomap 103
+    sgG1 15
+    sgG2 11
+    sgG5 35
     fc2 5
-    sgG12 23
-    Spectral2 210
+    sgG12 14
     louvain2 14
-    lec2 16
-    wt2 179
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 111
     name "9479"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 25
     wt 15
     fc 4
     louvain 3
-    infomap 29
-    sgG1 17
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 23
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 35
-    Spectral2 202
+    sgG12 22
     louvain2 3
-    lec2 21
-    wt2 14
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 112
     name "10211"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 19
     wt 101
     fc 11
     louvain 18
-    infomap 55
-    sgG1 3
-    sgG2 32
-    sgG5 41
+    infomap 70
+    sgG1 26
+    sgG2 44
+    sgG5 30
     fc2 7
-    sgG12 3
-    Spectral2 11
+    sgG12 25
     louvain2 17
-    lec2 15
-    wt2 100
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 113
     name "4137"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 88
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 31
     fc2 24
-    sgG12 34
-    Spectral2 303
+    sgG12 27
     louvain2 4
-    lec2 43
-    wt2 175
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 114
     name "1191"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 4
     wt 21
     fc 4
     louvain 15
-    infomap 29
-    sgG1 27
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 15
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 26
-    Spectral2 202
+    sgG12 14
     louvain2 14
-    lec2 59
-    wt2 20
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 115
     name "22919"
     Spectral 141
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 16
     fc2 46
-    sgG12 8
-    Spectral2 142
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 116
     name "348"
     Spectral 272
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 4
     louvain 4
     infomap 27
-    sgG1 27
-    sgG2 29
-    sgG5 70
+    sgG1 15
+    sgG2 31
+    sgG5 88
     fc2 1
-    sgG12 26
-    Spectral2 272
+    sgG12 14
     louvain2 4
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 117
     name "11140"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 19
     wt 13
     fc 4
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 1
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 15
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 118
     name "5599"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 64
     lec 17
     wt 1
     fc 1
     louvain 4
-    infomap 52
-    sgG1 17
-    sgG2 49
-    sgG5 11
+    infomap 41
+    sgG1 14
+    sgG2 3
+    sgG5 49
     fc2 18
-    sgG12 34
-    Spectral2 307
+    sgG12 35
     louvain2 4
-    lec2 13
-    wt2 1
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 119
     name "847"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 19
     wt 22
     fc 4
     louvain 2
-    infomap 43
-    sgG1 9
-    sgG2 44
-    sgG5 92
+    infomap 58
+    sgG1 21
+    sgG2 11
+    sgG5 52
     fc2 1
-    sgG12 9
-    Spectral2 202
+    sgG12 20
     louvain2 2
-    lec2 15
-    wt2 21
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 120
     name "1410"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 48
     lec 18
     wt 13
     fc 6
     louvain 15
-    infomap 92
-    sgG1 8
-    sgG2 44
-    sgG5 89
+    infomap 94
+    sgG1 15
+    sgG2 11
+    sgG5 35
     fc2 45
-    sgG12 8
-    Spectral2 210
+    sgG12 14
     louvain2 14
-    lec2 14
-    wt2 179
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 121
     name "9217"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 22
     wt 41
     fc 8
     louvain 11
-    infomap 87
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 90
+    sgG1 2
+    sgG2 26
+    sgG5 38
     fc2 4
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 10
-    lec2 18
-    wt2 40
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 122
     name "5354"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 22
     wt 70
     fc 9
     louvain 17
-    infomap 44
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 11
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 16
-    lec2 18
-    wt2 69
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 123
     name "10675"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 19
     wt 13
     fc 4
     louvain 15
-    infomap 29
-    sgG1 27
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 15
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 26
-    Spectral2 202
+    sgG12 14
     louvain2 14
-    lec2 15
-    wt2 179
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 124
     name "7532"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 125
     name "321"
     Spectral 227
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 19
     wt 61
     fc 4
     louvain 15
-    infomap 29
-    sgG1 27
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 23
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 26
-    Spectral2 228
+    sgG12 22
     louvain2 14
-    lec2 15
-    wt2 60
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 126
     name "9040"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 19
     wt 112
     fc 2
     louvain 5
-    infomap 79
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 44
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 247
+    sgG12 14
     louvain2 5
-    lec2 15
-    wt2 111
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 127
     name "8650"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 32
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 78
     fc2 15
-    sgG12 39
-    Spectral2 297
+    sgG12 27
     louvain2 4
-    lec2 16
-    wt2 175
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 128
     name "55754"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 19
     wt 13
     fc 4
     louvain 15
-    infomap 29
-    sgG1 27
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 15
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 26
-    Spectral2 202
+    sgG12 14
     louvain2 14
-    lec2 15
-    wt2 179
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 129
     name "4508"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 19
     wt 13
     fc 4
     louvain 15
-    infomap 29
-    sgG1 27
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 15
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 26
-    Spectral2 202
+    sgG12 14
     louvain2 14
-    lec2 15
-    wt2 179
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 130
     name "8774"
     Spectral 235
+    Spectral1per 40
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 50
     lec 19
     wt 131
     fc 6
     louvain 1
-    infomap 84
-    sgG1 27
-    sgG2 22
-    sgG5 19
+    infomap 85
+    sgG1 25
+    sgG2 42
+    sgG5 89
     fc2 48
-    sgG12 26
-    Spectral2 236
+    sgG12 24
     louvain2 1
-    lec2 15
-    wt2 130
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 131
     name "5684"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 22
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 161
+    sgG12 3
     louvain2 10
-    lec2 18
-    wt2 21
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 132
     name "1508"
     Spectral 65
+    Spectral1per 24
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 33
     lec 4
     wt 22
     fc 12
     louvain 15
-    infomap 14
-    sgG1 2
-    sgG2 34
-    sgG5 77
+    infomap 52
+    sgG1 17
+    sgG2 5
+    sgG5 4
     fc2 8
-    sgG12 2
-    Spectral2 66
+    sgG12 16
     louvain2 14
-    lec2 59
-    wt2 21
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 133
     name "10801"
     Spectral 35
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 124
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 36
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 123
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 134
     name "56904"
     Spectral 74
+    Spectral1per 26
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 8
     louvain 10
-    infomap 5
-    sgG1 2
-    sgG2 23
-    sgG5 5
+    infomap 7
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 135
     name "2280"
     Spectral 251
+    Spectral1per 41
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 61
     lec 1
     wt 1
     fc 1
     louvain 6
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 52
+    infomap 53
+    sgG1 14
+    sgG2 28
+    sgG5 51
     fc2 15
-    sgG12 43
-    Spectral2 252
+    sgG12 27
     louvain2 25
-    lec2 25
-    wt2 1
+    Spectral25per2 22
+    Spectral5per2 9
   ]
   node
   [
     id 136
     name "5861"
     Spectral 135
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 27
     lec 3
     wt 23
     fc 6
     louvain 3
-    infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    infomap 71
+    sgG1 23
+    sgG2 18
+    sgG5 16
     fc2 46
-    sgG12 8
-    Spectral2 136
+    sgG12 22
     louvain2 3
-    lec2 1
-    wt2 22
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 137
     name "2932"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 53
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 14
     fc2 15
-    sgG12 39
-    Spectral2 306
+    sgG12 27
     louvain2 4
-    lec2 40
-    wt2 180
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 138
     name "6772"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 65
     lec 2
     wt 6
     fc 8
     louvain 16
-    infomap 33
-    sgG1 17
-    sgG2 26
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 17
+    sgG5 66
     fc2 4
-    sgG12 35
-    Spectral2 299
+    sgG12 12
     louvain2 15
-    lec2 49
-    wt2 6
+    Spectral25per2 23
+    Spectral5per2 10
   ]
   node
   [
     id 139
     name "5578"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 73
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 78
     fc2 15
-    sgG12 39
-    Spectral2 304
+    sgG12 27
     louvain2 4
-    lec2 40
-    wt2 172
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 140
     name "5170"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 19
     wt 13
     fc 1
     louvain 16
-    infomap 85
-    sgG1 17
-    sgG2 15
-    sgG5 52
+    infomap 101
+    sgG1 14
+    sgG2 24
+    sgG5 58
     fc2 15
-    sgG12 43
-    Spectral2 303
+    sgG12 29
     louvain2 15
-    lec2 15
-    wt2 180
+    Spectral25per2 21
+    Spectral5per2 16
   ]
   node
   [
     id 141
     name "2782"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 142
     name "4735"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 1
     wt 124
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 303
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 123
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 143
     name "253260"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 1
     louvain 16
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 34
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 14
     fc2 15
-    sgG12 39
-    Spectral2 303
+    sgG12 27
     louvain2 15
-    lec2 40
-    wt2 180
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 144
     name "84335"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 15
-    sgG5 52
+    infomap 15
+    sgG1 10
+    sgG2 28
+    sgG5 14
     fc2 15
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 180
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 145
     name "7249"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 1
     wt 9
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 28
-    wt2 9
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 146
     name "5300"
     Spectral 52
+    Spectral1per 26
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 31
     lec 4
     wt 1
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 13
-    sgG5 84
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 4
     fc2 20
-    sgG12 31
-    Spectral2 53
+    sgG12 5
     louvain2 4
-    lec2 59
-    wt2 1
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 147
     name "6009"
     Spectral 276
+    Spectral1per 41
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 2
     louvain 5
     infomap 27
-    sgG1 27
-    sgG2 29
-    sgG5 70
+    sgG1 15
+    sgG2 31
+    sgG5 88
     fc2 26
-    sgG12 26
-    Spectral2 276
+    sgG12 14
     louvain2 5
-    lec2 15
-    wt2 9
+    Spectral25per2 24
+    Spectral5per2 9
   ]
   node
   [
     id 148
     name "5066"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 1
     wt 142
     fc 8
     louvain 16
-    infomap 33
-    sgG1 23
-    sgG2 26
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 17
+    sgG5 66
     fc2 4
-    sgG12 22
-    Spectral2 210
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 141
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 149
     name "53616"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 150
     name "23513"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 2
     wt 13
     fc 1
     louvain 6
     infomap 49
-    sgG1 11
-    sgG2 8
-    sgG5 43
+    sgG1 22
+    sgG2 32
+    sgG5 7
     fc2 14
-    sgG12 11
-    Spectral2 304
+    sgG12 21
     louvain2 24
-    lec2 40
-    wt2 172
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 151
     name "1739"
     Spectral 34
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 1
     wt 47
     fc 6
     louvain 6
-    infomap 71
-    sgG1 11
+    infomap 68
+    sgG1 22
     sgG2 8
-    sgG5 43
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 35
+    sgG12 21
     louvain2 21
-    lec2 34
-    wt2 46
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 152
     name "10971"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 153
     name "7164"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 11
+    Spectral5per 4
+    Spectral05per 28
     lec 17
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 13
-    wt2 7
+    Spectral25per2 12
+    Spectral5per2 4
   ]
   node
   [
     id 154
     name "5058"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 31
-    sgG1 11
-    sgG2 47
-    sgG5 36
+    infomap 40
+    sgG1 10
+    sgG2 39
+    sgG5 86
     fc2 13
-    sgG12 11
-    Spectral2 309
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 172
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 155
     name "10987"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 59
     lec 17
     wt 13
     fc 2
     louvain 5
     infomap 27
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 298
+    sgG12 14
     louvain2 5
-    lec2 13
-    wt2 171
+    Spectral25per2 21
+    Spectral5per2 9
   ]
   node
   [
     id 156
     name "11345"
     Spectral 224
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 17
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 225
+    sgG12 18
     louvain2 9
-    lec2 13
-    wt2 4
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 157
     name "10419"
     Spectral 252
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 58
     lec 17
     wt 1
     fc 3
     louvain 12
-    infomap 82
-    sgG1 24
-    sgG2 25
-    sgG5 55
+    infomap 83
+    sgG1 8
+    sgG2 4
+    sgG5 84
     fc2 38
-    sgG12 23
-    Spectral2 253
+    sgG12 8
     louvain2 11
-    lec2 13
-    wt2 1
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 158
     name "5127"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 159
     name "10458"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 17
     wt 6
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 26
-    sgG5 15
+    infomap 1
+    sgG1 22
+    sgG2 43
+    sgG5 9
     fc2 3
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 19
-    lec2 13
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 160
     name "5566"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 17
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 52
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 31
     fc2 15
-    sgG12 43
-    Spectral2 303
+    sgG12 27
     louvain2 4
-    lec2 13
-    wt2 175
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 161
     name "3984"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 17
     wt 13
     fc 1
     louvain 4
-    infomap 31
-    sgG1 11
-    sgG2 47
-    sgG5 36
+    infomap 40
+    sgG1 10
+    sgG2 39
+    sgG5 86
     fc2 13
-    sgG12 11
-    Spectral2 303
+    sgG12 10
     louvain2 4
-    lec2 13
-    wt2 175
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 162
     name "7001"
     Spectral 219
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 17
     wt 13
     fc 4
     louvain 4
     infomap 27
-    sgG1 27
-    sgG2 29
-    sgG5 14
+    sgG1 15
+    sgG2 31
+    sgG5 20
     fc2 1
-    sgG12 26
-    Spectral2 220
+    sgG12 14
     louvain2 4
-    lec2 13
-    wt2 171
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 163
     name "5581"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 17
     wt 13
     fc 1
     louvain 4
-    infomap 54
-    sgG1 17
-    sgG2 15
-    sgG5 32
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 31
     fc2 15
-    sgG12 39
-    Spectral2 297
+    sgG12 27
     louvain2 4
-    lec2 13
-    wt2 180
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 164
     name "7531"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 165
     name "4627"
     Spectral 181
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 1
     wt 13
     fc 1
     louvain 6
     infomap 17
-    sgG1 11
-    sgG2 25
-    sgG5 58
+    sgG1 22
+    sgG2 4
+    sgG5 55
     fc2 17
-    sgG12 11
-    Spectral2 182
+    sgG12 21
     louvain2 18
-    lec2 28
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 166
     name "23108"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 167
     name "2037"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 168
     name "11346"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 169
     name "5906"
     Spectral 224
+    Spectral1per 39
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 51
     lec 17
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 225
+    sgG12 18
     louvain2 9
-    lec2 13
-    wt2 4
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 170
     name "5573"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 17
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 88
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 31
     fc2 25
-    sgG12 43
-    Spectral2 303
+    sgG12 27
     louvain2 4
-    lec2 13
-    wt2 175
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 171
     name "6854"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 2
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 24
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 172
     name "8745"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 173
     name "7163"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 174
     name "2752"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 8
     wt 84
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 202
+    sgG12 19
     louvain2 14
-    lec2 4
-    wt2 83
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 175
     name "5160"
     Spectral 80
+    Spectral1per 22
+    Spectral25per 6
+    Spectral5per 6
+    Spectral05per 19
     lec 10
     wt 49
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 81
+    sgG12 19
     louvain2 14
-    lec2 6
-    wt2 48
+    Spectral25per2 7
+    Spectral5per2 6
   ]
   node
   [
     id 176
     name "226"
     Spectral 216
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 18
     wt 13
     fc 15
     louvain 15
-    infomap 92
-    sgG1 28
-    sgG2 50
-    sgG5 89
+    infomap 94
+    sgG1 24
+    sgG2 2
+    sgG5 82
     fc2 11
-    sgG12 27
-    Spectral2 217
+    sgG12 23
     louvain2 14
-    lec2 14
-    wt2 179
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 177
     name "8050"
     Spectral 234
+    Spectral1per 38
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 50
     lec 2
     wt 42
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 235
+    sgG12 19
     louvain2 14
-    lec2 49
-    wt2 41
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 178
     name "3032"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 4
     wt 25
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 202
+    sgG12 19
     louvain2 14
-    lec2 59
-    wt2 24
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 179
     name "498"
     Spectral 178
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 18
     wt 106
     fc 3
     louvain 15
-    infomap 72
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 69
+    sgG1 20
+    sgG2 21
+    sgG5 4
     fc2 33
-    sgG12 28
-    Spectral2 179
+    sgG12 19
     louvain2 14
-    lec2 14
-    wt2 105
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 180
     name "1431"
     Spectral 52
+    Spectral1per 28
+    Spectral25per 11
+    Spectral5per 6
+    Spectral05per 30
     lec 5
     wt 1
     fc 3
     louvain 1
     infomap 56
-    sgG1 29
-    sgG2 11
-    sgG5 47
+    sgG1 8
+    sgG2 21
+    sgG5 64
     fc2 39
-    sgG12 28
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 70
-    wt2 1
+    Spectral25per2 12
+    Spectral5per2 6
   ]
   node
   [
     id 181
     name "10452"
     Spectral 233
+    Spectral1per 40
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 50
     lec 18
     wt 25
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 234
+    sgG12 19
     louvain2 14
-    lec2 14
-    wt2 24
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 182
     name "2746"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 18
     wt 25
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 202
+    sgG12 19
     louvain2 14
-    lec2 14
-    wt2 24
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 183
     name "9804"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 4
     wt 25
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 202
+    sgG12 19
     louvain2 14
-    lec2 59
-    wt2 24
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 184
     name "4190"
     Spectral 229
+    Spectral1per 38
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 50
     lec 25
     wt 33
     fc 3
     louvain 15
-    infomap 53
-    sgG1 29
-    sgG2 37
-    sgG5 34
+    infomap 54
+    sgG1 20
+    sgG2 21
+    sgG5 81
     fc2 40
-    sgG12 28
-    Spectral2 230
+    sgG12 19
     louvain2 14
-    lec2 21
-    wt2 32
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 185
     name "3030"
     Spectral 108
+    Spectral1per 12
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 22
     lec 4
     wt 89
     fc 3
     louvain 15
-    infomap 72
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 69
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 109
+    sgG12 19
     louvain2 14
-    lec2 56
-    wt2 88
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 186
     name "4967"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 8
     wt 25
     fc 3
     louvain 15
-    infomap 50
-    sgG1 30
-    sgG2 28
-    sgG5 84
+    infomap 64
+    sgG1 20
+    sgG2 45
+    sgG5 21
     fc2 33
-    sgG12 29
-    Spectral2 202
+    sgG12 19
     louvain2 14
-    lec2 4
-    wt2 24
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 187
     name "5825"
     Spectral 150
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 3
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 151
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 21
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 188
     name "5682"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 3
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 153
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 21
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 189
     name "7536"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 5
     wt 13
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 81
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 65
-    wt2 174
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 190
     name "5129"
     Spectral 2
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 2
     wt 13
     fc 5
     louvain 10
-    infomap 108
-    sgG1 26
-    sgG2 43
-    sgG5 71
+    infomap 109
+    sgG1 16
+    sgG2 33
+    sgG5 11
     fc2 2
-    sgG12 25
-    Spectral2 3
+    sgG12 15
     louvain2 9
-    lec2 48
-    wt2 178
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 191
     name "56947"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 5
     wt 70
     fc 9
     louvain 17
-    infomap 44
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 11
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 16
-    lec2 65
-    wt2 69
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 192
     name "8803"
     Spectral 5
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 3
     lec 1
     wt 13
     fc 5
     louvain 10
-    infomap 108
-    sgG1 26
-    sgG2 38
-    sgG5 71
+    infomap 109
+    sgG1 16
+    sgG2 33
+    sgG5 11
     fc2 2
-    sgG12 25
-    Spectral2 6
+    sgG12 15
     louvain2 9
-    lec2 28
-    wt2 178
+    Spectral25per2 3
+    Spectral5per2 11
   ]
   node
   [
     id 193
     name "9632"
     Spectral 5
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 3
     lec 5
     wt 145
     fc 5
     louvain 10
-    infomap 108
-    sgG1 26
-    sgG2 38
-    sgG5 71
+    infomap 109
+    sgG1 16
+    sgG2 33
+    sgG5 11
     fc2 2
-    sgG12 25
-    Spectral2 6
+    sgG12 15
     louvain2 9
-    lec2 65
-    wt2 144
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 194
     name "50855"
     Spectral 10
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 18
-    lec2 28
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 195
     name "5879"
     Spectral 23
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 4
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 24
+    sgG12 21
     louvain2 18
-    lec2 52
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 196
     name "998"
     Spectral 22
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 23
+    sgG12 21
     louvain2 18
-    lec2 26
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 197
     name "10152"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
     infomap 19
-    sgG1 11
-    sgG2 13
-    sgG5 26
+    sgG1 22
+    sgG2 47
+    sgG5 40
     fc2 42
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 198
     name "3708"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 6
     wt 1
     fc 3
     louvain 6
-    infomap 54
-    sgG1 33
-    sgG2 11
-    sgG5 49
+    infomap 53
+    sgG1 8
+    sgG2 46
+    sgG5 51
     fc2 37
-    sgG12 32
-    Spectral2 287
+    sgG12 8
     louvain2 25
-    lec2 2
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 199
     name "6262"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 19
     wt 1
     fc 1
     louvain 6
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 52
+    infomap 53
+    sgG1 14
+    sgG2 28
+    sgG5 51
     fc2 15
-    sgG12 43
-    Spectral2 303
+    sgG12 27
     louvain2 25
-    lec2 15
-    wt2 1
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 200
     name "5799"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 9
     lec 1
     wt 6
     fc 10
     louvain 6
-    infomap 37
-    sgG1 27
-    sgG2 46
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 8
+    sgG5 43
     fc2 6
-    sgG12 26
-    Spectral2 11
+    sgG12 21
     louvain2 23
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 201
     name "3309"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 9
     lec 1
     wt 34
     fc 10
     louvain 15
-    infomap 51
+    infomap 50
     sgG1 6
-    sgG2 37
-    sgG5 75
+    sgG2 34
+    sgG5 81
     fc2 6
     sgG12 6
-    Spectral2 11
     louvain2 14
-    lec2 28
-    wt2 33
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 202
     name "8027"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 11
+    Spectral5per 3
+    Spectral05per 21
     lec 4
     wt 6
     fc 10
     louvain 6
-    infomap 37
-    sgG1 27
-    sgG2 3
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 15
+    sgG5 43
     fc2 6
-    sgG12 26
-    Spectral2 123
+    sgG12 21
     louvain2 23
-    lec2 50
-    wt2 6
+    Spectral25per2 12
+    Spectral5per2 3
   ]
   node
   [
     id 203
     name "9793"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 40
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 67
     fc2 43
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 204
     name "1937"
     Spectral 195
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 45
     lec 2
     wt 1
     fc 3
     louvain 2
-    infomap 41
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 196
+    sgG12 8
     louvain2 2
-    lec2 45
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 205
     name "2549"
     Spectral 240
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 7
-    sgG1 11
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 22
+    sgG2 40
+    sgG5 60
     fc2 49
-    sgG12 11
-    Spectral2 241
+    sgG12 21
     louvain2 19
-    lec2 24
-    wt2 6
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 206
     name "5786"
     Spectral 240
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 17
     wt 4
     fc 7
     louvain 6
-    infomap 99
-    sgG1 11
-    sgG2 35
-    sgG5 15
+    infomap 100
+    sgG1 22
+    sgG2 43
+    sgG5 9
     fc2 3
-    sgG12 11
-    Spectral2 241
+    sgG12 21
     louvain2 19
-    lec2 13
-    wt2 4
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 207
     name "2597"
     Spectral 191
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 20
     wt 1
     fc 1
     louvain 13
-    infomap 20
-    sgG1 33
-    sgG2 7
-    sgG5 40
+    infomap 24
+    sgG1 8
+    sgG2 23
+    sgG5 25
     fc2 16
-    sgG12 32
-    Spectral2 192
+    sgG12 8
     louvain2 12
-    lec2 16
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 208
     name "6616"
     Spectral 247
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 22
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 248
+    sgG12 2
     louvain2 16
-    lec2 18
-    wt2 8
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 209
     name "7336"
     Spectral 234
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 25
     wt 14
     fc 2
     louvain 5
-    infomap 90
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 92
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 235
+    sgG12 14
     louvain2 5
-    lec2 21
-    wt2 13
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 210
     name "10540"
     Spectral 7
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 13
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 29
+    sgG1 23
+    sgG2 18
+    sgG5 71
     fc2 44
-    sgG12 8
-    Spectral2 8
+    sgG12 22
     louvain2 3
-    lec2 25
-    wt2 176
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 211
     name "3320"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 19
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 15
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 212
     name "6853"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 25
     wt 13
     fc 2
     louvain 7
     infomap 36
-    sgG1 33
-    sgG2 44
-    sgG5 51
+    sgG1 10
+    sgG2 11
+    sgG5 63
     fc2 24
-    sgG12 32
-    Spectral2 210
+    sgG12 10
     louvain2 6
-    lec2 21
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 213
     name "1173"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 60
     lec 25
     wt 31
     fc 11
     louvain 7
-    infomap 26
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 78
+    sgG1 16
+    sgG2 40
+    sgG5 69
     fc2 7
-    sgG12 25
-    Spectral2 292
+    sgG12 15
     louvain2 6
-    lec2 21
-    wt2 30
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 214
     name "11047"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 62
     lec 25
     wt 14
     fc 2
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 35
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 29
-    sgG12 26
-    Spectral2 286
+    sgG12 14
     louvain2 14
-    lec2 21
-    wt2 13
+    Spectral25per2 24
+    Spectral5per2 10
   ]
   node
   [
     id 215
     name "5052"
     Spectral 189
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 20
     wt 1
     fc 3
     louvain 7
     infomap 27
-    sgG1 33
-    sgG2 29
-    sgG5 59
+    sgG1 8
+    sgG2 40
+    sgG5 25
     fc2 36
-    sgG12 32
-    Spectral2 190
+    sgG12 8
     louvain2 6
-    lec2 16
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 216
     name "5335"
     Spectral 16
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 17
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 217
     name "10963"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 218
     name "408"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 20
     wt 19
     fc 1
     louvain 4
-    infomap 45
-    sgG1 26
-    sgG2 49
-    sgG5 33
+    infomap 46
+    sgG1 16
+    sgG2 3
+    sgG5 21
     fc2 22
-    sgG12 25
-    Spectral2 307
+    sgG12 15
     louvain2 4
-    lec2 16
-    wt2 18
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 219
     name "1445"
     Spectral 216
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 52
     lec 25
     wt 13
     fc 12
     louvain 16
-    infomap 85
-    sgG1 17
-    sgG2 34
-    sgG5 52
+    infomap 101
+    sgG1 14
+    sgG2 24
+    sgG5 58
     fc2 8
-    sgG12 43
-    Spectral2 217
+    sgG12 29
     louvain2 15
-    lec2 21
-    wt2 180
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 220
     name "1399"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 62
     lec 20
     wt 13
     fc 6
     louvain 6
-    infomap 7
-    sgG1 11
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 22
+    sgG2 40
+    sgG5 60
     fc2 49
-    sgG12 11
-    Spectral2 304
+    sgG12 21
     louvain2 19
-    lec2 16
-    wt2 173
+    Spectral25per2 23
+    Spectral5per2 10
   ]
   node
   [
     id 221
     name "382"
     Spectral 85
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 28
     lec 25
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 16
+    sgG2 33
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 86
+    sgG12 15
     louvain2 9
-    lec2 21
-    wt2 4
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 222
     name "5910"
     Spectral 238
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 25
     wt 88
     fc 7
     louvain 12
-    infomap 96
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 99
+    sgG1 19
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 239
+    sgG12 18
     louvain2 11
-    lec2 21
-    wt2 87
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 223
     name "3326"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 48
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 224
     name "3312"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 18
     wt 13
     fc 2
     louvain 8
-    infomap 24
-    sgG1 17
-    sgG2 6
-    sgG5 66
+    infomap 26
+    sgG1 14
+    sgG2 37
+    sgG5 3
     fc2 24
-    sgG12 34
-    Spectral2 247
+    sgG12 35
     louvain2 7
-    lec2 14
-    wt2 175
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 225
     name "1845"
     Spectral 271
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 271
+    sgG12 5
     louvain2 4
-    lec2 16
-    wt2 172
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 226
     name "509"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 60
     lec 25
     wt 26
     fc 8
     louvain 13
-    infomap 98
-    sgG1 33
-    sgG2 42
-    sgG5 46
+    infomap 59
+    sgG1 8
+    sgG2 25
+    sgG5 29
     fc2 4
-    sgG12 32
-    Spectral2 287
+    sgG12 8
     louvain2 12
-    lec2 21
-    wt2 25
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 227
     name "3313"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 19
     wt 1
     fc 3
     louvain 8
-    infomap 54
-    sgG1 33
-    sgG2 11
-    sgG5 49
+    infomap 53
+    sgG1 8
+    sgG2 46
+    sgG5 51
     fc2 37
-    sgG12 32
-    Spectral2 287
+    sgG12 8
     louvain2 7
-    lec2 15
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 228
     name "7430"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 11
     fc 10
     louvain 16
-    infomap 42
-    sgG1 21
-    sgG2 18
-    sgG5 83
+    infomap 67
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 203
+    sgG12 1
     louvain2 15
-    lec2 21
-    wt2 11
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 229
     name "10454"
     Spectral 256
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 18
     wt 21
     fc 1
     louvain 14
-    infomap 65
-    sgG1 32
-    sgG2 4
-    sgG5 88
+    infomap 63
+    sgG1 5
+    sgG2 14
+    sgG5 28
     fc2 19
-    sgG12 31
-    Spectral2 257
+    sgG12 5
     louvain2 13
-    lec2 14
-    wt2 20
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 230
     name "7295"
     Spectral 219
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 17
     wt 13
     fc 3
     louvain 7
     infomap 27
-    sgG1 33
-    sgG2 29
-    sgG5 59
+    sgG1 8
+    sgG2 40
+    sgG5 39
     fc2 36
-    sgG12 32
-    Spectral2 220
+    sgG12 8
     louvain2 6
-    lec2 13
-    wt2 171
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 231
     name "10092"
     Spectral 223
+    Spectral1per 39
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 52
     lec 25
     wt 146
     fc 2
     louvain 7
-    infomap 115
-    sgG1 13
-    sgG2 35
-    sgG5 86
+    infomap 119
+    sgG1 27
+    sgG2 40
+    sgG5 60
     fc2 32
-    sgG12 13
-    Spectral2 224
+    sgG12 26
     louvain2 6
-    lec2 21
-    wt2 145
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 232
     name "1778"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 25
     wt 13
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 29
+    sgG1 23
+    sgG2 18
+    sgG5 71
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 21
-    wt2 176
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 233
     name "10439"
     Spectral 244
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 25
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 245
+    sgG12 2
     louvain2 16
-    lec2 21
-    wt2 8
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 234
     name "1465"
     Spectral 208
+    Spectral1per 37
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 49
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 209
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 235
     name "5516"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 18
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 14
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 236
     name "53358"
     Spectral 236
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 53
     lec 25
     wt 6
     fc 2
     louvain 7
-    infomap 89
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 76
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 237
     louvain2 6
-    lec2 21
-    wt2 6
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 237
     name "6642"
     Spectral 103
+    Spectral1per 20
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 18
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 14
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 238
     name "7389"
     Spectral 212
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 49
     lec 25
     wt 1
     fc 3
     louvain 7
     infomap 36
-    sgG1 33
-    sgG2 35
-    sgG5 51
+    sgG1 8
+    sgG2 40
+    sgG5 63
     fc2 36
-    sgG12 32
-    Spectral2 213
+    sgG12 8
     louvain2 6
-    lec2 21
-    wt2 1
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 239
     name "4915"
     Spectral 263
+    Spectral1per 42
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 25
     wt 6
     fc 2
     louvain 7
-    infomap 89
-    sgG1 17
-    sgG2 43
-    sgG5 85
+    infomap 76
+    sgG1 14
+    sgG2 40
+    sgG5 69
     fc2 24
     sgG12 35
-    Spectral2 291
     louvain2 6
-    lec2 21
-    wt2 6
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 240
     name "5494"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 31
-    sgG1 17
-    sgG2 47
-    sgG5 36
+    infomap 40
+    sgG1 10
+    sgG2 39
+    sgG5 86
     fc2 13
-    sgG12 37
-    Spectral2 304
+    sgG12 10
     louvain2 4
-    lec2 16
-    wt2 172
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 241
     name "2288"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 55
     lec 19
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 15
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 242
     name "3308"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 2
     wt 13
     fc 2
     louvain 8
-    infomap 104
-    sgG1 17
-    sgG2 35
-    sgG5 66
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 14
     fc2 24
-    sgG12 34
-    Spectral2 161
+    sgG12 35
     louvain2 7
-    lec2 40
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 243
     name "23770"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 19
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 76
     fc2 26
-    sgG12 40
-    Spectral2 282
+    sgG12 33
     louvain2 7
-    lec2 15
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 244
     name "1500"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 25
     wt 16
     fc 2
     louvain 7
-    infomap 104
-    sgG1 17
-    sgG2 35
-    sgG5 66
+    infomap 124
+    sgG1 14
+    sgG2 28
+    sgG5 14
     fc2 24
-    sgG12 34
-    Spectral2 161
+    sgG12 35
     louvain2 6
-    lec2 21
-    wt2 15
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 245
     name "79026"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 102
     fc 11
     louvain 18
-    infomap 50
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 64
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 202
+    sgG12 25
     louvain2 17
-    lec2 21
-    wt2 101
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 246
     name "51286"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 25
     wt 70
     fc 9
     louvain 17
-    infomap 44
-    sgG1 16
-    sgG2 35
-    sgG5 78
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 11
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 16
-    lec2 21
-    wt2 69
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 247
     name "2824"
     Spectral 217
+    Spectral1per 40
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 52
     lec 25
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 35
-    sgG5 54
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 218
+    sgG12 2
     louvain2 16
-    lec2 21
-    wt2 8
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 248
     name "9218"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 41
     fc 9
     louvain 11
-    infomap 87
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 90
+    sgG1 2
+    sgG2 26
+    sgG5 38
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 10
-    lec2 21
-    wt2 40
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 249
     name "4035"
     Spectral 227
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 25
     wt 15
     fc 6
     louvain 3
-    infomap 29
-    sgG1 17
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 23
+    sgG2 11
+    sgG5 35
     fc2 44
-    sgG12 35
-    Spectral2 228
+    sgG12 22
     louvain2 3
-    lec2 21
-    wt2 14
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 250
     name "81"
     Spectral 219
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 59
+    infomap 5
+    sgG1 14
+    sgG2 40
+    sgG5 39
     fc2 14
-    sgG12 35
-    Spectral2 220
+    sgG12 28
     louvain2 4
-    lec2 49
-    wt2 175
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 251
     name "5781"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 17
+    Spectral5per 12
+    Spectral05per 65
     lec 25
     wt 13
     fc 2
     louvain 6
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 22
+    sgG2 40
+    sgG5 60
     fc2 24
-    sgG12 35
-    Spectral2 304
+    sgG12 21
     louvain2 19
-    lec2 21
-    wt2 173
+    Spectral25per2 17
+    Spectral5per2 10
   ]
   node
   [
     id 252
     name "5579"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 45
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 78
     fc2 15
-    sgG12 39
-    Spectral2 305
+    sgG12 27
     louvain2 4
-    lec2 16
-    wt2 172
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 253
     name "5730"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 49
     lec 25
     wt 14
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 35
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 210
+    sgG12 14
     louvain2 14
-    lec2 21
-    wt2 13
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 254
     name "873"
     Spectral 234
+    Spectral1per 40
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 50
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 235
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 255
     name "10457"
     Spectral 205
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 206
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 256
     name "966"
     Spectral 211
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 49
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 212
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 257
     name "7345"
     Spectral 263
+    Spectral1per 42
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 57
     lec 25
     wt 9
     fc 2
     louvain 5
     infomap 27
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 298
+    sgG12 14
     louvain2 5
-    lec2 21
-    wt2 9
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 258
     name "8874"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 2
     wt 6
     fc 1
     louvain 6
-    infomap 58
-    sgG1 11
-    sgG2 47
-    sgG5 25
+    infomap 1
+    sgG1 22
+    sgG2 39
+    sgG5 73
     fc2 14
-    sgG12 11
-    Spectral2 304
+    sgG12 21
     louvain2 21
-    lec2 45
-    wt2 6
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 259
     name "5921"
     Spectral 240
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 25
     wt 6
     fc 6
     louvain 6
-    infomap 7
-    sgG1 11
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 22
+    sgG2 40
+    sgG5 60
     fc2 49
-    sgG12 11
-    Spectral2 241
+    sgG12 21
     louvain2 19
-    lec2 21
-    wt2 6
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 260
     name "9253"
     Spectral 234
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 2
     wt 13
     fc 6
     louvain 7
-    infomap 32
-    sgG1 8
-    sgG2 16
-    sgG5 59
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 39
     fc2 45
-    sgG12 8
-    Spectral2 235
+    sgG12 13
     louvain2 6
-    lec2 49
-    wt2 175
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 261
     name "9590"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 21
     fc 15
     louvain 14
-    infomap 105
-    sgG1 32
-    sgG2 4
-    sgG5 9
+    infomap 106
+    sgG1 5
+    sgG2 14
+    sgG5 82
     fc2 11
-    sgG12 31
-    Spectral2 202
+    sgG12 5
     louvain2 13
-    lec2 21
-    wt2 20
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 262
     name "5532"
     Spectral 230
+    Spectral1per 40
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 52
     lec 25
     wt 6
     fc 2
     louvain 7
-    infomap 7
-    sgG1 11
-    sgG2 35
-    sgG5 90
+    infomap 8
+    sgG1 22
+    sgG2 40
+    sgG5 55
     fc2 24
-    sgG12 11
-    Spectral2 231
+    sgG12 21
     louvain2 6
-    lec2 21
-    wt2 6
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 263
     name "2934"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 48
     lec 25
     wt 66
     fc 2
     louvain 4
-    infomap 112
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 115
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
-    sgG12 35
-    Spectral2 210
+    sgG12 31
     louvain2 4
-    lec2 21
-    wt2 65
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 264
     name "6900"
     Spectral 222
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 223
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 265
     name "7167"
     Spectral 206
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 49
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 207
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 266
     name "471"
     Spectral 242
+    Spectral1per 39
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 53
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 243
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 267
     name "2805"
     Spectral 218
+    Spectral1per 38
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 51
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 219
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 268
     name "7184"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 25
     wt 38
     fc 10
     louvain 15
-    infomap 109
-    sgG1 27
-    sgG2 20
-    sgG5 48
+    infomap 110
+    sgG1 15
+    sgG2 29
+    sgG5 76
     fc2 6
-    sgG12 26
-    Spectral2 11
+    sgG12 14
     louvain2 14
-    lec2 21
-    wt2 37
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 269
     name "8404"
     Spectral 204
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 205
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 270
     name "9049"
     Spectral 171
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 2
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 17
-    sgG2 25
-    sgG5 58
+    sgG1 14
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 35
-    Spectral2 172
+    sgG12 28
     louvain2 11
-    lec2 43
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 271
     name "54187"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 25
     wt 13
     fc 2
     louvain 7
-    infomap 7
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
     sgG12 35
-    Spectral2 202
     louvain2 6
-    lec2 21
-    wt2 175
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 272
     name "815"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 2
     wt 13
     fc 6
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 45
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 49
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 273
     name "2904"
     Spectral 9
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 10
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 274
     name "3927"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
     infomap 19
-    sgG1 8
-    sgG2 13
-    sgG5 82
+    sgG1 22
+    sgG2 47
+    sgG5 50
     fc2 42
-    sgG12 8
-    Spectral2 11
+    sgG12 21
     louvain2 23
-    lec2 25
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 275
     name "816"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 2
     wt 13
     fc 6
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 45
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 49
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 276
     name "817"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 2
     wt 13
     fc 6
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 45
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 49
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 277
     name "5705"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 2
     wt 1
     fc 11
     louvain 8
-    infomap 74
-    sgG1 3
-    sgG2 32
-    sgG5 79
+    infomap 42
+    sgG1 14
+    sgG2 44
+    sgG5 85
     fc2 7
-    sgG12 3
-    Spectral2 286
+    sgG12 34
     louvain2 7
-    lec2 49
-    wt2 1
+    Spectral25per2 23
+    Spectral5per2 15
   ]
   node
   [
     id 278
     name "818"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 19
     wt 13
     fc 6
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 45
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 15
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 279
     name "6635"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 22
     wt 147
     fc 9
     louvain 11
-    infomap 87
-    sgG1 22
-    sgG2 16
-    sgG5 78
+    infomap 90
+    sgG1 2
+    sgG2 26
+    sgG5 38
     fc2 5
-    sgG12 21
-    Spectral2 161
+    sgG12 2
     louvain2 10
-    lec2 18
-    wt2 146
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 280
     name "6636"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 22
     wt 41
     fc 9
     louvain 11
-    infomap 87
-    sgG1 22
-    sgG2 16
-    sgG5 78
+    infomap 90
+    sgG1 2
+    sgG2 26
+    sgG5 38
     fc2 5
-    sgG12 21
-    Spectral2 161
+    sgG12 2
     louvain2 10
-    lec2 18
-    wt2 40
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 281
     name "529"
     Spectral 215
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 18
     wt 46
     fc 15
     louvain 15
-    infomap 92
-    sgG1 28
-    sgG2 50
-    sgG5 89
+    infomap 94
+    sgG1 24
+    sgG2 2
+    sgG5 82
     fc2 11
-    sgG12 27
-    Spectral2 216
+    sgG12 23
     louvain2 14
-    lec2 14
-    wt2 45
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 282
     name "230"
     Spectral 220
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 18
     wt 46
     fc 15
     louvain 15
-    infomap 92
-    sgG1 28
-    sgG2 50
-    sgG5 89
+    infomap 94
+    sgG1 24
+    sgG2 2
+    sgG5 82
     fc2 11
-    sgG12 27
-    Spectral2 221
+    sgG12 23
     louvain2 14
-    lec2 14
-    wt2 45
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 283
     name "534"
     Spectral 215
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 8
     wt 46
     fc 15
     louvain 15
-    infomap 92
-    sgG1 28
-    sgG2 50
-    sgG5 89
+    infomap 94
+    sgG1 24
+    sgG2 2
+    sgG5 82
     fc2 11
-    sgG12 27
-    Spectral2 216
+    sgG12 23
     louvain2 14
-    lec2 4
-    wt2 45
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 284
     name "10006"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
     infomap 19
-    sgG1 11
-    sgG2 46
-    sgG5 26
+    sgG1 22
+    sgG2 8
+    sgG5 40
     fc2 42
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 285
     name "10580"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 55
-    sgG1 11
-    sgG2 32
-    sgG5 26
+    infomap 70
+    sgG1 22
+    sgG2 44
+    sgG5 40
     fc2 42
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 286
     name "6708"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 6
     fc 6
     louvain 16
     infomap 19
-    sgG1 23
-    sgG2 26
-    sgG5 26
+    sgG1 12
+    sgG2 17
+    sgG5 40
     fc2 42
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 287
     name "23114"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 26
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 40
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 288
     name "55740"
     Spectral 23
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 6
     fc 6
     louvain 6
     infomap 19
-    sgG1 11
-    sgG2 49
-    sgG5 26
+    sgG1 22
+    sgG2 47
+    sgG5 40
     fc2 42
-    sgG12 11
-    Spectral2 24
+    sgG12 21
     louvain2 25
-    lec2 32
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 289
     name "7408"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 9
     fc 6
     louvain 2
     infomap 19
-    sgG1 9
-    sgG2 6
-    sgG5 26
+    sgG1 22
+    sgG2 37
+    sgG5 40
     fc2 42
-    sgG12 9
-    Spectral2 11
+    sgG12 21
     louvain2 2
-    lec2 32
-    wt2 9
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 290
     name "3895"
     Spectral 31
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 32
+    sgG12 21
     louvain2 18
-    lec2 25
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 291
     name "56243"
     Spectral 19
+    Spectral1per 5
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 6
     fc 6
     louvain 6
     infomap 19
-    sgG1 11
-    sgG2 13
-    sgG5 26
+    sgG1 22
+    sgG2 47
+    sgG5 40
     fc2 42
-    sgG12 11
-    Spectral2 20
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 292
     name "9456"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 9
     fc 6
     louvain 6
-    infomap 66
-    sgG1 11
-    sgG2 46
-    sgG5 11
+    infomap 41
+    sgG1 22
+    sgG2 8
+    sgG5 89
     fc2 48
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 9
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 293
     name "5869"
     Spectral 88
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 98
     fc 5
     louvain 10
     infomap 57
-    sgG1 26
-    sgG2 43
-    sgG5 13
+    sgG1 16
+    sgG2 33
+    sgG5 62
     fc2 2
-    sgG12 25
-    Spectral2 89
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 97
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 294
     name "8411"
     Spectral 88
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 98
     fc 5
     louvain 10
     infomap 57
-    sgG1 26
-    sgG2 43
-    sgG5 13
+    sgG1 16
+    sgG2 33
+    sgG5 62
     fc2 2
-    sgG12 25
-    Spectral2 89
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 97
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 295
     name "9610"
     Spectral 88
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 28
     lec 1
     wt 98
     fc 5
     louvain 10
     infomap 57
-    sgG1 26
-    sgG2 43
-    sgG5 13
+    sgG1 16
+    sgG2 33
+    sgG5 62
     fc2 2
-    sgG12 25
-    Spectral2 89
+    sgG12 15
     louvain2 9
-    lec2 23
-    wt2 97
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 296
     name "7905"
     Spectral 105
+    Spectral1per 20
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 106
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 297
     name "7879"
     Spectral 88
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 28
     lec 7
     wt 98
     fc 5
     louvain 10
     infomap 57
-    sgG1 26
-    sgG2 43
-    sgG5 13
+    sgG1 16
+    sgG2 33
+    sgG5 62
     fc2 2
-    sgG12 25
-    Spectral2 89
+    sgG12 15
     louvain2 9
-    lec2 3
-    wt2 97
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 298
     name "5868"
     Spectral 88
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 28
     lec 7
     wt 98
     fc 5
     louvain 10
     infomap 57
-    sgG1 26
-    sgG2 43
-    sgG5 13
+    sgG1 16
+    sgG2 33
+    sgG5 62
     fc2 2
-    sgG12 25
-    Spectral2 89
+    sgG12 15
     louvain2 9
-    lec2 3
-    wt2 97
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 299
     name "4831"
     Spectral 71
+    Spectral1per 20
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 30
     lec 4
     wt 39
     fc 7
     louvain 7
     infomap 80
-    sgG1 4
-    sgG2 49
-    sgG5 65
+    sgG1 13
+    sgG2 43
+    sgG5 62
     fc2 3
-    sgG12 4
-    Spectral2 72
+    sgG12 13
     louvain2 6
-    lec2 57
-    wt2 38
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 300
     name "7334"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 123
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 301
     name "55611"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 123
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 302
     name "7706"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 123
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 303
     name "7317"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 123
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 304
     name "7335"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 14
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 305
     name "93664"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 185
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 306
     name "613"
     Spectral 268
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 59
     lec 4
     wt 13
     fc 2
     louvain 6
-    infomap 69
-    sgG1 11
-    sgG2 8
-    sgG5 18
+    infomap 65
+    sgG1 22
+    sgG2 32
+    sgG5 2
     fc2 27
-    sgG12 11
-    Spectral2 268
+    sgG12 21
     louvain2 24
-    lec2 50
-    wt2 173
+    Spectral25per2 23
+    Spectral5per2 10
   ]
   node
   [
     id 307
     name "4738"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 4
     wt 112
     fc 2
     louvain 5
-    infomap 79
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 44
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 247
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 111
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 308
     name "6421"
     Spectral 122
+    Spectral1per 12
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 18
     lec 4
     wt 92
     fc 8
     louvain 14
     infomap 62
-    sgG1 19
-    sgG2 42
-    sgG5 76
+    sgG1 9
+    sgG2 46
+    sgG5 48
     fc2 4
-    sgG12 18
-    Spectral2 123
+    sgG12 9
     louvain2 13
-    lec2 55
-    wt2 91
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 309
     name "23558"
     Spectral 111
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 22
     fc 14
     louvain 11
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 24
+    infomap 86
+    sgG1 15
+    sgG2 15
+    sgG5 22
     fc2 10
-    sgG12 26
-    Spectral2 112
+    sgG12 14
     louvain2 10
-    lec2 54
-    wt2 21
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 310
     name "8454"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 19
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 247
+    sgG12 14
     louvain2 5
-    lec2 15
-    wt2 13
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 311
     name "10617"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 11
+    Spectral5per 3
+    Spectral05per 21
     lec 4
     wt 22
     fc 10
     louvain 6
-    infomap 64
-    sgG1 27
-    sgG2 3
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 15
+    sgG5 80
     fc2 6
-    sgG12 26
-    Spectral2 123
+    sgG12 21
     louvain2 23
-    lec2 50
-    wt2 21
+    Spectral25per2 12
+    Spectral5per2 3
   ]
   node
   [
     id 312
     name "7323"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 185
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 313
     name "8237"
     Spectral 52
+    Spectral1per 27
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 32
     lec 4
     wt 1
     fc 2
     louvain 2
-    infomap 110
-    sgG1 3
-    sgG2 3
-    sgG5 79
+    infomap 111
+    sgG1 15
+    sgG2 15
+    sgG5 85
     fc2 26
-    sgG12 3
-    Spectral2 53
+    sgG12 14
     louvain2 2
-    lec2 50
-    wt2 1
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 314
     name "10075"
     Spectral 183
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 2
     wt 13
     fc 1
     louvain 18
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 34
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 26
     fc2 15
-    sgG12 26
-    Spectral2 184
+    sgG12 14
     louvain2 17
-    lec2 40
-    wt2 177
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 315
     name "3300"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 28
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 316
     name "29978"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 14
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 317
     name "5887"
     Spectral 103
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 24
     lec 4
     wt 4
     fc 10
     louvain 10
-    infomap 22
-    sgG1 27
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 15
+    sgG2 16
+    sgG5 83
     fc2 6
-    sgG12 26
-    Spectral2 104
+    sgG12 14
     louvain2 9
-    lec2 53
-    wt2 4
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 318
     name "22905"
     Spectral 112
+    Spectral1per 22
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 13
     fc 5
     louvain 4
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 24
+    infomap 86
+    sgG1 15
+    sgG2 15
+    sgG5 22
     fc2 2
-    sgG12 26
-    Spectral2 113
+    sgG12 14
     louvain2 4
-    lec2 54
-    wt2 183
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 319
     name "7353"
     Spectral 102
+    Spectral1per 20
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 18
     wt 22
     fc 13
     louvain 1
     infomap 60
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 103
+    sgG12 10
     louvain2 1
-    lec2 14
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 320
     name "51377"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 65
     lec 4
     wt 14
     fc 2
     louvain 15
-    infomap 89
-    sgG1 27
-    sgG2 35
-    sgG5 61
+    infomap 76
+    sgG1 15
+    sgG2 3
+    sgG5 77
     fc2 29
-    sgG12 26
-    Spectral2 286
+    sgG12 14
     louvain2 14
-    lec2 50
-    wt2 13
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 321
     name "8452"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 19
     wt 112
     fc 2
     louvain 5
-    infomap 79
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 44
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 247
+    sgG12 14
     louvain2 5
-    lec2 15
-    wt2 111
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 322
     name "55236"
     Spectral 109
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 110
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 323
     name "997"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 123
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 324
     name "9690"
     Spectral 99
+    Spectral1per 15
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 29
     lec 4
     wt 7
     fc 2
     louvain 10
-    infomap 111
-    sgG1 27
-    sgG2 3
-    sgG5 16
+    infomap 112
+    sgG1 16
+    sgG2 15
+    sgG5 3
     fc2 31
-    sgG12 26
-    Spectral2 100
+    sgG12 15
     louvain2 9
-    lec2 50
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 325
     name "57599"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 123
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 326
     name "7874"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 34
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 26
     fc2 27
-    sgG12 26
-    Spectral2 185
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 327
     name "9097"
     Spectral 234
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 90
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 92
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 235
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 328
     name "8078"
     Spectral 155
+    Spectral1per 11
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 16
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 156
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 329
     name "8887"
     Spectral 103
+    Spectral1per 11
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 28
     lec 4
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 18
     louvain2 9
-    lec2 53
-    wt2 4
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 330
     name "8453"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 17
     wt 13
     fc 2
     louvain 5
-    infomap 20
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 44
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 298
+    sgG12 14
     louvain2 5
-    lec2 13
-    wt2 176
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 331
     name "9100"
     Spectral 194
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 4
     wt 51
     fc 13
     louvain 5
-    infomap 76
-    sgG1 27
-    sgG2 3
-    sgG5 3
+    infomap 73
+    sgG1 10
+    sgG2 12
+    sgG5 15
     fc2 9
-    sgG12 26
-    Spectral2 195
+    sgG12 10
     louvain2 5
-    lec2 50
-    wt2 50
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 332
     name "80124"
     Spectral 120
+    Spectral1per 15
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 121
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 333
     name "164"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 12
+    Spectral5per 3
+    Spectral05per 28
     lec 4
     wt 22
     fc 5
     louvain 10
-    infomap 38
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 39
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 21
+    Spectral25per2 13
+    Spectral5per2 3
   ]
   node
   [
     id 334
     name "7965"
     Spectral 88
+    Spectral1per 15
+    Spectral25per 8
+    Spectral5per 5
+    Spectral05per 27
     lec 3
     wt 9
     fc 4
     louvain 1
-    infomap 66
-    sgG1 31
-    sgG2 43
-    sgG5 11
+    infomap 88
+    sgG1 8
+    sgG2 42
+    sgG5 88
     fc2 1
-    sgG12 30
-    Spectral2 89
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 9
+    Spectral25per2 9
+    Spectral5per2 5
   ]
   node
   [
     id 335
     name "3151"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 93
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 92
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 336
     name "162"
     Spectral 251
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 59
     lec 25
     wt 31
     fc 11
     louvain 7
-    infomap 26
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 76
+    sgG1 16
+    sgG2 40
+    sgG5 69
     fc2 7
-    sgG12 25
-    Spectral2 252
+    sgG12 15
     louvain2 6
-    lec2 21
-    wt2 30
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 337
     name "6855"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 338
     name "28964"
     Spectral 7
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 1
     louvain 6
-    infomap 85
-    sgG1 33
-    sgG2 42
-    sgG5 25
+    infomap 1
+    sgG1 8
+    sgG2 24
+    sgG5 58
     fc2 14
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 21
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 339
     name "2512"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 5
     wt 4
     fc 6
     louvain 13
-    infomap 88
-    sgG1 33
-    sgG2 23
-    sgG5 56
+    infomap 74
+    sgG1 19
+    sgG2 41
+    sgG5 10
     fc2 43
-    sgG12 32
-    Spectral2 11
+    sgG12 18
     louvain2 12
-    lec2 68
-    wt2 4
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 340
     name "10342"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 4
     wt 1
     fc 3
     louvain 6
-    infomap 78
-    sgG1 33
-    sgG2 13
-    sgG5 14
+    infomap 77
+    sgG1 22
+    sgG2 47
+    sgG5 20
     fc2 37
-    sgG12 32
-    Spectral2 11
+    sgG12 21
     louvain2 23
-    lec2 51
-    wt2 1
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 341
     name "10236"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 60
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 88
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 303
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 342
     name "60491"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 33
     lec 3
     wt 1
     fc 3
     louvain 7
-    infomap 86
-    sgG1 33
-    sgG2 25
-    sgG5 65
+    infomap 89
+    sgG1 8
+    sgG2 4
+    sgG5 16
     fc2 36
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 343
     name "7360"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 1
     wt 5
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 90
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 25
-    wt2 5
+    Spectral25per2 3
+    Spectral5per2 11
   ]
   node
   [
     id 344
     name "1742"
     Spectral 9
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 10
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 345
     name "5062"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 31
-    sgG1 11
-    sgG2 47
-    sgG5 36
+    infomap 1
+    sgG1 22
+    sgG2 39
+    sgG5 86
     fc2 42
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 346
     name "4130"
     Spectral 9
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 6
     louvain 6
     infomap 80
-    sgG1 11
-    sgG2 46
-    sgG5 47
+    sgG1 22
+    sgG2 8
+    sgG5 62
     fc2 47
-    sgG12 11
-    Spectral2 10
+    sgG12 21
     louvain2 23
-    lec2 24
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 347
     name "1795"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 348
     name "2550"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 48
+    infomap 45
+    sgG1 22
+    sgG2 8
+    sgG5 71
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 29
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 349
     name "2571"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 13
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 15
-    sgG5 32
+    infomap 4
+    sgG1 22
+    sgG2 28
+    sgG5 31
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 180
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 350
     name "287"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 9
     lec 1
     wt 1
     fc 3
     louvain 6
-    infomap 59
-    sgG1 7
-    sgG2 14
-    sgG5 47
+    infomap 87
+    sgG1 26
+    sgG2 38
+    sgG5 64
     fc2 40
-    sgG12 7
-    Spectral2 11
+    sgG12 25
     louvain2 23
-    lec2 28
-    wt2 1
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 351
     name "26275"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 352
     name "2271"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 353
     name "2098"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 354
     name "196403"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 14
     fc 6
     louvain 6
-    infomap 2
-    sgG1 27
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 15
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 26
-    Spectral2 11
+    sgG12 14
     louvain2 20
-    lec2 24
-    wt2 13
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 355
     name "9826"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 18
-    lec2 28
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 356
     name "9743"
     Spectral 22
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 6
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 47
-    sgG12 11
-    Spectral2 23
+    sgG12 21
     louvain2 18
-    lec2 25
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 357
     name "25758"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 23
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 90
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 55
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 28
-    wt2 22
+    Spectral25per2 3
+    Spectral5per2 11
   ]
   node
   [
     id 358
     name "282974"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 5
     louvain 6
-    infomap 37
-    sgG1 27
-    sgG2 36
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 47
+    sgG5 43
     fc2 2
-    sgG12 26
-    Spectral2 11
+    sgG12 21
     louvain2 23
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 359
     name "147179"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 360
     name "6711"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 13
     fc 8
     louvain 16
-    infomap 33
-    sgG1 23
-    sgG2 26
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 17
+    sgG5 66
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 172
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 361
     name "4691"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 49
+    sgG12 9
     louvain2 11
-    lec2 28
-    wt2 175
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 362
     name "1627"
     Spectral 192
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 4
     wt 21
     fc 15
     louvain 14
-    infomap 105
-    sgG1 32
-    sgG2 4
-    sgG5 9
+    infomap 106
+    sgG1 5
+    sgG2 14
+    sgG5 82
     fc2 11
-    sgG12 31
-    Spectral2 193
+    sgG12 5
     louvain2 13
-    lec2 53
-    wt2 20
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 363
     name "8646"
     Spectral 4
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 3
     lec 1
     wt 52
     fc 6
     louvain 17
-    infomap 116
-    sgG1 8
-    sgG2 38
+    infomap 120
+    sgG1 7
+    sgG2 19
     sgG5 10
     fc2 42
-    sgG12 8
-    Spectral2 5
+    sgG12 7
     louvain2 16
-    lec2 28
-    wt2 51
+    Spectral25per2 3
+    Spectral5per2 11
   ]
   node
   [
     id 364
     name "4133"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 22
     lec 1
     wt 14
     fc 10
     louvain 16
-    infomap 77
-    sgG1 8
-    sgG2 18
-    sgG5 20
+    infomap 75
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 8
-    Spectral2 123
+    sgG12 1
     louvain2 15
-    lec2 28
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 365
     name "85358"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 366
     name "58512"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 367
     name "4638"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 1
     wt 6
     fc 1
     louvain 9
-    infomap 31
-    sgG1 11
-    sgG2 47
-    sgG5 36
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 86
     fc2 13
-    sgG12 11
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 28
-    wt2 6
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 368
     name "7018"
     Spectral 263
+    Spectral1per 42
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 1
     wt 1
     fc 5
     louvain 2
-    infomap 58
-    sgG1 17
-    sgG2 43
-    sgG5 25
+    infomap 95
+    sgG1 14
+    sgG2 7
+    sgG5 73
     fc2 2
-    sgG12 44
-    Spectral2 285
+    sgG12 32
     louvain2 2
-    lec2 28
-    wt2 1
+    Spectral25per2 23
+    Spectral5per2 15
   ]
   node
   [
     id 369
     name "8506"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 370
     name "8724"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 27
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 371
     name "9229"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 372
     name "9228"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 373
     name "9054"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 374
     name "8570"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 1
     wt 13
     fc 1
     louvain 4
-    infomap 2
-    sgG1 11
-    sgG2 15
-    sgG5 53
+    infomap 4
+    sgG1 22
+    sgG2 28
+    sgG5 14
     fc2 15
-    sgG12 11
-    Spectral2 306
+    sgG12 21
     louvain2 4
-    lec2 28
-    wt2 180
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 375
     name "51596"
     Spectral 161
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 38
     lec 1
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 90
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 55
     fc2 8
-    sgG12 23
-    Spectral2 162
+    sgG12 16
     louvain2 11
-    lec2 28
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 376
     name "9948"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 1
     wt 9
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 247
+    sgG12 20
     louvain2 2
-    lec2 28
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 377
     name "399687"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 378
     name "6506"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 379
     name "54521"
     Spectral 38
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 13
     fc 8
     louvain 12
     infomap 17
-    sgG1 23
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 55
     fc2 4
-    sgG12 22
-    Spectral2 39
+    sgG12 9
     louvain2 11
-    lec2 23
-    wt2 185
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 380
     name "5445"
     Spectral 10
+    Spectral1per 3
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 90
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 55
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 381
     name "9859"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 382
     name "8936"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 6
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 26
-    sgG5 15
+    infomap 1
+    sgG1 22
+    sgG2 43
+    sgG5 9
     fc2 3
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 19
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 383
     name "9901"
     Spectral 7
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 18
-    infomap 20
-    sgG1 7
-    sgG2 14
-    sgG5 90
+    infomap 24
+    sgG1 26
+    sgG2 38
+    sgG5 67
     fc2 43
-    sgG12 7
-    Spectral2 8
+    sgG12 25
     louvain2 17
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 384
     name "8541"
     Spectral 75
+    Spectral1per 21
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 32
     lec 3
     wt 1
     fc 1
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 7
-    sgG5 25
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 58
     fc2 14
-    sgG12 32
-    Spectral2 76
+    sgG12 8
     louvain2 2
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 385
     name "1400"
     Spectral 52
+    Spectral1per 24
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 34
     lec 3
     wt 1
     fc 3
     louvain 1
-    infomap 46
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    infomap 55
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 1
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 386
     name "1936"
     Spectral 192
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 2
     wt 1
     fc 3
     louvain 2
-    infomap 41
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 193
+    sgG12 8
     louvain2 2
-    lec2 45
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 387
     name "5050"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 33
     lec 3
     wt 1
     fc 3
     louvain 13
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 12
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 388
     name "5717"
     Spectral 195
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 45
     lec 20
     wt 1
     fc 3
     louvain 2
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 196
+    sgG12 8
     louvain2 2
-    lec2 16
-    wt2 1
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 389
     name "217"
     Spectral 52
+    Spectral1per 28
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 35
     lec 5
     wt 55
     fc 3
     louvain 1
     infomap 56
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 70
-    wt2 54
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 390
     name "57142"
     Spectral 149
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 15
     lec 1
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 150
+    sgG12 15
     louvain2 9
-    lec2 24
-    wt2 7
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 391
     name "5216"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 3
     wt 9
     fc 4
     louvain 2
-    infomap 46
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 55
+    sgG1 21
+    sgG2 37
+    sgG5 8
     fc2 1
-    sgG12 9
-    Spectral2 11
+    sgG12 20
     louvain2 2
-    lec2 1
-    wt2 9
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 392
     name "1808"
     Spectral 52
+    Spectral1per 26
+    Spectral25per 10
+    Spectral5per 3
+    Spectral05per 33
     lec 3
     wt 138
     fc 3
     louvain 1
-    infomap 46
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    infomap 55
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 137
+    Spectral25per2 11
+    Spectral5per2 3
   ]
   node
   [
     id 393
     name "310"
     Spectral 52
+    Spectral1per 24
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 34
     lec 4
     wt 1
     fc 3
     louvain 15
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 84
+    infomap 52
+    sgG1 8
+    sgG2 23
+    sgG5 4
     fc2 33
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 14
-    lec2 59
-    wt2 1
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 394
     name "3187"
     Spectral 64
+    Spectral1per 26
+    Spectral25per 10
+    Spectral5per 2
+    Spectral05per 36
     lec 5
     wt 13
     fc 12
     louvain 1
-    infomap 46
-    sgG1 24
-    sgG2 34
-    sgG5 69
+    infomap 81
+    sgG1 17
+    sgG2 5
+    sgG5 8
     fc2 8
-    sgG12 23
-    Spectral2 65
+    sgG12 16
     louvain2 1
-    lec2 65
-    wt2 174
+    Spectral25per2 11
+    Spectral5per2 2
   ]
   node
   [
     id 395
     name "1809"
     Spectral 52
+    Spectral1per 26
+    Spectral25per 10
+    Spectral5per 3
+    Spectral05per 35
     lec 3
     wt 138
     fc 3
     louvain 1
-    infomap 46
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    infomap 55
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 137
+    Spectral25per2 11
+    Spectral5per2 3
   ]
   node
   [
     id 396
     name "3336"
     Spectral 52
+    Spectral1per 28
+    Spectral25per 10
+    Spectral5per 6
+    Spectral05per 35
     lec 5
     wt 55
     fc 3
     louvain 1
     infomap 56
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 70
-    wt2 54
+    Spectral25per2 11
+    Spectral5per2 6
   ]
   node
   [
     id 397
     name "29924"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 34
     lec 3
     wt 1
     fc 3
     louvain 1
-    infomap 46
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    infomap 55
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 153
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 1
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 398
     name "4729"
     Spectral 136
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 15
     lec 3
     wt 1
     fc 3
     louvain 1
-    infomap 46
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    infomap 55
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 137
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 1
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 399
     name "1891"
     Spectral 192
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 5
     wt 1
     fc 3
     louvain 2
-    infomap 41
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 193
+    sgG12 8
     louvain2 2
-    lec2 63
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 400
     name "5802"
     Spectral 75
+    Spectral1per 21
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 32
     lec 3
     wt 1
     fc 3
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 76
+    sgG12 8
     louvain2 2
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 401
     name "1933"
     Spectral 189
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 2
     wt 1
     fc 3
     louvain 2
-    infomap 41
-    sgG1 33
-    sgG2 29
-    sgG5 91
+    infomap 27
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 190
+    sgG12 8
     louvain2 2
-    lec2 45
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 402
     name "10382"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 2
     wt 1
     fc 1
     louvain 2
-    infomap 58
-    sgG1 17
-    sgG2 5
-    sgG5 25
+    infomap 95
+    sgG1 14
+    sgG2 7
+    sgG5 73
     fc2 14
-    sgG12 44
-    Spectral2 282
+    sgG12 32
     louvain2 2
-    lec2 39
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 403
     name "6613"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 32
     lec 3
     wt 1
     fc 3
     louvain 2
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 2
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 404
     name "3735"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 34
     lec 3
     wt 1
     fc 4
     louvain 1
-    infomap 66
-    sgG1 33
-    sgG2 7
-    sgG5 51
+    infomap 88
+    sgG1 8
+    sgG2 23
+    sgG5 63
     fc2 1
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 405
     name "10381"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 67
     lec 2
     wt 1
     fc 3
     louvain 2
-    infomap 58
-    sgG1 33
-    sgG2 7
-    sgG5 25
+    infomap 95
+    sgG1 8
+    sgG2 23
+    sgG5 73
     fc2 33
-    sgG12 32
-    Spectral2 303
+    sgG12 8
     louvain2 2
-    lec2 45
-    wt2 1
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 406
     name "10768"
     Spectral 190
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 2
     wt 1
     fc 3
     louvain 2
-    infomap 41
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 191
+    sgG12 8
     louvain2 2
-    lec2 45
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 407
     name "3006"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 6
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 408
     name "9446"
     Spectral 195
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 45
     lec 2
     wt 1
     fc 3
     louvain 2
-    infomap 41
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 34
-    sgG12 21
-    Spectral2 196
+    sgG12 10
     louvain2 2
-    lec2 45
-    wt2 1
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 409
     name "833"
     Spectral 195
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 45
     lec 2
     wt 1
     fc 3
     louvain 2
-    infomap 41
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 196
+    sgG12 8
     louvain2 2
-    lec2 45
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 410
     name "10989"
     Spectral 127
+    Spectral1per 12
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 18
     lec 16
     wt 26
     fc 4
     louvain 13
-    infomap 70
-    sgG1 24
-    sgG2 45
-    sgG5 4
+    infomap 66
+    sgG1 20
+    sgG2 46
+    sgG5 52
     fc2 1
-    sgG12 23
-    Spectral2 128
+    sgG12 19
     louvain2 12
-    lec2 12
-    wt2 25
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 411
     name "1915"
     Spectral 52
+    Spectral1per 22
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 36
     lec 1
     wt 1
     fc 3
     louvain 13
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 12
-    lec2 32
-    wt2 1
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 412
     name "7917"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 14
     fc 1
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 13
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 59
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 413
     name "4715"
     Spectral 74
+    Spectral1per 24
+    Spectral25per 10
+    Spectral5per 2
+    Spectral05per 36
     lec 16
     wt 26
     fc 4
     louvain 13
-    infomap 70
-    sgG1 2
-    sgG2 45
-    sgG5 4
+    infomap 66
+    sgG1 20
+    sgG2 46
+    sgG5 52
     fc2 1
-    sgG12 2
-    Spectral2 75
+    sgG12 19
     louvain2 12
-    lec2 12
-    wt2 25
+    Spectral25per2 11
+    Spectral5per2 2
   ]
   node
   [
     id 414
     name "3184"
     Spectral 161
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 38
     lec 16
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 162
+    sgG12 16
     louvain2 11
-    lec2 12
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 415
     name "4134"
     Spectral 17
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 6
     fc 3
     louvain 13
-    infomap 70
-    sgG1 11
-    sgG2 45
-    sgG5 4
+    infomap 66
+    sgG1 22
+    sgG2 46
+    sgG5 20
     fc2 37
-    sgG12 11
-    Spectral2 18
+    sgG12 21
     louvain2 12
-    lec2 26
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 416
     name "213"
     Spectral 141
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 4
+    Spectral05per 28
     lec 1
     wt 26
     fc 8
     louvain 13
     infomap 62
-    sgG1 24
-    sgG2 45
-    sgG5 4
+    sgG1 20
+    sgG2 46
+    sgG5 58
     fc2 4
-    sgG12 23
-    Spectral2 142
+    sgG12 19
     louvain2 12
-    lec2 23
-    wt2 25
+    Spectral25per2 12
+    Spectral5per2 4
   ]
   node
   [
     id 417
     name "22948"
     Spectral 128
+    Spectral1per 12
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 20
     lec 3
     wt 29
     fc 4
     louvain 14
     infomap 47
-    sgG1 15
-    sgG2 4
-    sgG5 64
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 1
-    sgG12 15
-    Spectral2 129
+    sgG12 17
     louvain2 13
-    lec2 1
-    wt2 28
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 418
     name "25934"
     Spectral 140
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 4
+    Spectral05per 16
     lec 8
     wt 26
     fc 4
     louvain 13
-    infomap 70
-    sgG1 24
-    sgG2 45
-    sgG5 4
+    infomap 66
+    sgG1 20
+    sgG2 46
+    sgG5 52
     fc2 1
-    sgG12 23
-    Spectral2 141
+    sgG12 19
     louvain2 12
-    lec2 4
-    wt2 25
+    Spectral25per2 13
+    Spectral5per2 4
   ]
   node
   [
     id 419
     name "51566"
     Spectral 53
+    Spectral1per 12
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 26
     lec 5
     wt 22
     fc 4
     louvain 13
-    infomap 70
-    sgG1 24
-    sgG2 45
-    sgG5 4
+    infomap 66
+    sgG1 9
+    sgG2 46
+    sgG5 52
     fc2 1
-    sgG12 23
-    Spectral2 54
+    sgG12 9
     louvain2 12
-    lec2 62
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 420
     name "5481"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 4
+    Spectral05per 36
     lec 8
     wt 26
     fc 4
     louvain 13
-    infomap 70
-    sgG1 24
-    sgG2 45
-    sgG5 4
+    infomap 66
+    sgG1 20
+    sgG2 46
+    sgG5 52
     fc2 1
-    sgG12 23
-    Spectral2 153
+    sgG12 19
     louvain2 12
-    lec2 4
-    wt2 25
+    Spectral25per2 12
+    Spectral5per2 4
   ]
   node
   [
     id 421
     name "6867"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 13
-    infomap 20
-    sgG1 33
-    sgG2 23
-    sgG5 40
+    infomap 24
+    sgG1 8
+    sgG2 41
+    sgG5 67
     fc2 43
-    sgG12 32
-    Spectral2 11
+    sgG12 8
     louvain2 12
-    lec2 28
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 422
     name "5217"
     Spectral 76
+    Spectral1per 22
+    Spectral25per 9
+    Spectral5per 2
+    Spectral05per 36
     lec 1
     wt 4
     fc 3
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 6
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 37
+    sgG5 70
     fc2 41
-    sgG12 32
-    Spectral2 77
+    sgG12 8
     louvain2 2
-    lec2 32
-    wt2 4
+    Spectral25per2 10
+    Spectral5per2 2
   ]
   node
   [
     id 423
     name "1499"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 34
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 26
     fc2 15
-    sgG12 39
-    Spectral2 313
+    sgG12 27
     louvain2 4
-    lec2 40
-    wt2 172
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 424
     name "51466"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 6
     fc 6
     louvain 16
     infomap 19
-    sgG1 23
-    sgG2 26
-    sgG5 26
+    sgG1 12
+    sgG2 17
+    sgG5 40
     fc2 42
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 425
     name "29993"
     Spectral 48
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 30
     fc 7
     louvain 16
-    infomap 103
-    sgG1 23
-    sgG2 26
-    sgG5 6
+    infomap 105
+    sgG1 12
+    sgG2 17
+    sgG5 67
     fc2 3
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 29
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 426
     name "5315"
     Spectral 52
+    Spectral1per 26
+    Spectral25per 12
+    Spectral5per 4
+    Spectral05per 16
     lec 5
     wt 1
     fc 6
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 84
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 4
     fc2 43
-    sgG12 31
-    Spectral2 53
+    sgG12 5
     louvain2 4
-    lec2 63
-    wt2 1
+    Spectral25per2 13
+    Spectral5per2 4
   ]
   node
   [
     id 427
     name "23111"
     Spectral 234
+    Spectral1per 40
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 51
     lec 5
     wt 13
     fc 5
     louvain 4
     infomap 48
-    sgG1 26
-    sgG2 48
-    sgG5 24
+    sgG1 13
+    sgG2 41
+    sgG5 22
     fc2 2
-    sgG12 25
-    Spectral2 235
+    sgG12 13
     louvain2 4
-    lec2 69
-    wt2 183
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 428
     name "128866"
     Spectral 97
+    Spectral1per 13
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 26
     lec 5
     wt 22
     fc 8
     louvain 13
-    infomap 64
-    sgG1 2
-    sgG2 23
-    sgG5 81
+    infomap 59
+    sgG1 7
+    sgG2 41
+    sgG5 80
     fc2 4
-    sgG12 2
-    Spectral2 98
+    sgG12 7
     louvain2 12
-    lec2 69
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 429
     name "26578"
     Spectral 7
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 13
     fc 6
     louvain 13
-    infomap 20
-    sgG1 33
-    sgG2 10
-    sgG5 40
+    infomap 24
+    sgG1 8
+    sgG2 41
+    sgG5 25
     fc2 43
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 12
-    lec2 68
-    wt2 176
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 430
     name "120"
     Spectral 45
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 17
     wt 13
     fc 6
     louvain 3
-    infomap 28
-    sgG1 23
-    sgG2 26
-    sgG5 31
+    infomap 30
+    sgG1 12
+    sgG2 17
+    sgG5 13
     fc2 43
-    sgG12 22
-    Spectral2 46
+    sgG12 12
     louvain2 3
-    lec2 13
-    wt2 176
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 431
     name "23380"
     Spectral 7
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 27
     fc 3
     louvain 12
-    infomap 75
-    sgG1 12
-    sgG2 51
-    sgG5 55
+    infomap 72
+    sgG1 8
+    sgG2 22
+    sgG5 57
     fc2 38
-    sgG12 12
-    Spectral2 8
+    sgG12 8
     louvain2 11
-    lec2 63
-    wt2 26
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 432
     name "29072"
     Spectral 7
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 6
     fc 11
     louvain 18
-    infomap 20
-    sgG1 7
-    sgG2 14
-    sgG5 40
+    infomap 24
+    sgG1 26
+    sgG2 38
+    sgG5 67
     fc2 7
-    sgG12 7
-    Spectral2 8
+    sgG12 25
     louvain2 17
-    lec2 63
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 433
     name "23332"
     Spectral 7
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 6
     fc 6
     louvain 13
-    infomap 70
-    sgG1 11
-    sgG2 45
-    sgG5 40
+    infomap 66
+    sgG1 22
+    sgG2 46
+    sgG5 67
     fc2 43
-    sgG12 11
-    Spectral2 8
+    sgG12 21
     louvain2 12
-    lec2 28
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 434
     name "161"
     Spectral 53
+    Spectral1per 26
+    Spectral25per 11
+    Spectral5per 6
+    Spectral05per 16
     lec 5
     wt 22
     fc 1
     louvain 13
-    infomap 38
-    sgG1 26
-    sgG2 43
-    sgG5 40
+    infomap 39
+    sgG1 16
+    sgG2 41
+    sgG5 67
     fc2 22
-    sgG12 25
-    Spectral2 54
+    sgG12 15
     louvain2 12
-    lec2 63
-    wt2 21
+    Spectral25per2 12
+    Spectral5per2 6
   ]
   node
   [
     id 435
     name "63908"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 24
     lec 5
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 73
-    wt2 8
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 436
     name "3329"
     Spectral 7
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 55
     fc 3
     louvain 1
     infomap 56
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 1
-    lec2 70
-    wt2 54
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 437
     name "5064"
     Spectral 7
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 69
     fc 6
     louvain 13
-    infomap 129
-    sgG1 33
-    sgG2 23
-    sgG5 40
+    infomap 134
+    sgG1 8
+    sgG2 41
+    sgG5 67
     fc2 43
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 12
-    lec2 63
-    wt2 68
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 438
     name "8065"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 5
     wt 112
     fc 2
     louvain 5
-    infomap 20
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 44
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 247
+    sgG12 14
     louvain2 5
-    lec2 63
-    wt2 111
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 439
     name "8239"
     Spectral 7
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 13
     fc 6
     louvain 13
-    infomap 20
-    sgG1 33
-    sgG2 23
-    sgG5 40
+    infomap 24
+    sgG1 8
+    sgG2 41
+    sgG5 67
     fc2 43
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 12
-    lec2 63
-    wt2 176
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 440
     name "2670"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 2
+    Spectral05per 33
     lec 22
     wt 1
     fc 6
     louvain 7
     infomap 36
-    sgG1 33
-    sgG2 7
-    sgG5 51
+    sgG1 8
+    sgG2 47
+    sgG5 63
     fc2 42
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 6
-    lec2 18
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 2
   ]
   node
   [
     id 441
     name "4741"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 33
     lec 3
     wt 40
     fc 3
     louvain 7
     infomap 36
-    sgG1 33
-    sgG2 7
-    sgG5 51
+    sgG1 8
+    sgG2 23
+    sgG5 63
     fc2 36
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 39
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 442
     name "5901"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 3
     wt 40
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 1
-    wt2 39
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 443
     name "8898"
     Spectral 52
+    Spectral1per 27
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 31
     lec 3
     wt 40
     fc 3
     louvain 7
     infomap 36
-    sgG1 33
-    sgG2 7
-    sgG5 51
+    sgG1 8
+    sgG2 47
+    sgG5 63
     fc2 36
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 39
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 444
     name "396"
     Spectral 24
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 25
+    sgG12 21
     louvain2 18
-    lec2 31
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 445
     name "3857"
     Spectral 134
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 4
+    Spectral05per 15
     lec 16
     wt 22
     fc 8
     louvain 13
     infomap 6
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 4
-    sgG12 2
-    Spectral2 135
+    sgG12 7
     louvain2 12
-    lec2 12
-    wt2 21
+    Spectral25per2 13
+    Spectral5per2 4
   ]
   node
   [
     id 446
     name "6709"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 6
     fc 8
     louvain 16
-    infomap 33
-    sgG1 23
-    sgG2 26
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 17
+    sgG5 66
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 447
     name "80331"
     Spectral 101
+    Spectral1per 14
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 25
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 7
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 15
     louvain2 16
-    lec2 64
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 448
     name "9568"
     Spectral 41
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 1
     wt 6
     fc 8
     louvain 2
-    infomap 63
-    sgG1 23
-    sgG2 19
-    sgG5 48
+    infomap 45
+    sgG1 2
+    sgG2 17
+    sgG5 71
     fc2 4
-    sgG12 22
-    Spectral2 42
+    sgG12 2
     louvain2 2
-    lec2 23
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 449
     name "10980"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 36
     lec 3
     wt 1
     fc 3
     louvain 7
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 44
+    infomap 91
+    sgG1 8
+    sgG2 23
+    sgG5 84
     fc2 35
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 450
     name "293"
     Spectral 75
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 33
     lec 3
     wt 1
     fc 3
     louvain 13
-    infomap 59
-    sgG1 33
-    sgG2 7
-    sgG5 51
+    infomap 54
+    sgG1 8
+    sgG2 23
+    sgG5 63
     fc2 40
-    sgG12 32
-    Spectral2 76
+    sgG12 8
     louvain2 12
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 451
     name "6804"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 25
     lec 22
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 18
-    wt2 8
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 452
     name "5713"
     Spectral 89
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 27
     lec 3
     wt 23
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 90
+    sgG12 22
     louvain2 3
-    lec2 1
-    wt2 22
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 453
     name "3983"
     Spectral 75
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 19
     lec 3
     wt 1
     fc 3
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 7
-    sgG5 18
+    infomap 36
+    sgG1 8
+    sgG2 23
+    sgG5 63
     fc2 36
-    sgG12 32
-    Spectral2 76
+    sgG12 8
     louvain2 2
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 454
     name "10645"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 20
     wt 1
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 4
-    sgG5 52
+    infomap 36
+    sgG1 14
+    sgG2 12
+    sgG5 63
     fc2 17
-    sgG12 43
-    Spectral2 302
+    sgG12 27
     louvain2 4
-    lec2 16
-    wt2 1
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 455
     name "51555"
     Spectral 119
+    Spectral1per 19
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 28
     lec 3
     wt 1
     fc 3
     louvain 7
     infomap 36
-    sgG1 33
-    sgG2 7
-    sgG5 51
+    sgG1 8
+    sgG2 23
+    sgG5 63
     fc2 36
-    sgG12 32
-    Spectral2 120
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 1
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 456
     name "51520"
     Spectral 69
+    Spectral1per 21
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 33
     lec 3
     wt 1
     fc 3
     louvain 7
     infomap 36
-    sgG1 33
-    sgG2 7
-    sgG5 51
+    sgG1 8
+    sgG2 23
+    sgG5 63
     fc2 36
-    sgG12 32
-    Spectral2 70
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 457
     name "8831"
     Spectral 9
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 47
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 10
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 46
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 458
     name "8575"
     Spectral 52
+    Spectral1per 18
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 27
     lec 3
     wt 1
     fc 7
     louvain 2
-    infomap 43
-    sgG1 9
-    sgG2 6
-    sgG5 44
+    infomap 91
+    sgG1 21
+    sgG2 27
+    sgG5 52
     fc2 3
-    sgG12 9
-    Spectral2 53
+    sgG12 20
     louvain2 2
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 459
     name "9796"
     Spectral 52
+    Spectral1per 23
+    Spectral25per 11
+    Spectral5per 6
+    Spectral05per 14
     lec 4
     wt 24
     fc 3
     louvain 12
-    infomap 73
-    sgG1 24
-    sgG2 21
-    sgG5 44
+    infomap 43
+    sgG1 8
+    sgG2 13
+    sgG5 84
     fc2 35
-    sgG12 23
-    Spectral2 53
+    sgG12 8
     louvain2 11
-    lec2 60
-    wt2 23
+    Spectral25per2 12
+    Spectral5per2 6
   ]
   node
   [
     id 460
     name "6513"
     Spectral 107
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 3
+    Spectral05per 29
     lec 3
     wt 1
     fc 3
     louvain 7
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 44
+    infomap 91
+    sgG1 8
+    sgG2 23
+    sgG5 84
     fc2 35
-    sgG12 32
-    Spectral2 108
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 1
+    Spectral25per2 12
+    Spectral5per2 3
   ]
   node
   [
     id 461
     name "5594"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 304
+    sgG12 5
     louvain2 4
-    lec2 16
-    wt2 172
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 462
     name "79641"
     Spectral 101
+    Spectral1per 19
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 27
     lec 3
     wt 1
     fc 3
     louvain 7
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 44
+    infomap 91
+    sgG1 8
+    sgG2 23
+    sgG5 84
     fc2 35
-    sgG12 32
-    Spectral2 102
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 1
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 463
     name "9377"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 16
     lec 3
     wt 1
     fc 3
     louvain 7
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 44
+    infomap 91
+    sgG1 8
+    sgG2 23
+    sgG5 84
     fc2 35
-    sgG12 32
-    Spectral2 153
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 1
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 464
     name "51138"
     Spectral 86
+    Spectral1per 19
+    Spectral25per 7
+    Spectral5per 6
+    Spectral05per 26
     lec 4
     wt 1
     fc 3
     louvain 7
-    infomap 14
-    sgG1 33
-    sgG2 13
-    sgG5 44
+    infomap 91
+    sgG1 15
+    sgG2 29
+    sgG5 84
     fc2 35
-    sgG12 32
-    Spectral2 87
+    sgG12 14
     louvain2 6
-    lec2 60
-    wt2 1
+    Spectral25per2 8
+    Spectral5per2 6
   ]
   node
   [
     id 465
     name "5499"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 66
     lec 4
     wt 21
     fc 1
     louvain 14
-    infomap 35
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 37
+    sgG1 5
+    sgG2 14
+    sgG5 53
     fc2 19
-    sgG12 31
-    Spectral2 305
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 20
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 466
     name "8655"
     Spectral 7
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 121
     fc 3
     louvain 12
-    infomap 75
-    sgG1 12
-    sgG2 51
-    sgG5 55
+    infomap 72
+    sgG1 13
+    sgG2 22
+    sgG5 57
     fc2 38
-    sgG12 12
-    Spectral2 8
+    sgG12 13
     louvain2 11
-    lec2 36
-    wt2 120
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 467
     name "1155"
     Spectral 179
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 17
     wt 14
     fc 2
     louvain 5
-    infomap 31
-    sgG1 27
-    sgG2 3
-    sgG5 34
+    infomap 40
+    sgG1 10
+    sgG2 15
+    sgG5 26
     fc2 27
-    sgG12 26
-    Spectral2 180
+    sgG12 10
     louvain2 5
-    lec2 13
-    wt2 13
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 468
     name "5515"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 20
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 16
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 469
     name "6130"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 107
     fc 2
     louvain 9
-    infomap 119
-    sgG1 14
-    sgG2 12
-    sgG5 36
+    infomap 123
+    sgG1 10
+    sgG2 30
+    sgG5 45
     fc2 26
-    sgG12 14
-    Spectral2 309
+    sgG12 10
     louvain2 8
-    lec2 39
-    wt2 106
+    Spectral25per2 21
+    Spectral5per2 15
   ]
   node
   [
     id 470
     name "9149"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 64
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 31
-    sgG1 32
-    sgG2 8
-    sgG5 36
+    infomap 40
+    sgG1 10
+    sgG2 3
+    sgG5 86
     fc2 20
-    sgG12 31
-    Spectral2 296
+    sgG12 10
     louvain2 4
-    lec2 16
-    wt2 172
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 471
     name "5236"
     Spectral 246
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 59
     lec 2
     wt 13
     fc 1
     louvain 8
-    infomap 111
-    sgG1 1
-    sgG2 8
-    sgG5 16
+    infomap 112
+    sgG1 14
+    sgG2 24
+    sgG5 2
     fc2 21
-    sgG12 1
-    Spectral2 247
+    sgG12 29
     louvain2 7
-    lec2 39
-    wt2 188
+    Spectral25per2 20
+    Spectral5per2 9
   ]
   node
   [
     id 472
     name "84446"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 31
-    sgG1 11
-    sgG2 47
-    sgG5 36
+    infomap 40
+    sgG1 10
+    sgG2 39
+    sgG5 86
     fc2 13
-    sgG12 11
-    Spectral2 310
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 172
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 473
     name "5567"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 19
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 15
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 474
     name "53918"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 75
     fc 6
     louvain 3
-    infomap 28
-    sgG1 22
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 39
+    sgG5 13
     fc2 44
-    sgG12 21
-    Spectral2 161
+    sgG12 22
     louvain2 3
-    lec2 13
-    wt2 74
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 475
     name "6093"
     Spectral 37
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 13
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 15
-    sgG1 11
-    sgG2 49
-    sgG5 74
+    infomap 13
+    sgG1 22
+    sgG2 43
+    sgG5 12
     fc2 3
-    sgG12 11
-    Spectral2 38
+    sgG12 21
     louvain2 18
-    lec2 23
-    wt2 12
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 476
     name "6993"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
-    infomap 28
-    sgG1 8
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 18
+    sgG5 13
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 477
     name "5780"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 1
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 23
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 478
     name "5605"
     Spectral 269
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 4
     wt 13
     fc 1
     louvain 5
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 269
+    sgG12 5
     louvain2 5
-    lec2 58
-    wt2 181
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 479
     name "55738"
     Spectral 277
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 59
     lec 17
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 277
+    sgG12 18
     louvain2 9
-    lec2 13
-    wt2 4
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 480
     name "4282"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 59
     lec 17
     wt 13
     fc 2
     louvain 5
     infomap 27
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 298
+    sgG12 14
     louvain2 5
-    lec2 13
-    wt2 171
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 481
     name "8682"
     Spectral 246
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 59
     lec 7
     wt 13
     fc 1
     louvain 8
     infomap 61
-    sgG1 1
-    sgG2 8
-    sgG5 16
+    sgG1 14
+    sgG2 24
+    sgG5 2
     fc2 21
-    sgG12 1
-    Spectral2 247
+    sgG12 29
     louvain2 7
-    lec2 3
-    wt2 186
+    Spectral25per2 21
+    Spectral5per2 9
   ]
   node
   [
     id 482
     name "29959"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 17
     wt 13
     fc 2
     louvain 5
-    infomap 28
-    sgG1 8
-    sgG2 3
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 15
+    sgG5 13
     fc2 27
-    sgG12 8
-    Spectral2 306
+    sgG12 22
     louvain2 5
-    lec2 13
-    wt2 171
+    Spectral25per2 21
+    Spectral5per2 16
   ]
   node
   [
     id 483
     name "4478"
     Spectral 244
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 1
     wt 11
     fc 10
     louvain 16
-    infomap 42
-    sgG1 21
-    sgG2 18
-    sgG5 83
+    infomap 67
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 245
+    sgG12 1
     louvain2 15
-    lec2 23
-    wt2 11
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 484
     name "9368"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 11
     fc 10
     louvain 16
-    infomap 42
-    sgG1 21
-    sgG2 18
-    sgG5 83
+    infomap 67
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 203
+    sgG12 1
     louvain2 15
-    lec2 21
-    wt2 11
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 485
     name "8723"
     Spectral 90
+    Spectral1per 18
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 108
     fc 5
     louvain 10
-    infomap 45
-    sgG1 26
-    sgG2 10
-    sgG5 33
+    infomap 46
+    sgG1 16
+    sgG2 33
+    sgG5 65
     fc2 2
-    sgG12 25
-    Spectral2 91
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 107
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 486
     name "23647"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 487
     name "163"
     Spectral 94
+    Spectral1per 26
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 25
     lec 20
     wt 22
     fc 1
     louvain 13
-    infomap 26
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 78
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 22
-    sgG12 25
-    Spectral2 95
+    sgG12 15
     louvain2 12
-    lec2 16
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 488
     name "3267"
     Spectral 86
+    Spectral1per 14
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 28
     lec 7
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 43
-    sgG5 85
+    sgG2 26
+    sgG5 69
     fc2 5
-    sgG12 16
-    Spectral2 87
+    sgG12 15
     louvain2 16
-    lec2 3
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 489
     name "3268"
     Spectral 86
+    Spectral1per 13
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 20
     lec 1
     wt 22
     fc 5
     louvain 13
     infomap 6
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 2
-    sgG12 25
-    Spectral2 87
+    sgG12 15
     louvain2 12
-    lec2 26
-    wt2 21
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 490
     name "58513"
     Spectral 86
+    Spectral1per 14
+    Spectral25per 6
+    Spectral5per 6
+    Spectral05per 28
     lec 4
     wt 34
     fc 10
     louvain 15
-    infomap 51
+    infomap 50
     sgG1 6
-    sgG2 37
-    sgG5 75
+    sgG2 34
+    sgG5 81
     fc2 6
     sgG12 6
-    Spectral2 87
     louvain2 14
-    lec2 60
-    wt2 33
+    Spectral25per2 7
+    Spectral5per2 6
   ]
   node
   [
     id 491
     name "9522"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 492
     name "7461"
     Spectral 74
+    Spectral1per 23
+    Spectral25per 9
+    Spectral5per 2
+    Spectral05per 28
     lec 1
     wt 22
     fc 5
     louvain 13
     infomap 6
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 2
-    sgG12 25
-    Spectral2 75
+    sgG12 15
     louvain2 12
-    lec2 26
-    wt2 21
+    Spectral25per2 10
+    Spectral5per2 2
   ]
   node
   [
     id 493
     name "387"
     Spectral 26
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 27
+    sgG12 21
     louvain2 18
-    lec2 25
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 494
     name "663"
     Spectral 27
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 5
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 28
+    sgG12 21
     louvain2 18
-    lec2 68
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 495
     name "23228"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 4
     wt 21
     fc 1
     louvain 14
-    infomap 35
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 37
+    sgG1 5
+    sgG2 14
+    sgG5 53
     fc2 19
-    sgG12 31
-    Spectral2 247
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 20
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 496
     name "5527"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 66
     lec 20
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 305
+    sgG12 5
     louvain2 13
-    lec2 16
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 497
     name "1267"
     Spectral 232
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 4
     wt 21
     fc 4
     louvain 15
-    infomap 35
-    sgG1 32
-    sgG2 44
-    sgG5 72
+    infomap 37
+    sgG1 5
+    sgG2 11
+    sgG5 53
     fc2 1
-    sgG12 31
-    Spectral2 233
+    sgG12 5
     louvain2 14
-    lec2 55
-    wt2 20
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 498
     name "5595"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 4
     wt 13
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 304
+    sgG12 5
     louvain2 4
-    lec2 61
-    wt2 181
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 499
     name "1272"
     Spectral 48
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 4
     wt 63
     fc 12
     louvain 14
-    infomap 93
-    sgG1 25
-    sgG2 20
-    sgG5 48
+    infomap 96
+    sgG1 18
+    sgG2 25
+    sgG5 53
     fc2 8
-    sgG12 24
-    Spectral2 49
+    sgG12 17
     louvain2 13
-    lec2 55
-    wt2 62
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 500
     name "1152"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 4
     wt 21
     fc 1
     louvain 14
-    infomap 65
-    sgG1 32
-    sgG2 4
-    sgG5 88
+    infomap 63
+    sgG1 5
+    sgG2 14
+    sgG5 28
     fc2 19
-    sgG12 31
-    Spectral2 305
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 20
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 501
     name "26092"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 66
     lec 4
     wt 33
     fc 12
     louvain 14
-    infomap 35
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 37
+    sgG1 17
+    sgG2 5
+    sgG5 53
     fc2 8
-    sgG12 23
-    Spectral2 309
+    sgG12 16
     louvain2 13
-    lec2 55
-    wt2 32
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 502
     name "286262"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 4
     wt 143
     fc 2
     louvain 14
-    infomap 35
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 37
+    sgG1 5
+    sgG2 14
+    sgG5 53
     fc2 25
-    sgG12 31
-    Spectral2 305
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 142
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 503
     name "5529"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 66
     lec 4
     wt 21
     fc 1
     louvain 14
-    infomap 81
-    sgG1 32
-    sgG2 50
-    sgG5 89
+    infomap 82
+    sgG1 5
+    sgG2 14
+    sgG5 82
     fc2 19
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 20
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 504
     name "5202"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 66
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 10
   ]
   node
   [
     id 505
     name "2890"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 48
     lec 4
     wt 21
     fc 1
     louvain 14
-    infomap 35
-    sgG1 22
-    sgG2 8
-    sgG5 50
+    infomap 37
+    sgG1 5
+    sgG2 14
+    sgG5 53
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 20
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 506
     name "221692"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 67
     lec 4
     wt 21
     fc 1
     louvain 14
-    infomap 35
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 37
+    sgG1 5
+    sgG2 14
+    sgG5 53
     fc2 19
-    sgG12 31
-    Spectral2 305
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 20
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 507
     name "55914"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 13
     lec 1
     wt 15
     fc 6
     louvain 6
-    infomap 71
-    sgG1 23
-    sgG2 8
-    sgG5 19
+    infomap 68
+    sgG1 12
+    sgG2 17
+    sgG5 53
     fc2 47
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 21
-    lec2 34
-    wt2 14
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 508
     name "9212"
     Spectral 141
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 22
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 16
     fc2 46
-    sgG12 8
-    Spectral2 142
+    sgG12 22
     louvain2 3
-    lec2 18
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 509
     name "5510"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 67
     lec 4
     wt 21
     fc 1
     louvain 14
-    infomap 65
-    sgG1 32
-    sgG2 4
-    sgG5 88
+    infomap 63
+    sgG1 5
+    sgG2 14
+    sgG5 28
     fc2 19
-    sgG12 31
-    Spectral2 305
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 20
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 510
     name "55210"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 66
     lec 4
     wt 72
     fc 1
     louvain 14
-    infomap 35
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 37
+    sgG1 5
+    sgG2 14
+    sgG5 53
     fc2 19
-    sgG12 31
-    Spectral2 305
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 71
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 511
     name "8607"
     Spectral 246
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 4
     wt 73
     fc 1
     louvain 14
-    infomap 35
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 37
+    sgG1 5
+    sgG2 14
+    sgG5 53
     fc2 19
-    sgG12 31
-    Spectral2 247
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 72
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 512
     name "491"
     Spectral 228
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 52
     lec 1
     wt 11
     fc 10
     louvain 6
-    infomap 42
-    sgG1 11
-    sgG2 8
-    sgG5 43
+    infomap 67
+    sgG1 22
+    sgG2 9
+    sgG5 7
     fc2 6
-    sgG12 11
-    Spectral2 229
+    sgG12 21
     louvain2 24
-    lec2 34
-    wt2 11
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 513
     name "1501"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 13
     lec 1
     wt 47
     fc 6
     louvain 6
-    infomap 71
-    sgG1 11
+    infomap 68
+    sgG1 22
     sgG2 8
-    sgG5 43
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 49
+    sgG12 21
     louvain2 21
-    lec2 34
-    wt2 46
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 514
     name "6563"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 55
     lec 8
     wt 13
     fc 1
     louvain 6
     infomap 49
-    sgG1 11
-    sgG2 8
-    sgG5 43
+    sgG1 22
+    sgG2 32
+    sgG5 7
     fc2 14
-    sgG12 11
-    Spectral2 304
+    sgG12 21
     louvain2 24
-    lec2 4
-    wt2 172
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 515
     name "144402"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 67
     lec 8
     wt 13
     fc 1
     louvain 6
     infomap 49
-    sgG1 11
-    sgG2 8
-    sgG5 43
+    sgG1 22
+    sgG2 32
+    sgG5 7
     fc2 14
-    sgG12 11
-    Spectral2 304
+    sgG12 21
     louvain2 24
-    lec2 4
-    wt2 172
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 516
     name "2977"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 2
     wt 47
     fc 2
     louvain 6
-    infomap 90
-    sgG1 11
-    sgG2 8
-    sgG5 43
+    infomap 92
+    sgG1 22
+    sgG2 32
+    sgG5 7
     fc2 30
-    sgG12 11
-    Spectral2 290
+    sgG12 21
     louvain2 21
-    lec2 42
-    wt2 46
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 517
     name "9414"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 59
     lec 2
     wt 13
     fc 1
     louvain 6
-    infomap 69
-    sgG1 11
-    sgG2 8
-    sgG5 18
+    infomap 65
+    sgG1 22
+    sgG2 32
+    sgG5 2
     fc2 21
-    sgG12 11
-    Spectral2 304
+    sgG12 21
     louvain2 24
-    lec2 40
-    wt2 173
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 518
     name "490"
     Spectral 170
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 1
     wt 13
     fc 11
     louvain 6
     infomap 49
-    sgG1 7
-    sgG2 14
-    sgG5 43
+    sgG1 26
+    sgG2 32
+    sgG5 47
     fc2 7
-    sgG12 7
-    Spectral2 171
+    sgG12 25
     louvain2 24
-    lec2 38
-    wt2 185
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 519
     name "8671"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 8
     wt 79
     fc 1
     louvain 6
     infomap 49
-    sgG1 11
-    sgG2 8
-    sgG5 43
+    sgG1 22
+    sgG2 32
+    sgG5 7
     fc2 14
-    sgG12 11
-    Spectral2 304
+    sgG12 21
     louvain2 24
-    lec2 4
-    wt2 78
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 520
     name "25824"
     Spectral 246
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 8
     wt 13
     fc 1
     louvain 6
     infomap 49
-    sgG1 11
-    sgG2 8
-    sgG5 43
+    sgG1 22
+    sgG2 32
+    sgG5 7
     fc2 14
-    sgG12 11
-    Spectral2 247
+    sgG12 21
     louvain2 24
-    lec2 4
-    wt2 172
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 521
     name "5789"
     Spectral 75
+    Spectral1per 21
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 32
     lec 3
     wt 1
     fc 3
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 7
-    sgG5 18
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 31
     fc2 36
-    sgG12 32
-    Spectral2 76
+    sgG12 8
     louvain2 2
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 522
     name "11021"
     Spectral 74
+    Spectral1per 12
+    Spectral25per 7
+    Spectral5per 5
+    Spectral05per 32
     lec 7
     wt 28
     fc 6
     louvain 10
-    infomap 102
-    sgG1 2
-    sgG2 10
-    sgG5 56
+    infomap 104
+    sgG1 7
+    sgG2 35
+    sgG5 75
     fc2 43
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 9
-    lec2 3
-    wt2 27
+    Spectral25per2 8
+    Spectral5per2 5
   ]
   node
   [
     id 523
     name "7280"
     Spectral 152
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 15
     lec 3
     wt 1
     fc 3
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 153
+    sgG12 8
     louvain2 2
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 524
     name "6238"
     Spectral 75
+    Spectral1per 21
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 32
     lec 3
     wt 1
     fc 3
     louvain 6
-    infomap 59
-    sgG1 33
-    sgG2 7
-    sgG5 47
+    infomap 54
+    sgG1 8
+    sgG2 23
+    sgG5 64
     fc2 40
-    sgG12 32
-    Spectral2 76
+    sgG12 8
     louvain2 23
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 525
     name "4155"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 17
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 305
+    sgG12 5
     louvain2 4
-    lec2 13
-    wt2 172
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 526
     name "2036"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 12
     fc 7
     louvain 6
-    infomap 99
-    sgG1 11
-    sgG2 11
-    sgG5 49
+    infomap 100
+    sgG1 22
+    sgG2 43
+    sgG5 9
     fc2 3
-    sgG12 11
-    Spectral2 161
+    sgG12 21
     louvain2 18
-    lec2 13
-    wt2 12
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 527
     name "23362"
     Spectral 240
+    Spectral1per 39
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 53
     lec 17
     wt 4
     fc 7
     louvain 6
-    infomap 99
-    sgG1 11
-    sgG2 35
-    sgG5 15
+    infomap 100
+    sgG1 22
+    sgG2 43
+    sgG5 9
     fc2 3
-    sgG12 11
-    Spectral2 241
+    sgG12 21
     louvain2 19
-    lec2 13
-    wt2 4
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 528
     name "10409"
     Spectral 240
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 17
     wt 4
     fc 7
     louvain 6
-    infomap 99
-    sgG1 11
-    sgG2 35
-    sgG5 15
+    infomap 100
+    sgG1 22
+    sgG2 43
+    sgG5 9
     fc2 3
-    sgG12 11
-    Spectral2 241
+    sgG12 21
     louvain2 19
-    lec2 13
-    wt2 4
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 529
     name "11336"
     Spectral 240
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 17
     wt 4
     fc 7
     louvain 6
-    infomap 99
-    sgG1 11
-    sgG2 35
-    sgG5 15
+    infomap 100
+    sgG1 22
+    sgG2 43
+    sgG5 9
     fc2 3
-    sgG12 11
-    Spectral2 241
+    sgG12 21
     louvain2 19
-    lec2 13
-    wt2 4
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 530
     name "1453"
     Spectral 182
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 2
     wt 1
     fc 2
     louvain 4
-    infomap 69
-    sgG1 33
-    sgG2 44
-    sgG5 18
+    infomap 65
+    sgG1 14
+    sgG2 32
+    sgG5 31
     fc2 24
-    sgG12 32
-    Spectral2 183
+    sgG12 36
     louvain2 4
-    lec2 49
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 531
     name "2011"
     Spectral 46
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 1
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 31
     fc2 44
-    sgG12 8
-    Spectral2 47
+    sgG12 22
     louvain2 3
-    lec2 38
-    wt2 14
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 532
     name "51100"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 533
     name "10105"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 27
     lec 1
     wt 1
     fc 6
     louvain 6
     infomap 19
-    sgG1 26
-    sgG2 10
-    sgG5 26
+    sgG1 16
+    sgG2 33
+    sgG5 40
     fc2 42
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 25
-    lec2 25
-    wt2 1
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 534
     name "27236"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 7
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 3
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 535
     name "65009"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 536
     name "5683"
     Spectral 118
+    Spectral1per 15
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 24
     lec 3
     wt 133
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 119
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 132
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 537
     name "22924"
     Spectral 147
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 17
     lec 3
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 16
     fc2 46
-    sgG12 8
-    Spectral2 148
+    sgG12 22
     louvain2 3
-    lec2 1
-    wt2 14
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 538
     name "10243"
     Spectral 7
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 27
     fc 3
     louvain 12
-    infomap 75
-    sgG1 12
-    sgG2 51
-    sgG5 55
+    infomap 72
+    sgG1 13
+    sgG2 22
+    sgG5 57
     fc2 38
-    sgG12 12
-    Spectral2 8
+    sgG12 13
     louvain2 11
-    lec2 63
-    wt2 26
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 539
     name "4513"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 58
     fc 1
     louvain 11
-    infomap 126
-    sgG1 22
-    sgG2 16
-    sgG5 37
+    infomap 131
+    sgG1 10
+    sgG2 27
+    sgG5 87
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 10
-    lec2 13
-    wt2 57
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 540
     name "54585"
     Spectral 110
+    Spectral1per 19
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 24
     lec 3
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 29
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 111
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 541
     name "5687"
     Spectral 118
+    Spectral1per 15
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 24
     lec 22
     wt 133
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 119
+    sgG12 3
     louvain2 10
-    lec2 18
-    wt2 132
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 542
     name "5693"
     Spectral 118
+    Spectral1per 15
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 24
     lec 3
     wt 133
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 119
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 132
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 543
     name "5833"
     Spectral 143
+    Spectral1per 10
+    Spectral25per 9
+    Spectral5per 4
+    Spectral05per 17
     lec 3
     wt 20
     fc 1
     louvain 11
-    infomap 95
-    sgG1 8
+    infomap 98
+    sgG1 3
     sgG2 27
-    sgG5 27
+    sgG5 25
     fc2 16
-    sgG12 8
-    Spectral2 144
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 19
+    Spectral25per2 10
+    Spectral5per2 4
   ]
   node
   [
     id 544
     name "5692"
     Spectral 118
+    Spectral1per 15
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 24
     lec 3
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 119
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 545
     name "84959"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 1
     wt 14
     fc 6
     louvain 4
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 88
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 31
     fc2 46
-    sgG12 8
-    Spectral2 185
+    sgG12 3
     louvain2 4
-    lec2 24
-    wt2 13
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 546
     name "54472"
     Spectral 118
+    Spectral1per 17
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 24
     lec 4
     wt 136
     fc 14
     louvain 11
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 24
+    infomap 86
+    sgG1 15
+    sgG2 15
+    sgG5 22
     fc2 10
-    sgG12 26
-    Spectral2 119
+    sgG12 14
     louvain2 10
-    lec2 54
-    wt2 135
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 547
     name "56850"
     Spectral 118
+    Spectral1per 17
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 24
     lec 19
     wt 6
     fc 4
     louvain 4
-    infomap 18
-    sgG1 22
-    sgG2 36
-    sgG5 92
+    infomap 58
+    sgG1 3
+    sgG2 27
+    sgG5 33
     fc2 1
-    sgG12 21
-    Spectral2 119
+    sgG12 3
     louvain2 4
-    lec2 15
-    wt2 6
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 548
     name "8396"
     Spectral 118
+    Spectral1per 17
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 24
     lec 3
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 119
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 549
     name "5696"
     Spectral 118
+    Spectral1per 15
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 24
     lec 3
     wt 133
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 119
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 132
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 550
     name "527"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 22
     wt 14
     fc 10
     louvain 16
-    infomap 77
-    sgG1 8
-    sgG2 18
-    sgG5 20
+    infomap 75
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 8
-    Spectral2 161
+    sgG12 1
     louvain2 15
-    lec2 18
-    wt2 13
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 551
     name "547"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 22
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 161
+    sgG12 3
     louvain2 10
-    lec2 18
-    wt2 21
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 552
     name "22859"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 22
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 161
+    sgG12 3
     louvain2 10
-    lec2 18
-    wt2 21
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 553
     name "80017"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 22
     wt 22
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 161
+    sgG12 3
     louvain2 10
-    lec2 18
-    wt2 21
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 554
     name "3420"
     Spectral 74
+    Spectral1per 12
+    Spectral25per 10
+    Spectral5per 6
+    Spectral05per 30
     lec 4
     wt 28
     fc 6
     louvain 10
-    infomap 102
-    sgG1 2
-    sgG2 23
-    sgG5 56
+    infomap 104
+    sgG1 7
+    sgG2 35
+    sgG5 75
     fc2 43
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 9
-    lec2 59
-    wt2 27
+    Spectral25per2 11
+    Spectral5per2 6
   ]
   node
   [
     id 555
     name "26128"
     Spectral 74
+    Spectral1per 12
+    Spectral25per 10
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 28
     fc 8
     louvain 13
-    infomap 102
-    sgG1 2
-    sgG2 23
-    sgG5 39
+    infomap 104
+    sgG1 7
+    sgG2 41
+    sgG5 32
     fc2 4
-    sgG12 2
-    Spectral2 75
+    sgG12 7
     louvain2 12
-    lec2 59
-    wt2 27
+    Spectral25per2 11
+    Spectral5per2 6
   ]
   node
   [
     id 556
     name "7178"
     Spectral 189
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 18
     wt 1
     fc 3
     louvain 2
-    infomap 41
-    sgG1 33
-    sgG2 29
-    sgG5 91
+    infomap 27
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 190
+    sgG12 8
     louvain2 2
-    lec2 14
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 557
     name "2617"
     Spectral 196
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 45
     lec 2
     wt 1
     fc 1
     louvain 2
-    infomap 52
-    sgG1 22
-    sgG2 49
-    sgG5 11
+    infomap 41
+    sgG1 10
+    sgG2 3
+    sgG5 49
     fc2 18
-    sgG12 21
-    Spectral2 197
+    sgG12 10
     louvain2 2
-    lec2 45
-    wt2 1
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 558
     name "10093"
     Spectral 243
+    Spectral1per 39
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 52
     lec 25
     wt 125
     fc 2
     louvain 7
-    infomap 115
-    sgG1 13
-    sgG2 35
-    sgG5 86
+    infomap 119
+    sgG1 27
+    sgG2 40
+    sgG5 60
     fc2 32
-    sgG12 13
-    Spectral2 244
+    sgG12 26
     louvain2 6
-    lec2 21
-    wt2 124
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 559
     name "81873"
     Spectral 243
+    Spectral1per 39
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 52
     lec 8
     wt 125
     fc 2
     louvain 7
-    infomap 115
-    sgG1 13
-    sgG2 35
-    sgG5 86
+    infomap 119
+    sgG1 27
+    sgG2 40
+    sgG5 60
     fc2 32
-    sgG12 13
-    Spectral2 244
+    sgG12 26
     louvain2 6
-    lec2 4
-    wt2 124
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 560
     name "10576"
     Spectral 103
+    Spectral1per 13
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 20
     lec 3
     wt 3
     fc 4
     louvain 14
     infomap 47
-    sgG1 15
-    sgG2 4
-    sgG5 64
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 1
-    sgG12 15
-    Spectral2 104
+    sgG12 17
     louvain2 13
-    lec2 1
-    wt2 3
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 561
     name "333926"
     Spectral 133
+    Spectral1per 13
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 20
     lec 3
     wt 3
     fc 4
     louvain 14
     infomap 47
-    sgG1 15
-    sgG2 4
-    sgG5 64
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 1
-    sgG12 15
-    Spectral2 134
+    sgG12 17
     louvain2 13
-    lec2 1
-    wt2 3
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 562
     name "55844"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 3
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 1
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 563
     name "6176"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 18
     wt 1
     fc 1
     louvain 2
-    infomap 63
-    sgG1 33
-    sgG2 19
-    sgG5 91
+    infomap 45
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 18
-    sgG12 32
-    Spectral2 185
+    sgG12 8
     louvain2 2
-    lec2 14
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 564
     name "7114"
     Spectral 195
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 45
     lec 4
     wt 1
     fc 3
     louvain 9
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 196
+    sgG12 8
     louvain2 8
-    lec2 59
-    wt2 1
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 565
     name "3098"
     Spectral 32
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 18
     fc 3
     louvain 13
-    infomap 78
-    sgG1 33
-    sgG2 45
-    sgG5 49
+    infomap 77
+    sgG1 8
+    sgG2 46
+    sgG5 20
     fc2 37
-    sgG12 32
-    Spectral2 33
+    sgG12 8
     louvain2 12
-    lec2 33
-    wt2 17
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 566
     name "23170"
     Spectral 52
+    Spectral1per 24
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 33
     lec 7
     wt 83
     fc 4
     louvain 8
     infomap 61
-    sgG1 33
-    sgG2 52
-    sgG5 58
+    sgG1 9
+    sgG2 24
+    sgG5 2
     fc2 1
-    sgG12 32
-    Spectral2 53
+    sgG12 9
     louvain2 7
-    lec2 3
-    wt2 82
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 567
     name "55004"
     Spectral 52
+    Spectral1per 19
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 36
     lec 1
     wt 1
     fc 3
     louvain 13
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 12
-    lec2 32
-    wt2 1
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 568
     name "5911"
     Spectral 127
+    Spectral1per 13
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 18
     lec 4
     wt 4
     fc 8
     louvain 13
-    infomap 88
-    sgG1 33
-    sgG2 40
-    sgG5 35
+    infomap 74
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 4
-    sgG12 32
-    Spectral2 128
+    sgG12 18
     louvain2 12
-    lec2 61
-    wt2 4
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 569
     name "4905"
     Spectral 41
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 1
     wt 6
     fc 8
     louvain 2
-    infomap 63
-    sgG1 23
-    sgG2 19
-    sgG5 48
+    infomap 45
+    sgG1 2
+    sgG2 17
+    sgG5 71
     fc2 4
-    sgG12 22
-    Spectral2 42
+    sgG12 2
     louvain2 2
-    lec2 23
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 570
     name "25874"
     Spectral 182
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 18
     wt 7
     fc 5
     louvain 2
-    infomap 63
-    sgG1 26
-    sgG2 19
-    sgG5 5
+    infomap 45
+    sgG1 16
+    sgG2 23
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 183
+    sgG12 15
     louvain2 2
-    lec2 14
-    wt2 7
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 571
     name "6181"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 18
     wt 1
     fc 1
     louvain 2
-    infomap 63
-    sgG1 33
-    sgG2 19
-    sgG5 11
+    infomap 41
+    sgG1 8
+    sgG2 3
+    sgG5 49
     fc2 18
-    sgG12 32
-    Spectral2 185
+    sgG12 8
     louvain2 2
-    lec2 14
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 572
     name "9551"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 4
     wt 144
     fc 1
     louvain 2
-    infomap 63
-    sgG1 27
-    sgG2 19
-    sgG5 91
+    infomap 45
+    sgG1 15
+    sgG2 29
+    sgG5 70
     fc2 18
-    sgG12 26
-    Spectral2 185
+    sgG12 14
     louvain2 2
-    lec2 59
-    wt2 143
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 573
     name "4700"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 4
     wt 144
     fc 1
     louvain 2
-    infomap 63
-    sgG1 27
-    sgG2 19
-    sgG5 91
+    infomap 45
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 18
-    sgG12 26
-    Spectral2 185
+    sgG12 14
     louvain2 2
-    lec2 59
-    wt2 143
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 574
     name "56005"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 111
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 110
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 575
     name "2286"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 4
     fc 1
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 13
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 61
-    wt2 4
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 576
     name "4852"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 19
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 18
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 577
     name "6782"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 14
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 578
     name "140690"
     Spectral 255
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 60
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 256
+    sgG12 30
     louvain2 7
-    lec2 42
-    wt2 18
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 579
     name "57662"
     Spectral 261
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 2
     wt 1
     fc 1
     louvain 2
-    infomap 58
-    sgG1 17
-    sgG2 15
-    sgG5 25
+    infomap 95
+    sgG1 14
+    sgG2 28
+    sgG5 73
     fc2 14
-    sgG12 44
-    Spectral2 262
+    sgG12 32
     louvain2 2
-    lec2 40
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 580
     name "1743"
     Spectral 76
+    Spectral1per 23
+    Spectral25per 9
+    Spectral5per 2
+    Spectral05per 15
     lec 15
     wt 119
     fc 3
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 33
-    sgG5 91
+    infomap 113
+    sgG1 8
+    sgG2 37
+    sgG5 70
     fc2 41
-    sgG12 32
-    Spectral2 77
+    sgG12 8
     louvain2 2
-    lec2 11
-    wt2 118
+    Spectral25per2 10
+    Spectral5per2 2
   ]
   node
   [
     id 581
     name "5413"
     Spectral 35
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 124
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 36
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 123
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 582
     name "5909"
     Spectral 76
+    Spectral1per 23
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 36
     lec 4
     wt 4
     fc 3
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 41
-    sgG12 25
-    Spectral2 77
+    sgG12 18
     louvain2 9
-    lec2 53
-    wt2 4
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 583
     name "4354"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 8
     louvain 7
-    infomap 98
-    sgG1 26
-    sgG2 42
-    sgG5 46
+    infomap 78
+    sgG1 16
+    sgG2 25
+    sgG5 29
     fc2 4
-    sgG12 25
-    Spectral2 287
+    sgG12 15
     louvain2 6
-    lec2 40
-    wt2 182
+    Spectral25per2 22
+    Spectral5per2 15
   ]
   node
   [
     id 584
     name "23549"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 8
     louvain 7
-    infomap 98
-    sgG1 26
-    sgG2 42
-    sgG5 46
+    infomap 78
+    sgG1 16
+    sgG2 25
+    sgG5 29
     fc2 4
-    sgG12 25
-    Spectral2 287
+    sgG12 15
     louvain2 6
-    lec2 40
-    wt2 182
+    Spectral25per2 22
+    Spectral5per2 15
   ]
   node
   [
     id 585
     name "9143"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 5
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 69
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 586
     name "65991"
     Spectral 101
+    Spectral1per 12
+    Spectral25per 8
+    Spectral5per 6
+    Spectral05per 27
     lec 1
     wt 54
     fc 8
     louvain 17
-    infomap 63
-    sgG1 23
-    sgG2 19
-    sgG5 48
+    infomap 45
+    sgG1 2
+    sgG2 17
+    sgG5 71
     fc2 4
-    sgG12 22
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 23
-    wt2 53
+    Spectral25per2 9
+    Spectral5per2 6
   ]
   node
   [
     id 587
     name "10529"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 22
     lec 7
     wt 13
     fc 6
     louvain 6
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 25
-    lec2 3
-    wt2 184
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 588
     name "10146"
     Spectral 194
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 20
     wt 51
     fc 13
     louvain 5
-    infomap 76
-    sgG1 27
-    sgG2 3
-    sgG5 3
+    infomap 73
+    sgG1 10
+    sgG2 12
+    sgG5 15
     fc2 9
-    sgG12 26
-    Spectral2 195
+    sgG12 10
     louvain2 5
-    lec2 16
-    wt2 50
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 589
     name "6521"
     Spectral 191
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 20
     wt 20
     fc 1
     louvain 11
-    infomap 95
-    sgG1 32
-    sgG2 27
-    sgG5 27
+    infomap 98
+    sgG1 5
+    sgG2 3
+    sgG5 25
     fc2 16
-    sgG12 31
-    Spectral2 192
+    sgG12 5
     louvain2 10
-    lec2 16
-    wt2 19
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 590
     name "5550"
     Spectral 193
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 20
     wt 1
     fc 2
     louvain 13
-    infomap 20
-    sgG1 33
-    sgG2 44
-    sgG5 40
+    infomap 24
+    sgG1 8
+    sgG2 11
+    sgG5 25
     fc2 24
-    sgG12 32
-    Spectral2 194
+    sgG12 8
     louvain2 12
-    lec2 16
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 591
     name "5230"
     Spectral 199
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 46
     lec 20
     wt 1
     fc 1
     louvain 13
-    infomap 20
-    sgG1 33
-    sgG2 7
-    sgG5 40
+    infomap 24
+    sgG1 8
+    sgG2 23
+    sgG5 25
     fc2 16
-    sgG12 32
-    Spectral2 200
+    sgG12 8
     louvain2 12
-    lec2 16
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 592
     name "2806"
     Spectral 198
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 46
     lec 20
     wt 78
     fc 1
     louvain 13
-    infomap 125
-    sgG1 33
-    sgG2 7
-    sgG5 40
+    infomap 130
+    sgG1 8
+    sgG2 23
+    sgG5 25
     fc2 16
-    sgG12 32
-    Spectral2 199
+    sgG12 8
     louvain2 12
-    lec2 16
-    wt2 77
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 593
     name "4712"
     Spectral 200
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 46
     lec 20
     wt 1
     fc 1
     louvain 13
-    infomap 20
-    sgG1 33
-    sgG2 7
-    sgG5 40
+    infomap 24
+    sgG1 8
+    sgG2 23
+    sgG5 25
     fc2 16
-    sgG12 32
-    Spectral2 201
+    sgG12 8
     louvain2 12
-    lec2 16
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 594
     name "5049"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 36
     lec 1
     wt 29
     fc 6
     louvain 13
-    infomap 94
-    sgG1 15
-    sgG2 4
-    sgG5 29
+    infomap 97
+    sgG1 18
+    sgG2 25
+    sgG5 71
     fc2 43
-    sgG12 15
-    Spectral2 53
+    sgG12 17
     louvain2 12
-    lec2 24
-    wt2 28
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 595
     name "5048"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 34
     lec 3
     wt 13
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 29
+    sgG1 23
+    sgG2 18
+    sgG5 71
     fc2 44
-    sgG12 8
-    Spectral2 53
+    sgG12 22
     louvain2 3
-    lec2 1
-    wt2 176
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 596
     name "63893"
     Spectral 213
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 53
     lec 17
     wt 12
     fc 5
     louvain 10
-    infomap 83
-    sgG1 26
-    sgG2 48
-    sgG5 14
+    infomap 84
+    sgG1 7
+    sgG2 31
+    sgG5 10
     fc2 2
-    sgG12 25
-    Spectral2 214
+    sgG12 7
     louvain2 9
-    lec2 13
-    wt2 12
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 597
     name "84966"
     Spectral 195
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 45
     lec 20
     wt 1
     fc 3
     louvain 9
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 91
+    infomap 11
+    sgG1 8
+    sgG2 23
+    sgG5 70
     fc2 34
-    sgG12 32
-    Spectral2 196
+    sgG12 8
     louvain2 8
-    lec2 16
-    wt2 1
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 598
     name "91782"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 6
+    Spectral05per 33
     lec 5
     wt 22
     fc 3
     louvain 13
-    infomap 64
-    sgG1 2
-    sgG2 23
-    sgG5 81
+    infomap 59
+    sgG1 7
+    sgG2 41
+    sgG5 80
     fc2 34
-    sgG12 2
-    Spectral2 53
+    sgG12 7
     louvain2 12
-    lec2 69
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 6
   ]
   node
   [
     id 599
     name "5562"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 20
     wt 51
     fc 13
     louvain 4
-    infomap 76
-    sgG1 17
-    sgG2 36
-    sgG5 3
+    infomap 73
+    sgG1 10
+    sgG2 12
+    sgG5 15
     fc2 9
-    sgG12 36
-    Spectral2 296
+    sgG12 10
     louvain2 4
-    lec2 16
-    wt2 50
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 600
     name "112476"
     Spectral 247
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 22
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 248
+    sgG12 2
     louvain2 16
-    lec2 18
-    wt2 8
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 601
     name "3799"
     Spectral 259
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 260
+    sgG12 18
     louvain2 9
-    lec2 40
-    wt2 4
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 602
     name "6844"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 67
-    wt2 8
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 603
     name "10815"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 25
     lec 22
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 18
-    wt2 8
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 604
     name "80725"
     Spectral 247
+    Spectral1per 42
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 57
     lec 22
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 248
+    sgG12 2
     louvain2 16
-    lec2 18
-    wt2 8
+    Spectral25per2 1
+    Spectral5per2 10
   ]
   node
   [
     id 605
     name "4673"
     Spectral 188
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 2
     wt 1
     fc 3
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 36
-    sgG12 23
-    Spectral2 189
+    sgG12 9
     louvain2 11
-    lec2 44
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 606
     name "10383"
     Spectral 94
+    Spectral1per 17
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 24
     lec 15
     wt 119
     fc 3
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 33
-    sgG5 91
+    infomap 113
+    sgG1 8
+    sgG2 37
+    sgG5 70
     fc2 41
-    sgG12 32
-    Spectral2 95
+    sgG12 8
     louvain2 2
-    lec2 11
-    wt2 118
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 607
     name "2314"
     Spectral 121
+    Spectral1per 28
+    Spectral25per 7
+    Spectral5per 2
+    Spectral05per 14
     lec 15
     wt 119
     fc 3
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 33
-    sgG5 91
+    infomap 113
+    sgG1 8
+    sgG2 37
+    sgG5 70
     fc2 41
-    sgG12 32
-    Spectral2 122
+    sgG12 8
     louvain2 2
-    lec2 11
-    wt2 118
+    Spectral25per2 8
+    Spectral5per2 2
   ]
   node
   [
     id 608
     name "23256"
     Spectral 56
+    Spectral1per 12
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 20
     lec 15
     wt 119
     fc 3
     louvain 2
-    infomap 39
-    sgG1 33
-    sgG2 33
-    sgG5 91
+    infomap 113
+    sgG1 8
+    sgG2 37
+    sgG5 70
     fc2 41
-    sgG12 32
-    Spectral2 57
+    sgG12 8
     louvain2 2
-    lec2 11
-    wt2 118
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 609
     name "2026"
     Spectral 15
+    Spectral1per 6
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 18
     fc 3
     louvain 13
-    infomap 78
-    sgG1 33
-    sgG2 45
-    sgG5 14
+    infomap 77
+    sgG1 7
+    sgG2 46
+    sgG5 20
     fc2 37
-    sgG12 32
-    Spectral2 16
+    sgG12 7
     louvain2 12
-    lec2 33
-    wt2 17
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 610
     name "7277"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 12
     fc 2
     louvain 4
-    infomap 83
-    sgG1 17
-    sgG2 45
-    sgG5 14
+    infomap 84
+    sgG1 7
+    sgG2 31
+    sgG5 20
     fc2 24
-    sgG12 34
-    Spectral2 303
+    sgG12 7
     louvain2 4
-    lec2 43
-    wt2 12
+    Spectral25per2 24
+    Spectral5per2 16
   ]
   node
   [
     id 611
     name "311"
     Spectral 28
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 18
     fc 3
     louvain 13
-    infomap 78
-    sgG1 33
-    sgG2 45
-    sgG5 14
+    infomap 77
+    sgG1 7
+    sgG2 46
+    sgG5 20
     fc2 37
-    sgG12 32
-    Spectral2 29
+    sgG12 7
     louvain2 12
-    lec2 33
-    wt2 17
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 612
     name "374291"
     Spectral 11
+    Spectral1per 5
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 18
     fc 3
     louvain 13
-    infomap 78
-    sgG1 33
-    sgG2 45
-    sgG5 14
+    infomap 77
+    sgG1 7
+    sgG2 46
+    sgG5 20
     fc2 37
-    sgG12 32
-    Spectral2 12
+    sgG12 7
     louvain2 12
-    lec2 33
-    wt2 17
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 613
     name "10135"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 5
     wt 96
     fc 6
     louvain 13
-    infomap 88
-    sgG1 33
-    sgG2 23
-    sgG5 56
+    infomap 74
+    sgG1 19
+    sgG2 41
+    sgG5 10
     fc2 43
-    sgG12 32
-    Spectral2 11
+    sgG12 18
     louvain2 12
-    lec2 72
-    wt2 95
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 614
     name "5265"
     Spectral 152
+    Spectral1per 13
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 31
     lec 25
     wt 26
     fc 8
     louvain 13
-    infomap 98
-    sgG1 33
-    sgG2 42
-    sgG5 46
+    infomap 74
+    sgG1 8
+    sgG2 25
+    sgG5 29
     fc2 4
-    sgG12 32
-    Spectral2 153
+    sgG12 8
     louvain2 12
-    lec2 21
-    wt2 25
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 615
     name "10449"
     Spectral 97
+    Spectral1per 10
+    Spectral25per 9
+    Spectral5per 3
+    Spectral05per 33
     lec 1
     wt 26
     fc 8
     louvain 13
     infomap 62
-    sgG1 33
-    sgG2 42
-    sgG5 46
+    sgG1 8
+    sgG2 46
+    sgG5 58
     fc2 4
-    sgG12 32
-    Spectral2 98
+    sgG12 8
     louvain2 12
-    lec2 23
-    wt2 25
+    Spectral25per2 10
+    Spectral5per2 3
   ]
   node
   [
     id 616
     name "1646"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 14
     lec 1
     wt 26
     fc 8
     louvain 13
     infomap 62
-    sgG1 33
-    sgG2 42
-    sgG5 46
+    sgG1 8
+    sgG2 46
+    sgG5 58
     fc2 4
-    sgG12 32
-    Spectral2 153
+    sgG12 8
     louvain2 12
-    lec2 23
-    wt2 25
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 617
     name "5877"
     Spectral 113
+    Spectral1per 10
+    Spectral25per 7
+    Spectral5per 2
+    Spectral05per 27
     lec 23
     wt 109
     fc 4
     louvain 3
-    infomap 97
-    sgG1 8
-    sgG2 1
-    sgG5 46
+    infomap 71
+    sgG1 23
+    sgG2 11
+    sgG5 16
     fc2 1
-    sgG12 8
-    Spectral2 114
+    sgG12 22
     louvain2 3
-    lec2 19
-    wt2 108
+    Spectral25per2 8
+    Spectral5per2 2
   ]
   node
   [
     id 618
     name "23192"
     Spectral 237
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 17
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 238
+    sgG12 18
     louvain2 9
-    lec2 13
-    wt2 4
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 619
     name "1962"
     Spectral 52
+    Spectral1per 16
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 24
     lec 5
     wt 22
     fc 4
     louvain 2
-    infomap 43
-    sgG1 9
-    sgG2 6
-    sgG5 92
+    infomap 58
+    sgG1 21
+    sgG2 27
+    sgG5 52
     fc2 1
-    sgG12 9
-    Spectral2 53
+    sgG12 20
     louvain2 2
-    lec2 62
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 620
     name "6136"
     Spectral 213
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 53
     lec 17
     wt 12
     fc 5
     louvain 4
-    infomap 83
-    sgG1 27
-    sgG2 45
-    sgG5 14
+    infomap 84
+    sgG1 7
+    sgG2 31
+    sgG5 20
     fc2 2
-    sgG12 26
-    Spectral2 214
+    sgG12 7
     louvain2 4
-    lec2 13
-    wt2 12
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 621
     name "54918"
     Spectral 52
+    Spectral1per 16
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 24
     lec 5
     wt 22
     fc 12
     louvain 2
-    infomap 43
-    sgG1 9
-    sgG2 34
-    sgG5 92
+    infomap 116
+    sgG1 21
+    sgG2 27
+    sgG5 52
     fc2 8
-    sgG12 9
-    Spectral2 53
+    sgG12 20
     louvain2 2
-    lec2 66
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 622
     name "6640"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 60
     lec 2
     wt 82
     fc 2
     louvain 5
-    infomap 90
-    sgG1 27
-    sgG2 8
-    sgG5 43
+    infomap 92
+    sgG1 15
+    sgG2 15
+    sgG5 7
     fc2 30
-    sgG12 26
-    Spectral2 290
+    sgG12 14
     louvain2 5
-    lec2 47
-    wt2 81
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 623
     name "216"
     Spectral 52
+    Spectral1per 21
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 33
     lec 5
     wt 148
     fc 3
     louvain 1
     infomap 56
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 70
-    wt2 147
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 624
     name "3039"
     Spectral 93
+    Spectral1per 14
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 118
     fc 9
     louvain 15
-    infomap 101
-    sgG1 24
-    sgG2 24
-    sgG5 42
+    infomap 103
+    sgG1 9
+    sgG2 36
+    sgG5 17
     fc2 5
-    sgG12 23
-    Spectral2 94
+    sgG12 9
     louvain2 14
-    lec2 64
-    wt2 117
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 625
     name "537"
     Spectral 103
+    Spectral1per 14
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 118
     fc 9
     louvain 15
-    infomap 101
-    sgG1 24
-    sgG2 24
-    sgG5 42
+    infomap 103
+    sgG1 9
+    sgG2 36
+    sgG5 17
     fc2 5
-    sgG12 23
-    Spectral2 104
+    sgG12 9
     louvain2 14
-    lec2 64
-    wt2 117
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 626
     name "3043"
     Spectral 91
+    Spectral1per 13
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 22
     lec 5
     wt 118
     fc 9
     louvain 15
-    infomap 101
-    sgG1 24
-    sgG2 24
-    sgG5 42
+    infomap 103
+    sgG1 9
+    sgG2 36
+    sgG5 17
     fc2 5
-    sgG12 23
-    Spectral2 92
+    sgG12 9
     louvain2 14
-    lec2 64
-    wt2 117
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 627
     name "3045"
     Spectral 93
+    Spectral1per 14
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 118
     fc 9
     louvain 15
-    infomap 101
-    sgG1 24
-    sgG2 24
-    sgG5 42
+    infomap 103
+    sgG1 9
+    sgG2 36
+    sgG5 17
     fc2 5
-    sgG12 23
-    Spectral2 94
+    sgG12 9
     louvain2 14
-    lec2 64
-    wt2 117
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 628
     name "2775"
     Spectral 7
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 3
-    infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 48
+    infomap 45
+    sgG1 23
+    sgG2 18
+    sgG5 71
     fc2 47
-    sgG12 8
-    Spectral2 8
+    sgG12 22
     louvain2 3
-    lec2 29
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 629
     name "65108"
     Spectral 48
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 1
     wt 13
     fc 8
     louvain 3
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 29
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 71
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 3
-    lec2 23
-    wt2 176
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 630
     name "1312"
     Spectral 139
+    Spectral1per 26
+    Spectral25per 9
+    Spectral5per 4
+    Spectral05per 14
     lec 3
     wt 48
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 39
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 32
     fc2 5
-    sgG12 16
-    Spectral2 140
+    sgG12 2
     louvain2 16
-    lec2 1
-    wt2 47
+    Spectral25per2 10
+    Spectral5per2 4
   ]
   node
   [
     id 631
     name "1783"
     Spectral 144
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 25
     lec 7
     wt 74
     fc 6
     louvain 3
-    infomap 28
-    sgG1 8
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 18
+    sgG5 13
     fc2 44
-    sgG12 8
-    Spectral2 145
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 73
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 632
     name "2039"
     Spectral 138
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 33
     lec 7
     wt 74
     fc 6
     louvain 3
-    infomap 28
-    sgG1 8
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 18
+    sgG5 13
     fc2 44
-    sgG12 8
-    Spectral2 139
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 73
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 633
     name "2771"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 634
     name "2783"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 635
     name "23136"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 6
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 47
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 636
     name "5700"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 76
     fc2 26
-    sgG12 40
-    Spectral2 282
+    sgG12 33
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 637
     name "6396"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 65
     fc 1
     louvain 9
-    infomap 127
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 132
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 64
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 638
     name "3181"
     Spectral 167
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 39
     lec 20
     wt 33
     fc 2
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 43
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 28
-    sgG12 23
-    Spectral2 168
+    sgG12 16
     louvain2 11
-    lec2 16
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 639
     name "3476"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 18
     wt 2
     fc 1
     louvain 14
-    infomap 68
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 14
-    wt2 2
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 640
     name "10627"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 6
     fc 1
     louvain 9
-    infomap 31
-    sgG1 22
-    sgG2 47
-    sgG5 36
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 86
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 6
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 641
     name "10728"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 6
     fc 2
     louvain 4
-    infomap 18
-    sgG1 22
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 21
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 48
-    wt2 6
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 642
     name "3188"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 17
     wt 13
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 81
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 13
-    wt2 174
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 643
     name "2665"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 644
     name "3069"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 2
     wt 53
     fc 2
     louvain 12
-    infomap 122
-    sgG1 22
-    sgG2 25
-    sgG5 67
+    infomap 127
+    sgG1 9
+    sgG2 4
+    sgG5 56
     fc2 28
-    sgG12 21
-    Spectral2 161
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 52
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 645
     name "1982"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 122
     fc 1
     louvain 9
-    infomap 120
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 125
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 23
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 121
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 646
     name "1974"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 647
     name "1983"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 648
     name "286"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 6
     fc 1
     louvain 9
-    infomap 18
-    sgG1 23
-    sgG2 26
-    sgG5 67
+    infomap 20
+    sgG1 12
+    sgG2 17
+    sgG5 56
     fc2 13
-    sgG12 22
-    Spectral2 161
+    sgG12 12
     louvain2 8
-    lec2 13
-    wt2 6
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 649
     name "10938"
     Spectral 119
+    Spectral1per 14
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 25
     lec 17
     wt 10
     fc 9
     louvain 17
-    infomap 59
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 87
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 120
+    sgG12 2
     louvain2 16
-    lec2 13
-    wt2 10
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 650
     name "116988"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 651
     name "3831"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 22
-    sgG2 49
-    sgG5 67
+    infomap 14
+    sgG1 10
+    sgG2 43
+    sgG5 56
     fc2 3
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 18
-    lec2 13
-    wt2 12
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 652
     name "51517"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 1
     fc 7
     louvain 6
-    infomap 103
-    sgG1 11
-    sgG2 26
-    sgG5 84
+    infomap 105
+    sgG1 22
+    sgG2 47
+    sgG5 4
     fc2 3
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 19
-    lec2 25
-    wt2 1
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 653
     name "7533"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 16
-    sgG1 22
-    sgG2 47
-    sgG5 50
+    infomap 15
+    sgG1 10
+    sgG2 39
+    sgG5 79
     fc2 13
-    sgG12 21
-    Spectral2 210
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 171
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 654
     name "7798"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 6
+    Spectral05per 17
     lec 17
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 13
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 6
   ]
   node
   [
     id 655
     name "5464"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 656
     name "8775"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 7
     fc 5
     louvain 10
-    infomap 18
-    sgG1 22
-    sgG2 10
-    sgG5 67
+    infomap 20
+    sgG1 16
+    sgG2 39
+    sgG5 56
     fc2 2
-    sgG12 21
-    Spectral2 161
+    sgG12 15
     louvain2 9
-    lec2 13
-    wt2 7
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 657
     name "7514"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 19
     wt 1
     fc 3
     louvain 8
-    infomap 54
-    sgG1 22
-    sgG2 11
-    sgG5 49
+    infomap 53
+    sgG1 10
+    sgG2 46
+    sgG5 51
     fc2 37
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 7
-    lec2 15
-    wt2 1
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 658
     name "6305"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 19
     wt 13
     fc 1
     louvain 16
-    infomap 85
-    sgG1 23
-    sgG2 15
-    sgG5 52
+    infomap 101
+    sgG1 12
+    sgG2 24
+    sgG5 58
     fc2 15
-    sgG12 22
-    Spectral2 161
+    sgG12 12
     louvain2 15
-    lec2 15
-    wt2 180
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 659
     name "9868"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 4
     fc 4
     louvain 16
-    infomap 22
-    sgG1 29
-    sgG2 11
-    sgG5 47
+    infomap 114
+    sgG1 19
+    sgG2 34
+    sgG5 64
     fc2 1
-    sgG12 28
-    Spectral2 161
+    sgG12 18
     louvain2 15
-    lec2 13
-    wt2 4
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 660
     name "7381"
     Spectral 132
+    Spectral1per 13
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 24
     lec 17
     wt 117
     fc 10
     louvain 10
-    infomap 118
-    sgG1 22
-    sgG2 10
-    sgG5 56
+    infomap 122
+    sgG1 10
+    sgG2 29
+    sgG5 75
     fc2 6
-    sgG12 21
-    Spectral2 133
+    sgG12 10
     louvain2 9
-    lec2 13
-    wt2 116
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 661
     name "87178"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 662
     name "9352"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 663
     name "55699"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 664
     name "84457"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 13
     fc 1
     louvain 9
-    infomap 18
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 20
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 13
-    wt2 175
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 665
     name "8536"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 20
     wt 1
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 16
-    wt2 1
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 666
     name "5898"
     Spectral 109
+    Spectral1per 11
+    Spectral25per 11
+    Spectral5per 5
+    Spectral05per 14
     lec 17
     wt 130
     fc 5
     louvain 6
-    infomap 37
-    sgG1 31
-    sgG2 13
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 47
+    sgG5 43
     fc2 2
-    sgG12 30
-    Spectral2 110
+    sgG12 21
     louvain2 23
-    lec2 13
-    wt2 129
+    Spectral25per2 12
+    Spectral5per2 5
   ]
   node
   [
     id 667
     name "10910"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 43
-    wt2 177
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 668
     name "10000"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 19
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 15
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 669
     name "2058"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 19
     wt 6
     fc 11
     louvain 1
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 1
-    lec2 15
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 670
     name "8943"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 26
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 23
+    Spectral5per2 15
   ]
   node
   [
     id 671
     name "8883"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 4
     wt 112
     fc 2
     louvain 5
-    infomap 79
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 44
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 247
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 111
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 672
     name "10397"
     Spectral 96
+    Spectral1per 23
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 24
     lec 5
     wt 24
     fc 3
     louvain 12
-    infomap 73
-    sgG1 24
-    sgG2 21
-    sgG5 44
+    infomap 43
+    sgG1 16
+    sgG2 13
+    sgG5 84
     fc2 35
-    sgG12 23
-    Spectral2 97
+    sgG12 15
     louvain2 11
-    lec2 68
-    wt2 23
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 673
     name "6252"
     Spectral 85
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 24
     lec 5
     wt 24
     fc 3
     louvain 12
-    infomap 73
-    sgG1 24
-    sgG2 21
-    sgG5 44
+    infomap 43
+    sgG1 16
+    sgG2 13
+    sgG5 75
     fc2 35
-    sgG12 23
-    Spectral2 86
+    sgG12 15
     louvain2 11
-    lec2 68
-    wt2 23
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 674
     name "51155"
     Spectral 122
+    Spectral1per 12
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 18
     lec 4
     wt 92
     fc 8
     louvain 14
     infomap 62
-    sgG1 19
-    sgG2 42
-    sgG5 76
+    sgG1 9
+    sgG2 46
+    sgG5 48
     fc2 4
-    sgG12 18
-    Spectral2 123
+    sgG12 9
     louvain2 13
-    lec2 55
-    wt2 91
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 675
     name "23335"
     Spectral 122
+    Spectral1per 13
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 23
     lec 4
     wt 92
     fc 8
     louvain 14
     infomap 62
-    sgG1 19
-    sgG2 42
-    sgG5 76
+    sgG1 9
+    sgG2 46
+    sgG5 48
     fc2 4
-    sgG12 18
-    Spectral2 123
+    sgG12 9
     louvain2 13
-    lec2 55
-    wt2 91
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 676
     name "6558"
     Spectral 51
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 92
     fc 8
     louvain 14
     infomap 62
-    sgG1 19
-    sgG2 42
-    sgG5 76
+    sgG1 9
+    sgG2 46
+    sgG5 48
     fc2 4
-    sgG12 18
-    Spectral2 52
+    sgG12 9
     louvain2 13
-    lec2 23
-    wt2 91
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 677
     name "6843"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 67
-    wt2 8
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 678
     name "23780"
     Spectral 101
+    Spectral1per 17
+    Spectral25per 8
+    Spectral5per 5
+    Spectral05per 24
     lec 5
     wt 103
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 65
-    wt2 102
+    Spectral25per2 9
+    Spectral5per2 5
   ]
   node
   [
     id 679
     name "116841"
     Spectral 101
+    Spectral1per 12
+    Spectral25per 8
+    Spectral5per 5
+    Spectral05per 27
     lec 5
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 67
-    wt2 8
+    Spectral25per2 9
+    Spectral5per2 5
   ]
   node
   [
     id 680
     name "9342"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 67
-    wt2 8
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 681
     name "9554"
     Spectral 101
+    Spectral1per 12
+    Spectral25per 8
+    Spectral5per 6
+    Spectral05per 25
     lec 5
     wt 70
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 65
-    wt2 69
+    Spectral25per2 9
+    Spectral5per2 6
   ]
   node
   [
     id 682
     name "1211"
     Spectral 130
+    Spectral1per 28
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 28
     lec 4
     wt 60
     fc 5
     louvain 10
-    infomap 38
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 39
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 131
+    sgG12 18
     louvain2 9
-    lec2 53
-    wt2 59
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 683
     name "48"
     Spectral 54
+    Spectral1per 27
+    Spectral25per 10
+    Spectral5per 6
+    Spectral05per 32
     lec 1
     wt 22
     fc 1
     louvain 13
-    infomap 38
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 39
+    sgG1 16
+    sgG2 33
+    sgG5 69
     fc2 22
-    sgG12 25
-    Spectral2 55
+    sgG12 15
     louvain2 12
-    lec2 26
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 6
   ]
   node
   [
     id 684
     name "388"
     Spectral 20
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 44
     fc 7
     louvain 6
     infomap 80
-    sgG1 11
-    sgG2 49
-    sgG5 65
+    sgG1 22
+    sgG2 43
+    sgG5 62
     fc2 3
-    sgG12 11
-    Spectral2 21
+    sgG12 21
     louvain2 23
-    lec2 31
-    wt2 43
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 685
     name "11344"
     Spectral 23
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 93
     fc 7
     louvain 6
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 14
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 3
-    sgG12 7
-    Spectral2 24
+    sgG12 25
     louvain2 18
-    lec2 31
-    wt2 92
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 686
     name "391"
     Spectral 21
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 22
+    sgG12 21
     louvain2 18
-    lec2 31
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 687
     name "51569"
     Spectral 175
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 2
     wt 12
     fc 7
     louvain 10
-    infomap 117
-    sgG1 34
-    sgG2 40
-    sgG5 53
+    infomap 121
+    sgG1 19
+    sgG2 16
+    sgG5 14
     fc2 3
-    sgG12 33
-    Spectral2 176
+    sgG12 18
     louvain2 9
-    lec2 40
-    wt2 12
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 688
     name "22933"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 8
     wt 12
     fc 2
     louvain 4
-    infomap 83
-    sgG1 11
-    sgG2 45
-    sgG5 14
+    infomap 84
+    sgG1 7
+    sgG2 31
+    sgG5 20
     fc2 24
-    sgG12 11
-    Spectral2 303
+    sgG12 7
     louvain2 4
-    lec2 4
-    wt2 12
+    Spectral25per2 24
+    Spectral5per2 16
   ]
   node
   [
     id 689
     name "6391"
     Spectral 74
+    Spectral1per 27
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 26
     lec 7
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 8
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 23
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 8
-    Spectral2 75
+    sgG12 22
     louvain2 18
-    lec2 3
-    wt2 12
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 690
     name "25978"
     Spectral 97
+    Spectral1per 24
+    Spectral25per 5
+    Spectral5per 4
+    Spectral05per 26
     lec 5
     wt 50
     fc 8
     louvain 13
-    infomap 64
-    sgG1 2
-    sgG2 23
-    sgG5 81
+    infomap 59
+    sgG1 7
+    sgG2 41
+    sgG5 80
     fc2 4
-    sgG12 2
-    Spectral2 98
+    sgG12 7
     louvain2 12
-    lec2 69
-    wt2 49
+    Spectral25per2 6
+    Spectral5per2 4
   ]
   node
   [
     id 691
     name "26227"
     Spectral 152
+    Spectral1per 26
+    Spectral25per 5
+    Spectral5per 2
+    Spectral05per 29
     lec 5
     wt 44
     fc 8
     louvain 6
     infomap 80
-    sgG1 2
-    sgG2 49
-    sgG5 65
+    sgG1 7
+    sgG2 43
+    sgG5 62
     fc2 4
-    sgG12 2
-    Spectral2 153
+    sgG12 7
     louvain2 23
-    lec2 69
-    wt2 43
+    Spectral25per2 6
+    Spectral5per2 2
   ]
   node
   [
     id 692
     name "27183"
     Spectral 97
+    Spectral1per 26
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 26
     lec 5
     wt 50
     fc 8
     louvain 13
-    infomap 64
-    sgG1 2
-    sgG2 23
-    sgG5 81
+    infomap 59
+    sgG1 7
+    sgG2 41
+    sgG5 80
     fc2 4
-    sgG12 2
-    Spectral2 98
+    sgG12 7
     louvain2 12
-    lec2 69
-    wt2 49
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 693
     name "9525"
     Spectral 97
+    Spectral1per 21
+    Spectral25per 5
+    Spectral5per 4
+    Spectral05per 26
     lec 5
     wt 50
     fc 8
     louvain 13
-    infomap 64
-    sgG1 2
-    sgG2 23
-    sgG5 81
+    infomap 59
+    sgG1 7
+    sgG2 41
+    sgG5 80
     fc2 4
-    sgG12 2
-    Spectral2 98
+    sgG12 7
     louvain2 12
-    lec2 69
-    wt2 49
+    Spectral25per2 6
+    Spectral5per2 4
   ]
   node
   [
     id 694
     name "3208"
     Spectral 132
+    Spectral1per 13
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 18
     lec 4
     wt 117
     fc 10
     louvain 10
-    infomap 118
-    sgG1 22
-    sgG2 10
-    sgG5 56
+    infomap 122
+    sgG1 10
+    sgG2 29
+    sgG5 75
     fc2 6
-    sgG12 21
-    Spectral2 133
+    sgG12 10
     louvain2 9
-    lec2 60
-    wt2 116
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 695
     name "55856"
     Spectral 58
+    Spectral1per 27
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 18
     lec 4
     wt 111
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 59
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 110
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 696
     name "29767"
     Spectral 82
+    Spectral1per 21
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 30
     lec 4
     wt 111
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 83
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 110
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 697
     name "3628"
     Spectral 7
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 121
     fc 3
     louvain 12
-    infomap 75
-    sgG1 12
-    sgG2 51
-    sgG5 55
+    infomap 72
+    sgG1 13
+    sgG2 22
+    sgG5 57
     fc2 38
-    sgG12 12
-    Spectral2 8
+    sgG12 13
     louvain2 11
-    lec2 36
-    wt2 120
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 698
     name "5414"
     Spectral 7
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 121
     fc 3
     louvain 12
-    infomap 75
-    sgG1 12
-    sgG2 51
-    sgG5 55
+    infomap 72
+    sgG1 13
+    sgG2 22
+    sgG5 57
     fc2 38
-    sgG12 12
-    Spectral2 8
+    sgG12 13
     louvain2 11
-    lec2 36
-    wt2 120
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 699
     name "4644"
     Spectral 7
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 1
     wt 121
     fc 3
     louvain 12
-    infomap 75
-    sgG1 12
-    sgG2 51
-    sgG5 55
+    infomap 72
+    sgG1 13
+    sgG2 22
+    sgG5 57
     fc2 38
-    sgG12 12
-    Spectral2 8
+    sgG12 13
     louvain2 11
-    lec2 36
-    wt2 120
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 700
     name "8537"
     Spectral 7
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 121
     fc 3
     louvain 12
-    infomap 75
-    sgG1 12
-    sgG2 51
-    sgG5 55
+    infomap 72
+    sgG1 13
+    sgG2 22
+    sgG5 57
     fc2 38
-    sgG12 12
-    Spectral2 8
+    sgG12 13
     louvain2 11
-    lec2 36
-    wt2 120
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 701
     name "23474"
     Spectral 195
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 45
     lec 20
     wt 149
     fc 3
     louvain 9
-    infomap 114
-    sgG1 33
-    sgG2 31
-    sgG5 28
+    infomap 118
+    sgG1 8
+    sgG2 23
+    sgG5 46
     fc2 34
-    sgG12 32
-    Spectral2 196
+    sgG12 8
     louvain2 8
-    lec2 16
-    wt2 148
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 702
     name "51606"
     Spectral 197
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 46
     lec 8
     wt 126
     fc 3
     louvain 9
-    infomap 114
-    sgG1 33
-    sgG2 31
-    sgG5 28
+    infomap 118
+    sgG1 8
+    sgG2 23
+    sgG5 46
     fc2 34
-    sgG12 32
-    Spectral2 198
+    sgG12 8
     louvain2 8
-    lec2 4
-    wt2 125
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 703
     name "84056"
     Spectral 66
+    Spectral1per 13
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 32
     lec 4
     wt 50
     fc 8
     louvain 13
-    infomap 64
-    sgG1 2
-    sgG2 23
-    sgG5 81
+    infomap 59
+    sgG1 7
+    sgG2 29
+    sgG5 80
     fc2 4
-    sgG12 2
-    Spectral2 67
+    sgG12 7
     louvain2 12
-    lec2 61
-    wt2 49
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 704
     name "113146"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 17
     wt 4
     fc 4
     louvain 16
-    infomap 22
-    sgG1 29
-    sgG2 11
-    sgG5 47
+    infomap 114
+    sgG1 19
+    sgG2 34
+    sgG5 64
     fc2 1
-    sgG12 28
-    Spectral2 161
+    sgG12 18
     louvain2 15
-    lec2 13
-    wt2 4
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 705
     name "23786"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 17
     wt 70
     fc 9
     louvain 17
-    infomap 44
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 11
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 16
-    lec2 13
-    wt2 69
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 706
     name "64422"
     Spectral 241
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 17
     wt 4
     fc 8
     louvain 10
-    infomap 33
-    sgG1 23
-    sgG2 40
-    sgG5 6
+    infomap 35
+    sgG1 19
+    sgG2 16
+    sgG5 66
     fc2 4
-    sgG12 22
-    Spectral2 242
+    sgG12 18
     louvain2 9
-    lec2 13
-    wt2 4
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 707
     name "79876"
     Spectral 175
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 17
     wt 76
     fc 7
     louvain 10
-    infomap 117
-    sgG1 34
-    sgG2 40
-    sgG5 53
+    infomap 121
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 3
-    sgG12 33
-    Spectral2 176
+    sgG12 18
     louvain2 9
-    lec2 13
-    wt2 75
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 708
     name "55157"
     Spectral 52
+    Spectral1per 26
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 35
     lec 3
     wt 9
     fc 4
     louvain 1
-    infomap 66
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    infomap 88
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 1
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 9
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 709
     name "3897"
     Spectral 246
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 59
     lec 7
     wt 13
     fc 1
     louvain 8
     infomap 61
-    sgG1 1
-    sgG2 8
-    sgG5 16
+    sgG1 14
+    sgG2 24
+    sgG5 2
     fc2 21
-    sgG12 1
-    Spectral2 247
+    sgG12 29
     louvain2 7
-    lec2 3
-    wt2 186
+    Spectral25per2 21
+    Spectral5per2 9
   ]
   node
   [
     id 710
     name "56267"
     Spectral 113
+    Spectral1per 19
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 27
     lec 8
     wt 109
     fc 4
     louvain 3
-    infomap 97
-    sgG1 8
-    sgG2 1
-    sgG5 46
+    infomap 71
+    sgG1 23
+    sgG2 11
+    sgG5 16
     fc2 1
-    sgG12 8
-    Spectral2 114
+    sgG12 22
     louvain2 3
-    lec2 4
-    wt2 108
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 711
     name "4140"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 1
     wt 14
     fc 10
     louvain 16
-    infomap 77
-    sgG1 8
-    sgG2 18
-    sgG5 20
+    infomap 75
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 8
-    Spectral2 161
+    sgG12 1
     louvain2 15
-    lec2 23
-    wt2 13
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 712
     name "55823"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 2
     wt 140
     fc 10
     louvain 16
-    infomap 77
-    sgG1 21
-    sgG2 18
-    sgG5 20
+    infomap 75
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 203
+    sgG12 1
     louvain2 15
-    lec2 48
-    wt2 139
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 713
     name "79187"
     Spectral 188
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 2
     wt 150
     fc 3
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 36
-    sgG12 23
-    Spectral2 189
+    sgG12 9
     louvain2 11
-    lec2 44
-    wt2 149
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 714
     name "9318"
     Spectral 188
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 2
     wt 1
     fc 3
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 36
-    sgG12 23
-    Spectral2 189
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 1
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 715
     name "3991"
     Spectral 260
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 8
     wt 56
     fc 13
     louvain 1
     infomap 60
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 261
+    sgG12 10
     louvain2 1
-    lec2 4
-    wt2 55
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 716
     name "55968"
     Spectral 260
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 56
     fc 13
     louvain 1
     infomap 60
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 261
+    sgG12 10
     louvain2 1
-    lec2 40
-    wt2 55
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 717
     name "7203"
     Spectral 133
+    Spectral1per 25
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 36
     lec 11
     wt 29
     fc 10
     louvain 14
-    infomap 94
-    sgG1 15
-    sgG2 4
-    sgG5 29
+    infomap 97
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 6
-    sgG12 15
-    Spectral2 134
+    sgG12 17
     louvain2 13
-    lec2 7
-    wt2 28
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 718
     name "79885"
     Spectral 52
+    Spectral1per 23
+    Spectral25per 11
+    Spectral5per 6
+    Spectral05per 31
     lec 8
     wt 24
     fc 3
     louvain 12
-    infomap 73
-    sgG1 24
-    sgG2 21
-    sgG5 44
+    infomap 43
+    sgG1 8
+    sgG2 13
+    sgG5 84
     fc2 35
-    sgG12 23
-    Spectral2 53
+    sgG12 8
     louvain2 11
-    lec2 4
-    wt2 23
+    Spectral25per2 12
+    Spectral5per2 6
   ]
   node
   [
     id 719
     name "4731"
     Spectral 52
+    Spectral1per 23
+    Spectral25per 12
+    Spectral5per 6
+    Spectral05per 14
     lec 8
     wt 94
     fc 3
     louvain 12
-    infomap 73
-    sgG1 24
-    sgG2 21
-    sgG5 44
+    infomap 43
+    sgG1 8
+    sgG2 13
+    sgG5 84
     fc2 35
-    sgG12 23
-    Spectral2 53
+    sgG12 8
     louvain2 11
-    lec2 4
-    wt2 93
+    Spectral25per2 13
+    Spectral5per2 6
   ]
   node
   [
     id 720
     name "4723"
     Spectral 52
+    Spectral1per 11
+    Spectral25per 12
+    Spectral5per 6
+    Spectral05per 14
     lec 8
     wt 94
     fc 3
     louvain 12
-    infomap 73
-    sgG1 24
-    sgG2 21
-    sgG5 44
+    infomap 43
+    sgG1 8
+    sgG2 13
+    sgG5 84
     fc2 35
-    sgG12 23
-    Spectral2 53
+    sgG12 8
     louvain2 11
-    lec2 4
-    wt2 93
+    Spectral25per2 13
+    Spectral5per2 6
   ]
   node
   [
     id 721
     name "2051"
     Spectral 264
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 1
     fc 3
     louvain 7
-    infomap 82
-    sgG1 24
-    sgG2 25
-    sgG5 65
+    infomap 83
+    sgG1 8
+    sgG2 4
+    sgG5 84
     fc2 38
-    sgG12 23
-    Spectral2 264
+    sgG12 8
     louvain2 6
-    lec2 48
-    wt2 1
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 722
     name "5339"
     Spectral 109
+    Spectral1per 21
+    Spectral25per 11
+    Spectral5per 5
+    Spectral05per 21
     lec 1
     wt 1
     fc 3
     louvain 6
-    infomap 53
-    sgG1 29
-    sgG2 11
-    sgG5 47
+    infomap 54
+    sgG1 8
+    sgG2 34
+    sgG5 64
     fc2 40
-    sgG12 28
-    Spectral2 110
+    sgG12 8
     louvain2 23
-    lec2 38
-    wt2 1
+    Spectral25per2 12
+    Spectral5per2 5
   ]
   node
   [
     id 723
     name "8294"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 6
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 724
     name "29789"
     Spectral 252
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 17
     wt 1
     fc 3
     louvain 12
-    infomap 82
-    sgG1 24
-    sgG2 25
-    sgG5 55
+    infomap 83
+    sgG1 8
+    sgG2 4
+    sgG5 84
     fc2 38
-    sgG12 23
-    Spectral2 253
+    sgG12 8
     louvain2 11
-    lec2 13
-    wt2 1
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 725
     name "813"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 1
     fc 2
     louvain 12
-    infomap 82
-    sgG1 24
-    sgG2 25
-    sgG5 55
+    infomap 83
+    sgG1 9
+    sgG2 4
+    sgG5 84
     fc2 28
-    sgG12 23
-    Spectral2 282
+    sgG12 9
     louvain2 11
-    lec2 39
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 726
     name "6632"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 56
     lec 17
     wt 1
     fc 3
     louvain 12
-    infomap 82
-    sgG1 24
-    sgG2 25
-    sgG5 55
+    infomap 83
+    sgG1 8
+    sgG2 4
+    sgG5 84
     fc2 38
-    sgG12 23
-    Spectral2 247
+    sgG12 8
     louvain2 11
-    lec2 13
-    wt2 1
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 727
     name "2273"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 18
     wt 21
     fc 15
     louvain 14
-    infomap 105
-    sgG1 32
-    sgG2 4
-    sgG5 9
+    infomap 106
+    sgG1 5
+    sgG2 14
+    sgG5 82
     fc2 11
-    sgG12 31
-    Spectral2 202
+    sgG12 5
     louvain2 13
-    lec2 14
-    wt2 20
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 728
     name "6624"
     Spectral 135
+    Spectral1per 26
+    Spectral25per 11
+    Spectral5per 3
+    Spectral05per 23
     lec 3
     wt 23
     fc 6
     louvain 3
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 71
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 46
-    sgG12 7
-    Spectral2 136
+    sgG12 25
     louvain2 3
-    lec2 1
-    wt2 22
+    Spectral25per2 12
+    Spectral5per2 3
   ]
   node
   [
     id 729
     name "874"
     Spectral 85
+    Spectral1per 16
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 24
     lec 7
     wt 28
     fc 6
     louvain 10
-    infomap 102
-    sgG1 2
-    sgG2 10
-    sgG5 56
+    infomap 104
+    sgG1 7
+    sgG2 35
+    sgG5 75
     fc2 43
-    sgG12 2
-    Spectral2 86
+    sgG12 7
     louvain2 9
-    lec2 3
-    wt2 27
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 730
     name "3337"
     Spectral 246
+    Spectral1per 43
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 59
     lec 19
     wt 13
     fc 4
     louvain 8
     infomap 61
-    sgG1 17
-    sgG2 52
-    sgG5 16
+    sgG1 14
+    sgG2 24
+    sgG5 2
     fc2 1
-    sgG12 34
-    Spectral2 247
+    sgG12 29
     louvain2 7
-    lec2 15
-    wt2 175
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 731
     name "7260"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 42
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 732
     name "1728"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 60
     lec 2
     wt 13
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 66
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 24
-    sgG12 34
-    Spectral2 293
+    sgG12 35
     louvain2 7
-    lec2 42
-    wt2 175
+    Spectral25per2 24
+    Spectral5per2 10
   ]
   node
   [
     id 733
     name "10840"
     Spectral 248
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 55
     lec 2
     wt 13
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 66
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 24
-    sgG12 34
-    Spectral2 249
+    sgG12 35
     louvain2 7
-    lec2 42
-    wt2 175
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 734
     name "10982"
     Spectral 141
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 16
     fc2 46
-    sgG12 8
-    Spectral2 142
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 735
     name "136319"
     Spectral 74
+    Spectral1per 27
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 19
     lec 7
     wt 15
     fc 6
     louvain 4
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 75
+    sgG12 22
     louvain2 4
-    lec2 3
-    wt2 14
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 736
     name "23530"
     Spectral 103
+    Spectral1per 19
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 24
     lec 7
     wt 101
     fc 11
     louvain 18
-    infomap 67
-    sgG1 3
-    sgG2 32
-    sgG5 41
+    infomap 70
+    sgG1 26
+    sgG2 44
+    sgG5 30
     fc2 7
-    sgG12 3
-    Spectral2 104
+    sgG12 25
     louvain2 17
-    lec2 3
-    wt2 100
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 737
     name "11258"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 7
     wt 13
     fc 1
     louvain 4
     infomap 3
-    sgG1 8
-    sgG2 15
-    sgG5 53
+    sgG1 23
+    sgG2 28
+    sgG5 14
     fc2 15
-    sgG12 8
-    Spectral2 306
+    sgG12 22
     louvain2 4
-    lec2 3
-    wt2 180
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 738
     name "23122"
     Spectral 145
+    Spectral1per 10
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 2
     fc 2
     louvain 14
-    infomap 68
-    sgG1 24
+    infomap 21
+    sgG1 9
     sgG2 4
-    sgG5 58
+    sgG5 24
     fc2 28
-    sgG12 23
-    Spectral2 146
+    sgG12 9
     louvain2 13
-    lec2 3
-    wt2 2
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 739
     name "10213"
     Spectral 98
+    Spectral1per 12
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 20
     lec 7
     wt 23
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 99
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 22
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 740
     name "1781"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
-    infomap 28
-    sgG1 8
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 18
+    sgG5 13
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 741
     name "3796"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 742
     name "4698"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 104
     fc 4
     louvain 2
-    infomap 100
-    sgG1 9
-    sgG2 9
-    sgG5 38
+    infomap 102
+    sgG1 21
+    sgG2 37
+    sgG5 3
     fc2 1
-    sgG12 9
-    Spectral2 153
+    sgG12 20
     louvain2 2
-    lec2 3
-    wt2 103
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 743
     name "10525"
     Spectral 86
+    Spectral1per 12
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 20
     lec 7
     wt 34
     fc 10
     louvain 15
-    infomap 51
+    infomap 50
     sgG1 6
-    sgG2 37
-    sgG5 75
+    sgG2 34
+    sgG5 81
     fc2 6
     sgG12 6
-    Spectral2 87
     louvain2 14
-    lec2 3
-    wt2 33
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 744
     name "10121"
     Spectral 75
+    Spectral1per 21
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 23
     lec 7
     wt 4
     fc 4
     louvain 16
-    infomap 53
-    sgG1 29
-    sgG2 11
-    sgG5 47
+    infomap 114
+    sgG1 21
+    sgG2 34
+    sgG5 64
     fc2 1
-    sgG12 28
-    Spectral2 76
+    sgG12 20
     louvain2 15
-    lec2 3
-    wt2 4
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 745
     name "5870"
     Spectral 88
+    Spectral1per 21
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 29
     lec 7
     wt 114
     fc 5
     louvain 10
     infomap 57
-    sgG1 5
-    sgG2 1
-    sgG5 13
+    sgG1 23
+    sgG2 18
+    sgG5 62
     fc2 2
-    sgG12 5
-    Spectral2 89
+    sgG12 22
     louvain2 9
-    lec2 3
-    wt2 113
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 746
     name "9181"
     Spectral 46
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 47
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 747
     name "54862"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 23
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 748
     name "9201"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 749
     name "283638"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 9
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 10
+    Spectral5per2 2
   ]
   node
   [
     id 750
     name "5976"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 7
+    Spectral5per 2
+    Spectral05per 35
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 8
+    Spectral5per2 2
   ]
   node
   [
     id 751
     name "10120"
     Spectral 159
+    Spectral1per 27
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 24
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 160
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 752
     name "11160"
     Spectral 53
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 3
+    Spectral05per 14
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 54
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 3
   ]
   node
   [
     id 753
     name "5223"
     Spectral 128
+    Spectral1per 18
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 28
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 129
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 754
     name "5862"
     Spectral 100
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 62
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 101
+    sgG12 20
     louvain2 2
-    lec2 3
-    wt2 61
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 755
     name "55201"
     Spectral 103
+    Spectral1per 11
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 22
     lec 7
     wt 67
     fc 6
     louvain 3
-    infomap 123
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    infomap 128
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 104
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 66
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 756
     name "7384"
     Spectral 168
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 39
     lec 7
     wt 33
     fc 12
     louvain 3
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 169
+    sgG12 16
     louvain2 3
-    lec2 3
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 757
     name "4676"
     Spectral 172
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 7
     wt 13
     fc 2
     louvain 3
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 173
+    sgG12 9
     louvain2 3
-    lec2 3
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 758
     name "55750"
     Spectral 84
+    Spectral1per 26
+    Spectral25per 10
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 85
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 11
+    Spectral5per2 2
   ]
   node
   [
     id 759
     name "254863"
     Spectral 109
+    Spectral1per 19
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 27
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 110
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 760
     name "23271"
     Spectral 149
+    Spectral1per 26
+    Spectral25per 12
+    Spectral5per 3
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 150
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 3
   ]
   node
   [
     id 761
     name "51164"
     Spectral 87
+    Spectral1per 28
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 22
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 88
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 762
     name "51412"
     Spectral 52
+    Spectral1per 19
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 24
     lec 2
     wt 123
     fc 4
     louvain 10
-    infomap 43
-    sgG1 9
-    sgG2 6
-    sgG5 92
+    infomap 58
+    sgG1 21
+    sgG2 27
+    sgG5 52
     fc2 1
-    sgG12 9
-    Spectral2 53
+    sgG12 20
     louvain2 9
-    lec2 40
-    wt2 122
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 763
     name "57017"
     Spectral 52
+    Spectral1per 19
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 24
     lec 5
     wt 123
     fc 4
     louvain 10
-    infomap 43
-    sgG1 9
-    sgG2 6
-    sgG5 92
+    infomap 58
+    sgG1 21
+    sgG2 27
+    sgG5 52
     fc2 1
-    sgG12 9
-    Spectral2 53
+    sgG12 20
     louvain2 9
-    lec2 62
-    wt2 122
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 764
     name "1374"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 59
     lec 8
     wt 34
     fc 10
     louvain 15
-    infomap 51
+    infomap 50
     sgG1 6
-    sgG2 37
-    sgG5 75
+    sgG2 34
+    sgG5 81
     fc2 6
     sgG12 6
-    Spectral2 247
     louvain2 14
-    lec2 4
-    wt2 33
+    Spectral25per2 21
+    Spectral5per2 9
   ]
   node
   [
     id 765
     name "10130"
     Spectral 149
+    Spectral1per 25
+    Spectral25per 11
+    Spectral5per 6
+    Spectral05per 31
     lec 2
     wt 34
     fc 10
     louvain 15
-    infomap 51
+    infomap 50
     sgG1 6
-    sgG2 37
-    sgG5 75
+    sgG2 34
+    sgG5 81
     fc2 6
     sgG12 6
-    Spectral2 150
     louvain2 14
-    lec2 43
-    wt2 33
+    Spectral25per2 12
+    Spectral5per2 6
   ]
   node
   [
     id 766
     name "56896"
     Spectral 52
+    Spectral1per 26
+    Spectral25per 10
+    Spectral5per 3
+    Spectral05per 35
     lec 3
     wt 138
     fc 3
     louvain 1
-    infomap 46
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    infomap 55
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 137
+    Spectral25per2 11
+    Spectral5per2 3
   ]
   node
   [
     id 767
     name "5036"
     Spectral 79
+    Spectral1per 21
+    Spectral25per 12
+    Spectral5per 6
+    Spectral05per 34
     lec 5
     wt 34
     fc 10
     louvain 15
-    infomap 51
+    infomap 50
     sgG1 6
-    sgG2 37
-    sgG5 75
+    sgG2 34
+    sgG5 81
     fc2 6
     sgG12 6
-    Spectral2 80
     louvain2 14
-    lec2 66
-    wt2 33
+    Spectral25per2 13
+    Spectral5per2 6
   ]
   node
   [
     id 768
     name "5334"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 9
     lec 1
     wt 34
     fc 10
     louvain 15
-    infomap 51
+    infomap 50
     sgG1 6
-    sgG2 37
-    sgG5 75
+    sgG2 34
+    sgG5 81
     fc2 6
     sgG12 6
-    Spectral2 11
     louvain2 14
-    lec2 28
-    wt2 33
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 769
     name "80728"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 9
     lec 1
     wt 34
     fc 10
     louvain 15
-    infomap 51
+    infomap 50
     sgG1 6
-    sgG2 37
-    sgG5 75
+    sgG2 34
+    sgG5 81
     fc2 6
     sgG12 6
-    Spectral2 11
     louvain2 14
-    lec2 28
-    wt2 33
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 770
     name "2193"
     Spectral 273
+    Spectral1per 45
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 2
     louvain 8
-    infomap 91
-    sgG1 17
-    sgG2 5
-    sgG5 70
+    infomap 93
+    sgG1 14
+    sgG2 7
+    sgG5 72
     fc2 26
-    sgG12 42
-    Spectral2 273
+    sgG12 30
     louvain2 7
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 771
     name "55229"
     Spectral 246
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 59
     lec 7
     wt 13
     fc 1
     louvain 8
     infomap 61
-    sgG1 1
-    sgG2 8
-    sgG5 16
+    sgG1 14
+    sgG2 24
+    sgG5 2
     fc2 21
-    sgG12 1
-    Spectral2 247
+    sgG12 29
     louvain2 7
-    lec2 3
-    wt2 186
+    Spectral25per2 21
+    Spectral5per2 9
   ]
   node
   [
     id 772
     name "3178"
     Spectral 92
+    Spectral1per 13
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 26
     lec 4
     wt 86
     fc 3
     louvain 12
-    infomap 73
-    sgG1 24
-    sgG2 34
-    sgG5 44
+    infomap 43
+    sgG1 17
+    sgG2 13
+    sgG5 84
     fc2 35
-    sgG12 23
-    Spectral2 93
+    sgG12 16
     louvain2 11
-    lec2 60
-    wt2 85
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 773
     name "51645"
     Spectral 92
+    Spectral1per 13
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 26
     lec 4
     wt 86
     fc 3
     louvain 12
-    infomap 73
-    sgG1 24
-    sgG2 34
-    sgG5 44
+    infomap 43
+    sgG1 17
+    sgG2 13
+    sgG5 84
     fc2 35
-    sgG12 23
-    Spectral2 93
+    sgG12 16
     louvain2 11
-    lec2 60
-    wt2 85
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 774
     name "55198"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 17
     wt 81
     fc 5
     louvain 10
     infomap 48
-    sgG1 8
-    sgG2 48
-    sgG5 19
+    sgG1 7
+    sgG2 18
+    sgG5 65
     fc2 2
-    sgG12 8
-    Spectral2 210
+    sgG12 7
     louvain2 9
-    lec2 13
-    wt2 80
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 775
     name "146691"
     Spectral 118
+    Spectral1per 17
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 18
     lec 4
     wt 136
     fc 14
     louvain 11
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 24
+    infomap 86
+    sgG1 15
+    sgG2 15
+    sgG5 22
     fc2 10
-    sgG12 26
-    Spectral2 119
+    sgG12 14
     louvain2 10
-    lec2 54
-    wt2 135
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 776
     name "55964"
     Spectral 48
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 5
     wt 22
     fc 6
     louvain 11
-    infomap 68
-    sgG1 8
-    sgG2 30
-    sgG5 82
+    infomap 29
+    sgG1 3
+    sgG2 47
+    sgG5 50
     fc2 42
-    sgG12 8
-    Spectral2 49
+    sgG12 3
     louvain2 10
-    lec2 68
-    wt2 21
+    Spectral25per2 2
+    Spectral5per2 11
   ]
   node
   [
     id 777
     name "2185"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 63
     lec 2
     wt 66
     fc 2
     louvain 4
-    infomap 112
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 115
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
-    sgG12 35
-    Spectral2 303
+    sgG12 31
     louvain2 4
-    lec2 48
-    wt2 65
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 778
     name "4659"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 38
     fc 10
     louvain 15
-    infomap 109
-    sgG1 27
-    sgG2 20
-    sgG5 48
+    infomap 110
+    sgG1 15
+    sgG2 29
+    sgG5 76
     fc2 6
-    sgG12 26
-    Spectral2 11
+    sgG12 14
     louvain2 14
-    lec2 24
-    wt2 37
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 779
     name "2902"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 64
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 296
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 780
     name "1073"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 247
+    sgG12 20
     louvain2 2
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 781
     name "60"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 247
+    sgG12 20
     louvain2 2
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 782
     name "10808"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 19
     wt 15
     fc 2
     louvain 3
-    infomap 28
-    sgG1 9
-    sgG2 6
-    sgG5 31
+    infomap 30
+    sgG1 21
+    sgG2 37
+    sgG5 13
     fc2 26
-    sgG12 9
-    Spectral2 295
+    sgG12 20
     louvain2 3
-    lec2 15
-    wt2 14
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 783
     name "11235"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 56
     lec 9
     wt 129
     fc 1
     louvain 14
-    infomap 91
-    sgG1 32
-    sgG2 39
-    sgG5 22
+    infomap 93
+    sgG1 5
+    sgG2 10
+    sgG5 72
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 5
-    wt2 128
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 784
     name "6801"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 9
     wt 129
     fc 1
     louvain 14
-    infomap 91
-    sgG1 32
-    sgG2 39
-    sgG5 22
+    infomap 93
+    sgG1 5
+    sgG2 10
+    sgG5 72
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 5
-    wt2 128
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 785
     name "8428"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 56
     lec 9
     wt 129
     fc 1
     louvain 14
-    infomap 91
-    sgG1 32
-    sgG2 39
-    sgG5 22
+    infomap 93
+    sgG1 5
+    sgG2 10
+    sgG5 72
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 5
-    wt2 128
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 786
     name "23265"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 3
+    Spectral05per 25
     lec 4
     wt 37
     fc 5
     louvain 6
-    infomap 55
-    sgG1 10
-    sgG2 13
-    sgG5 12
+    infomap 70
+    sgG1 22
+    sgG2 47
+    sgG5 43
     fc2 2
-    sgG12 10
-    Spectral2 123
+    sgG12 21
     louvain2 25
-    lec2 51
-    wt2 36
+    Spectral25per2 6
+    Spectral5per2 3
   ]
   node
   [
     id 787
     name "84816"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 37
     fc 5
     louvain 6
-    infomap 55
-    sgG1 10
-    sgG2 13
-    sgG5 26
+    infomap 70
+    sgG1 22
+    sgG2 47
+    sgG5 40
     fc2 2
-    sgG12 10
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 32
-    wt2 36
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 788
     name "2949"
     Spectral 77
+    Spectral1per 13
+    Spectral25per 10
+    Spectral5per 3
+    Spectral05per 26
     lec 3
     wt 115
     fc 8
     louvain 13
-    infomap 107
-    sgG1 2
-    sgG2 41
-    sgG5 30
+    infomap 108
+    sgG1 7
+    sgG2 20
+    sgG5 41
     fc2 4
-    sgG12 2
-    Spectral2 78
+    sgG12 7
     louvain2 12
-    lec2 1
-    wt2 114
+    Spectral25per2 11
+    Spectral5per2 3
   ]
   node
   [
     id 789
     name "2944"
     Spectral 63
+    Spectral1per 26
+    Spectral25per 9
+    Spectral5per 3
+    Spectral05per 26
     lec 3
     wt 97
     fc 8
     louvain 13
-    infomap 107
-    sgG1 2
-    sgG2 41
-    sgG5 30
+    infomap 108
+    sgG1 7
+    sgG2 20
+    sgG5 41
     fc2 4
-    sgG12 2
-    Spectral2 64
+    sgG12 7
     louvain2 12
-    lec2 1
-    wt2 96
+    Spectral25per2 10
+    Spectral5per2 3
   ]
   node
   [
     id 790
     name "178"
     Spectral 210
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 49
     lec 17
     wt 22
     fc 5
     louvain 10
     infomap 48
-    sgG1 26
-    sgG2 48
-    sgG5 19
+    sgG1 7
+    sgG2 41
+    sgG5 65
     fc2 2
-    sgG12 25
-    Spectral2 211
+    sgG12 7
     louvain2 9
-    lec2 13
-    wt2 21
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 791
     name "51493"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 49
     lec 1
     wt 22
     fc 5
     louvain 10
     infomap 48
-    sgG1 26
-    sgG2 48
-    sgG5 19
+    sgG1 7
+    sgG2 41
+    sgG5 65
     fc2 2
-    sgG12 25
-    Spectral2 210
+    sgG12 7
     louvain2 9
-    lec2 24
-    wt2 21
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 792
     name "11034"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 4
     wt 9
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 247
+    sgG12 20
     louvain2 2
-    lec2 56
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 793
     name "10486"
     Spectral 279
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 279
+    sgG12 20
     louvain2 2
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 794
     name "56648"
     Spectral 52
+    Spectral1per 25
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 33
     lec 5
     wt 1
     fc 3
     louvain 7
-    infomap 86
-    sgG1 26
-    sgG2 25
-    sgG5 65
+    infomap 89
+    sgG1 16
+    sgG2 4
+    sgG5 75
     fc2 36
-    sgG12 25
-    Spectral2 53
+    sgG12 15
     louvain2 6
-    lec2 68
-    wt2 1
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 795
     name "51571"
     Spectral 52
+    Spectral1per 28
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 33
     lec 3
     wt 1
     fc 3
     louvain 7
-    infomap 86
-    sgG1 33
-    sgG2 25
-    sgG5 65
+    infomap 89
+    sgG1 8
+    sgG2 4
+    sgG5 16
     fc2 36
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 6
-    lec2 1
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 796
     name "5524"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 65
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 16
     fc2 15
-    sgG12 34
-    Spectral2 312
+    sgG12 27
     louvain2 4
-    lec2 16
-    wt2 172
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 797
     name "10131"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 19
     wt 1
     fc 4
     louvain 8
-    infomap 74
-    sgG1 3
-    sgG2 32
-    sgG5 79
+    infomap 53
+    sgG1 21
+    sgG2 44
+    sgG5 85
     fc2 1
-    sgG12 3
-    Spectral2 287
+    sgG12 20
     louvain2 7
-    lec2 15
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 798
     name "6119"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 247
+    sgG12 20
     louvain2 2
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 799
     name "832"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 18
     wt 35
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 38
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 3
     fc2 1
-    sgG12 9
-    Spectral2 247
+    sgG12 20
     louvain2 2
-    lec2 14
-    wt2 34
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 800
     name "10313"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 2
+    Spectral05per 28
     lec 1
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 36
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 2
   ]
   node
   [
     id 801
     name "22908"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 2
     wt 7
     fc 9
     louvain 17
-    infomap 44
-    sgG1 16
-    sgG2 10
-    sgG5 78
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 11
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 16
-    lec2 40
-    wt2 7
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 802
     name "7781"
     Spectral 81
+    Spectral1per 28
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 19
     lec 1
     wt 132
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 23
+    infomap 51
+    sgG1 12
+    sgG2 45
+    sgG5 21
     fc2 10
-    sgG12 29
-    Spectral2 82
+    sgG12 12
     louvain2 15
-    lec2 36
-    wt2 131
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 803
     name "112574"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
     infomap 19
-    sgG1 11
-    sgG2 13
-    sgG5 26
+    sgG1 22
+    sgG2 47
+    sgG5 40
     fc2 42
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 804
     name "9892"
     Spectral 29
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 26
+    sgG2 47
+    sgG5 40
     fc2 5
-    sgG12 16
-    Spectral2 30
+    sgG12 15
     louvain2 16
-    lec2 64
-    wt2 21
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 805
     name "327"
     Spectral 175
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 8
     wt 76
     fc 7
     louvain 10
-    infomap 117
-    sgG1 34
-    sgG2 40
-    sgG5 53
+    infomap 121
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 3
-    sgG12 33
-    Spectral2 176
+    sgG12 18
     louvain2 9
-    lec2 4
-    wt2 75
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 806
     name "80318"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 4
+    Spectral05per 21
     lec 4
     wt 14
     fc 10
     louvain 10
-    infomap 94
-    sgG1 27
-    sgG2 13
-    sgG5 29
+    infomap 97
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 6
-    sgG12 26
-    Spectral2 123
+    sgG12 17
     louvain2 9
-    lec2 51
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 4
   ]
   node
   [
     id 807
     name "8546"
     Spectral 131
+    Spectral1per 13
+    Spectral25per 5
+    Spectral5per 4
+    Spectral05per 21
     lec 4
     wt 139
     fc 10
     louvain 10
-    infomap 94
-    sgG1 15
-    sgG2 4
-    sgG5 29
+    infomap 97
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 6
-    sgG12 15
-    Spectral2 132
+    sgG12 17
     louvain2 9
-    lec2 51
-    wt2 138
+    Spectral25per2 6
+    Spectral5per2 4
   ]
   node
   [
     id 808
     name "5704"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 1
     wt 1
     fc 2
     louvain 8
-    infomap 74
-    sgG1 3
-    sgG2 32
-    sgG5 79
+    infomap 42
+    sgG1 14
+    sgG2 44
+    sgG5 85
     fc2 29
-    sgG12 3
-    Spectral2 286
+    sgG12 34
     louvain2 7
-    lec2 26
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 809
     name "5702"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 1
     wt 43
     fc 11
     louvain 8
-    infomap 74
-    sgG1 3
-    sgG2 32
-    sgG5 79
+    infomap 42
+    sgG1 14
+    sgG2 44
+    sgG5 85
     fc2 7
-    sgG12 3
-    Spectral2 286
+    sgG12 34
     louvain2 7
-    lec2 35
-    wt2 42
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 810
     name "27316"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 5
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 66
-    wt2 32
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 811
     name "9444"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 1
     wt 57
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 25
-    wt2 56
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 812
     name "10492"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 17
+    Spectral5per 12
+    Spectral05per 65
     lec 1
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 304
+    sgG12 16
     louvain2 11
-    lec2 25
-    wt2 32
+    Spectral25per2 17
+    Spectral5per2 10
   ]
   node
   [
     id 813
     name "8349"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 23
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 22
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 814
     name "386617"
     Spectral 263
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 55
     lec 2
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 296
+    sgG12 16
     louvain2 11
-    lec2 48
-    wt2 32
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 815
     name "10487"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 54
     lec 19
     wt 9
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 247
+    sgG12 20
     louvain2 2
-    lec2 15
-    wt2 9
+    Spectral25per2 1
+    Spectral5per2 10
   ]
   node
   [
     id 816
     name "10476"
     Spectral 52
+    Spectral1per 27
+    Spectral25per 9
+    Spectral5per 2
+    Spectral05per 31
     lec 4
     wt 36
     fc 3
     louvain 15
-    infomap 72
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 69
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 53
+    sgG12 19
     louvain2 14
-    lec2 56
-    wt2 35
+    Spectral25per2 10
+    Spectral5per2 2
   ]
   node
   [
     id 817
     name "11135"
     Spectral 8
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 9
+    sgG12 21
     louvain2 18
-    lec2 26
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 818
     name "149371"
     Spectral 114
+    Spectral1per 11
+    Spectral25per 6
+    Spectral5per 6
+    Spectral05per 21
     lec 4
     wt 130
     fc 5
     louvain 6
-    infomap 37
-    sgG1 31
-    sgG2 13
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 47
+    sgG5 43
     fc2 2
-    sgG12 30
-    Spectral2 115
+    sgG12 21
     louvain2 23
-    lec2 51
-    wt2 129
+    Spectral25per2 7
+    Spectral5per2 6
   ]
   node
   [
     id 819
     name "55770"
     Spectral 62
+    Spectral1per 11
+    Spectral25per 11
+    Spectral5per 6
+    Spectral05per 14
     lec 4
     wt 130
     fc 5
     louvain 6
-    infomap 37
-    sgG1 31
-    sgG2 13
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 47
+    sgG5 43
     fc2 2
-    sgG12 30
-    Spectral2 63
+    sgG12 21
     louvain2 23
-    lec2 58
-    wt2 129
+    Spectral25per2 12
+    Spectral5per2 6
   ]
   node
   [
     id 820
     name "5372"
     Spectral 88
+    Spectral1per 21
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 29
     lec 7
     wt 114
     fc 5
     louvain 10
     infomap 57
-    sgG1 5
-    sgG2 1
-    sgG5 13
+    sgG1 23
+    sgG2 18
+    sgG5 62
     fc2 2
-    sgG12 5
-    Spectral2 89
+    sgG12 22
     louvain2 9
-    lec2 3
-    wt2 113
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 821
     name "23157"
     Spectral 48
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 124
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 123
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 822
     name "989"
     Spectral 35
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 124
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 36
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 123
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 823
     name "11332"
     Spectral 245
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 52
     lec 4
     wt 14
     fc 6
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 45
-    sgG12 26
-    Spectral2 246
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 13
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 824
     name "2912"
     Spectral 123
+    Spectral1per 26
+    Spectral25per 7
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 137
     fc 9
     louvain 15
-    infomap 12
-    sgG1 16
-    sgG2 13
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 29
+    sgG5 68
     fc2 5
-    sgG12 16
-    Spectral2 124
+    sgG12 2
     louvain2 14
-    lec2 60
-    wt2 136
+    Spectral25per2 8
+    Spectral5per2 6
   ]
   node
   [
     id 825
     name "23190"
     Spectral 74
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 28
     lec 4
     wt 100
     fc 13
     louvain 1
     infomap 60
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 75
+    sgG12 10
     louvain2 1
-    lec2 60
-    wt2 99
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 826
     name "441518"
     Spectral 129
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 14
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 130
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 827
     name "5034"
     Spectral 166
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 39
     lec 18
     wt 6
     fc 10
     louvain 15
-    infomap 81
-    sgG1 24
-    sgG2 13
-    sgG5 1
+    infomap 82
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 23
-    Spectral2 167
+    sgG12 14
     louvain2 14
-    lec2 14
-    wt2 6
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 828
     name "2554"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 18
     lec 4
     wt 14
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 123
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 829
     name "6184"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 28
     lec 4
     wt 38
     fc 10
     louvain 15
-    infomap 109
-    sgG1 27
-    sgG2 20
-    sgG5 48
+    infomap 110
+    sgG1 15
+    sgG2 29
+    sgG5 76
     fc2 6
-    sgG12 26
-    Spectral2 104
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 37
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 830
     name "51144"
     Spectral 129
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 14
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 130
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 831
     name "55739"
     Spectral 124
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 14
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 125
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 13
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 832
     name "6232"
     Spectral 219
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 2
     wt 7
     fc 5
     louvain 10
-    infomap 32
-    sgG1 8
-    sgG2 50
-    sgG5 59
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 39
     fc2 2
-    sgG12 8
-    Spectral2 220
+    sgG12 13
     louvain2 9
-    lec2 49
-    wt2 7
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 833
     name "5478"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
     infomap 19
-    sgG1 11
-    sgG2 13
-    sgG5 26
+    sgG1 22
+    sgG2 47
+    sgG5 40
     fc2 42
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 25
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 834
     name "5706"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 1
     wt 1
     fc 6
     louvain 8
-    infomap 74
-    sgG1 3
-    sgG2 32
-    sgG5 79
+    infomap 42
+    sgG1 14
+    sgG2 44
+    sgG5 85
     fc2 49
-    sgG12 3
-    Spectral2 286
+    sgG12 34
     louvain2 7
-    lec2 24
-    wt2 1
+    Spectral25per2 23
+    Spectral5per2 15
   ]
   node
   [
     id 835
     name "55697"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 2
     fc 1
     louvain 11
-    infomap 67
-    sgG1 32
-    sgG2 30
-    sgG5 82
+    infomap 79
+    sgG1 5
+    sgG2 27
+    sgG5 50
     fc2 16
-    sgG12 31
-    Spectral2 11
+    sgG12 5
     louvain2 10
-    lec2 30
-    wt2 2
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 836
     name "18"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 837
     name "6000"
     Spectral 14
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 2
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 15
+    sgG12 21
     louvain2 20
-    lec2 48
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 838
     name "55748"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 839
     name "54443"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 18
-    lec2 25
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 840
     name "55577"
     Spectral 52
+    Spectral1per 26
+    Spectral25per 11
+    Spectral5per 4
+    Spectral05per 16
     lec 5
     wt 22
     fc 6
     louvain 4
-    infomap 34
-    sgG1 32
-    sgG2 8
-    sgG5 56
+    infomap 29
+    sgG1 5
+    sgG2 3
+    sgG5 75
     fc2 43
-    sgG12 31
-    Spectral2 53
+    sgG12 5
     louvain2 4
-    lec2 68
-    wt2 21
+    Spectral25per2 12
+    Spectral5per2 4
   ]
   node
   [
     id 841
     name "140885"
     Spectral 173
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 2
     wt 32
     fc 2
     louvain 4
-    infomap 69
-    sgG1 17
-    sgG2 36
-    sgG5 18
+    infomap 65
+    sgG1 14
+    sgG2 32
+    sgG5 39
     fc2 24
-    sgG12 41
-    Spectral2 174
+    sgG12 36
     louvain2 4
-    lec2 49
-    wt2 31
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 842
     name "23321"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 2
     wt 32
     fc 2
     louvain 4
-    infomap 69
-    sgG1 17
-    sgG2 36
-    sgG5 18
+    infomap 65
+    sgG1 14
+    sgG2 32
+    sgG5 39
     fc2 24
-    sgG12 41
-    Spectral2 185
+    sgG12 36
     louvain2 4
-    lec2 49
-    wt2 31
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 843
     name "10016"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 18
     fc 3
     louvain 13
-    infomap 78
-    sgG1 2
-    sgG2 23
-    sgG5 81
+    infomap 77
+    sgG1 7
+    sgG2 41
+    sgG5 80
     fc2 37
-    sgG12 2
-    Spectral2 11
+    sgG12 7
     louvain2 12
-    lec2 28
-    wt2 17
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 844
     name "2521"
     Spectral 109
+    Spectral1per 21
+    Spectral25per 11
+    Spectral5per 6
+    Spectral05per 25
     lec 5
     wt 33
     fc 3
     louvain 15
-    infomap 53
-    sgG1 29
-    sgG2 37
-    sgG5 34
+    infomap 54
+    sgG1 17
+    sgG2 34
+    sgG5 81
     fc2 40
-    sgG12 28
-    Spectral2 110
+    sgG12 16
     louvain2 14
-    lec2 66
-    wt2 32
+    Spectral25per2 12
+    Spectral5per2 6
   ]
   node
   [
     id 845
     name "28989"
     Spectral 162
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 38
     lec 5
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 163
+    sgG12 16
     louvain2 11
-    lec2 66
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 846
     name "9491"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 5
     wt 57
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 66
-    wt2 56
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 847
     name "4540"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 8
     wt 84
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 202
+    sgG12 19
     louvain2 14
-    lec2 4
-    wt2 83
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 848
     name "5701"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 76
     fc2 26
-    sgG12 40
-    Spectral2 282
+    sgG12 33
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 849
     name "5711"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 1
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 76
     fc2 26
-    sgG12 40
-    Spectral2 282
+    sgG12 33
     louvain2 7
-    lec2 23
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 850
     name "23092"
     Spectral 22
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 23
+    sgG12 21
     louvain2 18
-    lec2 26
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 851
     name "116986"
     Spectral 22
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 23
+    sgG12 21
     louvain2 18
-    lec2 26
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 852
     name "11171"
     Spectral 73
+    Spectral1per 27
+    Spectral25per 9
+    Spectral5per 3
+    Spectral05per 30
     lec 4
     wt 39
     fc 7
     louvain 7
-    infomap 86
-    sgG1 4
-    sgG2 49
-    sgG5 65
+    infomap 89
+    sgG1 13
+    sgG2 43
+    sgG5 5
     fc2 3
-    sgG12 4
-    Spectral2 74
+    sgG12 13
     louvain2 6
-    lec2 57
-    wt2 38
+    Spectral25per2 10
+    Spectral5per2 3
   ]
   node
   [
     id 853
     name "58497"
     Spectral 71
+    Spectral1per 15
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 26
     lec 4
     wt 39
     fc 7
     louvain 7
-    infomap 86
-    sgG1 4
-    sgG2 49
-    sgG5 65
+    infomap 89
+    sgG1 13
+    sgG2 43
+    sgG5 5
     fc2 3
-    sgG12 4
-    Spectral2 72
+    sgG12 13
     louvain2 6
-    lec2 57
-    wt2 38
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 854
     name "3612"
     Spectral 55
+    Spectral1per 24
+    Spectral25per 9
+    Spectral5per 4
+    Spectral05per 31
     lec 5
     wt 59
     fc 5
     louvain 10
-    infomap 34
-    sgG1 26
-    sgG2 10
-    sgG5 56
+    infomap 29
+    sgG1 16
+    sgG2 33
+    sgG5 75
     fc2 2
-    sgG12 25
-    Spectral2 56
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 58
+    Spectral25per2 10
+    Spectral5per2 4
   ]
   node
   [
     id 855
     name "6285"
     Spectral 85
+    Spectral1per 24
+    Spectral25per 9
+    Spectral5per 4
+    Spectral05per 31
     lec 5
     wt 59
     fc 5
     louvain 10
-    infomap 34
-    sgG1 26
-    sgG2 10
-    sgG5 56
+    infomap 29
+    sgG1 16
+    sgG2 33
+    sgG5 75
     fc2 2
-    sgG12 25
-    Spectral2 86
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 58
+    Spectral25per2 10
+    Spectral5per2 4
   ]
   node
   [
     id 856
     name "6717"
     Spectral 52
+    Spectral1per 27
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 36
     lec 4
     wt 2
     fc 8
     louvain 11
-    infomap 67
-    sgG1 23
-    sgG2 30
-    sgG5 82
+    infomap 79
+    sgG1 3
+    sgG2 27
+    sgG5 50
     fc2 4
-    sgG12 22
-    Spectral2 53
+    sgG12 3
     louvain2 10
-    lec2 59
-    wt2 2
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 857
     name "25801"
     Spectral 52
+    Spectral1per 15
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 35
     lec 3
     wt 2
     fc 8
     louvain 11
-    infomap 67
-    sgG1 23
-    sgG2 30
-    sgG5 82
+    infomap 79
+    sgG1 3
+    sgG2 27
+    sgG5 50
     fc2 4
-    sgG12 22
-    Spectral2 53
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 2
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 858
     name "361"
     Spectral 251
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 58
     lec 25
     wt 31
     fc 11
     louvain 7
-    infomap 26
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 78
+    sgG1 16
+    sgG2 40
+    sgG5 69
     fc2 7
-    sgG12 25
-    Spectral2 252
+    sgG12 15
     louvain2 6
-    lec2 21
-    wt2 30
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 859
     name "6169"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 25
     wt 31
     fc 11
     louvain 7
-    infomap 26
-    sgG1 26
-    sgG2 43
-    sgG5 85
+    infomap 78
+    sgG1 16
+    sgG2 40
+    sgG5 69
     fc2 7
-    sgG12 25
-    Spectral2 292
+    sgG12 15
     louvain2 6
-    lec2 21
-    wt2 30
+    Spectral25per2 22
+    Spectral5per2 1
   ]
   node
   [
     id 860
     name "2931"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 34
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 26
     fc2 15
-    sgG12 39
-    Spectral2 303
+    sgG12 27
     louvain2 4
-    lec2 40
-    wt2 172
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 861
     name "5577"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 19
     fc 5
     louvain 10
-    infomap 22
-    sgG1 17
-    sgG2 40
-    sgG5 52
+    infomap 23
+    sgG1 14
+    sgG2 16
+    sgG5 31
     fc2 2
-    sgG12 43
-    Spectral2 303
+    sgG12 27
     louvain2 9
-    lec2 41
-    wt2 18
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 862
     name "2697"
     Spectral 188
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 2
     wt 134
     fc 1
     louvain 4
-    infomap 69
-    sgG1 1
-    sgG2 44
-    sgG5 18
+    infomap 65
+    sgG1 14
+    sgG2 32
+    sgG5 2
     fc2 21
-    sgG12 1
-    Spectral2 189
+    sgG12 36
     louvain2 4
-    lec2 49
-    wt2 133
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 863
     name "7082"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 7
     wt 134
     fc 1
     louvain 4
-    infomap 69
-    sgG1 1
-    sgG2 8
-    sgG5 18
+    infomap 65
+    sgG1 14
+    sgG2 32
+    sgG5 2
     fc2 21
-    sgG12 1
-    Spectral2 304
+    sgG12 36
     louvain2 4
-    lec2 3
-    wt2 133
+    Spectral25per2 21
+    Spectral5per2 1
   ]
   node
   [
     id 864
     name "1973"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 21
     wt 122
     fc 1
     louvain 9
-    infomap 120
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 125
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 23
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 17
-    wt2 121
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 865
     name "7458"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 1
     wt 122
     fc 1
     louvain 9
-    infomap 120
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 125
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 23
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 24
-    wt2 121
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 866
     name "203068"
     Spectral 125
+    Spectral1per 19
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 27
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 126
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 867
     name "1741"
     Spectral 9
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 47
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 10
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 46
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 868
     name "2903"
     Spectral 9
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 47
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 10
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 46
+    Spectral25per2 5
+    Spectral5per2 11
   ]
   node
   [
     id 869
     name "3739"
     Spectral 50
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 47
     fc 6
     louvain 6
-    infomap 71
-    sgG1 11
+    infomap 68
+    sgG1 22
     sgG2 8
-    sgG5 43
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 51
+    sgG12 21
     louvain2 21
-    lec2 34
-    wt2 46
+    Spectral25per2 2
+    Spectral5per2 11
   ]
   node
   [
     id 870
     name "10498"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 8
     wt 57
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 4
-    wt2 56
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 871
     name "53938"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 8
     wt 5
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 4
+    sgG12 16
     louvain2 11
-    lec2 4
-    wt2 5
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 872
     name "5576"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 25
     wt 21
     fc 15
     louvain 14
-    infomap 105
-    sgG1 32
-    sgG2 4
-    sgG5 9
+    infomap 106
+    sgG1 5
+    sgG2 14
+    sgG5 82
     fc2 11
-    sgG12 31
-    Spectral2 202
+    sgG12 5
     louvain2 13
-    lec2 21
-    wt2 20
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 873
     name "55752"
     Spectral 35
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 124
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 36
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 123
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 874
     name "5518"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 20
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 16
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 875
     name "3094"
     Spectral 251
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 59
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 34
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 26
     fc2 15
-    sgG12 39
-    Spectral2 252
+    sgG12 27
     louvain2 4
-    lec2 40
-    wt2 172
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 876
     name "29966"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 9
     wt 129
     fc 1
     louvain 14
-    infomap 91
-    sgG1 32
-    sgG2 39
-    sgG5 22
+    infomap 93
+    sgG1 5
+    sgG2 10
+    sgG5 72
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 5
-    wt2 128
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 877
     name "5582"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 34
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 26
     fc2 15
-    sgG12 39
-    Spectral2 303
+    sgG12 27
     louvain2 4
-    lec2 48
-    wt2 172
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 878
     name "10935"
     Spectral 166
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 39
     lec 16
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 167
+    sgG12 16
     louvain2 11
-    lec2 12
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 879
     name "10097"
     Spectral 163
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 38
     lec 7
     wt 33
     fc 12
     louvain 3
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 164
+    sgG12 16
     louvain2 3
-    lec2 3
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 880
     name "5604"
     Spectral 266
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 4
     wt 13
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 266
+    sgG12 5
     louvain2 4
-    lec2 61
-    wt2 181
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 881
     name "1938"
     Spectral 169
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 39
     lec 16
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 170
+    sgG12 16
     louvain2 11
-    lec2 12
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 882
     name "2987"
     Spectral 165
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 38
     lec 16
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 166
+    sgG12 16
     louvain2 11
-    lec2 12
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 883
     name "6520"
     Spectral 48
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 6
     fc 12
     louvain 14
-    infomap 93
-    sgG1 25
-    sgG2 20
-    sgG5 48
+    infomap 96
+    sgG1 18
+    sgG2 25
+    sgG5 76
     fc2 8
-    sgG12 24
-    Spectral2 49
+    sgG12 17
     louvain2 13
-    lec2 23
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 884
     name "4131"
     Spectral 166
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 39
     lec 16
     wt 33
     fc 12
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 16
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 8
-    sgG12 23
-    Spectral2 167
+    sgG12 16
     louvain2 11
-    lec2 12
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 885
     name "38"
     Spectral 80
+    Spectral1per 22
+    Spectral25per 6
+    Spectral5per 6
+    Spectral05per 19
     lec 10
     wt 49
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 81
+    sgG12 19
     louvain2 14
-    lec2 6
-    wt2 48
+    Spectral25per2 7
+    Spectral5per2 6
   ]
   node
   [
     id 886
     name "54704"
     Spectral 80
+    Spectral1per 22
+    Spectral25per 6
+    Spectral5per 6
+    Spectral05per 19
     lec 10
     wt 49
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 81
+    sgG12 19
     louvain2 14
-    lec2 6
-    wt2 48
+    Spectral25per2 7
+    Spectral5per2 6
   ]
   node
   [
     id 887
     name "11315"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 2
     wt 16
     fc 2
     louvain 7
-    infomap 104
-    sgG1 17
-    sgG2 35
-    sgG5 66
+    infomap 124
+    sgG1 14
+    sgG2 28
+    sgG5 14
     fc2 24
-    sgG12 34
-    Spectral2 161
+    sgG12 35
     louvain2 6
-    lec2 40
-    wt2 15
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 888
     name "6647"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 2
     wt 16
     fc 2
     louvain 7
-    infomap 104
-    sgG1 17
-    sgG2 35
-    sgG5 66
+    infomap 124
+    sgG1 14
+    sgG2 28
+    sgG5 14
     fc2 24
-    sgG12 34
-    Spectral2 161
+    sgG12 35
     louvain2 6
-    lec2 40
-    wt2 15
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 889
     name "506"
     Spectral 52
+    Spectral1per 27
+    Spectral25per 10
+    Spectral5per 6
+    Spectral05per 30
     lec 4
     wt 36
     fc 3
     louvain 15
-    infomap 72
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 69
+    sgG1 20
+    sgG2 21
+    sgG5 4
     fc2 33
-    sgG12 28
-    Spectral2 53
+    sgG12 19
     louvain2 14
-    lec2 59
-    wt2 35
+    Spectral25per2 11
+    Spectral5per2 6
   ]
   node
   [
     id 890
     name "64756"
     Spectral 52
+    Spectral1per 27
+    Spectral25per 10
+    Spectral5per 6
+    Spectral05per 30
     lec 4
     wt 36
     fc 3
     louvain 15
-    infomap 72
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 69
+    sgG1 20
+    sgG2 21
+    sgG5 4
     fc2 33
-    sgG12 28
-    Spectral2 53
+    sgG12 19
     louvain2 14
-    lec2 59
-    wt2 35
+    Spectral25per2 11
+    Spectral5per2 6
   ]
   node
   [
     id 891
     name "9922"
     Spectral 34
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 1
     wt 15
     fc 6
     louvain 6
-    infomap 71
-    sgG1 8
-    sgG2 29
-    sgG5 70
+    infomap 68
+    sgG1 23
+    sgG2 31
+    sgG5 88
     fc2 44
-    sgG12 8
-    Spectral2 35
+    sgG12 22
     louvain2 21
-    lec2 34
-    wt2 14
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 892
     name "23096"
     Spectral 43
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 47
     fc 6
     louvain 6
-    infomap 71
-    sgG1 11
+    infomap 68
+    sgG1 22
     sgG2 8
-    sgG5 43
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 44
+    sgG12 21
     louvain2 21
-    lec2 34
-    wt2 46
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 893
     name "8776"
     Spectral 47
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 47
     fc 6
     louvain 6
-    infomap 71
-    sgG1 11
+    infomap 68
+    sgG1 22
     sgG2 8
-    sgG5 43
+    sgG5 7
     fc2 47
-    sgG12 11
-    Spectral2 48
+    sgG12 21
     louvain2 21
-    lec2 34
-    wt2 46
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 894
     name "9351"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 11
     fc 10
     louvain 6
-    infomap 42
-    sgG1 21
-    sgG2 18
-    sgG5 83
+    infomap 67
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 203
+    sgG12 1
     louvain2 24
-    lec2 21
-    wt2 11
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 895
     name "10049"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 2
     wt 13
     fc 2
     louvain 8
-    infomap 111
-    sgG1 17
-    sgG2 5
-    sgG5 16
+    infomap 112
+    sgG1 14
+    sgG2 7
+    sgG5 3
     fc2 31
-    sgG12 42
-    Spectral2 247
+    sgG12 29
     louvain2 7
-    lec2 39
-    wt2 188
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 896
     name "118"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 1
     wt 15
     fc 8
     louvain 10
-    infomap 28
-    sgG1 23
-    sgG2 40
-    sgG5 31
+    infomap 30
+    sgG1 19
+    sgG2 16
+    sgG5 13
     fc2 4
-    sgG12 22
-    Spectral2 153
+    sgG12 18
     louvain2 9
-    lec2 23
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 897
     name "7416"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 17
     wt 1
     fc 3
     louvain 3
-    infomap 54
-    sgG1 33
-    sgG2 11
-    sgG5 49
+    infomap 53
+    sgG1 8
+    sgG2 46
+    sgG5 51
     fc2 37
-    sgG12 32
-    Spectral2 287
+    sgG12 8
     louvain2 3
-    lec2 13
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 898
     name "22848"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 3
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
-    infomap 28
-    sgG1 8
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 18
+    sgG5 13
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 12
+    Spectral5per2 3
   ]
   node
   [
     id 899
     name "57584"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
-    infomap 28
-    sgG1 8
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 18
+    sgG5 13
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 900
     name "51143"
     Spectral 68
+    Spectral1per 10
+    Spectral25per 7
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
-    infomap 28
-    sgG1 8
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 18
+    sgG5 13
     fc2 44
-    sgG12 8
-    Spectral2 69
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 8
+    Spectral5per2 2
   ]
   node
   [
     id 901
     name "2109"
     Spectral 151
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
-    infomap 28
-    sgG1 8
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 18
+    sgG5 13
     fc2 44
-    sgG12 8
-    Spectral2 152
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 902
     name "83658"
     Spectral 152
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
-    infomap 28
-    sgG1 8
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 18
+    sgG5 13
     fc2 44
-    sgG12 8
-    Spectral2 153
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 903
     name "8473"
     Spectral 246
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 60
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 88
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 28
     fc2 28
-    sgG12 38
-    Spectral2 247
+    sgG12 27
     louvain2 4
-    lec2 43
-    wt2 175
+    Spectral25per2 22
+    Spectral5per2 9
   ]
   node
   [
     id 904
     name "6710"
     Spectral 183
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 2
     wt 6
     fc 8
     louvain 16
-    infomap 33
-    sgG1 23
-    sgG2 26
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 17
+    sgG5 66
     fc2 4
-    sgG12 22
-    Spectral2 184
+    sgG12 12
     louvain2 15
-    lec2 40
-    wt2 6
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 905
     name "8290"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 6
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 906
     name "387680"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 1
     wt 41
     fc 8
     louvain 11
-    infomap 87
-    sgG1 23
-    sgG2 38
-    sgG5 78
+    infomap 90
+    sgG1 2
+    sgG2 17
+    sgG5 38
     fc2 4
-    sgG12 22
-    Spectral2 202
+    sgG12 2
     louvain2 10
-    lec2 32
-    wt2 40
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 907
     name "23041"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 93
     fc 11
     louvain 18
-    infomap 33
-    sgG1 7
-    sgG2 14
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 38
+    sgG5 66
     fc2 7
-    sgG12 7
-    Spectral2 49
+    sgG12 12
     louvain2 17
-    lec2 38
-    wt2 92
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 908
     name "8997"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 1
     wt 142
     fc 8
     louvain 16
-    infomap 33
-    sgG1 23
-    sgG2 26
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 17
+    sgG5 66
     fc2 4
-    sgG12 22
-    Spectral2 210
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 141
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 909
     name "6712"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 4
     fc 4
     louvain 16
-    infomap 53
-    sgG1 29
-    sgG2 11
-    sgG5 47
+    infomap 114
+    sgG1 21
+    sgG2 34
+    sgG5 64
     fc2 1
-    sgG12 28
-    Spectral2 49
+    sgG12 20
     louvain2 15
-    lec2 32
-    wt2 4
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 910
     name "10724"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 19
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 53
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 28
     fc2 28
-    sgG12 38
-    Spectral2 296
+    sgG12 27
     louvain2 4
-    lec2 15
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 911
     name "23205"
     Spectral 278
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 5
     wt 22
     fc 1
     louvain 10
-    infomap 34
-    sgG1 26
-    sgG2 10
-    sgG5 53
+    infomap 29
+    sgG1 16
+    sgG2 28
+    sgG5 14
     fc2 15
-    sgG12 25
-    Spectral2 278
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 21
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 912
     name "11033"
     Spectral 258
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 56
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 54
-    sgG1 17
-    sgG2 15
-    sgG5 32
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 14
     fc2 15
-    sgG12 39
-    Spectral2 259
+    sgG12 27
     louvain2 4
-    lec2 40
-    wt2 180
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 913
     name "80700"
     Spectral 246
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 2
     wt 100
     fc 13
     louvain 1
     infomap 60
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 247
+    sgG12 10
     louvain2 1
-    lec2 40
-    wt2 99
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 914
     name "80150"
     Spectral 256
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 21
     fc 1
     louvain 14
-    infomap 65
-    sgG1 32
-    sgG2 15
-    sgG5 53
+    infomap 63
+    sgG1 5
+    sgG2 14
+    sgG5 28
     fc2 19
-    sgG12 31
-    Spectral2 257
+    sgG12 5
     louvain2 13
-    lec2 40
-    wt2 20
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 915
     name "738"
     Spectral 263
+    Spectral1per 42
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 58
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 53
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 14
     fc2 15
-    sgG12 39
-    Spectral2 306
+    sgG12 27
     louvain2 4
-    lec2 40
-    wt2 180
+    Spectral25per2 22
+    Spectral5per2 9
   ]
   node
   [
     id 916
     name "7511"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 2
     wt 14
     fc 2
     louvain 4
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 53
+    infomap 12
+    sgG1 15
+    sgG2 28
+    sgG5 14
     fc2 27
-    sgG12 26
-    Spectral2 185
+    sgG12 14
     louvain2 4
-    lec2 40
-    wt2 13
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 917
     name "6857"
     Spectral 27
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 5
     wt 12
     fc 9
     louvain 17
     infomap 80
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    sgG1 22
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 28
+    sgG12 21
     louvain2 16
-    lec2 64
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 918
     name "785"
     Spectral 9
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 9
     louvain 17
     infomap 80
-    sgG1 16
-    sgG2 38
-    sgG5 47
+    sgG1 22
+    sgG2 26
+    sgG5 62
     fc2 5
-    sgG12 16
-    Spectral2 10
+    sgG12 21
     louvain2 16
-    lec2 24
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 919
     name "1459"
     Spectral 48
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 7
     wt 6
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 49
+    sgG12 9
     louvain2 11
-    lec2 3
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 920
     name "3840"
     Spectral 185
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 18
     wt 13
     fc 2
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 6
-    sgG5 66
+    infomap 81
+    sgG1 17
+    sgG2 43
+    sgG5 3
     fc2 28
-    sgG12 23
-    Spectral2 186
+    sgG12 16
     louvain2 11
-    lec2 14
-    wt2 174
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 921
     name "11333"
     Spectral 174
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 2
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 175
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 922
     name "6188"
     Spectral 187
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 2
     wt 12
     fc 8
     louvain 10
-    infomap 83
-    sgG1 23
-    sgG2 48
-    sgG5 14
+    infomap 84
+    sgG1 9
+    sgG2 31
+    sgG5 10
     fc2 4
-    sgG12 22
-    Spectral2 188
+    sgG12 9
     louvain2 9
-    lec2 43
-    wt2 12
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 923
     name "3800"
     Spectral 174
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 2
     wt 6
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 175
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 6
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 924
     name "5905"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 46
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 925
     name "821"
     Spectral 180
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 2
     wt 88
     fc 7
     louvain 12
-    infomap 96
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    infomap 99
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 3
-    sgG12 23
-    Spectral2 181
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 87
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 926
     name "27044"
     Spectral 186
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 2
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 187
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 927
     name "1654"
     Spectral 182
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 2
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 183
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 928
     name "4172"
     Spectral 174
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 2
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 175
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 929
     name "64423"
     Spectral 186
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 2
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 187
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 930
     name "50813"
     Spectral 177
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 2
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 178
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 931
     name "92675"
     Spectral 176
+    Spectral1per 32
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 40
     lec 2
     wt 13
     fc 2
     louvain 12
     infomap 17
-    sgG1 24
-    sgG2 25
-    sgG5 58
+    sgG1 9
+    sgG2 4
+    sgG5 47
     fc2 28
-    sgG12 23
-    Spectral2 177
+    sgG12 9
     louvain2 11
-    lec2 43
-    wt2 175
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 932
     name "3958"
     Spectral 26
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 127
     fc 7
     louvain 13
-    infomap 121
-    sgG1 2
-    sgG2 49
-    sgG5 81
+    infomap 126
+    sgG1 7
+    sgG2 43
+    sgG5 80
     fc2 3
-    sgG12 2
-    Spectral2 27
+    sgG12 7
     louvain2 12
-    lec2 28
-    wt2 126
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 933
     name "23066"
     Spectral 99
+    Spectral1per 15
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 2
     louvain 10
-    infomap 111
-    sgG1 27
-    sgG2 10
-    sgG5 16
+    infomap 112
+    sgG1 16
+    sgG2 15
+    sgG5 3
     fc2 31
-    sgG12 26
-    Spectral2 100
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 934
     name "28227"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 4
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 51
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 935
     name "2235"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 20
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 16
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 936
     name "51400"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 20
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 16
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 937
     name "261726"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 20
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 16
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 938
     name "47"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 12
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 8
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 939
     name "5520"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 20
     wt 29
     fc 1
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 16
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 940
     name "128"
     Spectral 198
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 46
     lec 20
     wt 151
     fc 3
     louvain 7
     infomap 27
-    sgG1 33
-    sgG2 29
-    sgG5 59
+    sgG1 8
+    sgG2 40
+    sgG5 25
     fc2 36
-    sgG12 32
-    Spectral2 199
+    sgG12 8
     louvain2 6
-    lec2 16
-    wt2 150
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 941
     name "2048"
     Spectral 13
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 14
+    sgG12 21
     louvain2 20
-    lec2 24
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 942
     name "9601"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 1
     wt 6
     fc 11
     louvain 4
-    infomap 18
-    sgG1 22
-    sgG2 36
-    sgG5 92
+    infomap 58
+    sgG1 26
+    sgG2 38
+    sgG5 33
     fc2 7
-    sgG12 21
-    Spectral2 11
+    sgG12 25
     louvain2 4
-    lec2 38
-    wt2 6
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 943
     name "2861"
     Spectral 49
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 6
     fc 12
     louvain 14
-    infomap 93
-    sgG1 25
-    sgG2 20
-    sgG5 48
+    infomap 96
+    sgG1 18
+    sgG2 25
+    sgG5 76
     fc2 8
-    sgG12 24
-    Spectral2 50
+    sgG12 17
     louvain2 13
-    lec2 23
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 944
     name "30845"
     Spectral 101
+    Spectral1per 14
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 10
     fc 9
     louvain 17
-    infomap 59
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 87
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 67
-    wt2 10
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 945
     name "60484"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 21
     wt 65
     fc 1
     louvain 9
-    infomap 127
-    sgG1 22
-    sgG2 47
-    sgG5 67
+    infomap 132
+    sgG1 10
+    sgG2 39
+    sgG5 56
     fc2 13
-    sgG12 21
-    Spectral2 161
+    sgG12 10
     louvain2 8
-    lec2 17
-    wt2 64
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 946
     name "1737"
     Spectral 221
+    Spectral1per 38
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 51
     lec 8
     wt 42
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 222
+    sgG12 19
     louvain2 14
-    lec2 4
-    wt2 41
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 947
     name "2664"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 8
     wt 99
     fc 2
     louvain 8
-    infomap 110
-    sgG1 3
-    sgG2 5
-    sgG5 79
+    infomap 111
+    sgG1 14
+    sgG2 7
+    sgG5 85
     fc2 26
-    sgG12 3
-    Spectral2 286
+    sgG12 34
     louvain2 7
-    lec2 4
-    wt2 98
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 948
     name "2794"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 8
     wt 99
     fc 2
     louvain 8
-    infomap 110
-    sgG1 3
-    sgG2 5
-    sgG5 79
+    infomap 111
+    sgG1 14
+    sgG2 7
+    sgG5 85
     fc2 26
-    sgG12 3
-    Spectral2 286
+    sgG12 34
     louvain2 7
-    lec2 4
-    wt2 98
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 949
     name "7803"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 1
     fc 2
     louvain 8
-    infomap 110
-    sgG1 3
-    sgG2 5
-    sgG5 79
+    infomap 111
+    sgG1 14
+    sgG2 7
+    sgG5 85
     fc2 26
-    sgG12 3
-    Spectral2 286
+    sgG12 34
     louvain2 7
-    lec2 39
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 950
     name "10681"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 951
     name "2781"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 952
     name "4535"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 8
     lec 5
     wt 96
     fc 6
     louvain 13
-    infomap 88
-    sgG1 33
-    sgG2 23
-    sgG5 56
+    infomap 74
+    sgG1 19
+    sgG2 41
+    sgG5 10
     fc2 43
-    sgG12 32
-    Spectral2 11
+    sgG12 18
     louvain2 12
-    lec2 72
-    wt2 95
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 953
     name "5871"
     Spectral 167
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 39
     lec 20
     wt 33
     fc 2
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 34
-    sgG5 77
+    infomap 43
+    sgG1 17
+    sgG2 5
+    sgG5 36
     fc2 28
-    sgG12 23
-    Spectral2 168
+    sgG12 16
     louvain2 11
-    lec2 16
-    wt2 32
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 954
     name "5537"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 2
     fc 1
     louvain 11
-    infomap 68
-    sgG1 32
-    sgG2 30
-    sgG5 82
+    infomap 79
+    sgG1 5
+    sgG2 27
+    sgG5 50
     fc2 17
-    sgG12 31
-    Spectral2 49
+    sgG12 5
     louvain2 10
-    lec2 30
-    wt2 2
+    Spectral25per2 2
+    Spectral5per2 11
   ]
   node
   [
     id 955
     name "653689"
     Spectral 57
+    Spectral1per 22
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 19
     lec 5
     wt 100
     fc 13
     louvain 1
     infomap 60
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 58
+    sgG12 10
     louvain2 1
-    lec2 62
-    wt2 99
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 956
     name "10953"
     Spectral 146
+    Spectral1per 22
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 15
     lec 5
     wt 64
     fc 13
     louvain 1
-    infomap 76
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    infomap 73
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 147
+    sgG12 10
     louvain2 1
-    lec2 62
-    wt2 63
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 957
     name "9927"
     Spectral 149
+    Spectral1per 23
+    Spectral25per 10
+    Spectral5per 6
+    Spectral05per 35
     lec 5
     wt 100
     fc 13
     louvain 1
     infomap 60
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 150
+    sgG12 10
     louvain2 1
-    lec2 62
-    wt2 99
+    Spectral25per2 11
+    Spectral5per2 6
   ]
   node
   [
     id 958
     name "1329"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 1
     wt 135
     fc 11
     louvain 8
-    infomap 55
-    sgG1 3
-    sgG2 32
-    sgG5 41
+    infomap 42
+    sgG1 14
+    sgG2 44
+    sgG5 30
     fc2 7
-    sgG12 3
-    Spectral2 292
+    sgG12 34
     louvain2 7
-    lec2 35
-    wt2 134
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 959
     name "2319"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 8
     wt 101
     fc 11
     louvain 18
-    infomap 55
-    sgG1 3
-    sgG2 32
-    sgG5 41
+    infomap 70
+    sgG1 26
+    sgG2 44
+    sgG5 30
     fc2 7
-    sgG12 3
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 4
-    wt2 100
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 960
     name "5654"
     Spectral 275
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 12
+    Spectral05per 54
     lec 19
     wt 9
     fc 7
     louvain 4
     infomap 27
-    sgG1 27
-    sgG2 29
-    sgG5 70
+    sgG1 15
+    sgG2 31
+    sgG5 88
     fc2 3
-    sgG12 26
-    Spectral2 275
+    sgG12 14
     louvain2 4
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 10
   ]
   node
   [
     id 961
     name "4139"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 63
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 88
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 31
     fc2 24
-    sgG12 34
-    Spectral2 303
+    sgG12 27
     louvain2 4
-    lec2 43
-    wt2 175
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 962
     name "84263"
     Spectral 207
+    Spectral1per 37
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 48
     lec 18
     wt 21
     fc 15
     louvain 14
-    infomap 81
-    sgG1 32
-    sgG2 50
-    sgG5 89
+    infomap 82
+    sgG1 5
+    sgG2 14
+    sgG5 82
     fc2 11
-    sgG12 31
-    Spectral2 208
+    sgG12 5
     louvain2 13
-    lec2 14
-    wt2 20
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 963
     name "9349"
     Spectral 22
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 21
     fc 4
     louvain 15
-    infomap 29
-    sgG1 7
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 26
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 7
-    Spectral2 23
+    sgG12 25
     louvain2 14
-    lec2 38
-    wt2 20
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 964
     name "3956"
     Spectral 22
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 127
     fc 7
     louvain 13
-    infomap 121
-    sgG1 2
-    sgG2 49
-    sgG5 81
+    infomap 126
+    sgG1 7
+    sgG2 43
+    sgG5 80
     fc2 3
-    sgG12 2
-    Spectral2 23
+    sgG12 7
     louvain2 12
-    lec2 26
-    wt2 126
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 965
     name "214"
     Spectral 25
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 127
     fc 7
     louvain 13
-    infomap 121
-    sgG1 2
-    sgG2 49
-    sgG5 81
+    infomap 126
+    sgG1 7
+    sgG2 43
+    sgG5 80
     fc2 3
-    sgG12 2
-    Spectral2 26
+    sgG12 7
     louvain2 12
-    lec2 37
-    wt2 126
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 966
     name "5213"
     Spectral 267
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 4
     wt 13
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 267
+    sgG12 5
     louvain2 4
-    lec2 58
-    wt2 181
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 967
     name "50488"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 2
     wt 4
     fc 8
     louvain 13
-    infomap 88
-    sgG1 23
-    sgG2 40
-    sgG5 35
+    infomap 74
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 18
     louvain2 12
-    lec2 48
-    wt2 4
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 968
     name "6224"
     Spectral 187
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 1
     wt 12
     fc 8
     louvain 10
-    infomap 83
-    sgG1 23
-    sgG2 48
-    sgG5 14
+    infomap 84
+    sgG1 7
+    sgG2 31
+    sgG5 10
     fc2 4
-    sgG12 22
-    Spectral2 188
+    sgG12 7
     louvain2 9
-    lec2 23
-    wt2 12
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 969
     name "23191"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 970
     name "5333"
     Spectral 109
+    Spectral1per 11
+    Spectral25per 11
+    Spectral5per 5
+    Spectral05per 21
     lec 1
     wt 1
     fc 5
     louvain 6
-    infomap 37
-    sgG1 31
-    sgG2 13
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 47
+    sgG5 43
     fc2 2
-    sgG12 30
-    Spectral2 110
+    sgG12 21
     louvain2 23
-    lec2 23
-    wt2 1
+    Spectral25per2 12
+    Spectral5per2 5
   ]
   node
   [
     id 971
     name "3996"
     Spectral 42
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 1
     wt 13
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 43
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 185
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 972
     name "119"
     Spectral 33
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 13
     lec 1
     wt 13
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 34
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 185
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 973
     name "23603"
     Spectral 39
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 13
     lec 1
     wt 13
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 40
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 185
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 974
     name "7464"
     Spectral 48
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 13
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 185
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 975
     name "493"
     Spectral 258
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 55
     lec 1
     wt 135
     fc 11
     louvain 8
-    infomap 55
-    sgG1 3
-    sgG2 32
-    sgG5 41
+    infomap 42
+    sgG1 12
+    sgG2 44
+    sgG5 30
     fc2 7
-    sgG12 3
-    Spectral2 259
+    sgG12 12
     louvain2 7
-    lec2 23
-    wt2 134
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 976
     name "9475"
     Spectral 48
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 23
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 74
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 12
     fc2 7
-    sgG12 7
-    Spectral2 49
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 22
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 977
     name "5297"
     Spectral 38
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 13
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 39
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 185
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 978
     name "682"
     Spectral 48
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 1
     wt 13
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 185
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 979
     name "6059"
     Spectral 36
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 13
     fc 8
     louvain 16
-    infomap 15
-    sgG1 23
-    sgG2 26
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 37
+    sgG12 12
     louvain2 15
-    lec2 23
-    wt2 185
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 980
     name "84284"
     Spectral 60
+    Spectral1per 28
+    Spectral25per 10
+    Spectral5per 2
+    Spectral05per 31
     lec 4
     wt 152
     fc 10
     louvain 6
-    infomap 64
-    sgG1 27
-    sgG2 3
-    sgG5 12
+    infomap 31
+    sgG1 22
+    sgG2 15
+    sgG5 80
     fc2 6
-    sgG12 26
-    Spectral2 61
+    sgG12 21
     louvain2 23
-    lec2 50
-    wt2 151
+    Spectral25per2 11
+    Spectral5per2 2
   ]
   node
   [
     id 981
     name "23285"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 4
     wt 23
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 185
+    sgG12 25
     louvain2 17
-    lec2 50
-    wt2 22
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 982
     name "2744"
     Spectral 263
+    Spectral1per 41
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 56
     lec 8
     wt 82
     fc 2
     louvain 5
-    infomap 90
-    sgG1 27
-    sgG2 8
-    sgG5 43
+    infomap 92
+    sgG1 15
+    sgG2 15
+    sgG5 7
     fc2 30
-    sgG12 26
-    Spectral2 288
+    sgG12 14
     louvain2 5
-    lec2 4
-    wt2 81
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 983
     name "10612"
     Spectral 179
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 2
     wt 32
     fc 2
     louvain 4
-    infomap 69
-    sgG1 17
-    sgG2 36
-    sgG5 18
+    infomap 65
+    sgG1 14
+    sgG2 32
+    sgG5 39
     fc2 24
-    sgG12 41
-    Spectral2 180
+    sgG12 36
     louvain2 4
-    lec2 49
-    wt2 31
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 984
     name "7791"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 6
     fc 6
     louvain 6
     infomap 19
-    sgG1 8
-    sgG2 13
-    sgG5 26
+    sgG1 22
+    sgG2 47
+    sgG5 40
     fc2 42
-    sgG12 8
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 32
-    wt2 6
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 985
     name "2776"
     Spectral 40
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 20
     wt 6
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 23
+    infomap 51
+    sgG1 12
+    sgG2 45
+    sgG5 21
     fc2 10
-    sgG12 29
-    Spectral2 41
+    sgG12 12
     louvain2 15
-    lec2 16
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 986
     name "2778"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 2
     wt 19
     fc 2
     louvain 4
-    infomap 45
-    sgG1 26
-    sgG2 49
-    sgG5 33
+    infomap 46
+    sgG1 16
+    sgG2 3
+    sgG5 21
     fc2 25
-    sgG12 25
-    Spectral2 283
+    sgG12 15
     louvain2 4
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 10
   ]
   node
   [
     id 987
     name "5602"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 20
     wt 68
     fc 1
     louvain 4
-    infomap 45
-    sgG1 26
-    sgG2 49
-    sgG5 33
+    infomap 46
+    sgG1 16
+    sgG2 3
+    sgG5 21
     fc2 22
-    sgG12 25
-    Spectral2 307
+    sgG12 15
     louvain2 4
-    lec2 16
-    wt2 67
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 988
     name "6416"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 20
     wt 68
     fc 1
     louvain 4
-    infomap 45
-    sgG1 26
-    sgG2 49
-    sgG5 33
+    infomap 46
+    sgG1 16
+    sgG2 3
+    sgG5 21
     fc2 22
-    sgG12 25
-    Spectral2 307
+    sgG12 15
     louvain2 4
-    lec2 16
-    wt2 67
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 989
     name "1854"
     Spectral 30
+    Spectral1per 6
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 8
     wt 44
     fc 7
     louvain 6
     infomap 80
-    sgG1 11
-    sgG2 49
-    sgG5 65
+    sgG1 22
+    sgG2 43
+    sgG5 62
     fc2 3
-    sgG12 11
-    Spectral2 31
+    sgG12 21
     louvain2 23
-    lec2 4
-    wt2 43
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 990
     name "59338"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 20
     wt 13
     fc 6
     louvain 6
-    infomap 7
-    sgG1 11
-    sgG2 35
-    sgG5 54
+    infomap 8
+    sgG1 22
+    sgG2 40
+    sgG5 60
     fc2 49
-    sgG12 11
-    Spectral2 247
+    sgG12 21
     louvain2 19
-    lec2 16
-    wt2 173
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 991
     name "9043"
     Spectral 85
+    Spectral1per 23
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 28
     lec 4
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 86
+    sgG12 18
     louvain2 9
-    lec2 53
-    wt2 4
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 992
     name "3837"
     Spectral 188
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 43
     lec 8
     wt 153
     fc 2
     louvain 12
-    infomap 9
-    sgG1 24
-    sgG2 6
-    sgG5 66
+    infomap 81
+    sgG1 17
+    sgG2 43
+    sgG5 3
     fc2 28
-    sgG12 23
-    Spectral2 189
+    sgG12 16
     louvain2 11
-    lec2 4
-    wt2 152
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 993
     name "9588"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 25
     wt 14
     fc 2
     louvain 15
-    infomap 89
-    sgG1 22
-    sgG2 8
-    sgG5 61
+    infomap 76
+    sgG1 5
+    sgG2 3
+    sgG5 77
     fc2 29
-    sgG12 21
-    Spectral2 311
+    sgG12 5
     louvain2 14
-    lec2 21
-    wt2 13
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 994
     name "3033"
     Spectral 263
+    Spectral1per 41
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 67
     lec 2
     wt 6
     fc 8
     louvain 16
-    infomap 33
-    sgG1 17
-    sgG2 26
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 17
+    sgG5 66
     fc2 4
-    sgG12 35
-    Spectral2 299
+    sgG12 12
     louvain2 15
-    lec2 49
-    wt2 6
+    Spectral25per2 23
+    Spectral5per2 10
   ]
   node
   [
     id 995
     name "5447"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 65
     lec 2
     wt 17
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 23
+    infomap 51
+    sgG1 12
+    sgG2 45
+    sgG5 21
     fc2 10
-    sgG12 29
-    Spectral2 299
+    sgG12 12
     louvain2 15
-    lec2 49
-    wt2 16
+    Spectral25per2 23
+    Spectral5per2 1
   ]
   node
   [
     id 996
     name "37"
     Spectral 10
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 7
     lec 5
     wt 27
     fc 3
     louvain 12
-    infomap 75
-    sgG1 12
-    sgG2 51
-    sgG5 55
+    infomap 72
+    sgG1 13
+    sgG2 22
+    sgG5 57
     fc2 38
-    sgG12 12
-    Spectral2 11
+    sgG12 13
     louvain2 11
-    lec2 63
-    wt2 26
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 997
     name "4684"
     Spectral 263
+    Spectral1per 41
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 54
     lec 19
     wt 9
     fc 2
     louvain 5
     infomap 27
-    sgG1 27
-    sgG2 29
-    sgG5 70
+    sgG1 15
+    sgG2 31
+    sgG5 88
     fc2 26
-    sgG12 26
-    Spectral2 298
+    sgG12 14
     louvain2 5
-    lec2 15
-    wt2 9
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 998
     name "6767"
     Spectral 280
+    Spectral1per 47
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 1
     wt 9
     fc 7
     louvain 4
     infomap 27
-    sgG1 27
-    sgG2 29
-    sgG5 70
+    sgG1 15
+    sgG2 31
+    sgG5 88
     fc2 3
-    sgG12 26
-    Spectral2 280
+    sgG12 14
     louvain2 4
-    lec2 26
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 999
     name "5110"
     Spectral 281
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 19
     wt 9
     fc 4
     louvain 4
-    infomap 66
-    sgG1 31
-    sgG2 29
-    sgG5 70
+    infomap 88
+    sgG1 15
+    sgG2 31
+    sgG5 88
     fc2 1
-    sgG12 30
-    Spectral2 281
+    sgG12 14
     louvain2 4
-    lec2 15
-    wt2 9
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1000
     name "53822"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 19
     wt 9
     fc 4
     louvain 4
     infomap 27
-    sgG1 27
-    sgG2 29
-    sgG5 70
+    sgG1 15
+    sgG2 31
+    sgG5 88
     fc2 1
-    sgG12 26
-    Spectral2 1
+    sgG12 14
     louvain2 4
-    lec2 15
-    wt2 9
+    Spectral25per2 1
+    Spectral5per2 1
   ]
   node
   [
     id 1001
     name "1113"
     Spectral 250
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 19
     wt 13
     fc 4
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 1
-    sgG12 36
-    Spectral2 251
+    sgG12 28
     louvain2 4
-    lec2 15
-    wt2 175
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1002
     name "8522"
     Spectral 48
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 19
     wt 30
     fc 7
     louvain 16
-    infomap 103
-    sgG1 23
-    sgG2 26
-    sgG5 6
+    infomap 105
+    sgG1 12
+    sgG2 47
+    sgG5 67
     fc2 3
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 15
-    wt2 29
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 1003
     name "1428"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 19
     wt 13
     fc 4
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 1
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 15
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1004
     name "80349"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 19
     wt 29
     fc 4
     louvain 14
-    infomap 25
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 1
-    sgG12 31
-    Spectral2 308
+    sgG12 5
     louvain2 13
-    lec2 15
-    wt2 28
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 1005
     name "5589"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 61
     lec 19
     wt 6
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 36
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 296
+    sgG12 14
     louvain2 14
-    lec2 15
-    wt2 6
+    Spectral25per2 23
+    Spectral5per2 10
   ]
   node
   [
     id 1006
     name "23580"
     Spectral 22
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 23
+    sgG12 21
     louvain2 18
-    lec2 26
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1007
     name "114793"
     Spectral 22
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 5
     lec 1
     wt 23
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 62
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 23
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 22
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1008
     name "5912"
     Spectral 238
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 2
     wt 88
     fc 7
     louvain 12
-    infomap 96
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 99
+    sgG1 19
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 239
+    sgG12 18
     louvain2 11
-    lec2 49
-    wt2 87
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1009
     name "58473"
     Spectral 238
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 21
     wt 88
     fc 7
     louvain 12
-    infomap 96
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 99
+    sgG1 19
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 239
+    sgG12 18
     louvain2 11
-    lec2 17
-    wt2 87
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1010
     name "54769"
     Spectral 231
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 21
     wt 88
     fc 7
     louvain 12
-    infomap 96
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 99
+    sgG1 19
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 232
+    sgG12 18
     louvain2 11
-    lec2 17
-    wt2 87
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1011
     name "148252"
     Spectral 238
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 21
     wt 88
     fc 7
     louvain 12
-    infomap 96
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 99
+    sgG1 19
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 239
+    sgG12 18
     louvain2 11
-    lec2 17
-    wt2 87
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1012
     name "7171"
     Spectral 48
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 10
     lec 1
     wt 30
     fc 7
     louvain 16
-    infomap 103
-    sgG1 23
-    sgG2 26
-    sgG5 6
+    infomap 105
+    sgG1 12
+    sgG2 17
+    sgG5 67
     fc2 3
-    sgG12 22
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 29
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 1013
     name "23236"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 1
     wt 6
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 23
+    infomap 51
+    sgG1 12
+    sgG2 45
+    sgG5 21
     fc2 10
-    sgG12 29
-    Spectral2 49
+    sgG12 12
     louvain2 15
-    lec2 32
-    wt2 6
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 1014
     name "11331"
     Spectral 108
+    Spectral1per 17
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 24
     lec 13
     wt 17
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 23
+    infomap 51
+    sgG1 12
+    sgG2 45
+    sgG5 21
     fc2 10
-    sgG12 29
-    Spectral2 109
+    sgG12 12
     louvain2 15
-    lec2 9
-    wt2 16
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 1015
     name "4054"
     Spectral 12
+    Spectral1per 6
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 4
     wt 12
     fc 7
     louvain 6
-    infomap 13
-    sgG1 11
-    sgG2 49
-    sgG5 62
+    infomap 14
+    sgG1 22
+    sgG2 43
+    sgG5 74
     fc2 3
-    sgG12 11
-    Spectral2 13
+    sgG12 21
     louvain2 18
-    lec2 52
-    wt2 12
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1016
     name "9693"
     Spectral 224
+    Spectral1per 39
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 51
     lec 1
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 225
+    sgG12 18
     louvain2 9
-    lec2 38
-    wt2 4
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 1017
     name "25932"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 2
     wt 143
     fc 2
     louvain 14
-    infomap 35
-    sgG1 32
-    sgG2 36
-    sgG5 45
+    infomap 37
+    sgG1 5
+    sgG2 12
+    sgG5 53
     fc2 25
-    sgG12 31
-    Spectral2 296
+    sgG12 5
     louvain2 13
-    lec2 48
-    wt2 142
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1018
     name "2043"
     Spectral 263
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 56
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 48
-    wt2 175
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1019
     name "57617"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 2
     wt 140
     fc 10
     louvain 16
-    infomap 77
-    sgG1 21
-    sgG2 18
-    sgG5 20
+    infomap 75
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 203
+    sgG12 1
     louvain2 15
-    lec2 48
-    wt2 139
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 1020
     name "814"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 48
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1021
     name "79012"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 48
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1022
     name "84254"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 20
     wt 51
     fc 13
     louvain 4
-    infomap 76
-    sgG1 17
-    sgG2 36
-    sgG5 3
+    infomap 73
+    sgG1 10
+    sgG2 12
+    sgG5 15
     fc2 9
-    sgG12 36
-    Spectral2 296
+    sgG12 10
     louvain2 4
-    lec2 16
-    wt2 50
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1023
     name "5609"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 64
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 52
-    sgG1 17
-    sgG2 49
-    sgG5 11
+    infomap 41
+    sgG1 14
+    sgG2 3
+    sgG5 49
     fc2 18
-    sgG12 34
-    Spectral2 296
+    sgG12 35
     louvain2 4
-    lec2 16
-    wt2 172
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 1024
     name "54938"
     Spectral 246
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 60
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 247
+    sgG12 28
     louvain2 4
-    lec2 48
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 9
   ]
   node
   [
     id 1025
     name "3959"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 48
-    wt2 175
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1026
     name "1384"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1027
     name "6812"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 33
-    sgG1 23
-    sgG2 26
-    sgG5 6
+    infomap 35
+    sgG1 12
+    sgG2 3
+    sgG5 78
     fc2 15
-    sgG12 22
-    Spectral2 304
+    sgG12 12
     louvain2 4
-    lec2 16
-    wt2 172
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 1028
     name "10247"
     Spectral 214
+    Spectral1per 38
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 50
     lec 8
     wt 58
     fc 1
     louvain 11
-    infomap 126
-    sgG1 22
-    sgG2 16
-    sgG5 37
+    infomap 131
+    sgG1 10
+    sgG2 27
+    sgG5 87
     fc2 13
-    sgG12 21
-    Spectral2 215
+    sgG12 10
     louvain2 10
-    lec2 4
-    wt2 57
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 1029
     name "57698"
     Spectral 226
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 53
     lec 8
     wt 85
     fc 6
     louvain 7
-    infomap 32
-    sgG1 7
-    sgG2 50
-    sgG5 63
+    infomap 34
+    sgG1 13
+    sgG2 40
+    sgG5 91
     fc2 45
-    sgG12 7
-    Spectral2 227
+    sgG12 13
     louvain2 6
-    lec2 4
-    wt2 84
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1030
     name "25977"
     Spectral 254
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 56
     lec 5
     wt 31
     fc 11
     louvain 7
-    infomap 26
+    infomap 76
     sgG1 16
-    sgG2 43
-    sgG5 85
+    sgG2 26
+    sgG5 69
     fc2 7
-    sgG12 16
-    Spectral2 255
+    sgG12 15
     louvain2 6
-    lec2 64
-    wt2 30
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1031
     name "2773"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1032
     name "479"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 4
     wt 19
     fc 10
     louvain 15
-    infomap 10
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 9
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 11
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 18
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 1033
     name "535"
     Spectral 90
+    Spectral1per 13
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 28
     lec 5
     wt 108
     fc 5
     louvain 10
-    infomap 45
-    sgG1 26
-    sgG2 10
-    sgG5 33
+    infomap 46
+    sgG1 16
+    sgG2 33
+    sgG5 65
     fc2 2
-    sgG12 25
-    Spectral2 91
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 107
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 1034
     name "3945"
     Spectral 90
+    Spectral1per 13
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 24
     lec 5
     wt 108
     fc 5
     louvain 10
-    infomap 45
-    sgG1 26
-    sgG2 10
-    sgG5 33
+    infomap 46
+    sgG1 16
+    sgG2 33
+    sgG5 65
     fc2 2
-    sgG12 25
-    Spectral2 91
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 107
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 1035
     name "7284"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 63
     lec 20
     wt 154
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 1
+    sgG12 5
     louvain2 4
-    lec2 16
-    wt2 153
+    Spectral25per2 20
+    Spectral5per2 1
   ]
   node
   [
     id 1036
     name "2770"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1037
     name "10726"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 55
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1038
     name "2785"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1039
     name "2982"
     Spectral 263
+    Spectral1per 42
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 57
     lec 17
     wt 80
     fc 1
     louvain 4
-    infomap 52
-    sgG1 17
-    sgG2 49
-    sgG5 11
+    infomap 41
+    sgG1 14
+    sgG2 3
+    sgG5 49
     fc2 18
-    sgG12 34
-    Spectral2 307
+    sgG12 35
     louvain2 4
-    lec2 13
-    wt2 79
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 1040
     name "2983"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 58
     lec 8
     wt 80
     fc 1
     louvain 4
-    infomap 52
-    sgG1 17
-    sgG2 49
-    sgG5 11
+    infomap 41
+    sgG1 14
+    sgG2 3
+    sgG5 49
     fc2 18
-    sgG12 34
-    Spectral2 247
+    sgG12 35
     louvain2 4
-    lec2 4
-    wt2 79
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 1041
     name "3295"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 17
     wt 141
     fc 12
     louvain 12
-    infomap 52
-    sgG1 24
-    sgG2 34
-    sgG5 11
+    infomap 81
+    sgG1 17
+    sgG2 5
+    sgG5 49
     fc2 8
-    sgG12 23
-    Spectral2 307
+    sgG12 16
     louvain2 11
-    lec2 13
-    wt2 140
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 1042
     name "6342"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 65
     lec 5
     wt 141
     fc 12
     louvain 12
-    infomap 52
-    sgG1 24
-    sgG2 34
-    sgG5 11
+    infomap 81
+    sgG1 17
+    sgG2 5
+    sgG5 49
     fc2 8
-    sgG12 23
-    Spectral2 307
+    sgG12 16
     louvain2 11
-    lec2 65
-    wt2 140
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 1043
     name "427"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 8
     wt 91
     fc 2
     louvain 5
-    infomap 79
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 44
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 247
+    sgG12 14
     louvain2 5
-    lec2 4
-    wt2 90
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1044
     name "57118"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 19
     wt 91
     fc 2
     louvain 5
-    infomap 79
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 44
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 247
+    sgG12 14
     louvain2 5
-    lec2 15
-    wt2 90
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1045
     name "476"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 20
     wt 95
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 304
+    sgG12 5
     louvain2 4
-    lec2 16
-    wt2 94
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 1046
     name "2915"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 2
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 73
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 78
     fc2 15
-    sgG12 39
-    Spectral2 304
+    sgG12 27
     louvain2 4
-    lec2 40
-    wt2 172
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 1047
     name "23193"
     Spectral 224
+    Spectral1per 39
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 51
     lec 17
     wt 4
     fc 5
     louvain 10
-    infomap 52
-    sgG1 26
-    sgG2 40
-    sgG5 11
+    infomap 41
+    sgG1 19
+    sgG2 16
+    sgG5 49
     fc2 2
-    sgG12 25
-    Spectral2 225
+    sgG12 18
     louvain2 9
-    lec2 13
-    wt2 4
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 1048
     name "6921"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 57
     lec 19
     wt 112
     fc 2
     louvain 5
-    infomap 20
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 44
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 247
+    sgG12 14
     louvain2 5
-    lec2 15
-    wt2 111
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1049
     name "23284"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 60
     lec 25
     wt 155
     fc 8
     louvain 13
-    infomap 98
-    sgG1 33
-    sgG2 42
-    sgG5 46
+    infomap 59
+    sgG1 8
+    sgG2 25
+    sgG5 29
     fc2 4
-    sgG12 32
-    Spectral2 287
+    sgG12 8
     louvain2 12
-    lec2 21
-    wt2 154
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 1050
     name "8148"
     Spectral 115
+    Spectral1per 22
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 24
     lec 5
     wt 156
     fc 3
     louvain 15
-    infomap 53
-    sgG1 29
-    sgG2 37
-    sgG5 34
+    infomap 54
+    sgG1 17
+    sgG2 34
+    sgG5 81
     fc2 40
-    sgG12 28
-    Spectral2 116
+    sgG12 16
     louvain2 14
-    lec2 66
-    wt2 155
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 1051
     name "54331"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 283
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1052
     name "80273"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 66
     lec 19
     wt 1
     fc 3
     louvain 8
-    infomap 54
-    sgG1 33
-    sgG2 11
-    sgG5 49
+    infomap 53
+    sgG1 8
+    sgG2 46
+    sgG5 51
     fc2 37
-    sgG12 32
-    Spectral2 287
+    sgG12 8
     louvain2 7
-    lec2 15
-    wt2 1
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1053
     name "3939"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 5
     wt 68
     fc 1
     louvain 10
-    infomap 45
-    sgG1 26
-    sgG2 49
-    sgG5 33
+    infomap 46
+    sgG1 16
+    sgG2 3
+    sgG5 65
     fc2 22
-    sgG12 25
-    Spectral2 306
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 67
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 1054
     name "54205"
     Spectral 107
+    Spectral1per 17
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 24
     lec 13
     wt 17
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 23
+    infomap 51
+    sgG1 12
+    sgG2 45
+    sgG5 21
     fc2 10
-    sgG12 29
-    Spectral2 108
+    sgG12 12
     louvain2 15
-    lec2 9
-    wt2 16
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 1055
     name "5962"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 15
+    Spectral5per 9
+    Spectral05per 47
     lec 19
     wt 11
     fc 10
     louvain 15
-    infomap 42
-    sgG1 21
-    sgG2 18
-    sgG5 83
+    infomap 67
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 203
+    sgG12 1
     louvain2 14
-    lec2 15
-    wt2 11
+    Spectral25per2 15
+    Spectral5per2 8
   ]
   node
   [
     id 1056
     name "22884"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 11
     fc 10
     louvain 16
-    infomap 42
-    sgG1 21
-    sgG2 18
-    sgG5 83
+    infomap 67
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 203
+    sgG12 1
     louvain2 15
-    lec2 21
-    wt2 11
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1057
     name "5714"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 65
     lec 25
     wt 14
     fc 2
     louvain 15
-    infomap 89
-    sgG1 22
-    sgG2 35
-    sgG5 61
+    infomap 76
+    sgG1 5
+    sgG2 3
+    sgG5 77
     fc2 29
-    sgG12 21
-    Spectral2 311
+    sgG12 5
     louvain2 14
-    lec2 21
-    wt2 13
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 1058
     name "9961"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 101
     fc 11
     louvain 18
-    infomap 67
-    sgG1 3
-    sgG2 32
-    sgG5 41
+    infomap 70
+    sgG1 26
+    sgG2 44
+    sgG5 30
     fc2 7
-    sgG12 3
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 100
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1059
     name "10061"
     Spectral 142
+    Spectral1per 26
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 15
     lec 4
     wt 89
     fc 3
     louvain 15
-    infomap 72
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 69
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 143
+    sgG12 19
     louvain2 14
-    lec2 56
-    wt2 88
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 1060
     name "51056"
     Spectral 256
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 56
     lec 8
     wt 6
     fc 1
     louvain 6
-    infomap 65
-    sgG1 32
-    sgG2 4
-    sgG5 88
+    infomap 63
+    sgG1 5
+    sgG2 47
+    sgG5 28
     fc2 19
-    sgG12 31
-    Spectral2 257
+    sgG12 5
     louvain2 25
-    lec2 4
-    wt2 6
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1061
     name "11151"
     Spectral 249
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 56
     lec 18
     wt 21
     fc 1
     louvain 14
-    infomap 65
-    sgG1 32
-    sgG2 4
-    sgG5 88
+    infomap 63
+    sgG1 5
+    sgG2 14
+    sgG5 28
     fc2 19
-    sgG12 31
-    Spectral2 250
+    sgG12 5
     louvain2 13
-    lec2 14
-    wt2 20
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1062
     name "51451"
     Spectral 265
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 18
     wt 21
     fc 1
     louvain 14
-    infomap 65
-    sgG1 32
-    sgG2 4
-    sgG5 88
+    infomap 63
+    sgG1 5
+    sgG2 14
+    sgG5 28
     fc2 19
-    sgG12 31
-    Spectral2 265
+    sgG12 5
     louvain2 13
-    lec2 14
-    wt2 20
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 1063
     name "114971"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 18
     wt 21
     fc 1
     louvain 14
-    infomap 65
-    sgG1 32
-    sgG2 4
-    sgG5 88
+    infomap 63
+    sgG1 5
+    sgG2 14
+    sgG5 28
     fc2 19
-    sgG12 31
-    Spectral2 1
+    sgG12 5
     louvain2 13
-    lec2 14
-    wt2 20
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1064
     name "1738"
     Spectral 203
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 8
     wt 42
     fc 3
     louvain 15
-    infomap 30
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 33
+    sgG1 20
+    sgG2 21
+    sgG5 1
     fc2 33
-    sgG12 28
-    Spectral2 204
+    sgG12 19
     louvain2 14
-    lec2 4
-    wt2 41
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1065
     name "5818"
     Spectral 85
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 24
     lec 5
     wt 22
     fc 6
     louvain 10
-    infomap 34
-    sgG1 26
-    sgG2 10
-    sgG5 56
+    infomap 29
+    sgG1 16
+    sgG2 33
+    sgG5 75
     fc2 43
-    sgG12 25
-    Spectral2 86
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 1066
     name "221184"
     Spectral 156
+    Spectral1per 23
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 14
     lec 4
     wt 1
     fc 7
     louvain 15
-    infomap 103
-    sgG1 33
-    sgG2 26
-    sgG5 84
+    infomap 105
+    sgG1 8
+    sgG2 47
+    sgG5 4
     fc2 3
-    sgG12 32
-    Spectral2 157
+    sgG12 8
     louvain2 14
-    lec2 59
-    wt2 1
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 1067
     name "23564"
     Spectral 52
+    Spectral1per 26
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 30
     lec 4
     wt 2
     fc 1
     louvain 11
-    infomap 95
-    sgG1 32
-    sgG2 30
-    sgG5 84
+    infomap 98
+    sgG1 5
+    sgG2 3
+    sgG5 4
     fc2 16
-    sgG12 31
-    Spectral2 53
+    sgG12 5
     louvain2 10
-    lec2 59
-    wt2 2
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 1068
     name "523"
     Spectral 52
+    Spectral1per 23
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 32
     lec 4
     wt 1
     fc 3
     louvain 15
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 84
+    infomap 52
+    sgG1 8
+    sgG2 23
+    sgG5 4
     fc2 33
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 14
-    lec2 59
-    wt2 1
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 1069
     name "347733"
     Spectral 52
+    Spectral1per 26
+    Spectral25per 9
+    Spectral5per 6
+    Spectral05per 31
     lec 4
     wt 1
     fc 3
     louvain 15
-    infomap 14
-    sgG1 33
-    sgG2 7
-    sgG5 84
+    infomap 52
+    sgG1 8
+    sgG2 23
+    sgG5 4
     fc2 33
-    sgG12 32
-    Spectral2 53
+    sgG12 8
     louvain2 14
-    lec2 59
-    wt2 1
+    Spectral25per2 10
+    Spectral5per2 6
   ]
   node
   [
     id 1070
     name "481"
     Spectral 64
+    Spectral1per 26
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 36
     lec 4
     wt 20
     fc 1
     louvain 11
-    infomap 95
-    sgG1 32
-    sgG2 27
-    sgG5 27
+    infomap 98
+    sgG1 5
+    sgG2 3
+    sgG5 25
     fc2 16
-    sgG12 31
-    Spectral2 65
+    sgG12 5
     louvain2 10
-    lec2 59
-    wt2 19
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 1071
     name "10376"
     Spectral 265
+    Spectral1per 48
+    Spectral25per 17
+    Spectral5per 11
+    Spectral05per 60
     lec 8
     wt 1
     fc 3
     louvain 2
-    infomap 58
-    sgG1 33
-    sgG2 7
-    sgG5 25
+    infomap 95
+    sgG1 8
+    sgG2 23
+    sgG5 73
     fc2 33
-    sgG12 32
-    Spectral2 265
+    sgG12 8
     louvain2 2
-    lec2 4
-    wt2 1
+    Spectral25per2 17
+    Spectral5per2 1
   ]
   node
   [
     id 1072
     name "1397"
     Spectral 126
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 23
     lec 8
     wt 20
     fc 1
     louvain 11
-    infomap 95
-    sgG1 32
-    sgG2 27
-    sgG5 27
+    infomap 98
+    sgG1 3
+    sgG2 3
+    sgG5 25
     fc2 16
-    sgG12 31
-    Spectral2 127
+    sgG12 3
     louvain2 10
-    lec2 4
-    wt2 19
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 1073
     name "283578"
     Spectral 101
+    Spectral1per 17
+    Spectral25per 7
+    Spectral5per 6
+    Spectral05per 24
     lec 5
     wt 87
     fc 12
     louvain 2
-    infomap 43
-    sgG1 16
-    sgG2 34
-    sgG5 92
+    infomap 116
+    sgG1 21
+    sgG2 27
+    sgG5 52
     fc2 8
-    sgG12 16
-    Spectral2 102
+    sgG12 20
     louvain2 2
-    lec2 65
-    wt2 86
+    Spectral25per2 8
+    Spectral5per2 6
   ]
   node
   [
     id 1074
     name "2745"
     Spectral 189
+    Spectral1per 34
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 44
     lec 8
     wt 78
     fc 1
     louvain 13
-    infomap 125
-    sgG1 33
-    sgG2 7
-    sgG5 40
+    infomap 130
+    sgG1 8
+    sgG2 23
+    sgG5 25
     fc2 16
-    sgG12 32
-    Spectral2 190
+    sgG12 8
     louvain2 12
-    lec2 4
-    wt2 77
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 1075
     name "64837"
     Spectral 88
+    Spectral1per 15
+    Spectral25per 8
+    Spectral5per 5
+    Spectral05per 27
     lec 3
     wt 9
     fc 4
     louvain 1
-    infomap 66
-    sgG1 31
-    sgG2 43
-    sgG5 11
+    infomap 88
+    sgG1 8
+    sgG2 42
+    sgG5 88
     fc2 1
-    sgG12 30
-    Spectral2 89
+    sgG12 8
     louvain2 1
-    lec2 1
-    wt2 9
+    Spectral25per2 9
+    Spectral5per2 5
   ]
   node
   [
     id 1076
     name "25885"
     Spectral 127
+    Spectral1per 26
+    Spectral25per 7
+    Spectral5per 2
+    Spectral05per 26
     lec 8
     wt 60
     fc 5
     louvain 10
-    infomap 38
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 39
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 128
+    sgG12 18
     louvain2 9
-    lec2 4
-    wt2 59
+    Spectral25per2 8
+    Spectral5per2 2
   ]
   node
   [
     id 1077
     name "126298"
     Spectral 85
+    Spectral1per 23
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 22
     lec 4
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 86
+    sgG12 18
     louvain2 9
-    lec2 53
-    wt2 4
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 1078
     name "3685"
     Spectral 270
+    Spectral1per 43
+    Spectral25per 17
+    Spectral5per 12
+    Spectral05per 65
     lec 4
     wt 13
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 270
+    sgG12 5
     louvain2 4
-    lec2 58
-    wt2 181
+    Spectral25per2 17
+    Spectral5per2 10
   ]
   node
   [
     id 1079
     name "644"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 64
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 15
-    sgG12 31
-    Spectral2 304
+    sgG12 5
     louvain2 4
-    lec2 16
-    wt2 181
+    Spectral25per2 22
+    Spectral5per2 16
   ]
   node
   [
     id 1080
     name "127281"
     Spectral 263
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 59
     lec 19
     wt 90
     fc 1
     louvain 16
-    infomap 85
-    sgG1 17
-    sgG2 15
-    sgG5 52
+    infomap 101
+    sgG1 14
+    sgG2 24
+    sgG5 58
     fc2 15
-    sgG12 43
-    Spectral2 301
+    sgG12 29
     louvain2 15
-    lec2 15
-    wt2 89
+    Spectral25per2 21
+    Spectral5per2 16
   ]
   node
   [
     id 1081
     name "55346"
     Spectral 262
+    Spectral1per 43
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 59
     lec 8
     wt 90
     fc 1
     louvain 16
-    infomap 85
-    sgG1 17
-    sgG2 15
-    sgG5 52
+    infomap 101
+    sgG1 14
+    sgG2 24
+    sgG5 58
     fc2 15
-    sgG12 43
-    Spectral2 263
+    sgG12 29
     louvain2 15
-    lec2 4
-    wt2 89
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1082
     name "25830"
     Spectral 52
+    Spectral1per 10
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 31
     lec 4
     wt 1
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 13
-    sgG5 84
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 4
     fc2 20
-    sgG12 31
-    Spectral2 53
+    sgG12 5
     louvain2 4
-    lec2 59
-    wt2 1
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 1083
     name "3925"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 19
     wt 124
     fc 8
     louvain 4
-    infomap 15
-    sgG1 23
-    sgG2 36
-    sgG5 74
+    infomap 13
+    sgG1 12
+    sgG2 17
+    sgG5 12
     fc2 4
-    sgG12 22
-    Spectral2 300
+    sgG12 12
     louvain2 4
-    lec2 15
-    wt2 123
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1084
     name "55737"
     Spectral 20
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 45
     fc 5
     louvain 10
-    infomap 106
-    sgG1 15
-    sgG2 2
-    sgG5 60
+    infomap 107
+    sgG1 11
+    sgG2 1
+    sgG5 27
     fc2 2
-    sgG12 15
-    Spectral2 21
+    sgG12 11
     louvain2 9
-    lec2 27
-    wt2 44
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1085
     name "6643"
     Spectral 103
+    Spectral1per 20
+    Spectral25per 12
+    Spectral5per 4
+    Spectral05per 22
     lec 5
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 69
-    wt2 7
+    Spectral25per2 13
+    Spectral5per2 4
   ]
   node
   [
     id 1086
     name "10226"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 5
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 69
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 1087
     name "1740"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 47
     fc 6
     louvain 6
-    infomap 2
-    sgG1 11
-    sgG2 46
-    sgG5 2
+    infomap 1
+    sgG1 22
+    sgG2 8
+    sgG5 23
     fc2 47
-    sgG12 11
-    Spectral2 11
+    sgG12 21
     louvain2 21
-    lec2 24
-    wt2 46
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 1088
     name "55102"
     Spectral 151
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 2
+    Spectral05per 15
     lec 8
     wt 157
     fc 10
     louvain 15
-    infomap 51
+    infomap 50
     sgG1 6
-    sgG2 37
-    sgG5 75
+    sgG2 34
+    sgG5 81
     fc2 6
     sgG12 6
-    Spectral2 152
     louvain2 14
-    lec2 4
-    wt2 156
+    Spectral25per2 11
+    Spectral5per2 2
   ]
   node
   [
     id 1089
     name "5876"
     Spectral 239
+    Spectral1per 38
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 50
     lec 21
     wt 7
     fc 4
     louvain 3
-    infomap 97
-    sgG1 8
-    sgG2 10
-    sgG5 46
+    infomap 71
+    sgG1 23
+    sgG2 11
+    sgG5 16
     fc2 1
-    sgG12 8
-    Spectral2 240
+    sgG12 22
     louvain2 3
-    lec2 17
-    wt2 7
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1090
     name "2631"
     Spectral 106
+    Spectral1per 27
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 18
     lec 7
     wt 158
     fc 1
     louvain 14
-    infomap 68
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 107
+    sgG12 5
     louvain2 13
-    lec2 3
-    wt2 157
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 1091
     name "26047"
     Spectral 51
+    Spectral1per 9
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 12
     lec 4
     wt 63
     fc 12
     louvain 14
-    infomap 93
-    sgG1 25
-    sgG2 20
-    sgG5 48
+    infomap 96
+    sgG1 18
+    sgG2 25
+    sgG5 53
     fc2 8
-    sgG12 24
-    Spectral2 52
+    sgG12 17
     louvain2 13
-    lec2 55
-    wt2 62
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 1092
     name "8825"
     Spectral 4
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 3
     lec 5
     wt 52
     fc 6
     louvain 17
-    infomap 116
-    sgG1 8
-    sgG2 38
+    infomap 120
+    sgG1 7
+    sgG2 19
     sgG5 10
     fc2 42
-    sgG12 8
-    Spectral2 5
+    sgG12 7
     louvain2 16
-    lec2 64
-    wt2 51
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1093
     name "3251"
     Spectral 85
+    Spectral1per 11
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 22
     lec 5
     wt 22
     fc 6
     louvain 10
-    infomap 34
-    sgG1 26
-    sgG2 10
-    sgG5 56
+    infomap 29
+    sgG1 16
+    sgG2 33
+    sgG5 75
     fc2 43
-    sgG12 25
-    Spectral2 86
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 1094
     name "1327"
     Spectral 240
+    Spectral1per 39
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 53
     lec 5
     wt 12
     fc 5
     louvain 10
-    infomap 83
-    sgG1 26
-    sgG2 48
-    sgG5 14
+    infomap 84
+    sgG1 7
+    sgG2 31
+    sgG5 10
     fc2 2
-    sgG12 25
-    Spectral2 241
+    sgG12 7
     louvain2 9
-    lec2 68
-    wt2 12
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1095
     name "6050"
     Spectral 132
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 24
     lec 5
     wt 117
     fc 10
     louvain 10
-    infomap 118
-    sgG1 22
-    sgG2 10
-    sgG5 56
+    infomap 122
+    sgG1 16
+    sgG2 29
+    sgG5 75
     fc2 6
-    sgG12 21
-    Spectral2 133
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 116
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 1096
     name "8618"
     Spectral 85
+    Spectral1per 20
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 25
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 56
+    sgG2 26
+    sgG5 75
     fc2 5
-    sgG12 16
-    Spectral2 86
+    sgG12 15
     louvain2 16
-    lec2 64
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 1097
     name "9854"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 8
+    Spectral5per 4
+    Spectral05per 24
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 73
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 4
   ]
   node
   [
     id 1098
     name "6856"
     Spectral 85
+    Spectral1per 11
+    Spectral25per 6
+    Spectral5per 4
+    Spectral05per 23
     lec 5
     wt 1
     fc 6
     louvain 10
-    infomap 34
-    sgG1 26
-    sgG2 10
-    sgG5 56
+    infomap 29
+    sgG1 16
+    sgG2 33
+    sgG5 75
     fc2 42
-    sgG12 25
-    Spectral2 86
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 1
+    Spectral25per2 7
+    Spectral5per2 4
   ]
   node
   [
     id 1099
     name "98"
     Spectral 85
+    Spectral1per 20
+    Spectral25per 6
+    Spectral5per 4
+    Spectral05per 27
     lec 5
     wt 22
     fc 6
     louvain 10
-    infomap 34
-    sgG1 26
-    sgG2 10
-    sgG5 56
+    infomap 29
+    sgG1 16
+    sgG2 33
+    sgG5 75
     fc2 43
-    sgG12 25
-    Spectral2 86
+    sgG12 15
     louvain2 9
-    lec2 68
-    wt2 21
+    Spectral25per2 7
+    Spectral5per2 4
   ]
   node
   [
     id 1100
     name "9145"
     Spectral 103
+    Spectral1per 20
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 28
     lec 5
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 69
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 1101
     name "55233"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 5
     wt 2
     fc 6
     louvain 11
-    infomap 68
-    sgG1 8
-    sgG2 30
-    sgG5 82
+    infomap 29
+    sgG1 3
+    sgG2 27
+    sgG5 50
     fc2 42
-    sgG12 8
-    Spectral2 49
+    sgG12 3
     louvain2 10
-    lec2 68
-    wt2 2
+    Spectral25per2 2
+    Spectral5per2 11
   ]
   node
   [
     id 1102
     name "9600"
     Spectral 246
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 58
     lec 2
     wt 66
     fc 2
     louvain 4
-    infomap 112
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 115
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
-    sgG12 35
-    Spectral2 247
+    sgG12 31
     louvain2 4
-    lec2 48
-    wt2 65
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1103
     name "57605"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 63
     lec 2
     wt 66
     fc 2
     louvain 4
-    infomap 112
-    sgG1 17
-    sgG2 35
-    sgG5 54
+    infomap 115
+    sgG1 14
+    sgG2 40
+    sgG5 60
     fc2 24
-    sgG12 35
-    Spectral2 303
+    sgG12 31
     louvain2 4
-    lec2 48
-    wt2 65
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1104
     name "2913"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 31
-    sgG1 17
-    sgG2 47
-    sgG5 36
+    infomap 40
+    sgG1 10
+    sgG2 39
+    sgG5 86
     fc2 13
-    sgG12 37
-    Spectral2 304
+    sgG12 10
     louvain2 4
-    lec2 16
-    wt2 189
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 1105
     name "8036"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 56
     lec 1
     wt 13
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 286
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 177
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1106
     name "6738"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 2
     wt 53
     fc 2
     louvain 12
-    infomap 122
-    sgG1 22
-    sgG2 25
-    sgG5 67
+    infomap 127
+    sgG1 9
+    sgG2 4
+    sgG5 56
     fc2 28
-    sgG12 21
-    Spectral2 161
+    sgG12 9
     louvain2 11
-    lec2 47
-    wt2 52
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 1107
     name "64145"
     Spectral 101
+    Spectral1per 14
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 10
     fc 9
     louvain 17
-    infomap 59
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 87
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 64
-    wt2 10
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 1108
     name "51479"
     Spectral 78
+    Spectral1per 19
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 10
     fc 9
     louvain 17
-    infomap 59
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 87
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 79
+    sgG12 2
     louvain2 16
-    lec2 67
-    wt2 10
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 1109
     name "11069"
     Spectral 224
+    Spectral1per 39
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 52
     lec 4
     wt 4
     fc 8
     louvain 13
-    infomap 88
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 74
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 4
-    sgG12 25
-    Spectral2 225
+    sgG12 18
     louvain2 12
-    lec2 61
-    wt2 4
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 1110
     name "64601"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 2
     wt 110
     fc 10
     louvain 16
-    infomap 77
-    sgG1 21
-    sgG2 18
-    sgG5 20
+    infomap 75
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 203
+    sgG12 1
     louvain2 15
-    lec2 48
-    wt2 109
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 1111
     name "65082"
     Spectral 202
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 8
     wt 110
     fc 10
     louvain 16
-    infomap 77
-    sgG1 21
-    sgG2 18
-    sgG5 20
+    infomap 75
+    sgG1 1
+    sgG2 9
+    sgG5 6
     fc2 6
-    sgG12 20
-    Spectral2 203
+    sgG12 1
     louvain2 15
-    lec2 4
-    wt2 109
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 1112
     name "5245"
     Spectral 104
+    Spectral1per 17
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 24
     lec 13
     wt 17
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 23
+    infomap 51
+    sgG1 12
+    sgG2 45
+    sgG5 21
     fc2 10
-    sgG12 29
-    Spectral2 105
+    sgG12 12
     louvain2 15
-    lec2 9
-    wt2 16
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 1113
     name "54828"
     Spectral 109
+    Spectral1per 17
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 24
     lec 13
     wt 128
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 24
+    infomap 86
+    sgG1 12
+    sgG2 45
+    sgG5 22
     fc2 10
-    sgG12 29
-    Spectral2 110
+    sgG12 12
     louvain2 15
-    lec2 9
-    wt2 127
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 1114
     name "302"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 24
     wt 25
     fc 3
     louvain 15
-    infomap 50
-    sgG1 30
-    sgG2 28
-    sgG5 84
+    infomap 64
+    sgG1 20
+    sgG2 45
+    sgG5 21
     fc2 33
-    sgG12 29
-    Spectral2 202
+    sgG12 19
     louvain2 14
-    lec2 20
-    wt2 24
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1115
     name "57524"
     Spectral 4
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 3
     lec 1
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 16
     fc2 46
-    sgG12 8
-    Spectral2 5
+    sgG12 22
     louvain2 3
-    lec2 36
-    wt2 14
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1116
     name "55631"
     Spectral 263
+    Spectral1per 50
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 2
     wt 13
     fc 2
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 36
-    sgG5 8
+    infomap 5
+    sgG1 14
+    sgG2 12
+    sgG5 33
     fc2 25
-    sgG12 36
-    Spectral2 296
+    sgG12 28
     louvain2 4
-    lec2 43
-    wt2 177
+    Spectral25per2 23
+    Spectral5per2 16
   ]
   node
   [
     id 1117
     name "5709"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 26
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1118
     name "2769"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 26
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 39
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1119
     name "3306"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 19
     wt 15
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 26
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 15
-    wt2 14
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1120
     name "11188"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 60
     lec 2
     wt 19
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 282
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 18
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1121
     name "7385"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 2
     wt 135
     fc 11
     louvain 8
-    infomap 55
-    sgG1 3
-    sgG2 32
-    sgG5 41
+    infomap 42
+    sgG1 14
+    sgG2 44
+    sgG5 30
     fc2 7
-    sgG12 3
-    Spectral2 292
+    sgG12 34
     louvain2 7
-    lec2 39
-    wt2 134
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1122
     name "1762"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 17
+    Spectral5per 12
+    Spectral05per 65
     lec 2
     wt 159
     fc 2
     louvain 8
-    infomap 4
-    sgG1 17
-    sgG2 5
-    sgG5 87
+    infomap 2
+    sgG1 14
+    sgG2 7
+    sgG5 37
     fc2 25
-    sgG12 42
-    Spectral2 284
+    sgG12 30
     louvain2 7
-    lec2 41
-    wt2 158
+    Spectral25per2 17
+    Spectral5per2 10
   ]
   node
   [
     id 1123
     name "55466"
     Spectral 263
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 160
     fc 2
     louvain 12
-    infomap 82
-    sgG1 24
-    sgG2 25
-    sgG5 55
+    infomap 83
+    sgG1 9
+    sgG2 4
+    sgG5 84
     fc2 28
-    sgG12 23
-    Spectral2 282
+    sgG12 9
     louvain2 11
-    lec2 39
-    wt2 159
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1124
     name "10056"
     Spectral 248
+    Spectral1per 42
+    Spectral25per 17
+    Spectral5per 12
+    Spectral05per 58
     lec 8
     wt 161
     fc 2
     louvain 8
-    infomap 91
-    sgG1 17
-    sgG2 5
-    sgG5 70
+    infomap 93
+    sgG1 14
+    sgG2 7
+    sgG5 72
     fc2 26
-    sgG12 42
-    Spectral2 249
+    sgG12 30
     louvain2 7
-    lec2 4
-    wt2 160
+    Spectral25per2 17
+    Spectral5per2 10
   ]
   node
   [
     id 1125
     name "51699"
     Spectral 20
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 45
     fc 5
     louvain 10
-    infomap 106
-    sgG1 15
-    sgG2 2
-    sgG5 60
+    infomap 107
+    sgG1 11
+    sgG2 1
+    sgG5 27
     fc2 2
-    sgG12 15
-    Spectral2 21
+    sgG12 11
     louvain2 9
-    lec2 37
-    wt2 44
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1126
     name "9559"
     Spectral 20
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 45
     fc 5
     louvain 10
-    infomap 106
-    sgG1 15
-    sgG2 2
-    sgG5 60
+    infomap 107
+    sgG1 11
+    sgG2 1
+    sgG5 27
     fc2 2
-    sgG12 15
-    Spectral2 21
+    sgG12 11
     louvain2 9
-    lec2 37
-    wt2 44
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1127
     name "112936"
     Spectral 20
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 45
     fc 5
     louvain 10
-    infomap 106
-    sgG1 15
-    sgG2 2
-    sgG5 60
+    infomap 107
+    sgG1 11
+    sgG2 1
+    sgG5 27
     fc2 2
-    sgG12 15
-    Spectral2 21
+    sgG12 11
     louvain2 9
-    lec2 37
-    wt2 44
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1128
     name "4355"
     Spectral 3
+    Spectral1per 2
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 2
     lec 5
     wt 52
     fc 6
     louvain 17
-    infomap 116
-    sgG1 8
-    sgG2 38
+    infomap 120
+    sgG1 7
+    sgG2 19
     sgG5 10
     fc2 42
-    sgG12 8
-    Spectral2 4
+    sgG12 7
     louvain2 16
-    lec2 64
-    wt2 51
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1129
     name "1159"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 1
     wt 43
     fc 11
     louvain 8
-    infomap 55
-    sgG1 3
-    sgG2 32
-    sgG5 41
+    infomap 42
+    sgG1 14
+    sgG2 44
+    sgG5 30
     fc2 7
-    sgG12 3
-    Spectral2 286
+    sgG12 34
     louvain2 7
-    lec2 35
-    wt2 42
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1130
     name "10587"
     Spectral 263
+    Spectral1per 47
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 1
     wt 43
     fc 11
     louvain 8
-    infomap 74
-    sgG1 3
-    sgG2 32
-    sgG5 79
+    infomap 42
+    sgG1 14
+    sgG2 44
+    sgG5 85
     fc2 7
-    sgG12 3
-    Spectral2 286
+    sgG12 34
     louvain2 7
-    lec2 35
-    wt2 42
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1131
     name "112755"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 8
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 67
-    wt2 8
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 1132
     name "5878"
     Spectral 209
+    Spectral1per 37
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 48
     lec 8
     wt 81
     fc 5
     louvain 10
     infomap 48
-    sgG1 8
-    sgG2 48
-    sgG5 19
+    sgG1 7
+    sgG2 18
+    sgG5 65
     fc2 2
-    sgG12 8
-    Spectral2 210
+    sgG12 7
     louvain2 9
-    lec2 4
-    wt2 80
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 1133
     name "3382"
     Spectral 100
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 62
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 68
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 61
     fc2 1
-    sgG12 9
-    Spectral2 101
+    sgG12 20
     louvain2 2
-    lec2 3
-    wt2 61
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 1134
     name "11112"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 48
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 67
-    wt2 47
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 1135
     name "493856"
     Spectral 101
+    Spectral1per 16
+    Spectral25per 8
+    Spectral5per 5
+    Spectral05per 24
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 73
-    wt2 21
+    Spectral25per2 9
+    Spectral5per2 5
   ]
   node
   [
     id 1136
     name "91452"
     Spectral 123
+    Spectral1per 26
+    Spectral25per 7
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 137
     fc 9
     louvain 15
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 28
+    sgG1 2
+    sgG2 29
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 124
+    sgG12 2
     louvain2 14
-    lec2 60
-    wt2 136
+    Spectral25per2 8
+    Spectral5per2 6
   ]
   node
   [
     id 1137
     name "28970"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 2
     fc 1
     louvain 11
-    infomap 67
-    sgG1 32
-    sgG2 30
-    sgG5 82
+    infomap 79
+    sgG1 5
+    sgG2 27
+    sgG5 50
     fc2 16
-    sgG12 31
-    Spectral2 11
+    sgG12 5
     louvain2 10
-    lec2 30
-    wt2 2
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 1138
     name "883"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 2
     fc 1
     louvain 11
-    infomap 67
-    sgG1 32
-    sgG2 30
-    sgG5 82
+    infomap 79
+    sgG1 5
+    sgG2 27
+    sgG5 50
     fc2 16
-    sgG12 31
-    Spectral2 11
+    sgG12 5
     louvain2 10
-    lec2 30
-    wt2 2
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 1139
     name "83451"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 2
     fc 8
     louvain 11
-    infomap 67
-    sgG1 23
-    sgG2 30
-    sgG5 82
+    infomap 79
+    sgG1 3
+    sgG2 27
+    sgG5 50
     fc2 4
-    sgG12 22
-    Spectral2 11
+    sgG12 3
     louvain2 10
-    lec2 30
-    wt2 2
+    Spectral25per2 4
+    Spectral5per2 11
   ]
   node
   [
     id 1140
     name "10767"
     Spectral 160
+    Spectral1per 29
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 37
     lec 21
     wt 75
     fc 6
     louvain 3
-    infomap 28
-    sgG1 22
-    sgG2 1
-    sgG5 31
+    infomap 30
+    sgG1 23
+    sgG2 39
+    sgG5 13
     fc2 44
-    sgG12 21
-    Spectral2 161
+    sgG12 22
     louvain2 3
-    lec2 17
-    wt2 74
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 1141
     name "9885"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 22
     wt 41
     fc 9
     louvain 11
-    infomap 87
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 90
+    sgG1 2
+    sgG2 26
+    sgG5 38
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 10
-    lec2 18
-    wt2 40
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1142
     name "80262"
     Spectral 118
+    Spectral1per 17
+    Spectral25per 8
+    Spectral5per 3
+    Spectral05per 24
     lec 13
     wt 128
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 24
+    infomap 86
+    sgG1 12
+    sgG2 45
+    sgG5 22
     fc2 10
-    sgG12 29
-    Spectral2 119
+    sgG12 12
     louvain2 15
-    lec2 9
-    wt2 127
+    Spectral25per2 9
+    Spectral5per2 3
   ]
   node
   [
     id 1143
     name "22931"
     Spectral 103
+    Spectral1per 11
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 28
     lec 4
     wt 4
     fc 5
     louvain 10
-    infomap 22
-    sgG1 26
-    sgG2 40
-    sgG5 35
+    infomap 23
+    sgG1 19
+    sgG2 16
+    sgG5 83
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 18
     louvain2 9
-    lec2 58
-    wt2 4
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 1144
     name "11311"
     Spectral 101
+    Spectral1per 26
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 25
     lec 5
     wt 10
     fc 9
     louvain 17
-    infomap 59
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 87
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 64
-    wt2 10
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 1145
     name "25813"
     Spectral 18
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 113
     fc 16
     louvain 6
-    infomap 113
-    sgG1 18
-    sgG2 17
-    sgG5 17
+    infomap 117
+    sgG1 4
+    sgG2 6
+    sgG5 18
     fc2 12
-    sgG12 17
-    Spectral2 19
+    sgG12 4
     louvain2 22
-    lec2 37
-    wt2 112
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1146
     name "54927"
     Spectral 18
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 113
     fc 16
     louvain 6
-    infomap 113
-    sgG1 18
-    sgG2 17
-    sgG5 17
+    infomap 117
+    sgG1 4
+    sgG2 6
+    sgG5 18
     fc2 12
-    sgG12 17
-    Spectral2 19
+    sgG12 4
     louvain2 22
-    lec2 24
-    wt2 112
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1147
     name "84303"
     Spectral 18
+    Spectral1per 3
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 4
     lec 1
     wt 113
     fc 16
     louvain 6
-    infomap 113
-    sgG1 18
-    sgG2 17
-    sgG5 17
+    infomap 117
+    sgG1 4
+    sgG2 6
+    sgG5 18
     fc2 12
-    sgG12 17
-    Spectral2 19
+    sgG12 4
     louvain2 22
-    lec2 37
-    wt2 112
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1148
     name "347"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 17
     wt 70
     fc 9
     louvain 17
-    infomap 44
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 11
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 16
-    lec2 13
-    wt2 69
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 1149
     name "51090"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 5
     wt 70
     fc 9
     louvain 17
-    infomap 44
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 11
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 16
-    lec2 65
-    wt2 69
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 1150
     name "4191"
     Spectral 178
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 8
     wt 106
     fc 3
     louvain 15
-    infomap 72
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 69
+    sgG1 20
+    sgG2 21
+    sgG5 4
     fc2 33
-    sgG12 28
-    Spectral2 179
+    sgG12 19
     louvain2 14
-    lec2 4
-    wt2 105
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 1151
     name "539"
     Spectral 178
+    Spectral1per 33
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 41
     lec 8
     wt 106
     fc 3
     louvain 15
-    infomap 72
-    sgG1 29
-    sgG2 50
-    sgG5 84
+    infomap 69
+    sgG1 20
+    sgG2 21
+    sgG5 4
     fc2 33
-    sgG12 28
-    Spectral2 179
+    sgG12 19
     louvain2 14
-    lec2 4
-    wt2 105
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 1152
     name "5834"
     Spectral 127
+    Spectral1per 10
+    Spectral25per 9
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 162
     fc 1
     louvain 14
-    infomap 68
-    sgG1 32
-    sgG2 4
-    sgG5 22
+    infomap 21
+    sgG1 5
+    sgG2 14
+    sgG5 24
     fc2 17
-    sgG12 31
-    Spectral2 128
+    sgG12 5
     louvain2 13
-    lec2 3
-    wt2 161
+    Spectral25per2 10
+    Spectral5per2 2
   ]
   node
   [
     id 1153
     name "2539"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 6
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1154
     name "2946"
     Spectral 75
+    Spectral1per 13
+    Spectral25per 9
+    Spectral5per 3
+    Spectral05per 26
     lec 3
     wt 115
     fc 8
     louvain 13
-    infomap 107
-    sgG1 2
-    sgG2 41
-    sgG5 30
+    infomap 108
+    sgG1 7
+    sgG2 20
+    sgG5 41
     fc2 4
-    sgG12 2
-    Spectral2 76
+    sgG12 7
     louvain2 12
-    lec2 1
-    wt2 114
+    Spectral25per2 10
+    Spectral5per2 3
   ]
   node
   [
     id 1155
     name "7417"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 25
     wt 120
     fc 11
     louvain 3
-    infomap 50
-    sgG1 7
-    sgG2 11
-    sgG5 49
+    infomap 64
+    sgG1 26
+    sgG2 38
+    sgG5 51
     fc2 7
-    sgG12 7
-    Spectral2 289
+    sgG12 25
     louvain2 3
-    lec2 21
-    wt2 119
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1156
     name "4522"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 102
     fc 11
     louvain 18
-    infomap 50
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 64
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 202
+    sgG12 25
     louvain2 17
-    lec2 21
-    wt2 101
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1157
     name "64853"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 93
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 92
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1158
     name "4259"
     Spectral 101
+    Spectral1per 12
+    Spectral25per 8
+    Spectral5per 5
+    Spectral05per 27
     lec 5
     wt 54
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 65
-    wt2 53
+    Spectral25per2 9
+    Spectral5per2 5
   ]
   node
   [
     id 1159
     name "57447"
     Spectral 64
+    Spectral1per 26
+    Spectral25per 9
+    Spectral5per 5
+    Spectral05per 31
     lec 4
     wt 20
     fc 1
     louvain 11
-    infomap 95
-    sgG1 32
-    sgG2 27
-    sgG5 27
+    infomap 98
+    sgG1 5
+    sgG2 3
+    sgG5 25
     fc2 16
-    sgG12 31
-    Spectral2 65
+    sgG12 5
     louvain2 10
-    lec2 58
-    wt2 19
+    Spectral25per2 10
+    Spectral5per2 5
   ]
   node
   [
     id 1160
     name "81567"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 77
     fc 10
     louvain 15
-    infomap 128
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 133
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 76
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 1161
     name "28958"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 66
     lec 4
     wt 72
     fc 1
     louvain 14
-    infomap 35
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 37
+    sgG1 5
+    sgG2 14
+    sgG5 53
     fc2 19
-    sgG12 31
-    Spectral2 305
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 71
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 1162
     name "6507"
     Spectral 101
+    Spectral1per 12
+    Spectral25per 8
+    Spectral5per 5
+    Spectral05per 27
     lec 5
     wt 54
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 65
-    wt2 53
+    Spectral25per2 9
+    Spectral5per2 5
   ]
   node
   [
     id 1163
     name "94097"
     Spectral 101
+    Spectral1per 17
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 24
     lec 5
     wt 103
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 2
     louvain2 16
-    lec2 65
-    wt2 102
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 1164
     name "10493"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 22
     wt 163
     fc 9
     louvain 17
-    infomap 44
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 11
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 16
-    lec2 18
-    wt2 162
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1165
     name "55967"
     Spectral 95
+    Spectral1per 17
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 24
     lec 5
     wt 87
     fc 12
     louvain 2
-    infomap 43
-    sgG1 16
-    sgG2 34
-    sgG5 92
+    infomap 116
+    sgG1 21
+    sgG2 27
+    sgG5 52
     fc2 8
-    sgG12 16
-    Spectral2 96
+    sgG12 20
     louvain2 2
-    lec2 65
-    wt2 86
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 1166
     name "57471"
     Spectral 10
+    Spectral1per 4
+    Spectral25per 3
+    Spectral5per 1
+    Spectral05per 7
     lec 1
     wt 37
     fc 5
     louvain 6
-    infomap 55
-    sgG1 10
-    sgG2 13
-    sgG5 26
+    infomap 70
+    sgG1 22
+    sgG2 47
+    sgG5 40
     fc2 2
-    sgG12 10
-    Spectral2 11
+    sgG12 21
     louvain2 25
-    lec2 32
-    wt2 36
+    Spectral25per2 4
+    Spectral5per2 12
   ]
   node
   [
     id 1167
     name "115827"
     Spectral 158
+    Spectral1per 10
+    Spectral25per 11
+    Spectral5per 2
+    Spectral05per 17
     lec 8
     wt 109
     fc 4
     louvain 3
-    infomap 97
-    sgG1 8
-    sgG2 1
-    sgG5 46
+    infomap 71
+    sgG1 23
+    sgG2 11
+    sgG5 16
     fc2 1
-    sgG12 8
-    Spectral2 159
+    sgG12 22
     louvain2 3
-    lec2 4
-    wt2 108
+    Spectral25per2 12
+    Spectral5per2 2
   ]
   node
   [
     id 1168
     name "10814"
     Spectral 103
+    Spectral1per 21
+    Spectral25per 6
+    Spectral5per 4
+    Spectral05per 28
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 7
+    Spectral5per2 4
   ]
   node
   [
     id 1169
     name "91663"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 16
+    Spectral5per 9
+    Spectral05per 47
     lec 22
     wt 164
     fc 9
     louvain 17
-    infomap 44
-    sgG1 16
-    sgG2 38
-    sgG5 78
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 11
     fc2 5
-    sgG12 16
-    Spectral2 202
+    sgG12 2
     louvain2 16
-    lec2 18
-    wt2 163
+    Spectral25per2 16
+    Spectral5per2 8
   ]
   node
   [
     id 1170
     name "80221"
     Spectral 61
+    Spectral1per 19
+    Spectral25per 9
+    Spectral5per 4
+    Spectral05per 24
     lec 5
     wt 123
     fc 4
     louvain 10
-    infomap 43
-    sgG1 9
-    sgG2 6
-    sgG5 92
+    infomap 58
+    sgG1 21
+    sgG2 27
+    sgG5 52
     fc2 1
-    sgG12 9
-    Spectral2 62
+    sgG12 20
     louvain2 9
-    lec2 62
-    wt2 122
+    Spectral25per2 10
+    Spectral5per2 4
   ]
   node
   [
     id 1171
     name "4722"
     Spectral 154
+    Spectral1per 10
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 105
     fc 4
     louvain 2
-    infomap 100
-    sgG1 9
-    sgG2 9
-    sgG5 38
+    infomap 102
+    sgG1 21
+    sgG2 37
+    sgG5 3
     fc2 1
-    sgG12 9
-    Spectral2 155
+    sgG12 20
     louvain2 2
-    lec2 3
-    wt2 104
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 1172
     name "8834"
     Spectral 154
+    Spectral1per 10
+    Spectral25per 7
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 105
     fc 4
     louvain 2
-    infomap 100
-    sgG1 9
-    sgG2 9
-    sgG5 38
+    infomap 102
+    sgG1 21
+    sgG2 37
+    sgG5 3
     fc2 1
-    sgG12 9
-    Spectral2 155
+    sgG12 20
     louvain2 2
-    lec2 3
-    wt2 104
+    Spectral25per2 8
+    Spectral5per2 2
   ]
   node
   [
     id 1173
     name "60682"
     Spectral 83
+    Spectral1per 23
+    Spectral25per 8
+    Spectral5per 5
+    Spectral05per 22
     lec 7
     wt 71
     fc 6
     louvain 3
-    infomap 124
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    infomap 129
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 84
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 70
+    Spectral25per2 9
+    Spectral5per2 5
   ]
   node
   [
     id 1174
     name "64744"
     Spectral 83
+    Spectral1per 23
+    Spectral25per 8
+    Spectral5per 5
+    Spectral05per 22
     lec 7
     wt 71
     fc 6
     louvain 3
-    infomap 124
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    infomap 129
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 84
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 70
+    Spectral25per2 9
+    Spectral5per2 5
   ]
   node
   [
     id 1175
     name "92399"
     Spectral 103
+    Spectral1per 18
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 27
     lec 4
     wt 7
     fc 5
     louvain 10
-    infomap 5
-    sgG1 26
-    sgG2 10
-    sgG5 5
+    infomap 7
+    sgG1 16
+    sgG2 33
+    sgG5 42
     fc2 2
-    sgG12 25
-    Spectral2 104
+    sgG12 15
     louvain2 9
-    lec2 52
-    wt2 7
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 1176
     name "54940"
     Spectral 81
+    Spectral1per 28
+    Spectral25per 6
+    Spectral5per 2
+    Spectral05per 19
     lec 13
     wt 132
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 23
+    infomap 51
+    sgG1 12
+    sgG2 45
+    sgG5 21
     fc2 10
-    sgG12 29
-    Spectral2 82
+    sgG12 12
     louvain2 15
-    lec2 9
-    wt2 131
+    Spectral25per2 7
+    Spectral5per2 2
   ]
   node
   [
     id 1177
     name "10575"
     Spectral 103
+    Spectral1per 13
+    Spectral25per 7
+    Spectral5per 5
+    Spectral05per 21
     lec 3
     wt 3
     fc 4
     louvain 14
     infomap 47
-    sgG1 15
-    sgG2 4
-    sgG5 64
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 1
-    sgG12 15
-    Spectral2 104
+    sgG12 17
     louvain2 13
-    lec2 1
-    wt2 3
+    Spectral25per2 8
+    Spectral5per2 5
   ]
   node
   [
     id 1178
     name "6950"
     Spectral 103
+    Spectral1per 13
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 20
     lec 14
     wt 3
     fc 4
     louvain 14
     infomap 47
-    sgG1 15
-    sgG2 4
-    sgG5 64
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 1
-    sgG12 15
-    Spectral2 104
+    sgG12 17
     louvain2 13
-    lec2 10
-    wt2 3
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 1179
     name "950"
     Spectral 67
+    Spectral1per 17
+    Spectral25per 10
+    Spectral5per 2
+    Spectral05per 14
     lec 5
     wt 48
     fc 9
     louvain 17
-    infomap 12
-    sgG1 16
-    sgG2 38
-    sgG5 7
+    infomap 25
+    sgG1 2
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 68
+    sgG12 2
     louvain2 16
-    lec2 67
-    wt2 47
+    Spectral25per2 11
+    Spectral5per2 2
   ]
   node
   [
     id 1180
     name "4701"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 7
     wt 35
     fc 4
     louvain 2
-    infomap 100
-    sgG1 9
-    sgG2 9
-    sgG5 38
+    infomap 102
+    sgG1 21
+    sgG2 37
+    sgG5 3
     fc2 1
-    sgG12 9
-    Spectral2 247
+    sgG12 20
     louvain2 2
-    lec2 3
-    wt2 34
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1181
     name "4705"
     Spectral 137
+    Spectral1per 10
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 104
     fc 4
     louvain 2
-    infomap 100
-    sgG1 9
-    sgG2 9
-    sgG5 38
+    infomap 102
+    sgG1 21
+    sgG2 37
+    sgG5 3
     fc2 1
-    sgG12 9
-    Spectral2 138
+    sgG12 20
     louvain2 2
-    lec2 3
-    wt2 103
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 1182
     name "345557"
     Spectral 164
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 38
     lec 8
     wt 165
     fc 10
     louvain 15
-    infomap 81
-    sgG1 24
-    sgG2 13
-    sgG5 1
+    infomap 82
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 23
-    Spectral2 165
+    sgG12 14
     louvain2 14
-    lec2 4
-    wt2 164
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 1183
     name "1917"
     Spectral 52
+    Spectral1per 21
+    Spectral25per 10
+    Spectral5per 5
+    Spectral05per 31
     lec 7
     wt 83
     fc 4
     louvain 8
     infomap 61
-    sgG1 33
-    sgG2 52
-    sgG5 58
+    sgG1 9
+    sgG2 24
+    sgG5 2
     fc2 1
-    sgG12 32
-    Spectral2 53
+    sgG12 9
     louvain2 7
-    lec2 3
-    wt2 82
+    Spectral25per2 11
+    Spectral5per2 5
   ]
   node
   [
     id 1184
     name "114876"
     Spectral 201
+    Spectral1per 36
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 47
     lec 25
     wt 41
     fc 9
     louvain 11
-    infomap 87
-    sgG1 1
-    sgG2 38
-    sgG5 16
+    infomap 90
+    sgG1 2
+    sgG2 24
+    sgG5 38
     fc2 5
-    sgG12 1
-    Spectral2 202
+    sgG12 2
     louvain2 10
-    lec2 21
-    wt2 40
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1185
     name "9751"
     Spectral 197
+    Spectral1per 35
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 46
     lec 8
     wt 126
     fc 3
     louvain 9
-    infomap 114
-    sgG1 33
-    sgG2 31
-    sgG5 28
+    infomap 118
+    sgG1 8
+    sgG2 23
+    sgG5 46
     fc2 34
-    sgG12 32
-    Spectral2 198
+    sgG12 8
     louvain2 8
-    lec2 4
-    wt2 125
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 1186
     name "5694"
     Spectral 118
+    Spectral1per 15
+    Spectral25per 8
+    Spectral5per 2
+    Spectral05per 24
     lec 3
     wt 133
     fc 6
     louvain 11
-    infomap 21
-    sgG1 8
-    sgG2 16
-    sgG5 37
+    infomap 22
+    sgG1 3
+    sgG2 27
+    sgG5 87
     fc2 46
-    sgG12 8
-    Spectral2 119
+    sgG12 3
     louvain2 10
-    lec2 1
-    wt2 132
+    Spectral25per2 9
+    Spectral5per2 2
   ]
   node
   [
     id 1187
     name "1537"
     Spectral 121
+    Spectral1per 16
+    Spectral25per 7
+    Spectral5per 3
+    Spectral05per 27
     lec 13
     wt 17
     fc 14
     louvain 16
-    infomap 40
-    sgG1 30
-    sgG2 28
-    sgG5 23
+    infomap 51
+    sgG1 12
+    sgG2 45
+    sgG5 21
     fc2 10
-    sgG12 29
-    Spectral2 122
+    sgG12 12
     louvain2 15
-    lec2 9
-    wt2 16
+    Spectral25per2 8
+    Spectral5per2 3
   ]
   node
   [
     id 1188
     name "5184"
     Spectral 184
+    Spectral1per 31
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 42
     lec 4
     wt 14
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 34
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 26
     fc2 27
-    sgG12 26
-    Spectral2 185
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 13
+    Spectral25per2 19
+    Spectral5per2 14
   ]
   node
   [
     id 1189
     name "7419"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 8
     wt 120
     fc 11
     louvain 3
-    infomap 50
-    sgG1 7
-    sgG2 11
-    sgG5 49
+    infomap 64
+    sgG1 26
+    sgG2 46
+    sgG5 51
     fc2 7
-    sgG12 7
-    Spectral2 287
+    sgG12 25
     louvain2 3
-    lec2 4
-    wt2 119
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1190
     name "288"
     Spectral 131
+    Spectral1per 26
+    Spectral25per 5
+    Spectral5per 4
+    Spectral05per 33
     lec 11
     wt 139
     fc 10
     louvain 10
-    infomap 94
-    sgG1 15
-    sgG2 4
-    sgG5 29
+    infomap 97
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 6
-    sgG12 15
-    Spectral2 132
+    sgG12 17
     louvain2 9
-    lec2 7
-    wt2 138
+    Spectral25per2 6
+    Spectral5per2 4
   ]
   node
   [
     id 1191
     name "55605"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 6
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1192
     name "9941"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 6
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1193
     name "6543"
     Spectral 44
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 11
     lec 1
     wt 166
     fc 12
     louvain 14
-    infomap 93
-    sgG1 25
-    sgG2 20
-    sgG5 48
+    infomap 96
+    sgG1 18
+    sgG2 25
+    sgG5 76
     fc2 8
-    sgG12 24
-    Spectral2 45
+    sgG12 17
     louvain2 13
-    lec2 23
-    wt2 165
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 1194
     name "57348"
     Spectral 49
+    Spectral1per 8
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 13
     lec 1
     wt 167
     fc 12
     louvain 14
-    infomap 93
-    sgG1 25
-    sgG2 20
-    sgG5 48
+    infomap 96
+    sgG1 18
+    sgG2 25
+    sgG5 76
     fc2 8
-    sgG12 24
-    Spectral2 50
+    sgG12 17
     louvain2 13
-    lec2 23
-    wt2 166
+    Spectral25per2 2
+    Spectral5per2 12
   ]
   node
   [
     id 1195
     name "6641"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 64
     lec 8
     wt 168
     fc 2
     louvain 6
-    infomap 90
-    sgG1 11
-    sgG2 8
-    sgG5 43
+    infomap 92
+    sgG1 22
+    sgG2 32
+    sgG5 7
     fc2 30
-    sgG12 11
-    Spectral2 294
+    sgG12 21
     louvain2 21
-    lec2 4
-    wt2 167
+    Spectral25per2 21
+    Spectral5per2 1
   ]
   node
   [
     id 1196
     name "5718"
     Spectral 117
+    Spectral1per 14
+    Spectral25per 6
+    Spectral5per 4
+    Spectral05per 29
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 7
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 118
+    sgG12 15
     louvain2 16
-    lec2 64
-    wt2 21
+    Spectral25per2 7
+    Spectral5per2 4
   ]
   node
   [
     id 1197
     name "6529"
     Spectral 101
+    Spectral1per 14
+    Spectral25per 11
+    Spectral5per 4
+    Spectral05per 31
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 7
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 15
     louvain2 16
-    lec2 64
-    wt2 21
+    Spectral25per2 12
+    Spectral5per2 4
   ]
   node
   [
     id 1198
     name "57030"
     Spectral 101
+    Spectral1per 14
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 25
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 7
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 15
     louvain2 16
-    lec2 64
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 1199
     name "160"
     Spectral 101
+    Spectral1per 14
+    Spectral25per 7
+    Spectral5per 4
+    Spectral05per 25
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 7
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 102
+    sgG12 15
     louvain2 16
-    lec2 64
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 4
   ]
   node
   [
     id 1200
     name "246213"
     Spectral 153
+    Spectral1per 25
+    Spectral25per 10
+    Spectral5per 4
+    Spectral05per 27
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 7
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 154
+    sgG12 15
     louvain2 16
-    lec2 64
-    wt2 21
+    Spectral25per2 11
+    Spectral5per2 4
   ]
   node
   [
     id 1201
     name "9369"
     Spectral 72
+    Spectral1per 26
+    Spectral25per 7
+    Spectral5per 2
+    Spectral05per 15
     lec 5
     wt 22
     fc 9
     louvain 17
-    infomap 26
+    infomap 38
     sgG1 16
-    sgG2 38
-    sgG5 7
+    sgG2 26
+    sgG5 44
     fc2 5
-    sgG12 16
-    Spectral2 73
+    sgG12 15
     louvain2 16
-    lec2 64
-    wt2 21
+    Spectral25per2 8
+    Spectral5per2 2
   ]
   node
   [
     id 1202
     name "22883"
     Spectral 225
+    Spectral1per 40
+    Spectral25per 14
+    Spectral5per 8
+    Spectral05per 51
     lec 19
     wt 61
     fc 4
     louvain 15
-    infomap 29
-    sgG1 27
-    sgG2 44
-    sgG5 72
+    infomap 32
+    sgG1 23
+    sgG2 11
+    sgG5 35
     fc2 1
-    sgG12 26
-    Spectral2 226
+    sgG12 22
     louvain2 14
-    lec2 15
-    wt2 60
+    Spectral25per2 14
+    Spectral5per2 7
   ]
   node
   [
     id 1203
     name "114882"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 23
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 22
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1204
     name "114789"
     Spectral 98
+    Spectral1per 12
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 22
     lec 8
     wt 1
     fc 3
     louvain 6
-    infomap 53
-    sgG1 29
-    sgG2 11
-    sgG5 47
+    infomap 54
+    sgG1 8
+    sgG2 34
+    sgG5 64
     fc2 40
-    sgG12 28
-    Spectral2 99
+    sgG12 8
     louvain2 23
-    lec2 4
-    wt2 1
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 1205
     name "9118"
     Spectral 109
+    Spectral1per 12
+    Spectral25per 11
+    Spectral5per 5
+    Spectral05per 21
     lec 8
     wt 1
     fc 3
     louvain 6
-    infomap 53
-    sgG1 29
-    sgG2 11
-    sgG5 47
+    infomap 54
+    sgG1 8
+    sgG2 34
+    sgG5 64
     fc2 40
-    sgG12 28
-    Spectral2 110
+    sgG12 8
     louvain2 23
-    lec2 4
-    wt2 1
+    Spectral25per2 12
+    Spectral5per2 5
   ]
   node
   [
     id 1206
     name "81609"
     Spectral 7
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 55
     fc 3
     louvain 1
     infomap 56
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 1
-    lec2 70
-    wt2 54
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 1207
     name "9897"
     Spectral 7
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 55
     fc 3
     louvain 1
     infomap 56
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 1
-    lec2 70
-    wt2 54
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 1208
     name "760"
     Spectral 7
+    Spectral1per 5
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 55
     fc 3
     louvain 1
     infomap 56
-    sgG1 33
-    sgG2 7
-    sgG5 69
+    sgG1 8
+    sgG2 23
+    sgG5 8
     fc2 39
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 1
-    lec2 70
-    wt2 54
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 1209
     name "11076"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 93
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 92
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1210
     name "822"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 93
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 92
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1211
     name "6217"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 8
     wt 116
     fc 11
     louvain 3
-    infomap 50
-    sgG1 7
-    sgG2 11
-    sgG5 49
+    infomap 64
+    sgG1 26
+    sgG2 38
+    sgG5 51
     fc2 7
-    sgG12 7
-    Spectral2 289
+    sgG12 25
     louvain2 3
-    lec2 4
-    wt2 115
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1212
     name "6223"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 8
     wt 116
     fc 11
     louvain 3
-    infomap 50
-    sgG1 7
-    sgG2 11
-    sgG5 49
+    infomap 64
+    sgG1 26
+    sgG2 38
+    sgG5 51
     fc2 7
-    sgG12 7
-    Spectral2 289
+    sgG12 25
     louvain2 3
-    lec2 4
-    wt2 115
+    Spectral25per2 24
+    Spectral5per2 15
   ]
   node
   [
     id 1213
     name "3785"
     Spectral 162
+    Spectral1per 30
+    Spectral25per 13
+    Spectral5per 7
+    Spectral05per 38
     lec 8
     wt 169
     fc 10
     louvain 15
-    infomap 81
-    sgG1 24
-    sgG2 13
-    sgG5 1
+    infomap 82
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 23
-    Spectral2 163
+    sgG12 14
     louvain2 14
-    lec2 4
-    wt2 168
+    Spectral25per2 18
+    Spectral5per2 13
   ]
   node
   [
     id 1214
     name "488"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 8
     wt 79
     fc 1
     louvain 6
     infomap 49
-    sgG1 11
-    sgG2 8
-    sgG5 43
+    sgG1 22
+    sgG2 32
+    sgG5 7
     fc2 14
-    sgG12 11
-    Spectral2 304
+    sgG12 21
     louvain2 24
-    lec2 4
-    wt2 78
+    Spectral25per2 21
+    Spectral5per2 10
   ]
   node
   [
     id 1215
     name "501"
     Spectral 263
+    Spectral1per 49
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 63
     lec 20
     wt 95
     fc 1
     louvain 4
-    infomap 23
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 18
+    sgG1 5
+    sgG2 3
+    sgG5 78
     fc2 20
-    sgG12 31
-    Spectral2 304
+    sgG12 5
     louvain2 4
-    lec2 16
-    wt2 94
+    Spectral25per2 20
+    Spectral5per2 1
   ]
   node
   [
     id 1216
     name "829"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 54
     lec 18
     wt 35
     fc 4
     louvain 2
-    infomap 24
-    sgG1 9
-    sgG2 6
-    sgG5 38
+    infomap 26
+    sgG1 21
+    sgG2 37
+    sgG5 3
     fc2 1
-    sgG12 9
-    Spectral2 247
+    sgG12 20
     louvain2 2
-    lec2 14
-    wt2 34
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1217
     name "10694"
     Spectral 107
+    Spectral1per 13
+    Spectral25per 6
+    Spectral5per 5
+    Spectral05per 20
     lec 14
     wt 3
     fc 4
     louvain 14
     infomap 47
-    sgG1 15
-    sgG2 4
-    sgG5 64
+    sgG1 18
+    sgG2 25
+    sgG5 59
     fc2 1
-    sgG12 15
-    Spectral2 108
+    sgG12 17
     louvain2 13
-    lec2 10
-    wt2 3
+    Spectral25per2 7
+    Spectral5per2 5
   ]
   node
   [
     id 1218
     name "6576"
     Spectral 10
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 8
     lec 25
     wt 38
     fc 10
     louvain 15
-    infomap 109
-    sgG1 27
-    sgG2 20
-    sgG5 48
+    infomap 110
+    sgG1 15
+    sgG2 29
+    sgG5 76
     fc2 6
-    sgG12 26
-    Spectral2 11
+    sgG12 14
     louvain2 14
-    lec2 21
-    wt2 37
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 1219
     name "10322"
     Spectral 246
+    Spectral1per 45
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 63
     lec 7
     wt 13
     fc 1
     louvain 8
     infomap 61
-    sgG1 1
-    sgG2 8
-    sgG5 16
+    sgG1 14
+    sgG2 24
+    sgG5 2
     fc2 21
-    sgG12 1
-    Spectral2 247
+    sgG12 29
     louvain2 7
-    lec2 3
-    wt2 186
+    Spectral25per2 21
+    Spectral5per2 9
   ]
   node
   [
     id 1220
     name "25851"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 6
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1221
     name "84364"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 6
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1222
     name "5122"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 6
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 6
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1223
     name "309"
     Spectral 263
+    Spectral1per 41
+    Spectral25per 17
+    Spectral5per 10
+    Spectral05per 55
     lec 2
     wt 107
     fc 2
     louvain 9
-    infomap 119
-    sgG1 14
-    sgG2 12
-    sgG5 36
+    infomap 123
+    sgG1 10
+    sgG2 30
+    sgG5 45
     fc2 26
-    sgG12 14
-    Spectral2 309
+    sgG12 10
     louvain2 8
-    lec2 47
-    wt2 106
+    Spectral25per2 17
+    Spectral5per2 9
   ]
   node
   [
     id 1224
     name "79784"
     Spectral 263
+    Spectral1per 46
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 61
     lec 2
     wt 107
     fc 2
     louvain 9
-    infomap 119
-    sgG1 14
-    sgG2 12
-    sgG5 36
+    infomap 123
+    sgG1 10
+    sgG2 30
+    sgG5 45
     fc2 26
-    sgG12 14
-    Spectral2 309
+    sgG12 10
     louvain2 8
-    lec2 47
-    wt2 106
+    Spectral25per2 21
+    Spectral5per2 15
   ]
   node
   [
     id 1225
     name "492"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 1
     wt 23
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 38
-    wt2 22
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1226
     name "134957"
     Spectral 246
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 64
     lec 4
     wt 73
     fc 1
     louvain 14
-    infomap 35
-    sgG1 32
-    sgG2 8
-    sgG5 45
+    infomap 37
+    sgG1 5
+    sgG2 14
+    sgG5 53
     fc2 19
-    sgG12 31
-    Spectral2 247
+    sgG12 5
     louvain2 13
-    lec2 55
-    wt2 72
+    Spectral25per2 20
+    Spectral5per2 10
   ]
   node
   [
     id 1227
     name "477"
     Spectral 48
+    Spectral1per 7
+    Spectral25per 1
+    Spectral5per 1
+    Spectral05per 13
     lec 1
     wt 15
     fc 6
     louvain 6
     infomap 48
-    sgG1 8
-    sgG2 1
-    sgG5 19
+    sgG1 23
+    sgG2 18
+    sgG5 65
     fc2 42
-    sgG12 8
-    Spectral2 49
+    sgG12 22
     louvain2 25
-    lec2 37
-    wt2 14
+    Spectral25per2 2
+    Spectral5per2 11
   ]
   node
   [
     id 1228
     name "51004"
     Spectral 7
+    Spectral1per 6
+    Spectral25per 4
+    Spectral5per 1
+    Spectral05per 6
     lec 5
     wt 69
     fc 6
     louvain 13
-    infomap 129
-    sgG1 33
-    sgG2 23
-    sgG5 40
+    infomap 134
+    sgG1 8
+    sgG2 41
+    sgG5 67
     fc2 43
-    sgG12 32
-    Spectral2 8
+    sgG12 8
     louvain2 12
-    lec2 63
-    wt2 68
+    Spectral25per2 5
+    Spectral5per2 12
   ]
   node
   [
     id 1229
     name "5902"
     Spectral 1
+    Spectral1per 1
+    Spectral25per 2
+    Spectral5per 1
+    Spectral05per 1
     lec 3
     wt 170
     fc 11
     louvain 18
-    infomap 11
-    sgG1 7
-    sgG2 14
-    sgG5 73
+    infomap 10
+    sgG1 26
+    sgG2 38
+    sgG5 19
     fc2 7
-    sgG12 7
-    Spectral2 2
+    sgG12 25
     louvain2 17
-    lec2 1
-    wt2 169
+    Spectral25per2 3
+    Spectral5per2 12
   ]
   node
   [
     id 1230
     name "10128"
     Spectral 103
+    Spectral1per 11
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 22
     lec 7
     wt 67
     fc 6
     louvain 3
-    infomap 123
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    infomap 128
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 104
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 66
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 1231
     name "56829"
     Spectral 122
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 5
+    Spectral05per 18
     lec 4
     wt 171
     fc 2
     louvain 5
-    infomap 8
-    sgG1 27
-    sgG2 3
-    sgG5 57
+    infomap 12
+    sgG1 15
+    sgG2 15
+    sgG5 54
     fc2 27
-    sgG12 26
-    Spectral2 123
+    sgG12 14
     louvain2 5
-    lec2 50
-    wt2 170
+    Spectral25per2 6
+    Spectral5per2 5
   ]
   node
   [
     id 1232
     name "23637"
     Spectral 88
+    Spectral1per 10
+    Spectral25per 6
+    Spectral5per 3
+    Spectral05per 14
     lec 7
     wt 114
     fc 5
     louvain 10
     infomap 57
-    sgG1 5
-    sgG2 1
-    sgG5 13
+    sgG1 23
+    sgG2 18
+    sgG5 62
     fc2 2
-    sgG12 5
-    Spectral2 89
+    sgG12 22
     louvain2 9
-    lec2 3
-    wt2 113
+    Spectral25per2 7
+    Spectral5per2 3
   ]
   node
   [
     id 1233
     name "26056"
     Spectral 85
+    Spectral1per 15
+    Spectral25per 11
+    Spectral5per 3
+    Spectral05per 27
     lec 5
     wt 131
     fc 6
     louvain 1
-    infomap 84
-    sgG1 26
-    sgG2 22
-    sgG5 19
+    infomap 85
+    sgG1 25
+    sgG2 42
+    sgG5 89
     fc2 48
-    sgG12 25
-    Spectral2 86
+    sgG12 24
     louvain2 1
-    lec2 71
-    wt2 130
+    Spectral25per2 12
+    Spectral5per2 3
   ]
   node
   [
     id 1234
     name "200186"
     Spectral 263
+    Spectral1per 44
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 62
     lec 20
     wt 51
     fc 13
     louvain 4
-    infomap 76
-    sgG1 17
-    sgG2 36
-    sgG5 3
+    infomap 73
+    sgG1 10
+    sgG2 12
+    sgG5 15
     fc2 9
-    sgG12 36
-    Spectral2 296
+    sgG12 10
     louvain2 4
-    lec2 16
-    wt2 50
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 1235
     name "22843"
     Spectral 263
+    Spectral1per 48
+    Spectral25per 18
+    Spectral5per 11
+    Spectral05per 67
     lec 20
     wt 51
     fc 13
     louvain 4
-    infomap 76
-    sgG1 17
-    sgG2 36
-    sgG5 3
+    infomap 73
+    sgG1 10
+    sgG2 12
+    sgG5 15
     fc2 9
-    sgG12 36
-    Spectral2 296
+    sgG12 10
     louvain2 4
-    lec2 16
-    wt2 50
+    Spectral25per2 20
+    Spectral5per2 16
   ]
   node
   [
     id 1236
     name "51382"
     Spectral 155
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 15
     lec 5
     wt 64
     fc 13
     louvain 1
-    infomap 76
-    sgG1 20
-    sgG2 22
-    sgG5 21
+    infomap 73
+    sgG1 10
+    sgG2 42
+    sgG5 90
     fc2 9
-    sgG12 19
-    Spectral2 156
+    sgG12 10
     louvain2 1
-    lec2 62
-    wt2 63
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 1237
     name "4082"
     Spectral 246
+    Spectral1per 41
+    Spectral25per 18
+    Spectral5per 12
+    Spectral05per 55
     lec 20
     wt 13
     fc 1
     louvain 4
-    infomap 1
-    sgG1 17
-    sgG2 15
-    sgG5 45
+    infomap 4
+    sgG1 14
+    sgG2 28
+    sgG5 78
     fc2 15
-    sgG12 39
-    Spectral2 247
+    sgG12 27
     louvain2 4
-    lec2 16
-    wt2 172
+    Spectral25per2 22
+    Spectral5per2 10
   ]
   node
   [
     id 1238
     name "29925"
     Spectral 127
+    Spectral1per 11
+    Spectral25per 5
+    Spectral5per 6
+    Spectral05per 18
     lec 4
     wt 77
     fc 10
     louvain 15
-    infomap 128
-    sgG1 27
-    sgG2 13
-    sgG5 1
+    infomap 133
+    sgG1 15
+    sgG2 29
+    sgG5 68
     fc2 6
-    sgG12 26
-    Spectral2 128
+    sgG12 14
     louvain2 14
-    lec2 60
-    wt2 76
+    Spectral25per2 6
+    Spectral5per2 6
   ]
   node
   [
     id 1239
     name "64342"
     Spectral 59
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 5
+    Spectral05per 32
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 60
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 5
   ]
   node
   [
     id 1240
     name "4507"
     Spectral 60
+    Spectral1per 28
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 29
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 61
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 1241
     name "4677"
     Spectral 70
+    Spectral1per 10
+    Spectral25per 12
+    Spectral5per 2
+    Spectral05per 17
     lec 7
     wt 15
     fc 6
     louvain 3
     infomap 3
-    sgG1 8
-    sgG2 1
-    sgG5 80
+    sgG1 23
+    sgG2 18
+    sgG5 34
     fc2 44
-    sgG12 8
-    Spectral2 71
+    sgG12 22
     louvain2 3
-    lec2 3
-    wt2 14
+    Spectral25per2 13
+    Spectral5per2 2
   ]
   node
   [
     id 1242
     name "483"
     Spectral 246
+    Spectral1per 43
+    Spectral25per 18
+    Spectral5per 10
+    Spectral05per 59
     lec 7
     wt 13
     fc 1
     louvain 8
     infomap 61
-    sgG1 1
-    sgG2 8
-    sgG5 16
+    sgG1 14
+    sgG2 24
+    sgG5 2
     fc2 21
-    sgG12 1
-    Spectral2 247
+    sgG12 29
     louvain2 7
-    lec2 3
-    wt2 186
+    Spectral25per2 21
+    Spectral5per2 9
   ]
   edge
   [
