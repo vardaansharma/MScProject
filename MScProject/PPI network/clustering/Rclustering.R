@@ -37,99 +37,153 @@ ids <- V(gg)$name;
 #---
 library(CDMSuite)
 
-#0.25 SPECTRAL
-Cnmin <- (0.25 * length(V(gg)))/100 #can set the minimum community size
+Cnmin <- 1 #(0.25 * length(V(gg)))/100 #can set the minimum community size
 el    <- as.data.frame(get.edgelist(gg,names=T))
 spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
 mem   <- spec$K[match(V(gg)$name,spec$ID)]
-gg    <- igraph::set.vertex.attribute(gg,"Spectral_025",V(gg), mem)
+gg    <- igraph::set.vertex.attribute(gg,"Spectral",V(gg), mem)
 #saving the Spectral clustering to a file
 cc <- matrix(NA, ncol=2, nrow=length(ids))
 cc[,1] <- as.character(V(gg)$name)
-cc[,2] <- as.character(V(gg)$Spectral_025)
+cc[,2] <- as.character(V(gg)$Spectral)
 cc <- as.data.frame(cc)
-outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,Cnmin),"w")
+outfile <- file(sprintf("%s/spectral_communities.csv",cldir),"w")
 cat("#communities",file=outfile,"\n")
 write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
 close(outfile);
 
+spec_per = c(1,2.5,5,0.5)
+spec_per_fn = c('1','2.5','5','05')
 
-#0.1 SPECTRAL
-Cnmin <- (1 * length(V(gg)))/100 #can set the minimum community size
-el    <- as.data.frame(get.edgelist(gg,names=T))
-spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
-mem   <- spec$K[match(V(gg)$name,spec$ID)]
-gg    <- igraph::set.vertex.attribute(gg,"Spectral_1",V(gg), mem)
-#saving the Spectral clustering to a file
-cc <- matrix(NA, ncol=2, nrow=length(ids))
-cc[,1] <- as.character(V(gg)$name)
-cc[,2] <- as.character(V(gg)$Spectral_1)
-cc <- as.data.frame(cc)
-outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,Cnmin),"w")
-cat("#communities",file=outfile,"\n")
-write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
-close(outfile);
+for (i in 1:length(spec_per)) {
+  
+  Cnmin <- (spec_per[i] * length(V(gg)))/100 #can set the minimum community size
+  Cnminper <- 1
+  el    <- as.data.frame(get.edgelist(gg,names=T))
+  spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
+  mem   <- spec$K[match(V(gg)$name,spec$ID)]
+  gg_attr <- sprintf("Spectral%sper",spec_per_fn[i])
+  gg    <- igraph::set.vertex.attribute(gg,gg_attr,V(gg), mem)
+  #saving the Spectral clustering to a file
+  cc <- matrix(NA, ncol=2, nrow=length(ids))
+  cc[,1] <- as.character(V(gg)$name)
+  cc[,2] <- as.character(vertex_attr(gg,gg_attr)      )#V(gg)$Spectral)
+  cc <- as.data.frame(cc)
+  outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,spec_per_fn[i]),"w")
+  cat("#communities",file=outfile,"\n")
+  write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+  close(outfile);
+}
 
-
-
-
-
-# #---
-# # Run lec Clustering
-# # No parameters to tune here
-# ptm <- proc.time()
-# lec     <- igraph::leading.eigenvector.community(gg) 
-# ll      <- igraph::leading.eigenvector.community(gg, start=membership(lec))
-# pet <- proc.time() - ptm
-# cat("lec \n")
-# cat(sprintf("time = %.3f \n", pet[[1]]))
-# cat(sprintf("mod=%.3f \n",max(lec$modularity)))
-# cat("---\n")
-# cc      <- matrix(NA, ncol=2, nrow=length(ids))
-# cc[,1]  <- as.character(ll$names)
-# cc[,2]  <- as.character(ll$membership)
-# cc      <- as.data.frame(cc)
-# outfile <- file(sprintf("%s/lec_communities.csv",cldir),"w")
+# #1% SPECTRAL
+# Cnmin <- (1 * length(V(gg)))/100 #can set the minimum community size
+# Cnminper <- 1
+# el    <- as.data.frame(get.edgelist(gg,names=T))
+# spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
+# mem   <- spec$K[match(V(gg)$name,spec$ID)]
+# gg    <- igraph::set.vertex.attribute(gg,"Spectral_1",V(gg), mem)
+# #saving the Spectral clustering to a file
+# cc <- matrix(NA, ncol=2, nrow=length(ids))
+# cc[,1] <- as.character(V(gg)$name)
+# cc[,2] <- as.character(V(gg)$Spectral_1)
+# cc <- as.data.frame(cc)
+# outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,Cnminper),"w")
 # cat("#communities",file=outfile,"\n")
 # write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
 # close(outfile);
-# #---
-# igraph::set.vertex.attribute(gg,"lec",V(gg),NA)
-# for( i in 1:length(ids) ){
-#   ind1 = which(cc[,1]==ids[i])
-#   Str <- "";
-#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-#   V(gg)[i]$lec = as.integer(Str); 
-# }
+# 
+# #1.5% SPECTRAL
+# Cnmin <- (1.25 * length(V(gg)))/100 #can set the minimum community size
+# Cnminper <- 1.25
+# el    <- as.data.frame(get.edgelist(gg,names=T))
+# spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
+# mem   <- spec$K[match(V(gg)$name,spec$ID)]
+# gg    <- igraph::set.vertex.attribute(gg,"Spectral_1.25",V(gg), mem)
+# #saving the Spectral clustering to a file
+# cc <- matrix(NA, ncol=2, nrow=length(ids))
+# cc[,1] <- as.character(V(gg)$name)
+# cc[,2] <- as.character(V(gg)$Spectral_1.25)
+# cc <- as.data.frame(cc)
+# outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,Cnminper),"w")
+# cat("#communities",file=outfile,"\n")
+# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+# close(outfile);
+# 
+# #1.5% SPECTRAL
+# Cnmin <- (1.5 * length(V(gg)))/100 #can set the minimum community size
+# Cnminper <- 1.5
+# el    <- as.data.frame(get.edgelist(gg,names=T))
+# spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
+# mem   <- spec$K[match(V(gg)$name,spec$ID)]
+# gg    <- igraph::set.vertex.attribute(gg,"Spectral_1.5",V(gg), mem)
+# #saving the Spectral clustering to a file
+# cc <- matrix(NA, ncol=2, nrow=length(ids))
+# cc[,1] <- as.character(V(gg)$name)
+# cc[,2] <- as.character(V(gg)$Spectral_1.5)
+# cc <- as.data.frame(cc)
+# outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,Cnminper),"w")
+# cat("#communities",file=outfile,"\n")
+# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+# close(outfile);
+
+
+
+#---
+# Run lec Clustering
+# No parameters to tune here
+ptm <- proc.time()
+lec     <- igraph::leading.eigenvector.community(gg)
+ll      <- igraph::leading.eigenvector.community(gg, start=membership(lec))
+pet <- proc.time() - ptm
+cat("lec \n")
+cat(sprintf("time = %.3f \n", pet[[1]]))
+cat(sprintf("mod=%.3f \n",max(lec$modularity)))
+cat("---\n")
+cc      <- matrix(NA, ncol=2, nrow=length(ids))
+cc[,1]  <- as.character(ll$names)
+cc[,2]  <- as.character(ll$membership)
+cc      <- as.data.frame(cc)
+outfile <- file(sprintf("%s/lec_communities.csv",cldir),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+#---
+igraph::set.vertex.attribute(gg,"lec",V(gg),NA)
+for( i in 1:length(ids) ){
+  ind1 = which(cc[,1]==ids[i])
+  Str <- "";
+  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+  V(gg)[i]$lec = as.integer(Str);
+}
 # #---
 # 
 # #---
-# # Run wt Clustering
-# #Parameters:
-# #Steps=4, optimal value as discussed in paper.
-# ptm <- proc.time()
-# wt  <- igraph::walktrap.community(gg)
-# pet <- proc.time() - ptm
-# cat("wt \n")
-# cat(sprintf("time = %.3f \n", pet[[1]]))
-# cat(sprintf("mod=%.3f \n",max(wt$modularity)))
-# cat("---\n")
-# cc      <- matrix(NA, ncol=2, nrow=length(ids))
-# cc[,1]  <- as.character(wt$names)
-# cc[,2]  <- as.character(wt$membership)
-# cc      <- as.data.frame(cc)
-# outfile <- file(sprintf("%s/wt_communities.csv",cldir),"w")
-# cat("#communities",file=outfile,"\n")
-# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
-# close(outfile);
-# #---
-# igraph::set.vertex.attribute(gg,"wt",V(gg),NA)
-# for( i in 1:length(ids) ){
-#   ind1 = which(cc[,1]==ids[i])
-#   Str <- "";
-#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-#   V(gg)[i]$wt = as.integer(Str); 
-# }
+# Run wt Clustering
+#Parameters:
+#Steps=4, optimal value as discussed in paper.
+ptm <- proc.time()
+wt  <- igraph::walktrap.community(gg)
+pet <- proc.time() - ptm
+cat("wt \n")
+cat(sprintf("time = %.3f \n", pet[[1]]))
+cat(sprintf("mod=%.3f \n",max(wt$modularity)))
+cat("---\n")
+cc      <- matrix(NA, ncol=2, nrow=length(ids))
+cc[,1]  <- as.character(wt$names)
+cc[,2]  <- as.character(wt$membership)
+cc      <- as.data.frame(cc)
+outfile <- file(sprintf("%s/wt_communities.csv",cldir),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+#---
+igraph::set.vertex.attribute(gg,"wt",V(gg),NA)
+for( i in 1:length(ids) ){
+  ind1 = which(cc[,1]==ids[i])
+  Str <- "";
+  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+  V(gg)[i]$wt = as.integer(Str);
+}
 # #---
 # 
 # #---
@@ -156,66 +210,63 @@ for( i in 1:length(ids) ){
   ind1 = which(cc[,1]==ids[i])
   Str <- "";
   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-  V(gg)[i]$fc = as.integer(Str); 
+  V(gg)[i]$fc = as.integer(Str);
 }
-#---
-# #---
-#>>>>>>> 968aedd3e0e59ded5ca025555a5079e94f05dcb1
-# 
-# #---
+
+
 # # Run louvain Clustering
-# ptm <- proc.time()
-# louvain <- igraph::cluster_louvain(gg)
-# pet <- proc.time() - ptm
-# cat("louvain \n")
-# cat(sprintf("time = %.3f \n", pet[[1]]))
-# cat(sprintf("mod=%.3f \n",max(louvain$modularity)))
-# cat("---\n")
-# cc       <- matrix(NA, ncol=2, nrow=length(ids))
-# cc[,1]   <- as.character(louvain$names)
-# cc[,2]   <- as.character(louvain$membership)
-# cc       <- as.data.frame(cc)
-# outfile  <- file(sprintf("%s/louvain_communities.csv",cldir),"w")
-# cat("#communities",file=outfile,"\n")
-# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
-# close(outfile);
-# #---
-# #Save in graph 
-# igraph::set.vertex.attribute(gg,"louvain",V(gg),NA)
-# for( i in 1:length(ids) ){
-#   ind1 = which(cc[,1]==ids[i])
-#   Str <- "";
-#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-#   V(gg)[i]$louvain = as.integer(Str); 
-# }
+ptm <- proc.time()
+louvain <- igraph::cluster_louvain(gg)
+pet <- proc.time() - ptm
+cat("louvain \n")
+cat(sprintf("time = %.3f \n", pet[[1]]))
+cat(sprintf("mod=%.3f \n",max(louvain$modularity)))
+cat("---\n")
+cc       <- matrix(NA, ncol=2, nrow=length(ids))
+cc[,1]   <- as.character(louvain$names)
+cc[,2]   <- as.character(louvain$membership)
+cc       <- as.data.frame(cc)
+outfile  <- file(sprintf("%s/louvain_communities.csv",cldir),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+#---
+#Save in graph
+igraph::set.vertex.attribute(gg,"louvain",V(gg),NA)
+for( i in 1:length(ids) ){
+  ind1 = which(cc[,1]==ids[i])
+  Str <- "";
+  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+  V(gg)[i]$louvain = as.integer(Str);
+}
 # #---
 # 
 # 
 # #---
 # # Run infomap Clustering
-# ptm <- proc.time()
-# infomap <- igraph::cluster_infomap(gg)
-# pet <- proc.time() - ptm
-# cat("infomap \n")
-# cat(sprintf("time = %.3f \n", pet[[1]]))
-# cat("---\n")
-# cc       <- matrix(NA, ncol=2, nrow=length(ids))
-# cc[,1]   <- as.character(infomap$names)
-# cc[,2]   <- as.character(infomap$membership)
-# cc       <- as.data.frame(cc)
-# outfile  <- file(sprintf("%s/infomap_communities.csv",cldir),"w")
-# cat("#communities",file=outfile,"\n")
-# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
-# close(outfile);
-# #---
-# #Save in graph 
-# igraph::set.vertex.attribute(gg,"infomap",V(gg),NA)
-# for( i in 1:length(ids) ){
-#   ind1 = which(cc[,1]==ids[i])
-#   Str <- "";
-#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-#   V(gg)[i]$infomap = as.integer(Str); 
-# }
+ptm <- proc.time()
+infomap <- igraph::cluster_infomap(gg)
+pet <- proc.time() - ptm
+cat("infomap \n")
+cat(sprintf("time = %.3f \n", pet[[1]]))
+cat("---\n")
+cc       <- matrix(NA, ncol=2, nrow=length(ids))
+cc[,1]   <- as.character(infomap$names)
+cc[,2]   <- as.character(infomap$membership)
+cc       <- as.data.frame(cc)
+outfile  <- file(sprintf("%s/infomap_communities.csv",cldir),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+#---
+#Save in graph
+igraph::set.vertex.attribute(gg,"infomap",V(gg),NA)
+for( i in 1:length(ids) ){
+  ind1 = which(cc[,1]==ids[i])
+  Str <- "";
+  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+  V(gg)[i]$infomap = as.integer(Str);
+}
 # #---
 # 
 #---
@@ -263,63 +314,63 @@ for( i in 1:length(ids) ){
 # 
 # #---
 # # Run sgG2 Clustering    
-# ptm <- proc.time()
-# sg  <- igraph::spinglass.community(gg, spins=as.numeric(500),gamma=2)
-# pet <- proc.time() - ptm
-# cat("sgG2 \n")
-# cat(sprintf("time = %.3f \n", pet[[1]]))
-# cat(sprintf("mod=%.3f \n",sg$modularity))
-# cat("---\n")
-# cc      <- matrix(NA, ncol=2, nrow=length(sg$names))
-# cc[,1]  <- as.character(sg$names)
-# cc[,2]  <- as.character(sg$membership)
-# cc      <- as.data.frame(cc)
-# outfile <- file(sprintf("%s/sgG2_communities.csv",cldir),"w")
-# cat("#communities",file=outfile,"\n")
-# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
-# close(outfile);
-# #---
-# igraph::set.vertex.attribute(gg,"sgG2",V(gg),0)
-# for( i in 1:length(ids) ){
-#   ind1 = which(cc[,1]==ids[i])
-#   Str <- "";
-#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-#   V(gg)[i]$sgG2 = as.integer(Str); 
-# }
+ptm <- proc.time()
+sg  <- igraph::spinglass.community(gg, spins=as.numeric(500),gamma=2)
+pet <- proc.time() - ptm
+cat("sgG2 \n")
+cat(sprintf("time = %.3f \n", pet[[1]]))
+cat(sprintf("mod=%.3f \n",sg$modularity))
+cat("---\n")
+cc      <- matrix(NA, ncol=2, nrow=length(sg$names))
+cc[,1]  <- as.character(sg$names)
+cc[,2]  <- as.character(sg$membership)
+cc      <- as.data.frame(cc)
+outfile <- file(sprintf("%s/sgG2_communities.csv",cldir),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+#---
+igraph::set.vertex.attribute(gg,"sgG2",V(gg),0)
+for( i in 1:length(ids) ){
+  ind1 = which(cc[,1]==ids[i])
+  Str <- "";
+  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+  V(gg)[i]$sgG2 = as.integer(Str);
+}
 # #---
 # 
 # #---
 # # Run sgG5 Clustering 
-# ptm <- proc.time()
-# sg  <- igraph::spinglass.community(gg, spins=as.numeric(500),gamma=5)
-# pet <- proc.time() - ptm
-# cat("sgG5 \n")
-# cat(sprintf("time = %.3f \n", pet[[1]]))
-# cat(sprintf("mod=%.3f \n",sg$modularity))
-# cat("---\n")
-# cc      <- matrix(NA, ncol=2, nrow=length(sg$names))
-# cc[,1]  <- as.character(sg$names)
-# cc[,2]  <- as.character(sg$membership)
-# cc      <- as.data.frame(cc)
-# outfile <- file(sprintf("%s/sgG5_communities.csv",cldir),"w")
-# cat("#communities",file=outfile,"\n")
-# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
-# close(outfile);
-# #---
-# igraph::set.vertex.attribute(gg,"sgG5",V(gg),0)
-# for( i in 1:length(ids) ){
-#   ind1 = which(cc[,1]==ids[i])
-#   Str <- "";
-#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-#   V(gg)[i]$sgG5 = as.integer(Str); 
-# }
+ptm <- proc.time()
+sg  <- igraph::spinglass.community(gg, spins=as.numeric(500),gamma=5)
+pet <- proc.time() - ptm
+cat("sgG5 \n")
+cat(sprintf("time = %.3f \n", pet[[1]]))
+cat(sprintf("mod=%.3f \n",sg$modularity))
+cat("---\n")
+cc      <- matrix(NA, ncol=2, nrow=length(sg$names))
+cc[,1]  <- as.character(sg$names)
+cc[,2]  <- as.character(sg$membership)
+cc      <- as.data.frame(cc)
+outfile <- file(sprintf("%s/sgG5_communities.csv",cldir),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+#---
+igraph::set.vertex.attribute(gg,"sgG5",V(gg),0)
+for( i in 1:length(ids) ){
+  ind1 = which(cc[,1]==ids[i])
+  Str <- "";
+  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+  V(gg)[i]$sgG5 = as.integer(Str);
+}
 # #---
 # 
 # }#run
 # 
-# ##---Write .gml graph to file
-# igraph::write.graph(gg, sprintf("%s/%s.gml",grdir,subDIR[S]), "gml")
-# ##---Write .graphml graph to file
-# igraph::write.graph(gg, sprintf("%s/%s.graphml",grdir,subDIR[S]), "graphml")
+##---Write .gml graph to file
+igraph::write.graph(gg, sprintf("%s/%s.gml",grdir,subDIR[S]), "gml")
+##---Write .graphml graph to file
+igraph::write.graph(gg, sprintf("%s/%s.graphml",grdir,subDIR[S]), "graphml")
 # 
 # 

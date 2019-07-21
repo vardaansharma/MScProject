@@ -3,7 +3,7 @@ rm(list=ls())
 #Set the absolute path to this working directory
 version="17_05_2019"
 #mainDir <- sprintf("/afs/inf.ed.ac.uk/user/c/cmclean5/WORK/DATA/Human_synaptosome_%s",version)
-mainDir <- "C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/clustering"
+#mainDir <- "C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/clustering"
 mainDir <- "/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/PPI network/clustering"
 
 
@@ -37,7 +37,7 @@ ALGS[3]  <- "sgG2"
 ALGS[4]  <- "sgG5"
 ALGS[5]  <- "Spectral"#
 ALGS[6]  <- "louvain"#
-ALGS[7]  <- "infomap"
+ALGS[7]  <- "infomap"#
 ALGS[8]  <- "lec"
 ALGS[9]  <- "wt"
 ALGS[10] <- "SVI"
@@ -46,7 +46,7 @@ ALGS[12] <- "Geodesic"
 ALGS[13] <- "CONSENSUS"
 ALGS[14] <- "louvain2"
 ALGS[15] <- "Spectral1per"
-ALGS[16] <- "Spectral25per"
+ALGS[16] <- "Spectral25per"#
 ALGS[17] <- "Spectral5per"
 ALGS[18] <- "fc2"
 ALGS[19] <- "lec2"
