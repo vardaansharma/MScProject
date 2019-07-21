@@ -290,13 +290,13 @@ gg  <- igraph::read.graph(sprintf("%s/%s.gml",grdir,subDIR[S]),format="gml")
 ids <- V(gg)$name;
 
 #set a maximum community size, i.e. 10% of the networks size
-CnMAX <- floor((10*length(V(gg)))/100)
+CnMAX <- floor((5*length(V(gg)))/100)
 
 cat("> CnMAX = ", CnMAX,"\n")
 
 #For example, lets runn over these clustering methods
-ALGN <- ALGS[c(1,2,3,4,6,7,15,16,17,22)]
-# ALGN <- ALGS[c(7,17)]
+# ALGN <- ALGS[c(1,2,3,4,6,7,15,16,17,22)]
+ALGN <- ALGS[c(15)]
 
 
 for( a in 1:length(ALGN) ){
@@ -326,8 +326,8 @@ for( a in 1:length(ALGN) ){
         cc[,2]  <- as.character(oo[,4])
         cc      <- as.data.frame(cc)
         # cat(ALGN2)
-        outfile <- file(sprintf("%s/%s_communities.csv",cldir,ALGN2),"w")
-        # outfile <- file(sprintf("%s/%s_communities_cnmax%s.csv",cldir,ALGN2,CnMAX),"w")
+        outfile <- file(sprintf("%s/%s_communities_cnmax5.csv",cldir,ALGN2),"w")
+        # outfile <- file(sprintf("%s/%s_communities_cnmax%s_cmax5.csv",cldir,ALGN2,CnMAX),"w")
         cat("#communities",file=outfile,"\n")
         write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
         close(outfile);

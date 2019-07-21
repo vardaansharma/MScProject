@@ -1,4 +1,4 @@
-Creator "igraph version 1.2.4 Sun Jul 21 13:47:18 2019"
+Creator "igraph version 1.2.4 Sun Jul 21 18:33:32 2019"
 Version 1
 graph
 [
@@ -25,6 +25,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 6
   ]
   node
   [
@@ -48,6 +49,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -71,6 +73,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -94,6 +97,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -117,6 +121,7 @@ graph
     louvain2 12
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -140,6 +145,7 @@ graph
     louvain2 25
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -163,6 +169,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -186,6 +193,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 24
   ]
   node
   [
@@ -209,6 +217,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 24
   ]
   node
   [
@@ -232,6 +241,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 24
   ]
   node
   [
@@ -255,6 +265,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -278,6 +289,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 24
   ]
   node
   [
@@ -301,6 +313,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -324,6 +337,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -347,6 +361,7 @@ graph
     louvain2 10
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 17
   ]
   node
   [
@@ -370,6 +385,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 24
   ]
   node
   [
@@ -393,6 +409,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -416,6 +433,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -439,6 +457,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 21
   ]
   node
   [
@@ -462,6 +481,7 @@ graph
     louvain2 16
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 44
   ]
   node
   [
@@ -485,6 +505,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 14
   ]
   node
   [
@@ -508,6 +529,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -531,6 +553,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -554,6 +577,7 @@ graph
     louvain2 9
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 6
   ]
   node
   [
@@ -577,6 +601,7 @@ graph
     louvain2 12
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 18
   ]
   node
   [
@@ -600,6 +625,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -623,6 +649,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -646,6 +673,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 1
   ]
   node
   [
@@ -669,6 +697,7 @@ graph
     louvain2 9
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -692,6 +721,7 @@ graph
     louvain2 13
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 13
   ]
   node
   [
@@ -715,6 +745,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -738,6 +769,7 @@ graph
     louvain2 9
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -761,6 +793,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -784,6 +817,7 @@ graph
     louvain2 21
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -807,6 +841,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -830,6 +865,7 @@ graph
     louvain2 21
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -853,6 +889,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 22
   ]
   node
   [
@@ -876,6 +913,7 @@ graph
     louvain2 14
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 53
   ]
   node
   [
@@ -899,6 +937,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -922,6 +961,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -945,6 +985,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -968,6 +1009,7 @@ graph
     louvain2 13
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -991,6 +1033,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -1014,6 +1057,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -1037,6 +1081,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -1060,6 +1105,7 @@ graph
     louvain2 7
     Spectral25per2 21
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -1083,6 +1129,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -1106,6 +1153,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -1129,6 +1177,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -1152,6 +1201,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -1175,6 +1225,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -1198,6 +1249,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -1221,6 +1273,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -1244,6 +1297,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -1267,6 +1321,7 @@ graph
     louvain2 3
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -1290,6 +1345,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -1313,6 +1369,7 @@ graph
     louvain2 14
     Spectral25per2 21
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -1336,6 +1393,7 @@ graph
     louvain2 15
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -1359,6 +1417,7 @@ graph
     louvain2 14
     Spectral25per2 21
     Spectral5per2 16
+    Spectral1per2 41
   ]
   node
   [
@@ -1382,6 +1441,7 @@ graph
     louvain2 14
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 22
   ]
   node
   [
@@ -1405,6 +1465,7 @@ graph
     louvain2 14
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -1428,6 +1489,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -1451,6 +1513,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 6
+    Spectral1per2 12
   ]
   node
   [
@@ -1474,6 +1537,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -1497,6 +1561,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -1520,6 +1585,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -1543,6 +1609,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -1566,6 +1633,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 38
   ]
   node
   [
@@ -1589,6 +1657,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 24
   ]
   node
   [
@@ -1612,6 +1681,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 3
+    Spectral1per2 21
   ]
   node
   [
@@ -1635,6 +1705,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -1658,6 +1729,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -1681,6 +1753,7 @@ graph
     louvain2 1
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 22
   ]
   node
   [
@@ -1704,6 +1777,7 @@ graph
     louvain2 5
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -1727,6 +1801,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -1750,6 +1825,7 @@ graph
     louvain2 12
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -1773,6 +1849,7 @@ graph
     louvain2 1
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 22
   ]
   node
   [
@@ -1796,6 +1873,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 23
   ]
   node
   [
@@ -1819,6 +1897,7 @@ graph
     louvain2 1
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 28
   ]
   node
   [
@@ -1842,6 +1921,7 @@ graph
     louvain2 25
     Spectral25per2 2
     Spectral5per2 11
+    Spectral1per2 7
   ]
   node
   [
@@ -1865,6 +1945,7 @@ graph
     louvain2 1
     Spectral25per2 8
     Spectral5per2 2
+    Spectral1per2 27
   ]
   node
   [
@@ -1888,6 +1969,7 @@ graph
     louvain2 1
     Spectral25per2 12
     Spectral5per2 3
+    Spectral1per2 15
   ]
   node
   [
@@ -1911,6 +1993,7 @@ graph
     louvain2 1
     Spectral25per2 12
     Spectral5per2 3
+    Spectral1per2 15
   ]
   node
   [
@@ -1934,6 +2017,7 @@ graph
     louvain2 3
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -1957,6 +2041,7 @@ graph
     louvain2 3
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -1980,6 +2065,7 @@ graph
     louvain2 3
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -2003,6 +2089,7 @@ graph
     louvain2 20
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -2026,6 +2113,7 @@ graph
     louvain2 12
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -2049,6 +2137,7 @@ graph
     louvain2 6
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 15
   ]
   node
   [
@@ -2072,6 +2161,7 @@ graph
     louvain2 13
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 37
   ]
   node
   [
@@ -2095,6 +2185,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -2118,6 +2209,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -2141,6 +2233,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -2164,6 +2257,7 @@ graph
     louvain2 9
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -2187,6 +2281,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -2210,6 +2305,7 @@ graph
     louvain2 9
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -2233,6 +2329,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 18
   ]
   node
   [
@@ -2256,6 +2353,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -2279,6 +2377,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 23
   ]
   node
   [
@@ -2302,6 +2401,7 @@ graph
     louvain2 9
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 42
   ]
   node
   [
@@ -2325,6 +2425,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 10
   ]
   node
   [
@@ -2348,6 +2449,7 @@ graph
     louvain2 23
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -2371,6 +2473,7 @@ graph
     louvain2 14
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -2394,6 +2497,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -2417,6 +2521,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 27
   ]
   node
   [
@@ -2440,6 +2545,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -2463,6 +2569,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 48
   ]
   node
   [
@@ -2486,6 +2593,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -2509,6 +2617,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -2532,6 +2641,7 @@ graph
     louvain2 12
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -2555,6 +2665,7 @@ graph
     louvain2 14
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -2578,6 +2689,7 @@ graph
     louvain2 3
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -2601,6 +2713,7 @@ graph
     louvain2 17
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -2624,6 +2737,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -2647,6 +2761,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -2670,6 +2785,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -2693,6 +2809,7 @@ graph
     louvain2 4
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -2716,6 +2833,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -2739,6 +2857,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -2762,6 +2881,7 @@ graph
     louvain2 2
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -2785,6 +2905,7 @@ graph
     louvain2 14
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -2808,6 +2929,7 @@ graph
     louvain2 10
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -2831,6 +2953,7 @@ graph
     louvain2 16
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -2854,6 +2977,7 @@ graph
     louvain2 14
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -2877,6 +3001,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -2900,6 +3025,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -2923,6 +3049,7 @@ graph
     louvain2 5
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -2946,6 +3073,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -2969,6 +3097,7 @@ graph
     louvain2 14
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -2992,6 +3121,7 @@ graph
     louvain2 14
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -3015,6 +3145,7 @@ graph
     louvain2 1
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 40
   ]
   node
   [
@@ -3038,6 +3169,7 @@ graph
     louvain2 10
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -3061,6 +3193,7 @@ graph
     louvain2 14
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 24
   ]
   node
   [
@@ -3084,6 +3217,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -3107,6 +3241,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 26
   ]
   node
   [
@@ -3130,6 +3265,7 @@ graph
     louvain2 25
     Spectral25per2 22
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -3153,6 +3289,7 @@ graph
     louvain2 3
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -3176,6 +3313,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -3199,6 +3337,7 @@ graph
     louvain2 15
     Spectral25per2 23
     Spectral5per2 10
+    Spectral1per2 47
   ]
   node
   [
@@ -3222,6 +3361,7 @@ graph
     louvain2 4
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 49
   ]
   node
   [
@@ -3245,6 +3385,7 @@ graph
     louvain2 15
     Spectral25per2 21
     Spectral5per2 16
+    Spectral1per2 43
   ]
   node
   [
@@ -3268,6 +3409,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -3291,6 +3433,7 @@ graph
     louvain2 15
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -3314,6 +3457,7 @@ graph
     louvain2 15
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -3337,6 +3481,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3360,6 +3505,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3383,6 +3529,7 @@ graph
     louvain2 4
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 26
   ]
   node
   [
@@ -3406,6 +3553,7 @@ graph
     louvain2 5
     Spectral25per2 24
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -3429,6 +3577,7 @@ graph
     louvain2 15
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3452,6 +3601,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3475,6 +3625,7 @@ graph
     louvain2 24
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 44
   ]
   node
   [
@@ -3498,6 +3649,7 @@ graph
     louvain2 21
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -3521,6 +3673,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3544,6 +3697,7 @@ graph
     louvain2 9
     Spectral25per2 12
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -3567,6 +3721,7 @@ graph
     louvain2 8
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -3590,6 +3745,7 @@ graph
     louvain2 5
     Spectral25per2 21
     Spectral5per2 9
+    Spectral1per2 43
   ]
   node
   [
@@ -3613,6 +3769,7 @@ graph
     louvain2 9
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -3636,6 +3793,7 @@ graph
     louvain2 11
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -3659,6 +3817,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3682,6 +3841,7 @@ graph
     louvain2 19
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 52
   ]
   node
   [
@@ -3705,6 +3865,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -3728,6 +3889,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -3751,6 +3913,7 @@ graph
     louvain2 4
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -3774,6 +3937,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -3797,6 +3961,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3820,6 +3985,7 @@ graph
     louvain2 18
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -3843,6 +4009,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3866,6 +4033,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3889,6 +4057,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3912,6 +4081,7 @@ graph
     louvain2 9
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 39
   ]
   node
   [
@@ -3935,6 +4105,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 43
   ]
   node
   [
@@ -3958,6 +4129,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -3981,6 +4153,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -4004,6 +4177,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -4027,6 +4201,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -4050,6 +4225,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 6
+    Spectral1per2 22
   ]
   node
   [
@@ -4073,6 +4249,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -4096,6 +4273,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 38
   ]
   node
   [
@@ -4119,6 +4297,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -4142,6 +4321,7 @@ graph
     louvain2 14
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -4165,6 +4345,7 @@ graph
     louvain2 1
     Spectral25per2 12
     Spectral5per2 6
+    Spectral1per2 28
   ]
   node
   [
@@ -4188,6 +4369,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 40
   ]
   node
   [
@@ -4211,6 +4393,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -4234,6 +4417,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -4257,6 +4441,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 38
   ]
   node
   [
@@ -4280,6 +4465,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 12
   ]
   node
   [
@@ -4303,6 +4489,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -4326,6 +4513,7 @@ graph
     louvain2 10
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -4349,6 +4537,7 @@ graph
     louvain2 10
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -4372,6 +4561,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -4395,6 +4585,7 @@ graph
     louvain2 9
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -4418,6 +4609,7 @@ graph
     louvain2 16
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -4441,6 +4633,7 @@ graph
     louvain2 9
     Spectral25per2 3
     Spectral5per2 11
+    Spectral1per2 3
   ]
   node
   [
@@ -4464,6 +4657,7 @@ graph
     louvain2 9
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -4487,6 +4681,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -4510,6 +4705,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -4533,6 +4729,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -4556,6 +4753,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -4579,6 +4777,7 @@ graph
     louvain2 25
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -4602,6 +4801,7 @@ graph
     louvain2 25
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 43
   ]
   node
   [
@@ -4625,6 +4825,7 @@ graph
     louvain2 23
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -4648,6 +4849,7 @@ graph
     louvain2 14
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 6
   ]
   node
   [
@@ -4671,6 +4873,7 @@ graph
     louvain2 23
     Spectral25per2 12
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -4694,6 +4897,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -4717,6 +4921,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 35
   ]
   node
   [
@@ -4740,6 +4945,7 @@ graph
     louvain2 19
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -4763,6 +4969,7 @@ graph
     louvain2 19
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -4786,6 +4993,7 @@ graph
     louvain2 12
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -4809,6 +5017,7 @@ graph
     louvain2 16
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -4832,6 +5041,7 @@ graph
     louvain2 5
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -4855,6 +5065,7 @@ graph
     louvain2 3
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -4878,6 +5089,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -4901,6 +5113,7 @@ graph
     louvain2 6
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -4924,6 +5137,7 @@ graph
     louvain2 6
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -4947,6 +5161,7 @@ graph
     louvain2 14
     Spectral25per2 24
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -4970,6 +5185,7 @@ graph
     louvain2 6
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -4993,6 +5209,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -5016,6 +5233,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 50
   ]
   node
   [
@@ -5039,6 +5257,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -5062,6 +5281,7 @@ graph
     louvain2 15
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -5085,6 +5305,7 @@ graph
     louvain2 19
     Spectral25per2 23
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -5108,6 +5329,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 18
   ]
   node
   [
@@ -5131,6 +5353,7 @@ graph
     louvain2 11
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -5154,6 +5377,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -5177,6 +5401,7 @@ graph
     louvain2 7
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -5200,6 +5425,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 50
   ]
   node
   [
@@ -5223,6 +5449,7 @@ graph
     louvain2 12
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -5246,6 +5473,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -5269,6 +5497,7 @@ graph
     louvain2 15
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -5292,6 +5521,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -5315,6 +5545,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -5338,6 +5569,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 39
   ]
   node
   [
@@ -5361,6 +5593,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -5384,6 +5617,7 @@ graph
     louvain2 16
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -5407,6 +5641,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 37
   ]
   node
   [
@@ -5430,6 +5665,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -5453,6 +5689,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -5476,6 +5713,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -5499,6 +5737,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -5522,6 +5761,7 @@ graph
     louvain2 6
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 42
   ]
   node
   [
@@ -5545,6 +5785,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 50
   ]
   node
   [
@@ -5568,6 +5809,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 45
   ]
   node
   [
@@ -5591,6 +5833,7 @@ graph
     louvain2 7
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 29
   ]
   node
   [
@@ -5614,6 +5857,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -5637,6 +5881,7 @@ graph
     louvain2 6
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 29
   ]
   node
   [
@@ -5660,6 +5905,7 @@ graph
     louvain2 17
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -5683,6 +5929,7 @@ graph
     louvain2 16
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -5706,6 +5953,7 @@ graph
     louvain2 16
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 40
   ]
   node
   [
@@ -5729,6 +5977,7 @@ graph
     louvain2 10
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -5752,6 +6001,7 @@ graph
     louvain2 3
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -5775,6 +6025,7 @@ graph
     louvain2 4
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -5798,6 +6049,7 @@ graph
     louvain2 19
     Spectral25per2 17
     Spectral5per2 10
+    Spectral1per2 43
   ]
   node
   [
@@ -5821,6 +6073,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -5844,6 +6097,7 @@ graph
     louvain2 14
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -5867,6 +6121,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 40
   ]
   node
   [
@@ -5890,6 +6145,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -5913,6 +6169,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -5936,6 +6193,7 @@ graph
     louvain2 5
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 42
   ]
   node
   [
@@ -5959,6 +6217,7 @@ graph
     louvain2 21
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 47
   ]
   node
   [
@@ -5982,6 +6241,7 @@ graph
     louvain2 19
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -6005,6 +6265,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -6028,6 +6289,7 @@ graph
     louvain2 13
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -6051,6 +6313,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 40
   ]
   node
   [
@@ -6074,6 +6337,7 @@ graph
     louvain2 4
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -6097,6 +6361,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -6120,6 +6385,7 @@ graph
     louvain2 6
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -6143,6 +6409,7 @@ graph
     louvain2 6
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 39
   ]
   node
   [
@@ -6166,6 +6433,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 38
   ]
   node
   [
@@ -6189,6 +6457,7 @@ graph
     louvain2 14
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -6212,6 +6481,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -6235,6 +6505,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -6258,6 +6529,7 @@ graph
     louvain2 6
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -6281,6 +6553,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -6304,6 +6577,7 @@ graph
     louvain2 21
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -6327,6 +6601,7 @@ graph
     louvain2 23
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -6350,6 +6625,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -6373,6 +6649,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -6396,6 +6673,7 @@ graph
     louvain2 7
     Spectral25per2 23
     Spectral5per2 15
+    Spectral1per2 47
   ]
   node
   [
@@ -6419,6 +6697,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -6442,6 +6721,7 @@ graph
     louvain2 10
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -6465,6 +6745,7 @@ graph
     louvain2 10
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -6488,6 +6769,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -6511,6 +6793,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -6534,6 +6817,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -6557,6 +6841,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -6580,6 +6865,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 53
   ]
   node
   [
@@ -6603,6 +6889,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -6626,6 +6913,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -6649,6 +6937,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -6672,6 +6961,7 @@ graph
     louvain2 2
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 53
   ]
   node
   [
@@ -6695,6 +6985,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -6718,6 +7009,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -6741,6 +7033,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -6764,6 +7057,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -6787,6 +7081,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -6810,6 +7105,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -6833,6 +7129,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -6856,6 +7153,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -6879,6 +7177,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -6902,6 +7201,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 20
   ]
   node
   [
@@ -6925,6 +7225,7 @@ graph
     louvain2 5
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -6948,6 +7249,7 @@ graph
     louvain2 5
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -6971,6 +7273,7 @@ graph
     louvain2 5
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -6994,6 +7297,7 @@ graph
     louvain2 5
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -7017,6 +7321,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -7040,6 +7345,7 @@ graph
     louvain2 5
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -7063,6 +7369,7 @@ graph
     louvain2 24
     Spectral25per2 23
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -7086,6 +7393,7 @@ graph
     louvain2 5
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -7109,6 +7417,7 @@ graph
     louvain2 13
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -7132,6 +7441,7 @@ graph
     louvain2 10
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -7155,6 +7465,7 @@ graph
     louvain2 5
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -7178,6 +7489,7 @@ graph
     louvain2 23
     Spectral25per2 12
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -7201,6 +7513,7 @@ graph
     louvain2 5
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -7224,6 +7537,7 @@ graph
     louvain2 2
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 27
   ]
   node
   [
@@ -7247,6 +7561,7 @@ graph
     louvain2 17
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 33
   ]
   node
   [
@@ -7270,6 +7585,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -7293,6 +7609,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -7316,6 +7633,7 @@ graph
     louvain2 9
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -7339,6 +7657,7 @@ graph
     louvain2 4
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 22
   ]
   node
   [
@@ -7362,6 +7681,7 @@ graph
     louvain2 1
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -7385,6 +7705,7 @@ graph
     louvain2 14
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -7408,6 +7729,7 @@ graph
     louvain2 5
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -7431,6 +7753,7 @@ graph
     louvain2 5
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -7454,6 +7777,7 @@ graph
     louvain2 5
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -7477,6 +7801,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 15
   ]
   node
   [
@@ -7500,6 +7825,7 @@ graph
     louvain2 5
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -7523,6 +7849,7 @@ graph
     louvain2 5
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -7546,6 +7873,7 @@ graph
     louvain2 5
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -7569,6 +7897,7 @@ graph
     louvain2 5
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 11
   ]
   node
   [
@@ -7592,6 +7921,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -7615,6 +7945,7 @@ graph
     louvain2 5
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 44
   ]
   node
   [
@@ -7638,6 +7969,7 @@ graph
     louvain2 5
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -7661,6 +7993,7 @@ graph
     louvain2 5
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 15
   ]
   node
   [
@@ -7684,6 +8017,7 @@ graph
     louvain2 9
     Spectral25per2 13
     Spectral5per2 3
+    Spectral1per2 18
   ]
   node
   [
@@ -7707,6 +8041,7 @@ graph
     louvain2 1
     Spectral25per2 9
     Spectral5per2 5
+    Spectral1per2 15
   ]
   node
   [
@@ -7730,6 +8065,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -7753,6 +8089,7 @@ graph
     louvain2 6
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -7776,6 +8113,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -7799,6 +8137,7 @@ graph
     louvain2 21
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -7822,6 +8161,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -7845,6 +8185,7 @@ graph
     louvain2 23
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -7868,6 +8209,7 @@ graph
     louvain2 20
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -7891,6 +8233,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -7914,6 +8257,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 11
+    Spectral1per2 3
   ]
   node
   [
@@ -7937,6 +8281,7 @@ graph
     louvain2 21
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -7960,6 +8305,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -7983,6 +8329,7 @@ graph
     louvain2 23
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 4
   ]
   node
   [
@@ -8006,6 +8353,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8029,6 +8377,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8052,6 +8401,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8075,6 +8425,7 @@ graph
     louvain2 23
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8098,6 +8449,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8121,6 +8473,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8144,6 +8497,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8167,6 +8521,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8190,6 +8545,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8213,6 +8569,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 4
   ]
   node
   [
@@ -8236,6 +8593,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 11
+    Spectral1per2 2
   ]
   node
   [
@@ -8259,6 +8617,7 @@ graph
     louvain2 23
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8282,6 +8641,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8305,6 +8665,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -8328,6 +8689,7 @@ graph
     louvain2 11
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -8351,6 +8713,7 @@ graph
     louvain2 13
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -8374,6 +8737,7 @@ graph
     louvain2 16
     Spectral25per2 3
     Spectral5per2 11
+    Spectral1per2 3
   ]
   node
   [
@@ -8397,6 +8761,7 @@ graph
     louvain2 15
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -8420,6 +8785,7 @@ graph
     louvain2 21
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -8443,6 +8809,7 @@ graph
     louvain2 21
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -8466,6 +8833,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -8489,6 +8857,7 @@ graph
     louvain2 2
     Spectral25per2 23
     Spectral5per2 15
+    Spectral1per2 42
   ]
   node
   [
@@ -8512,6 +8881,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8535,6 +8905,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8558,6 +8929,7 @@ graph
     louvain2 21
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -8581,6 +8953,7 @@ graph
     louvain2 21
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -8604,6 +8977,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8627,6 +9001,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -8650,6 +9025,7 @@ graph
     louvain2 11
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -8673,6 +9049,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -8696,6 +9073,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8719,6 +9097,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8742,6 +9121,7 @@ graph
     louvain2 11
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -8765,6 +9145,7 @@ graph
     louvain2 20
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 4
   ]
   node
   [
@@ -8788,6 +9169,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -8811,6 +9193,7 @@ graph
     louvain2 19
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -8834,6 +9217,7 @@ graph
     louvain2 17
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 52
   ]
   node
   [
@@ -8857,6 +9241,7 @@ graph
     louvain2 2
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -8880,6 +9265,7 @@ graph
     louvain2 1
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 24
   ]
   node
   [
@@ -8903,6 +9289,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -8926,6 +9313,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -8949,6 +9337,7 @@ graph
     louvain2 2
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 35
   ]
   node
   [
@@ -8972,6 +9361,7 @@ graph
     louvain2 1
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 28
   ]
   node
   [
@@ -8995,6 +9385,7 @@ graph
     louvain2 9
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -9018,6 +9409,7 @@ graph
     louvain2 2
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 53
   ]
   node
   [
@@ -9041,6 +9433,7 @@ graph
     louvain2 1
     Spectral25per2 11
     Spectral5per2 3
+    Spectral1per2 26
   ]
   node
   [
@@ -9064,6 +9457,7 @@ graph
     louvain2 14
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 24
   ]
   node
   [
@@ -9087,6 +9481,7 @@ graph
     louvain2 1
     Spectral25per2 11
     Spectral5per2 2
+    Spectral1per2 26
   ]
   node
   [
@@ -9110,6 +9505,7 @@ graph
     louvain2 1
     Spectral25per2 11
     Spectral5per2 3
+    Spectral1per2 26
   ]
   node
   [
@@ -9133,6 +9529,7 @@ graph
     louvain2 1
     Spectral25per2 11
     Spectral5per2 6
+    Spectral1per2 28
   ]
   node
   [
@@ -9156,6 +9553,7 @@ graph
     louvain2 1
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -9179,6 +9577,7 @@ graph
     louvain2 1
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -9202,6 +9601,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -9225,6 +9625,7 @@ graph
     louvain2 2
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -9248,6 +9649,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -9271,6 +9673,7 @@ graph
     louvain2 2
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -9294,6 +9697,7 @@ graph
     louvain2 2
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -9317,6 +9721,7 @@ graph
     louvain2 1
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -9340,6 +9745,7 @@ graph
     louvain2 2
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 47
   ]
   node
   [
@@ -9363,6 +9769,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -9386,6 +9793,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -9409,6 +9817,7 @@ graph
     louvain2 2
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 35
   ]
   node
   [
@@ -9432,6 +9841,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 35
   ]
   node
   [
@@ -9455,6 +9865,7 @@ graph
     louvain2 12
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -9478,6 +9889,7 @@ graph
     louvain2 12
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 22
   ]
   node
   [
@@ -9501,6 +9913,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -9524,6 +9937,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 2
+    Spectral1per2 24
   ]
   node
   [
@@ -9547,6 +9961,7 @@ graph
     louvain2 11
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -9570,6 +9985,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 51
   ]
   node
   [
@@ -9593,6 +10009,7 @@ graph
     louvain2 12
     Spectral25per2 12
     Spectral5per2 4
+    Spectral1per2 10
   ]
   node
   [
@@ -9616,6 +10033,7 @@ graph
     louvain2 13
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -9639,6 +10057,7 @@ graph
     louvain2 12
     Spectral25per2 13
     Spectral5per2 4
+    Spectral1per2 10
   ]
   node
   [
@@ -9662,6 +10081,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -9685,6 +10105,7 @@ graph
     louvain2 12
     Spectral25per2 12
     Spectral5per2 4
+    Spectral1per2 10
   ]
   node
   [
@@ -9708,6 +10129,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -9731,6 +10153,7 @@ graph
     louvain2 2
     Spectral25per2 10
     Spectral5per2 2
+    Spectral1per2 22
   ]
   node
   [
@@ -9754,6 +10177,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 44
   ]
   node
   [
@@ -9777,6 +10201,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -9800,6 +10225,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -9823,6 +10249,7 @@ graph
     louvain2 4
     Spectral25per2 13
     Spectral5per2 4
+    Spectral1per2 26
   ]
   node
   [
@@ -9846,6 +10273,7 @@ graph
     louvain2 4
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 40
   ]
   node
   [
@@ -9869,6 +10297,7 @@ graph
     louvain2 12
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 13
   ]
   node
   [
@@ -9892,6 +10321,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -9915,6 +10345,7 @@ graph
     louvain2 3
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -9938,6 +10369,7 @@ graph
     louvain2 11
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -9961,6 +10393,7 @@ graph
     louvain2 17
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -9984,6 +10417,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 52
   ]
   node
   [
@@ -10007,6 +10441,7 @@ graph
     louvain2 12
     Spectral25per2 12
     Spectral5per2 6
+    Spectral1per2 26
   ]
   node
   [
@@ -10030,6 +10465,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 16
   ]
   node
   [
@@ -10053,6 +10489,7 @@ graph
     louvain2 1
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -10076,6 +10513,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -10099,6 +10537,7 @@ graph
     louvain2 5
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -10122,6 +10561,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -10145,6 +10585,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 2
+    Spectral1per2 25
   ]
   node
   [
@@ -10168,6 +10609,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -10191,6 +10633,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -10214,6 +10657,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 27
   ]
   node
   [
@@ -10237,6 +10681,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -10260,6 +10705,7 @@ graph
     louvain2 12
     Spectral25per2 13
     Spectral5per2 4
+    Spectral1per2 10
   ]
   node
   [
@@ -10283,6 +10729,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -10306,6 +10753,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 14
   ]
   node
   [
@@ -10329,6 +10777,7 @@ graph
     louvain2 2
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -10352,6 +10801,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -10375,6 +10825,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -10398,6 +10849,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 16
   ]
   node
   [
@@ -10421,6 +10873,7 @@ graph
     louvain2 3
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -10444,6 +10897,7 @@ graph
     louvain2 2
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -10467,6 +10921,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -10490,6 +10945,7 @@ graph
     louvain2 6
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 19
   ]
   node
   [
@@ -10513,6 +10969,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -10536,6 +10993,7 @@ graph
     louvain2 21
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -10559,6 +11017,7 @@ graph
     louvain2 2
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 18
   ]
   node
   [
@@ -10582,6 +11041,7 @@ graph
     louvain2 11
     Spectral25per2 12
     Spectral5per2 6
+    Spectral1per2 23
   ]
   node
   [
@@ -10605,6 +11065,7 @@ graph
     louvain2 6
     Spectral25per2 12
     Spectral5per2 3
+    Spectral1per2 10
   ]
   node
   [
@@ -10628,6 +11089,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -10651,6 +11113,7 @@ graph
     louvain2 6
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 19
   ]
   node
   [
@@ -10674,6 +11137,7 @@ graph
     louvain2 6
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -10697,6 +11161,7 @@ graph
     louvain2 6
     Spectral25per2 8
     Spectral5per2 6
+    Spectral1per2 19
   ]
   node
   [
@@ -10720,6 +11185,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -10743,6 +11209,7 @@ graph
     louvain2 11
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -10766,6 +11233,7 @@ graph
     louvain2 5
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -10789,6 +11257,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -10812,6 +11281,7 @@ graph
     louvain2 8
     Spectral25per2 21
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -10835,6 +11305,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -10858,6 +11329,7 @@ graph
     louvain2 7
     Spectral25per2 20
     Spectral5per2 9
+    Spectral1per2 43
   ]
   node
   [
@@ -10881,6 +11353,7 @@ graph
     louvain2 8
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -10904,6 +11377,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 43
   ]
   node
   [
@@ -10927,6 +11401,7 @@ graph
     louvain2 3
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -10950,6 +11425,7 @@ graph
     louvain2 18
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -10973,6 +11449,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -10996,6 +11473,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -11019,6 +11497,7 @@ graph
     louvain2 5
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 43
   ]
   node
   [
@@ -11042,6 +11521,7 @@ graph
     louvain2 9
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 43
   ]
   node
   [
@@ -11065,6 +11545,7 @@ graph
     louvain2 5
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 43
   ]
   node
   [
@@ -11088,6 +11569,7 @@ graph
     louvain2 7
     Spectral25per2 21
     Spectral5per2 9
+    Spectral1per2 43
   ]
   node
   [
@@ -11111,6 +11593,7 @@ graph
     louvain2 5
     Spectral25per2 21
     Spectral5per2 16
+    Spectral1per2 44
   ]
   node
   [
@@ -11134,6 +11617,7 @@ graph
     louvain2 15
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -11157,6 +11641,7 @@ graph
     louvain2 15
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -11180,6 +11665,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -11203,6 +11689,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -11226,6 +11713,7 @@ graph
     louvain2 12
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 26
   ]
   node
   [
@@ -11249,6 +11737,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 14
   ]
   node
   [
@@ -11272,6 +11761,7 @@ graph
     louvain2 12
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 13
   ]
   node
   [
@@ -11295,6 +11785,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 6
+    Spectral1per2 14
   ]
   node
   [
@@ -11318,6 +11809,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -11341,6 +11833,7 @@ graph
     louvain2 12
     Spectral25per2 10
     Spectral5per2 2
+    Spectral1per2 23
   ]
   node
   [
@@ -11364,6 +11857,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -11387,6 +11881,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -11410,6 +11905,7 @@ graph
     louvain2 13
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -11433,6 +11929,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -11456,6 +11953,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -11479,6 +11977,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 43
   ]
   node
   [
@@ -11502,6 +12001,7 @@ graph
     louvain2 13
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -11525,6 +12025,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -11548,6 +12049,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -11571,6 +12073,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -11594,6 +12097,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -11617,6 +12121,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -11640,6 +12145,7 @@ graph
     louvain2 13
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -11663,6 +12169,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -11686,6 +12193,7 @@ graph
     louvain2 21
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -11709,6 +12217,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -11732,6 +12241,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -11755,6 +12265,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -11778,6 +12289,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -11801,6 +12313,7 @@ graph
     louvain2 24
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -11824,6 +12337,7 @@ graph
     louvain2 21
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -11847,6 +12361,7 @@ graph
     louvain2 24
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 44
   ]
   node
   [
@@ -11870,6 +12385,7 @@ graph
     louvain2 24
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 44
   ]
   node
   [
@@ -11893,6 +12409,7 @@ graph
     louvain2 21
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 44
   ]
   node
   [
@@ -11916,6 +12433,7 @@ graph
     louvain2 24
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 45
   ]
   node
   [
@@ -11939,6 +12457,7 @@ graph
     louvain2 24
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -11962,6 +12481,7 @@ graph
     louvain2 24
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 44
   ]
   node
   [
@@ -11985,6 +12505,7 @@ graph
     louvain2 24
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 44
   ]
   node
   [
@@ -12008,6 +12529,7 @@ graph
     louvain2 2
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -12031,6 +12553,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -12054,6 +12577,7 @@ graph
     louvain2 2
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -12077,6 +12601,7 @@ graph
     louvain2 23
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -12100,6 +12625,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -12123,6 +12649,7 @@ graph
     louvain2 18
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -12146,6 +12673,7 @@ graph
     louvain2 19
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 39
   ]
   node
   [
@@ -12169,6 +12697,7 @@ graph
     louvain2 19
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -12192,6 +12721,7 @@ graph
     louvain2 19
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -12215,6 +12745,7 @@ graph
     louvain2 4
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -12238,6 +12769,7 @@ graph
     louvain2 3
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -12261,6 +12793,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -12284,6 +12817,7 @@ graph
     louvain2 25
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -12307,6 +12841,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -12330,6 +12865,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -12353,6 +12889,7 @@ graph
     louvain2 10
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 15
   ]
   node
   [
@@ -12376,6 +12913,7 @@ graph
     louvain2 3
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -12399,6 +12937,7 @@ graph
     louvain2 11
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -12422,6 +12961,7 @@ graph
     louvain2 10
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -12445,6 +12985,7 @@ graph
     louvain2 10
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 19
   ]
   node
   [
@@ -12468,6 +13009,7 @@ graph
     louvain2 10
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 15
   ]
   node
   [
@@ -12491,6 +13033,7 @@ graph
     louvain2 10
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 15
   ]
   node
   [
@@ -12514,6 +13057,7 @@ graph
     louvain2 10
     Spectral25per2 10
     Spectral5per2 4
+    Spectral1per2 10
   ]
   node
   [
@@ -12537,6 +13081,7 @@ graph
     louvain2 10
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 15
   ]
   node
   [
@@ -12560,6 +13105,7 @@ graph
     louvain2 4
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -12583,6 +13129,7 @@ graph
     louvain2 10
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 17
   ]
   node
   [
@@ -12606,6 +13153,7 @@ graph
     louvain2 4
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 17
   ]
   node
   [
@@ -12629,6 +13177,7 @@ graph
     louvain2 10
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 17
   ]
   node
   [
@@ -12652,6 +13201,7 @@ graph
     louvain2 10
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 15
   ]
   node
   [
@@ -12675,6 +13225,7 @@ graph
     louvain2 15
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -12698,6 +13249,7 @@ graph
     louvain2 10
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -12721,6 +13273,7 @@ graph
     louvain2 10
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -12744,6 +13297,7 @@ graph
     louvain2 10
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -12767,6 +13321,7 @@ graph
     louvain2 9
     Spectral25per2 11
     Spectral5per2 6
+    Spectral1per2 12
   ]
   node
   [
@@ -12790,6 +13345,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 6
+    Spectral1per2 12
   ]
   node
   [
@@ -12813,6 +13369,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -12836,6 +13393,7 @@ graph
     louvain2 2
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 35
   ]
   node
   [
@@ -12859,6 +13417,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 39
   ]
   node
   [
@@ -12882,6 +13441,7 @@ graph
     louvain2 6
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 39
   ]
   node
   [
@@ -12905,6 +13465,7 @@ graph
     louvain2 13
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -12928,6 +13489,7 @@ graph
     louvain2 13
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -12951,6 +13513,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -12974,6 +13537,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -12997,6 +13561,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 35
   ]
   node
   [
@@ -13020,6 +13585,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -13043,6 +13609,7 @@ graph
     louvain2 7
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 24
   ]
   node
   [
@@ -13066,6 +13633,7 @@ graph
     louvain2 12
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 19
   ]
   node
   [
@@ -13089,6 +13657,7 @@ graph
     louvain2 12
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -13112,6 +13681,7 @@ graph
     louvain2 2
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -13135,6 +13705,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -13158,6 +13729,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -13181,6 +13753,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -13204,6 +13777,7 @@ graph
     louvain2 2
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -13227,6 +13801,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -13250,6 +13825,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -13273,6 +13849,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -13296,6 +13873,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -13319,6 +13897,7 @@ graph
     louvain2 7
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -13342,6 +13921,7 @@ graph
     louvain2 2
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 48
   ]
   node
   [
@@ -13365,6 +13945,7 @@ graph
     louvain2 2
     Spectral25per2 10
     Spectral5per2 2
+    Spectral1per2 23
   ]
   node
   [
@@ -13388,6 +13969,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -13411,6 +13993,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 23
   ]
   node
   [
@@ -13434,6 +14017,7 @@ graph
     louvain2 6
     Spectral25per2 22
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -13457,6 +14041,7 @@ graph
     louvain2 6
     Spectral25per2 22
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -13480,6 +14065,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -13503,6 +14089,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 6
+    Spectral1per2 12
   ]
   node
   [
@@ -13526,6 +14113,7 @@ graph
     louvain2 25
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -13549,6 +14137,7 @@ graph
     louvain2 5
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -13572,6 +14161,7 @@ graph
     louvain2 10
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -13595,6 +14185,7 @@ graph
     louvain2 12
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -13618,6 +14209,7 @@ graph
     louvain2 12
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 35
   ]
   node
   [
@@ -13641,6 +14233,7 @@ graph
     louvain2 12
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -13664,6 +14257,7 @@ graph
     louvain2 12
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 35
   ]
   node
   [
@@ -13687,6 +14281,7 @@ graph
     louvain2 12
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -13710,6 +14305,7 @@ graph
     louvain2 3
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -13733,6 +14329,7 @@ graph
     louvain2 9
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -13756,6 +14353,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 35
   ]
   node
   [
@@ -13779,6 +14377,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 6
+    Spectral1per2 25
   ]
   node
   [
@@ -13802,6 +14401,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -13825,6 +14425,7 @@ graph
     louvain2 16
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -13848,6 +14449,7 @@ graph
     louvain2 9
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -13871,6 +14473,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 16
   ]
   node
   [
@@ -13894,6 +14497,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 16
   ]
   node
   [
@@ -13917,6 +14521,7 @@ graph
     louvain2 16
     Spectral25per2 1
     Spectral5per2 10
+    Spectral1per2 42
   ]
   node
   [
@@ -13940,6 +14545,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -13963,6 +14569,7 @@ graph
     louvain2 2
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 17
   ]
   node
   [
@@ -13986,6 +14593,7 @@ graph
     louvain2 2
     Spectral25per2 8
     Spectral5per2 2
+    Spectral1per2 28
   ]
   node
   [
@@ -14009,6 +14617,7 @@ graph
     louvain2 2
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 12
   ]
   node
   [
@@ -14032,6 +14641,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -14055,6 +14665,7 @@ graph
     louvain2 4
     Spectral25per2 24
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -14078,6 +14689,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 4
   ]
   node
   [
@@ -14101,6 +14713,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -14124,6 +14737,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -14147,6 +14761,7 @@ graph
     louvain2 12
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -14170,6 +14785,7 @@ graph
     louvain2 12
     Spectral25per2 10
     Spectral5per2 3
+    Spectral1per2 10
   ]
   node
   [
@@ -14193,6 +14809,7 @@ graph
     louvain2 12
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -14216,6 +14833,7 @@ graph
     louvain2 3
     Spectral25per2 8
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -14239,6 +14857,7 @@ graph
     louvain2 9
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -14262,6 +14881,7 @@ graph
     louvain2 2
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 16
   ]
   node
   [
@@ -14285,6 +14905,7 @@ graph
     louvain2 4
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -14308,6 +14929,7 @@ graph
     louvain2 2
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 16
   ]
   node
   [
@@ -14331,6 +14953,7 @@ graph
     louvain2 5
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 44
   ]
   node
   [
@@ -14354,6 +14977,7 @@ graph
     louvain2 1
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -14377,6 +15001,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 14
   ]
   node
   [
@@ -14400,6 +15025,7 @@ graph
     louvain2 14
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 14
   ]
   node
   [
@@ -14423,6 +15049,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 13
   ]
   node
   [
@@ -14446,6 +15073,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 14
   ]
   node
   [
@@ -14469,6 +15097,7 @@ graph
     louvain2 3
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -14492,6 +15121,7 @@ graph
     louvain2 3
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -14515,6 +15145,7 @@ graph
     louvain2 16
     Spectral25per2 10
     Spectral5per2 4
+    Spectral1per2 26
   ]
   node
   [
@@ -14538,6 +15169,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -14561,6 +15193,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -14584,6 +15217,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -14607,6 +15241,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -14630,6 +15265,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -14653,6 +15289,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -14676,6 +15313,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -14699,6 +15337,7 @@ graph
     louvain2 11
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -14722,6 +15361,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -14745,6 +15385,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -14768,6 +15409,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -14791,6 +15433,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -14814,6 +15457,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -14837,6 +15481,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 29
   ]
   node
   [
@@ -14860,6 +15505,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -14883,6 +15529,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -14906,6 +15553,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -14929,6 +15577,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -14952,6 +15601,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 14
   ]
   node
   [
@@ -14975,6 +15625,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -14998,6 +15649,7 @@ graph
     louvain2 18
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15021,6 +15673,7 @@ graph
     louvain2 19
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -15044,6 +15697,7 @@ graph
     louvain2 8
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -15067,6 +15721,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 6
+    Spectral1per2 10
   ]
   node
   [
@@ -15090,6 +15745,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15113,6 +15769,7 @@ graph
     louvain2 9
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15136,6 +15793,7 @@ graph
     louvain2 7
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15159,6 +15817,7 @@ graph
     louvain2 15
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15182,6 +15841,7 @@ graph
     louvain2 15
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15205,6 +15865,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 13
   ]
   node
   [
@@ -15228,6 +15889,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15251,6 +15913,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15274,6 +15937,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15297,6 +15961,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -15320,6 +15985,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -15343,6 +16009,7 @@ graph
     louvain2 23
     Spectral25per2 12
     Spectral5per2 5
+    Spectral1per2 11
   ]
   node
   [
@@ -15366,6 +16033,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -15389,6 +16057,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -15412,6 +16081,7 @@ graph
     louvain2 1
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -15435,6 +16105,7 @@ graph
     louvain2 7
     Spectral25per2 23
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -15458,6 +16129,7 @@ graph
     louvain2 5
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -15481,6 +16153,7 @@ graph
     louvain2 11
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 23
   ]
   node
   [
@@ -15504,6 +16177,7 @@ graph
     louvain2 11
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -15527,6 +16201,7 @@ graph
     louvain2 13
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -15550,6 +16225,7 @@ graph
     louvain2 13
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -15573,6 +16249,7 @@ graph
     louvain2 13
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -15596,6 +16273,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 16
   ]
   node
   [
@@ -15619,6 +16297,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 5
+    Spectral1per2 17
   ]
   node
   [
@@ -15642,6 +16321,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -15665,6 +16345,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 16
   ]
   node
   [
@@ -15688,6 +16369,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 6
+    Spectral1per2 12
   ]
   node
   [
@@ -15711,6 +16393,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 28
   ]
   node
   [
@@ -15734,6 +16417,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 6
+    Spectral1per2 27
   ]
   node
   [
@@ -15757,6 +16441,7 @@ graph
     louvain2 23
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -15780,6 +16465,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -15803,6 +16489,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -15826,6 +16513,7 @@ graph
     louvain2 9
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -15849,6 +16537,7 @@ graph
     louvain2 4
     Spectral25per2 24
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -15872,6 +16561,7 @@ graph
     louvain2 18
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 27
   ]
   node
   [
@@ -15895,6 +16585,7 @@ graph
     louvain2 12
     Spectral25per2 6
     Spectral5per2 4
+    Spectral1per2 24
   ]
   node
   [
@@ -15918,6 +16609,7 @@ graph
     louvain2 23
     Spectral25per2 6
     Spectral5per2 2
+    Spectral1per2 26
   ]
   node
   [
@@ -15941,6 +16633,7 @@ graph
     louvain2 12
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 26
   ]
   node
   [
@@ -15964,6 +16657,7 @@ graph
     louvain2 12
     Spectral25per2 6
     Spectral5per2 4
+    Spectral1per2 21
   ]
   node
   [
@@ -15987,6 +16681,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 13
   ]
   node
   [
@@ -16010,6 +16705,7 @@ graph
     louvain2 14
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 27
   ]
   node
   [
@@ -16033,6 +16729,7 @@ graph
     louvain2 14
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -16056,6 +16753,7 @@ graph
     louvain2 11
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -16079,6 +16777,7 @@ graph
     louvain2 11
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -16102,6 +16801,7 @@ graph
     louvain2 11
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -16125,6 +16825,7 @@ graph
     louvain2 11
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -16148,6 +16849,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 35
   ]
   node
   [
@@ -16171,6 +16873,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 35
   ]
   node
   [
@@ -16194,6 +16897,7 @@ graph
     louvain2 12
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 13
   ]
   node
   [
@@ -16217,6 +16921,7 @@ graph
     louvain2 15
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -16240,6 +16945,7 @@ graph
     louvain2 16
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -16263,6 +16969,7 @@ graph
     louvain2 9
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -16286,6 +16993,7 @@ graph
     louvain2 9
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -16309,6 +17017,7 @@ graph
     louvain2 1
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 26
   ]
   node
   [
@@ -16332,6 +17041,7 @@ graph
     louvain2 7
     Spectral25per2 21
     Spectral5per2 9
+    Spectral1per2 43
   ]
   node
   [
@@ -16355,6 +17065,7 @@ graph
     louvain2 3
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 19
   ]
   node
   [
@@ -16378,6 +17089,7 @@ graph
     louvain2 15
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 29
   ]
   node
   [
@@ -16401,6 +17113,7 @@ graph
     louvain2 15
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -16424,6 +17137,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -16447,6 +17161,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -16470,6 +17185,7 @@ graph
     louvain2 1
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -16493,6 +17209,7 @@ graph
     louvain2 1
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -16516,6 +17233,7 @@ graph
     louvain2 13
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 25
   ]
   node
   [
@@ -16539,6 +17257,7 @@ graph
     louvain2 11
     Spectral25per2 12
     Spectral5per2 6
+    Spectral1per2 23
   ]
   node
   [
@@ -16562,6 +17281,7 @@ graph
     louvain2 11
     Spectral25per2 13
     Spectral5per2 6
+    Spectral1per2 23
   ]
   node
   [
@@ -16585,6 +17305,7 @@ graph
     louvain2 11
     Spectral25per2 13
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -16608,6 +17329,7 @@ graph
     louvain2 6
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -16631,6 +17353,7 @@ graph
     louvain2 23
     Spectral25per2 12
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -16654,6 +17377,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -16677,6 +17401,7 @@ graph
     louvain2 11
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -16700,6 +17425,7 @@ graph
     louvain2 11
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -16723,6 +17449,7 @@ graph
     louvain2 11
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -16746,6 +17473,7 @@ graph
     louvain2 13
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -16769,6 +17497,7 @@ graph
     louvain2 3
     Spectral25per2 12
     Spectral5per2 3
+    Spectral1per2 26
   ]
   node
   [
@@ -16792,6 +17521,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 16
   ]
   node
   [
@@ -16815,6 +17545,7 @@ graph
     louvain2 7
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 43
   ]
   node
   [
@@ -16838,6 +17569,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -16861,6 +17593,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -16884,6 +17617,7 @@ graph
     louvain2 7
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -16907,6 +17641,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -16930,6 +17665,7 @@ graph
     louvain2 4
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 27
   ]
   node
   [
@@ -16953,6 +17689,7 @@ graph
     louvain2 17
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 19
   ]
   node
   [
@@ -16976,6 +17713,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 45
   ]
   node
   [
@@ -16999,6 +17737,7 @@ graph
     louvain2 13
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -17022,6 +17761,7 @@ graph
     louvain2 3
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 12
   ]
   node
   [
@@ -17045,6 +17785,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -17068,6 +17809,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -17091,6 +17833,7 @@ graph
     louvain2 2
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -17114,6 +17857,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -17137,6 +17881,7 @@ graph
     louvain2 15
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -17160,6 +17905,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 21
   ]
   node
   [
@@ -17183,6 +17929,7 @@ graph
     louvain2 3
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -17206,6 +17953,7 @@ graph
     louvain2 3
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -17229,6 +17977,7 @@ graph
     louvain2 3
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -17252,6 +18001,7 @@ graph
     louvain2 3
     Spectral25per2 10
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -17275,6 +18025,7 @@ graph
     louvain2 3
     Spectral25per2 8
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -17298,6 +18049,7 @@ graph
     louvain2 3
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 27
   ]
   node
   [
@@ -17321,6 +18073,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 3
+    Spectral1per2 10
   ]
   node
   [
@@ -17344,6 +18097,7 @@ graph
     louvain2 3
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 18
   ]
   node
   [
@@ -17367,6 +18121,7 @@ graph
     louvain2 2
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -17390,6 +18145,7 @@ graph
     louvain2 3
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -17413,6 +18169,7 @@ graph
     louvain2 3
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -17436,6 +18193,7 @@ graph
     louvain2 3
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -17459,6 +18217,7 @@ graph
     louvain2 3
     Spectral25per2 11
     Spectral5per2 2
+    Spectral1per2 26
   ]
   node
   [
@@ -17482,6 +18241,7 @@ graph
     louvain2 3
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 19
   ]
   node
   [
@@ -17505,6 +18265,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 3
+    Spectral1per2 26
   ]
   node
   [
@@ -17528,6 +18289,7 @@ graph
     louvain2 3
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 28
   ]
   node
   [
@@ -17551,6 +18313,7 @@ graph
     louvain2 9
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 19
   ]
   node
   [
@@ -17574,6 +18337,7 @@ graph
     louvain2 9
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 19
   ]
   node
   [
@@ -17597,6 +18361,7 @@ graph
     louvain2 14
     Spectral25per2 21
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -17620,6 +18385,7 @@ graph
     louvain2 14
     Spectral25per2 12
     Spectral5per2 6
+    Spectral1per2 25
   ]
   node
   [
@@ -17643,6 +18409,7 @@ graph
     louvain2 1
     Spectral25per2 11
     Spectral5per2 3
+    Spectral1per2 26
   ]
   node
   [
@@ -17666,6 +18433,7 @@ graph
     louvain2 14
     Spectral25per2 13
     Spectral5per2 6
+    Spectral1per2 21
   ]
   node
   [
@@ -17689,6 +18457,7 @@ graph
     louvain2 14
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 6
   ]
   node
   [
@@ -17712,6 +18481,7 @@ graph
     louvain2 14
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 6
   ]
   node
   [
@@ -17735,6 +18505,7 @@ graph
     louvain2 7
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 45
   ]
   node
   [
@@ -17758,6 +18529,7 @@ graph
     louvain2 7
     Spectral25per2 21
     Spectral5per2 9
+    Spectral1per2 43
   ]
   node
   [
@@ -17781,6 +18553,7 @@ graph
     louvain2 11
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 13
   ]
   node
   [
@@ -17804,6 +18577,7 @@ graph
     louvain2 11
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -17827,6 +18601,7 @@ graph
     louvain2 9
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -17850,6 +18625,7 @@ graph
     louvain2 10
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 17
   ]
   node
   [
@@ -17873,6 +18649,7 @@ graph
     louvain2 10
     Spectral25per2 2
     Spectral5per2 11
+    Spectral1per2 9
   ]
   node
   [
@@ -17896,6 +18673,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -17919,6 +18697,7 @@ graph
     louvain2 14
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 6
   ]
   node
   [
@@ -17942,6 +18721,7 @@ graph
     louvain2 20
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -17965,6 +18745,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -17988,6 +18769,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -18011,6 +18793,7 @@ graph
     louvain2 3
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -18034,6 +18817,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 44
   ]
   node
   [
@@ -18057,6 +18841,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 44
   ]
   node
   [
@@ -18080,6 +18865,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 44
   ]
   node
   [
@@ -18103,6 +18889,7 @@ graph
     louvain2 25
     Spectral25per2 6
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -18126,6 +18913,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 53
   ]
   node
   [
@@ -18149,6 +18937,7 @@ graph
     louvain2 12
     Spectral25per2 11
     Spectral5per2 3
+    Spectral1per2 13
   ]
   node
   [
@@ -18172,6 +18961,7 @@ graph
     louvain2 12
     Spectral25per2 10
     Spectral5per2 3
+    Spectral1per2 26
   ]
   node
   [
@@ -18195,6 +18985,7 @@ graph
     louvain2 9
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -18218,6 +19009,7 @@ graph
     louvain2 9
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -18241,6 +19033,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -18264,6 +19057,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -18287,6 +19081,7 @@ graph
     louvain2 6
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 25
   ]
   node
   [
@@ -18310,6 +19105,7 @@ graph
     louvain2 6
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 28
   ]
   node
   [
@@ -18333,6 +19129,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -18356,6 +19153,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -18379,6 +19177,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -18402,6 +19201,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -18425,6 +19225,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 2
+    Spectral1per2 18
   ]
   node
   [
@@ -18448,6 +19249,7 @@ graph
     louvain2 16
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -18471,6 +19273,7 @@ graph
     louvain2 15
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 28
   ]
   node
   [
@@ -18494,6 +19297,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 6
   ]
   node
   [
@@ -18517,6 +19321,7 @@ graph
     louvain2 16
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -18540,6 +19345,7 @@ graph
     louvain2 9
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -18563,6 +19369,7 @@ graph
     louvain2 9
     Spectral25per2 6
     Spectral5per2 4
+    Spectral1per2 11
   ]
   node
   [
@@ -18586,6 +19393,7 @@ graph
     louvain2 9
     Spectral25per2 6
     Spectral5per2 4
+    Spectral1per2 13
   ]
   node
   [
@@ -18609,6 +19417,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 47
   ]
   node
   [
@@ -18632,6 +19441,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 47
   ]
   node
   [
@@ -18655,6 +19465,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -18678,6 +19489,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -18701,6 +19513,7 @@ graph
     louvain2 11
     Spectral25per2 17
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -18724,6 +19537,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -18747,6 +19561,7 @@ graph
     louvain2 11
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -18770,6 +19585,7 @@ graph
     louvain2 2
     Spectral25per2 1
     Spectral5per2 10
+    Spectral1per2 41
   ]
   node
   [
@@ -18793,6 +19609,7 @@ graph
     louvain2 14
     Spectral25per2 10
     Spectral5per2 2
+    Spectral1per2 27
   ]
   node
   [
@@ -18816,6 +19633,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -18839,6 +19657,7 @@ graph
     louvain2 23
     Spectral25per2 7
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -18862,6 +19681,7 @@ graph
     louvain2 23
     Spectral25per2 12
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -18885,6 +19705,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 21
   ]
   node
   [
@@ -18908,6 +19729,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -18931,6 +19753,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -18954,6 +19777,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -18977,6 +19801,7 @@ graph
     louvain2 14
     Spectral25per2 8
     Spectral5per2 6
+    Spectral1per2 26
   ]
   node
   [
@@ -19000,6 +19825,7 @@ graph
     louvain2 1
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -19023,6 +19849,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -19046,6 +19873,7 @@ graph
     louvain2 14
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -19069,6 +19897,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 11
   ]
   node
   [
@@ -19092,6 +19921,7 @@ graph
     louvain2 14
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 18
   ]
   node
   [
@@ -19115,6 +19945,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -19138,6 +19969,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -19161,6 +19993,7 @@ graph
     louvain2 9
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -19184,6 +20017,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -19207,6 +20041,7 @@ graph
     louvain2 7
     Spectral25per2 23
     Spectral5per2 15
+    Spectral1per2 47
   ]
   node
   [
@@ -19230,6 +20065,7 @@ graph
     louvain2 10
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -19253,6 +20089,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -19276,6 +20113,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -19299,6 +20137,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -19322,6 +20161,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -19345,6 +20185,7 @@ graph
     louvain2 4
     Spectral25per2 12
     Spectral5per2 4
+    Spectral1per2 26
   ]
   node
   [
@@ -19368,6 +20209,7 @@ graph
     louvain2 4
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -19391,6 +20233,7 @@ graph
     louvain2 4
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -19414,6 +20257,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 52
   ]
   node
   [
@@ -19437,6 +20281,7 @@ graph
     louvain2 14
     Spectral25per2 12
     Spectral5per2 6
+    Spectral1per2 21
   ]
   node
   [
@@ -19460,6 +20305,7 @@ graph
     louvain2 11
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -19483,6 +20329,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -19506,6 +20353,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -19529,6 +20377,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -19552,6 +20401,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -19575,6 +20425,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -19598,6 +20449,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -19621,6 +20473,7 @@ graph
     louvain2 6
     Spectral25per2 10
     Spectral5per2 3
+    Spectral1per2 27
   ]
   node
   [
@@ -19644,6 +20497,7 @@ graph
     louvain2 6
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 15
   ]
   node
   [
@@ -19667,6 +20521,7 @@ graph
     louvain2 9
     Spectral25per2 10
     Spectral5per2 4
+    Spectral1per2 24
   ]
   node
   [
@@ -19690,6 +20545,7 @@ graph
     louvain2 9
     Spectral25per2 10
     Spectral5per2 4
+    Spectral1per2 24
   ]
   node
   [
@@ -19713,6 +20569,7 @@ graph
     louvain2 10
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 27
   ]
   node
   [
@@ -19736,6 +20593,7 @@ graph
     louvain2 10
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 15
   ]
   node
   [
@@ -19759,6 +20617,7 @@ graph
     louvain2 6
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -19782,6 +20641,7 @@ graph
     louvain2 6
     Spectral25per2 22
     Spectral5per2 1
+    Spectral1per2 48
   ]
   node
   [
@@ -19805,6 +20665,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -19828,6 +20689,7 @@ graph
     louvain2 9
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -19851,6 +20713,7 @@ graph
     louvain2 4
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -19874,6 +20737,7 @@ graph
     louvain2 4
     Spectral25per2 21
     Spectral5per2 1
+    Spectral1per2 46
   ]
   node
   [
@@ -19897,6 +20761,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -19920,6 +20785,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -19943,6 +20809,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 19
   ]
   node
   [
@@ -19966,6 +20833,7 @@ graph
     louvain2 21
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -19989,6 +20857,7 @@ graph
     louvain2 21
     Spectral25per2 5
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -20012,6 +20881,7 @@ graph
     louvain2 21
     Spectral25per2 2
     Spectral5per2 11
+    Spectral1per2 8
   ]
   node
   [
@@ -20035,6 +20905,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -20058,6 +20929,7 @@ graph
     louvain2 11
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -20081,6 +20953,7 @@ graph
     louvain2 13
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -20104,6 +20977,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -20127,6 +21001,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -20150,6 +21025,7 @@ graph
     louvain2 4
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -20173,6 +21049,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 44
   ]
   node
   [
@@ -20196,6 +21073,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -20219,6 +21097,7 @@ graph
     louvain2 11
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -20242,6 +21121,7 @@ graph
     louvain2 3
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -20265,6 +21145,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 43
   ]
   node
   [
@@ -20288,6 +21169,7 @@ graph
     louvain2 11
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -20311,6 +21193,7 @@ graph
     louvain2 11
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -20334,6 +21217,7 @@ graph
     louvain2 13
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -20357,6 +21241,7 @@ graph
     louvain2 11
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -20380,6 +21265,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 6
+    Spectral1per2 22
   ]
   node
   [
@@ -20403,6 +21289,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 6
+    Spectral1per2 22
   ]
   node
   [
@@ -20426,6 +21313,7 @@ graph
     louvain2 6
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 29
   ]
   node
   [
@@ -20449,6 +21337,7 @@ graph
     louvain2 6
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 29
   ]
   node
   [
@@ -20472,6 +21361,7 @@ graph
     louvain2 14
     Spectral25per2 11
     Spectral5per2 6
+    Spectral1per2 27
   ]
   node
   [
@@ -20495,6 +21385,7 @@ graph
     louvain2 14
     Spectral25per2 11
     Spectral5per2 6
+    Spectral1per2 27
   ]
   node
   [
@@ -20518,6 +21409,7 @@ graph
     louvain2 21
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -20541,6 +21433,7 @@ graph
     louvain2 21
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -20564,6 +21457,7 @@ graph
     louvain2 21
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -20587,6 +21481,7 @@ graph
     louvain2 24
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -20610,6 +21505,7 @@ graph
     louvain2 7
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -20633,6 +21529,7 @@ graph
     louvain2 9
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -20656,6 +21553,7 @@ graph
     louvain2 3
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -20679,6 +21577,7 @@ graph
     louvain2 3
     Spectral25per2 12
     Spectral5per2 3
+    Spectral1per2 10
   ]
   node
   [
@@ -20702,6 +21601,7 @@ graph
     louvain2 3
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -20725,6 +21625,7 @@ graph
     louvain2 3
     Spectral25per2 8
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -20748,6 +21649,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -20771,6 +21673,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -20794,6 +21697,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 9
+    Spectral1per2 47
   ]
   node
   [
@@ -20817,6 +21721,7 @@ graph
     louvain2 15
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 33
   ]
   node
   [
@@ -20840,6 +21745,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -20863,6 +21769,7 @@ graph
     louvain2 10
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -20886,6 +21793,7 @@ graph
     louvain2 17
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -20909,6 +21817,7 @@ graph
     louvain2 15
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -20932,6 +21841,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -20955,6 +21865,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -20978,6 +21889,7 @@ graph
     louvain2 9
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 45
   ]
   node
   [
@@ -21001,6 +21913,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -21024,6 +21937,7 @@ graph
     louvain2 1
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 43
   ]
   node
   [
@@ -21047,6 +21961,7 @@ graph
     louvain2 13
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -21070,6 +21985,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -21093,6 +22009,7 @@ graph
     louvain2 4
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -21116,6 +22033,7 @@ graph
     louvain2 16
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 4
   ]
   node
   [
@@ -21139,6 +22057,7 @@ graph
     louvain2 16
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 4
   ]
   node
   [
@@ -21162,6 +22081,7 @@ graph
     louvain2 11
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -21185,6 +22105,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -21208,6 +22129,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -21231,6 +22153,7 @@ graph
     louvain2 9
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -21254,6 +22177,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -21277,6 +22201,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -21300,6 +22225,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -21323,6 +22249,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -21346,6 +22273,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -21369,6 +22297,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -21392,6 +22321,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -21415,6 +22345,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -21438,6 +22369,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 32
   ]
   node
   [
@@ -21461,6 +22393,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -21484,6 +22417,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 15
   ]
   node
   [
@@ -21507,6 +22441,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -21530,6 +22465,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -21553,6 +22489,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -21576,6 +22513,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -21599,6 +22537,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -21622,6 +22561,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -21645,6 +22585,7 @@ graph
     louvain2 6
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 35
   ]
   node
   [
@@ -21668,6 +22609,7 @@ graph
     louvain2 20
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -21691,6 +22633,7 @@ graph
     louvain2 4
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 53
   ]
   node
   [
@@ -21714,6 +22657,7 @@ graph
     louvain2 13
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -21737,6 +22681,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 14
   ]
   node
   [
@@ -21760,6 +22705,7 @@ graph
     louvain2 8
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -21783,6 +22729,7 @@ graph
     louvain2 14
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 38
   ]
   node
   [
@@ -21806,6 +22753,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 47
   ]
   node
   [
@@ -21829,6 +22777,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 47
   ]
   node
   [
@@ -21852,6 +22801,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 47
   ]
   node
   [
@@ -21875,6 +22825,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -21898,6 +22849,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -21921,6 +22873,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 5
   ]
   node
   [
@@ -21944,6 +22897,7 @@ graph
     louvain2 11
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -21967,6 +22921,7 @@ graph
     louvain2 10
     Spectral25per2 2
     Spectral5per2 11
+    Spectral1per2 7
   ]
   node
   [
@@ -21990,6 +22945,7 @@ graph
     louvain2 1
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 22
   ]
   node
   [
@@ -22013,6 +22969,7 @@ graph
     louvain2 1
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 22
   ]
   node
   [
@@ -22036,6 +22993,7 @@ graph
     louvain2 1
     Spectral25per2 11
     Spectral5per2 6
+    Spectral1per2 23
   ]
   node
   [
@@ -22059,6 +23017,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -22082,6 +23041,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -22105,6 +23065,7 @@ graph
     louvain2 4
     Spectral25per2 17
     Spectral5per2 10
+    Spectral1per2 41
   ]
   node
   [
@@ -22128,6 +23089,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 49
   ]
   node
   [
@@ -22151,6 +23113,7 @@ graph
     louvain2 13
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 37
   ]
   node
   [
@@ -22174,6 +23137,7 @@ graph
     louvain2 14
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -22197,6 +23161,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -22220,6 +23185,7 @@ graph
     louvain2 12
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -22243,6 +23209,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 43
   ]
   node
   [
@@ -22266,6 +23233,7 @@ graph
     louvain2 12
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -22289,6 +23257,7 @@ graph
     louvain2 9
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -22312,6 +23281,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -22335,6 +23305,7 @@ graph
     louvain2 23
     Spectral25per2 12
     Spectral5per2 5
+    Spectral1per2 11
   ]
   node
   [
@@ -22358,6 +23329,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -22381,6 +23353,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -22404,6 +23377,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -22427,6 +23401,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -22450,6 +23425,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -22473,6 +23449,7 @@ graph
     louvain2 17
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -22496,6 +23473,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -22519,6 +23497,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -22542,6 +23521,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -22565,6 +23545,7 @@ graph
     louvain2 23
     Spectral25per2 11
     Spectral5per2 2
+    Spectral1per2 28
   ]
   node
   [
@@ -22588,6 +23569,7 @@ graph
     louvain2 17
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -22611,6 +23593,7 @@ graph
     louvain2 5
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 41
   ]
   node
   [
@@ -22634,6 +23617,7 @@ graph
     louvain2 4
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -22657,6 +23641,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 53
   ]
   node
   [
@@ -22680,6 +23665,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -22703,6 +23689,7 @@ graph
     louvain2 4
     Spectral25per2 24
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -22726,6 +23713,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -22749,6 +23737,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -22772,6 +23761,7 @@ graph
     louvain2 23
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -22795,6 +23785,7 @@ graph
     louvain2 19
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -22818,6 +23809,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 23
   ]
   node
   [
@@ -22841,6 +23833,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -22864,6 +23857,7 @@ graph
     louvain2 14
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -22887,6 +23881,7 @@ graph
     louvain2 15
     Spectral25per2 23
     Spectral5per2 10
+    Spectral1per2 41
   ]
   node
   [
@@ -22910,6 +23905,7 @@ graph
     louvain2 15
     Spectral25per2 23
     Spectral5per2 1
+    Spectral1per2 47
   ]
   node
   [
@@ -22933,6 +23929,7 @@ graph
     louvain2 11
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -22956,6 +23953,7 @@ graph
     louvain2 5
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 41
   ]
   node
   [
@@ -22979,6 +23977,7 @@ graph
     louvain2 4
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 47
   ]
   node
   [
@@ -23002,6 +24001,7 @@ graph
     louvain2 4
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -23025,6 +24025,7 @@ graph
     louvain2 4
     Spectral25per2 1
     Spectral5per2 1
+    Spectral1per2 45
   ]
   node
   [
@@ -23048,6 +24049,7 @@ graph
     louvain2 4
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -23071,6 +24073,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -23094,6 +24097,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 47
   ]
   node
   [
@@ -23117,6 +24121,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -23140,6 +24145,7 @@ graph
     louvain2 14
     Spectral25per2 23
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -23163,6 +24169,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -23186,6 +24193,7 @@ graph
     louvain2 17
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -23209,6 +24217,7 @@ graph
     louvain2 11
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -23232,6 +24241,7 @@ graph
     louvain2 11
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -23255,6 +24265,7 @@ graph
     louvain2 11
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -23278,6 +24289,7 @@ graph
     louvain2 11
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -23301,6 +24313,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -23324,6 +24337,7 @@ graph
     louvain2 15
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 7
   ]
   node
   [
@@ -23347,6 +24361,7 @@ graph
     louvain2 15
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 17
   ]
   node
   [
@@ -23370,6 +24385,7 @@ graph
     louvain2 18
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -23393,6 +24409,7 @@ graph
     louvain2 9
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 39
   ]
   node
   [
@@ -23416,6 +24433,7 @@ graph
     louvain2 13
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -23439,6 +24457,7 @@ graph
     louvain2 4
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -23462,6 +24481,7 @@ graph
     louvain2 15
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -23485,6 +24505,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -23508,6 +24529,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -23531,6 +24553,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -23554,6 +24577,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -23577,6 +24601,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 9
+    Spectral1per2 50
   ]
   node
   [
@@ -23600,6 +24625,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -23623,6 +24649,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -23646,6 +24673,7 @@ graph
     louvain2 4
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -23669,6 +24697,7 @@ graph
     louvain2 10
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 38
   ]
   node
   [
@@ -23692,6 +24721,7 @@ graph
     louvain2 6
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -23715,6 +24745,7 @@ graph
     louvain2 6
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -23738,6 +24769,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -23761,6 +24793,7 @@ graph
     louvain2 14
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 53
   ]
   node
   [
@@ -23784,6 +24817,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 13
   ]
   node
   [
@@ -23807,6 +24841,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 13
   ]
   node
   [
@@ -23830,6 +24865,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 1
+    Spectral1per2 50
   ]
   node
   [
@@ -23853,6 +24889,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -23876,6 +24913,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -23899,6 +24937,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -23922,6 +24961,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 42
   ]
   node
   [
@@ -23945,6 +24985,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 42
   ]
   node
   [
@@ -23968,6 +25009,7 @@ graph
     louvain2 11
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -23991,6 +25033,7 @@ graph
     louvain2 11
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -24014,6 +25057,7 @@ graph
     louvain2 5
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -24037,6 +25081,7 @@ graph
     louvain2 5
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -24060,6 +25105,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 49
   ]
   node
   [
@@ -24083,6 +25129,7 @@ graph
     louvain2 4
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 49
   ]
   node
   [
@@ -24106,6 +25153,7 @@ graph
     louvain2 9
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 39
   ]
   node
   [
@@ -24129,6 +25177,7 @@ graph
     louvain2 5
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -24152,6 +25201,7 @@ graph
     louvain2 12
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -24175,6 +25225,7 @@ graph
     louvain2 14
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 22
   ]
   node
   [
@@ -24198,6 +25249,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -24221,6 +25273,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -24244,6 +25297,7 @@ graph
     louvain2 9
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -24267,6 +25321,7 @@ graph
     louvain2 15
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 17
   ]
   node
   [
@@ -24290,6 +25345,7 @@ graph
     louvain2 14
     Spectral25per2 15
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -24313,6 +25369,7 @@ graph
     louvain2 15
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -24336,6 +25393,7 @@ graph
     louvain2 14
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -24359,6 +25417,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -24382,6 +25441,7 @@ graph
     louvain2 14
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 26
   ]
   node
   [
@@ -24405,6 +25465,7 @@ graph
     louvain2 25
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -24428,6 +25489,7 @@ graph
     louvain2 13
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -24451,6 +25513,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 46
   ]
   node
   [
@@ -24474,6 +25537,7 @@ graph
     louvain2 13
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 48
   ]
   node
   [
@@ -24497,6 +25561,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -24520,6 +25585,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -24543,6 +25609,7 @@ graph
     louvain2 14
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 23
   ]
   node
   [
@@ -24566,6 +25633,7 @@ graph
     louvain2 10
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 26
   ]
   node
   [
@@ -24589,6 +25657,7 @@ graph
     louvain2 14
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 23
   ]
   node
   [
@@ -24612,6 +25681,7 @@ graph
     louvain2 14
     Spectral25per2 10
     Spectral5per2 6
+    Spectral1per2 26
   ]
   node
   [
@@ -24635,6 +25705,7 @@ graph
     louvain2 10
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 26
   ]
   node
   [
@@ -24658,6 +25729,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 1
+    Spectral1per2 48
   ]
   node
   [
@@ -24681,6 +25753,7 @@ graph
     louvain2 10
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -24704,6 +25777,7 @@ graph
     louvain2 2
     Spectral25per2 8
     Spectral5per2 6
+    Spectral1per2 17
   ]
   node
   [
@@ -24727,6 +25801,7 @@ graph
     louvain2 12
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 34
   ]
   node
   [
@@ -24750,6 +25825,7 @@ graph
     louvain2 1
     Spectral25per2 9
     Spectral5per2 5
+    Spectral1per2 15
   ]
   node
   [
@@ -24773,6 +25849,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 2
+    Spectral1per2 26
   ]
   node
   [
@@ -24796,6 +25873,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 23
   ]
   node
   [
@@ -24819,6 +25897,7 @@ graph
     louvain2 4
     Spectral25per2 17
     Spectral5per2 10
+    Spectral1per2 43
   ]
   node
   [
@@ -24842,6 +25921,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 16
+    Spectral1per2 43
   ]
   node
   [
@@ -24865,6 +25945,7 @@ graph
     louvain2 15
     Spectral25per2 21
     Spectral5per2 16
+    Spectral1per2 43
   ]
   node
   [
@@ -24888,6 +25969,7 @@ graph
     louvain2 15
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 43
   ]
   node
   [
@@ -24911,6 +25993,7 @@ graph
     louvain2 4
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 10
   ]
   node
   [
@@ -24934,6 +26017,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -24957,6 +26041,7 @@ graph
     louvain2 9
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -24980,6 +26065,7 @@ graph
     louvain2 9
     Spectral25per2 13
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -25003,6 +26089,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -25026,6 +26113,7 @@ graph
     louvain2 21
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 51
   ]
   node
   [
@@ -25049,6 +26137,7 @@ graph
     louvain2 14
     Spectral25per2 11
     Spectral5per2 2
+    Spectral1per2 25
   ]
   node
   [
@@ -25072,6 +26161,7 @@ graph
     louvain2 3
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 38
   ]
   node
   [
@@ -25095,6 +26185,7 @@ graph
     louvain2 13
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 27
   ]
   node
   [
@@ -25118,6 +26209,7 @@ graph
     louvain2 13
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 9
   ]
   node
   [
@@ -25141,6 +26233,7 @@ graph
     louvain2 16
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -25164,6 +26257,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 11
   ]
   node
   [
@@ -25187,6 +26281,7 @@ graph
     louvain2 9
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 39
   ]
   node
   [
@@ -25210,6 +26305,7 @@ graph
     louvain2 9
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -25233,6 +26329,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -25256,6 +26353,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 4
+    Spectral1per2 16
   ]
   node
   [
@@ -25279,6 +26377,7 @@ graph
     louvain2 9
     Spectral25per2 7
     Spectral5per2 4
+    Spectral1per2 11
   ]
   node
   [
@@ -25302,6 +26401,7 @@ graph
     louvain2 9
     Spectral25per2 7
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -25325,6 +26425,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 20
   ]
   node
   [
@@ -25348,6 +26449,7 @@ graph
     louvain2 10
     Spectral25per2 2
     Spectral5per2 11
+    Spectral1per2 7
   ]
   node
   [
@@ -25371,6 +26473,7 @@ graph
     louvain2 4
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 42
   ]
   node
   [
@@ -25394,6 +26497,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -25417,6 +26521,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 50
   ]
   node
   [
@@ -25440,6 +26545,7 @@ graph
     louvain2 17
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 47
   ]
   node
   [
@@ -25463,6 +26569,7 @@ graph
     louvain2 11
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 29
   ]
   node
   [
@@ -25486,6 +26593,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 14
   ]
   node
   [
@@ -25509,6 +26617,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 19
   ]
   node
   [
@@ -25532,6 +26641,7 @@ graph
     louvain2 12
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 39
   ]
   node
   [
@@ -25555,6 +26665,7 @@ graph
     louvain2 15
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -25578,6 +26689,7 @@ graph
     louvain2 15
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -25601,6 +26713,7 @@ graph
     louvain2 15
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 17
   ]
   node
   [
@@ -25624,6 +26737,7 @@ graph
     louvain2 15
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 17
   ]
   node
   [
@@ -25647,6 +26761,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -25670,6 +26785,7 @@ graph
     louvain2 3
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -25693,6 +26809,7 @@ graph
     louvain2 4
     Spectral25per2 23
     Spectral5per2 16
+    Spectral1per2 50
   ]
   node
   [
@@ -25716,6 +26833,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -25739,6 +26857,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -25762,6 +26881,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -25785,6 +26905,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 49
   ]
   node
   [
@@ -25808,6 +26929,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -25831,6 +26953,7 @@ graph
     louvain2 7
     Spectral25per2 17
     Spectral5per2 10
+    Spectral1per2 46
   ]
   node
   [
@@ -25854,6 +26977,7 @@ graph
     louvain2 11
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 45
   ]
   node
   [
@@ -25877,6 +27001,7 @@ graph
     louvain2 7
     Spectral25per2 17
     Spectral5per2 10
+    Spectral1per2 42
   ]
   node
   [
@@ -25900,6 +27025,7 @@ graph
     louvain2 9
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -25923,6 +27049,7 @@ graph
     louvain2 9
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -25946,6 +27073,7 @@ graph
     louvain2 9
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -25969,6 +27097,7 @@ graph
     louvain2 16
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 3
   ]
   node
   [
@@ -25992,6 +27121,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 47
   ]
   node
   [
@@ -26015,6 +27145,7 @@ graph
     louvain2 7
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 47
   ]
   node
   [
@@ -26038,6 +27169,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 16
   ]
   node
   [
@@ -26061,6 +27193,7 @@ graph
     louvain2 9
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 37
   ]
   node
   [
@@ -26084,6 +27217,7 @@ graph
     louvain2 2
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -26107,6 +27241,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 16
   ]
   node
   [
@@ -26130,6 +27265,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 5
+    Spectral1per2 16
   ]
   node
   [
@@ -26153,6 +27289,7 @@ graph
     louvain2 14
     Spectral25per2 8
     Spectral5per2 6
+    Spectral1per2 26
   ]
   node
   [
@@ -26176,6 +27313,7 @@ graph
     louvain2 10
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -26199,6 +27337,7 @@ graph
     louvain2 10
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -26222,6 +27361,7 @@ graph
     louvain2 10
     Spectral25per2 4
     Spectral5per2 11
+    Spectral1per2 53
   ]
   node
   [
@@ -26245,6 +27385,7 @@ graph
     louvain2 3
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 29
   ]
   node
   [
@@ -26268,6 +27409,7 @@ graph
     louvain2 10
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -26291,6 +27433,7 @@ graph
     louvain2 15
     Spectral25per2 9
     Spectral5per2 3
+    Spectral1per2 17
   ]
   node
   [
@@ -26314,6 +27457,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -26337,6 +27481,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 26
   ]
   node
   [
@@ -26360,6 +27505,7 @@ graph
     louvain2 22
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -26383,6 +27529,7 @@ graph
     louvain2 22
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -26406,6 +27553,7 @@ graph
     louvain2 22
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 4
   ]
   node
   [
@@ -26429,6 +27577,7 @@ graph
     louvain2 16
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -26452,6 +27601,7 @@ graph
     louvain2 16
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -26475,6 +27625,7 @@ graph
     louvain2 14
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -26498,6 +27649,7 @@ graph
     louvain2 14
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 33
   ]
   node
   [
@@ -26521,6 +27673,7 @@ graph
     louvain2 13
     Spectral25per2 10
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -26544,6 +27697,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -26567,6 +27721,7 @@ graph
     louvain2 12
     Spectral25per2 10
     Spectral5per2 3
+    Spectral1per2 13
   ]
   node
   [
@@ -26590,6 +27745,7 @@ graph
     louvain2 3
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -26613,6 +27769,7 @@ graph
     louvain2 17
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -26636,6 +27793,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -26659,6 +27817,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -26682,6 +27841,7 @@ graph
     louvain2 10
     Spectral25per2 10
     Spectral5per2 5
+    Spectral1per2 26
   ]
   node
   [
@@ -26705,6 +27865,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -26728,6 +27889,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -26751,6 +27913,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -26774,6 +27937,7 @@ graph
     louvain2 16
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 17
   ]
   node
   [
@@ -26797,6 +27961,7 @@ graph
     louvain2 16
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -26820,6 +27985,7 @@ graph
     louvain2 2
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 17
   ]
   node
   [
@@ -26843,6 +28009,7 @@ graph
     louvain2 25
     Spectral25per2 4
     Spectral5per2 12
+    Spectral1per2 53
   ]
   node
   [
@@ -26866,6 +28033,7 @@ graph
     louvain2 3
     Spectral25per2 12
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -26889,6 +28057,7 @@ graph
     louvain2 9
     Spectral25per2 7
     Spectral5per2 4
+    Spectral1per2 21
   ]
   node
   [
@@ -26912,6 +28081,7 @@ graph
     louvain2 16
     Spectral25per2 16
     Spectral5per2 8
+    Spectral1per2 36
   ]
   node
   [
@@ -26935,6 +28105,7 @@ graph
     louvain2 9
     Spectral25per2 10
     Spectral5per2 4
+    Spectral1per2 19
   ]
   node
   [
@@ -26958,6 +28129,7 @@ graph
     louvain2 2
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -26981,6 +28153,7 @@ graph
     louvain2 2
     Spectral25per2 8
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -27004,6 +28177,7 @@ graph
     louvain2 3
     Spectral25per2 9
     Spectral5per2 5
+    Spectral1per2 23
   ]
   node
   [
@@ -27027,6 +28201,7 @@ graph
     louvain2 3
     Spectral25per2 9
     Spectral5per2 5
+    Spectral1per2 23
   ]
   node
   [
@@ -27050,6 +28225,7 @@ graph
     louvain2 9
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 18
   ]
   node
   [
@@ -27073,6 +28249,7 @@ graph
     louvain2 15
     Spectral25per2 7
     Spectral5per2 2
+    Spectral1per2 28
   ]
   node
   [
@@ -27096,6 +28273,7 @@ graph
     louvain2 13
     Spectral25per2 8
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -27119,6 +28297,7 @@ graph
     louvain2 13
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -27142,6 +28321,7 @@ graph
     louvain2 16
     Spectral25per2 11
     Spectral5per2 2
+    Spectral1per2 17
   ]
   node
   [
@@ -27165,6 +28345,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -27188,6 +28369,7 @@ graph
     louvain2 2
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -27211,6 +28393,7 @@ graph
     louvain2 14
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -27234,6 +28417,7 @@ graph
     louvain2 7
     Spectral25per2 11
     Spectral5per2 5
+    Spectral1per2 21
   ]
   node
   [
@@ -27257,6 +28441,7 @@ graph
     louvain2 10
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 36
   ]
   node
   [
@@ -27280,6 +28465,7 @@ graph
     louvain2 8
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 35
   ]
   node
   [
@@ -27303,6 +28489,7 @@ graph
     louvain2 10
     Spectral25per2 9
     Spectral5per2 2
+    Spectral1per2 15
   ]
   node
   [
@@ -27326,6 +28513,7 @@ graph
     louvain2 15
     Spectral25per2 8
     Spectral5per2 3
+    Spectral1per2 16
   ]
   node
   [
@@ -27349,6 +28537,7 @@ graph
     louvain2 5
     Spectral25per2 19
     Spectral5per2 14
+    Spectral1per2 31
   ]
   node
   [
@@ -27372,6 +28561,7 @@ graph
     louvain2 3
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -27395,6 +28585,7 @@ graph
     louvain2 9
     Spectral25per2 6
     Spectral5per2 4
+    Spectral1per2 26
   ]
   node
   [
@@ -27418,6 +28609,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -27441,6 +28633,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -27464,6 +28657,7 @@ graph
     louvain2 13
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -27487,6 +28681,7 @@ graph
     louvain2 13
     Spectral25per2 2
     Spectral5per2 12
+    Spectral1per2 8
   ]
   node
   [
@@ -27510,6 +28705,7 @@ graph
     louvain2 21
     Spectral25per2 21
     Spectral5per2 1
+    Spectral1per2 44
   ]
   node
   [
@@ -27533,6 +28729,7 @@ graph
     louvain2 16
     Spectral25per2 7
     Spectral5per2 4
+    Spectral1per2 14
   ]
   node
   [
@@ -27556,6 +28753,7 @@ graph
     louvain2 16
     Spectral25per2 12
     Spectral5per2 4
+    Spectral1per2 14
   ]
   node
   [
@@ -27579,6 +28777,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 14
   ]
   node
   [
@@ -27602,6 +28801,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 4
+    Spectral1per2 14
   ]
   node
   [
@@ -27625,6 +28825,7 @@ graph
     louvain2 16
     Spectral25per2 11
     Spectral5per2 4
+    Spectral1per2 25
   ]
   node
   [
@@ -27648,6 +28849,7 @@ graph
     louvain2 16
     Spectral25per2 8
     Spectral5per2 2
+    Spectral1per2 26
   ]
   node
   [
@@ -27671,6 +28873,7 @@ graph
     louvain2 14
     Spectral25per2 14
     Spectral5per2 7
+    Spectral1per2 40
   ]
   node
   [
@@ -27694,6 +28897,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -27717,6 +28921,7 @@ graph
     louvain2 23
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -27740,6 +28945,7 @@ graph
     louvain2 23
     Spectral25per2 12
     Spectral5per2 5
+    Spectral1per2 12
   ]
   node
   [
@@ -27763,6 +28969,7 @@ graph
     louvain2 1
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -27786,6 +28993,7 @@ graph
     louvain2 1
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -27809,6 +29017,7 @@ graph
     louvain2 1
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 5
   ]
   node
   [
@@ -27832,6 +29041,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -27855,6 +29065,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -27878,6 +29089,7 @@ graph
     louvain2 3
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -27901,6 +29113,7 @@ graph
     louvain2 3
     Spectral25per2 24
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -27924,6 +29137,7 @@ graph
     louvain2 14
     Spectral25per2 18
     Spectral5per2 13
+    Spectral1per2 30
   ]
   node
   [
@@ -27947,6 +29161,7 @@ graph
     louvain2 24
     Spectral25per2 21
     Spectral5per2 10
+    Spectral1per2 44
   ]
   node
   [
@@ -27970,6 +29185,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 1
+    Spectral1per2 49
   ]
   node
   [
@@ -27993,6 +29209,7 @@ graph
     louvain2 2
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -28016,6 +29233,7 @@ graph
     louvain2 13
     Spectral25per2 7
     Spectral5per2 5
+    Spectral1per2 13
   ]
   node
   [
@@ -28039,6 +29257,7 @@ graph
     louvain2 14
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -28062,6 +29281,7 @@ graph
     louvain2 7
     Spectral25per2 21
     Spectral5per2 9
+    Spectral1per2 45
   ]
   node
   [
@@ -28085,6 +29305,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -28108,6 +29329,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -28131,6 +29353,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -28154,6 +29377,7 @@ graph
     louvain2 8
     Spectral25per2 17
     Spectral5per2 9
+    Spectral1per2 41
   ]
   node
   [
@@ -28177,6 +29401,7 @@ graph
     louvain2 8
     Spectral25per2 21
     Spectral5per2 15
+    Spectral1per2 46
   ]
   node
   [
@@ -28200,6 +29425,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -28223,6 +29449,7 @@ graph
     louvain2 13
     Spectral25per2 20
     Spectral5per2 10
+    Spectral1per2 48
   ]
   node
   [
@@ -28246,6 +29473,7 @@ graph
     louvain2 25
     Spectral25per2 2
     Spectral5per2 11
+    Spectral1per2 7
   ]
   node
   [
@@ -28269,6 +29497,7 @@ graph
     louvain2 12
     Spectral25per2 5
     Spectral5per2 12
+    Spectral1per2 6
   ]
   node
   [
@@ -28292,6 +29521,7 @@ graph
     louvain2 17
     Spectral25per2 3
     Spectral5per2 12
+    Spectral1per2 2
   ]
   node
   [
@@ -28315,6 +29545,7 @@ graph
     louvain2 3
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 11
   ]
   node
   [
@@ -28338,6 +29569,7 @@ graph
     louvain2 5
     Spectral25per2 6
     Spectral5per2 5
+    Spectral1per2 11
   ]
   node
   [
@@ -28361,6 +29593,7 @@ graph
     louvain2 9
     Spectral25per2 7
     Spectral5per2 3
+    Spectral1per2 10
   ]
   node
   [
@@ -28384,6 +29617,7 @@ graph
     louvain2 1
     Spectral25per2 12
     Spectral5per2 3
+    Spectral1per2 15
   ]
   node
   [
@@ -28407,6 +29641,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 44
   ]
   node
   [
@@ -28430,6 +29665,7 @@ graph
     louvain2 4
     Spectral25per2 20
     Spectral5per2 16
+    Spectral1per2 48
   ]
   node
   [
@@ -28453,6 +29689,7 @@ graph
     louvain2 1
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -28476,6 +29713,7 @@ graph
     louvain2 4
     Spectral25per2 22
     Spectral5per2 10
+    Spectral1per2 41
   ]
   node
   [
@@ -28499,6 +29737,7 @@ graph
     louvain2 14
     Spectral25per2 6
     Spectral5per2 6
+    Spectral1per2 11
   ]
   node
   [
@@ -28522,6 +29761,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 5
+    Spectral1per2 10
   ]
   node
   [
@@ -28545,6 +29785,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 28
   ]
   node
   [
@@ -28568,6 +29809,7 @@ graph
     louvain2 3
     Spectral25per2 13
     Spectral5per2 2
+    Spectral1per2 10
   ]
   node
   [
@@ -28591,6 +29833,7 @@ graph
     louvain2 7
     Spectral25per2 21
     Spectral5per2 9
+    Spectral1per2 43
   ]
   edge
   [
