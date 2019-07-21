@@ -57,6 +57,45 @@ findLCC <- function(GG){
 
 }
 
+#---Get all edges internal to a community
+intraEdges <- function(GG, ALG, CC, INTRA=NULL, INTER=NULL){
+  
+  intra = NULL #edges in the community CC
+  inter = NULL #edges going out from community CC   
+  
+  if( !is.null(igraph::get.vertex.attribute(GG,ALG)) ){
+    
+    coms <- get.vertex.attribute(GG,ALG)
+    
+    if( length(which(coms == CC)) != 0 ){
+      
+      ed_cc = E(GG)[inc(coms == CC)]
+      
+      all_edges_m <- get.edges(GG, ed_cc) #matrix representation
+      
+      inter = (ed_cc[!(all_edges_m[, 1] %in% V(GG)[coms == CC] & all_edges_m[, 2] %in% V(GG)[coms == CC])])
+      
+      intra = (ed_cc[(all_edges_m[, 1] %in% V(GG)[coms == CC] & all_edges_m[, 2] %in% V(GG)[coms == CC])])
+      
+    }
+  }
+  
+  if( INTRA==TRUE && !is.null(intra) ){
+    intra_m = get.edges(GG,intra)
+    intra   = cbind(V(GG)$name[intra_m[,1]],V(GG)$name[intra_m[,2]])
+    return(intra)
+  }
+  
+  if( INTER==TRUE && !is.null(inter) ){
+    inter_m = get.edges(GG,inter)
+    inter   = cbind(V(GG)$name[inter_m[,1]],V(GG)$name[inter_m[,2]])
+    return(inter)
+  }
+  
+  return(NULL)
+  
+}
+
 reCluster <- function( GG, ALGN, CnMAX, CnMIN ){
 
     if( !is.null(igraph::get.vertex.attribute(GG,ALGN)) ){

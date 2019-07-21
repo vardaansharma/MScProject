@@ -23,16 +23,19 @@ echo annon dir: $ANNODIR
 graphFILE=$MAINDIR/parameterFiles/graphs.csv
 declare -a graphON SUBDIR
 
-IFS=$'\n\t' ARRAY=($(<$graphFILE))
+IFS=$',' ARRAY=($(<$graphFILE))
 
 len=${#ARRAY[@]}
+
+# echo gon: $ARRAY
 k=0
 for ((i=0; i<$len; i=i+2)); do
     graphON[$k]=${ARRAY[$i]}
     echo ${graphON[$k]}
     k=$(($k+1))
 done
-
+#
+# echo subdir: ${graphON[0]}
 k=0
 for ((i=1; i<$len; i=i+2)); do
     SUBDIR[$k]=${ARRAY[$i]}
@@ -45,7 +48,7 @@ done
 annoFILE=$MAINDIR/parameterFiles/annotations.csv
 declare -a annoON annoFILES annoTITLES
 
-IFS=$'\n\t' ARRAY=($(<$annoFILE))
+IFS=$',' ARRAY=($(<$annoFILE))
 
 len=${#ARRAY[@]}
 k=0
@@ -74,7 +77,7 @@ done
 comFILE=$MAINDIR/parameterFiles/clusteringAlg.csv
 declare -a comON comFILES comTITLES
 
-IFS=$'\n\t' ARRAY=($(<$comFILE))
+IFS=$',' ARRAY=($(<$comFILE))
 
 #len=${#ARRAY[@]}
 #for ((i=0; i<$len; i++)); do
@@ -105,93 +108,92 @@ for ((i=2; i<$len; i=i+3)); do
 done
 #---
 #--- END READ-IN
-#
-# #---Check OUT and RESULTS directories exist
-# #--- RESULTS DIR
-# RESDIR=$WORKINGDIR/RESULTS
-# if [ ! -d $RESDIR ]; then
-#     mkdir $RESDIR
-# fi
-#
-# #--- OUT DIR
-# tmpDIR=OUT
-# TEMPDIR=$WORKINGDIR/$tmpDIR
-# if [ ! -d $TEMPDIR ]; then
-#     mkdir $TEMPDIR
-# fi
-# #---
-#
-# EXE=run
-# chmod +x $EXE
-#
-# #---SET LOOP COUNTERS
-# gSTART=0
-# gEND=${#SUBDIR[@]}
-# gEND=$(($gEND-1))
-#
-# START=0
-# END=${#annoTITLES[@]}
-# END=$(($END-1))
-#
-# kSTART=0
-# kEND=${#comTITLES[@]}
-# kEND=$(($kEND-1))
-# #--- END
-#
-# MINov1=2
-#
-# #---loop over graphs
-# for g in `seq $gSTART $gEND`
-# do
-#
-#     if [ ${graphON[$g]} -eq "1" ]; then
-#
-# 	GRAPHENRICHOUT=$WORKINGDIR/RESULTS/${SUBDIR[$g]}
-# 	if [ ! -d $GRAPHENRICHOUT ]; then
-# 	    mkdir $GRAPHENRICHOUT
-# 	fi
-#
-# 	#---loop over clustering algorithms
-# 	for k in `seq $kSTART $kEND`
-# 	do
-# 	    echo "Running over clustering algorithm ${comTITLES[$k]}:"
-#
-# 	    #---Create output directory for cluster enrichment results
-# 	    OUTDIR=$WORKINGDIR/RESULTS/${SUBDIR[$g]}/${comTITLES[$k]}
-# 	    if [ ! -d $OUTDIR ]; then
-# 		mkdir $OUTDIR
-# 	    fi
-#
-# 	    #---loop over annotation set
-# 	    for a in `seq $START $END`
-# 	    do
-# 		echo "Annotation set: ${annoTITLES[$a]}"
-#
-#
-# 		if [[ ${comON[$k]} -eq "1" && ${annoON[$a]} -ge "1" ]]; then
-#
-# 		    #--- Clean temp dir, i.e. "OUT/"
-# 		    #rm $WORKINGDIR/$tmpDIR/*
-# 		    rm $tmpDIR/*.csv
-#
-# 		    #---run cluster enrichment for annotation set
-# 		    time ./$EXE -Comfile $COMDIR/${SUBDIR[$g]}/${comFILES[$k]} -Annofile $ANNODIR/${annoFILES[$a]} -ext ${annoTITLES[$a]} -o $tmpDIR -opt 1 -setFDR BY -printID -noPerm -printAn -onesided
-#
-#
-# 		    #---Copy cluster enrichment results to output directory
-# 		    cp $WORKINGDIR/$tmpDIR/*.csv $OUTDIR
-#
-# 		    #--- Clean temp dir, i.e. "OUT/"
-# 		    rm $tmpDIR/*.csv
-#
-# 		fi
-#
-# 	    done
-# 	done
-#     fi
-# done
-#
-# echo "$0 done!"
-#
+
+#---Check OUT and RESULTS directories exist
+#--- RESULTS DIR
+RESDIR=$WORKINGDIR/RESULTS
+if [ ! -d $RESDIR ]; then
+    mkdir $RESDIR
+fi
+
+#--- OUT DIR
+tmpDIR=OUT
+TEMPDIR=$WORKINGDIR/$tmpDIR
+if [ ! -d $TEMPDIR ]; then
+    mkdir $TEMPDIR
+fi
+#---
+
+EXE=run
+chmod +x $EXE
+
+#---SET LOOP COUNTERS
+gSTART=0
+gEND=${#SUBDIR[@]}
+gEND=$(($gEND-1))
+
+START=0
+END=${#annoTITLES[@]}
+END=$(($END-1))
+
+kSTART=0
+kEND=${#comTITLES[@]}
+kEND=$(($kEND-1))
+#--- END
+
+MINov1=2
+
+#---loop over graphs
+for g in `seq $gSTART $gEND`
+do
+
+    if [ ${graphON[$g]} -eq "1" ]; then
+
+	GRAPHENRICHOUT=$WORKINGDIR/RESULTS/${SUBDIR[$g]}
+	if [ ! -d $GRAPHENRICHOUT ]; then
+	    mkdir $GRAPHENRICHOUT
+	fi
+
+	#---loop over clustering algorithms
+	for k in `seq $kSTART $kEND`
+	do
+	    echo "Running over clustering algorithm ${comTITLES[$k]}:"
+
+	    #---Create output directory for cluster enrichment results
+	    OUTDIR=$WORKINGDIR/RESULTS/${SUBDIR[$g]}/${comTITLES[$k]}
+	    if [ ! -d $OUTDIR ]; then
+		mkdir $OUTDIR
+	    fi
+
+	    #---loop over annotation set
+	    for a in `seq $START $END`
+	    do
+		echo "Annotation set: ${annoTITLES[$a]}"
+
+
+		if [[ ${comON[$k]} -eq "1" && ${annoON[$a]} -ge "1" ]]; then
+
+		    #--- Clean temp dir, i.e. "OUT/"
+		    #rm $WORKINGDIR/$tmpDIR/*
+		    rm $tmpDIR/*.csv
+
+		    #---run cluster enrichment for annotation set
+		    time ./$EXE -Comfile $COMDIR/${SUBDIR[$g]}/${comFILES[$k]} -Annofile $ANNODIR/${annoFILES[$a]} -ext ${annoTITLES[$a]} -o $tmpDIR -opt 1 -setFDR BY -printID -noPerm -printAn -onesided
+
+
+		    #---Copy cluster enrichment results to output directory
+		    cp $WORKINGDIR/$tmpDIR/*.csv $OUTDIR
+
+		    #--- Clean temp dir, i.e. "OUT/"
+		    rm $tmpDIR/*.csv
+
+		fi
+
+	    done
+	done
+    fi
+done
+
+echo "$0 done!"
+
 # exit 0
-#

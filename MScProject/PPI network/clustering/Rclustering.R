@@ -36,26 +36,44 @@ ids <- V(gg)$name;
 #> R CMD INSTALL CDMSuite_0.1.0.tar.gz
 #---
 library(CDMSuite)
+
+#0.25 SPECTRAL
 Cnmin <- (0.25 * length(V(gg)))/100 #can set the minimum community size
 el    <- as.data.frame(get.edgelist(gg,names=T))
 spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
 mem   <- spec$K[match(V(gg)$name,spec$ID)]
-gg    <- igraph::set.vertex.attribute(gg,"Spectral",V(gg), mem)
-
-
+gg    <- igraph::set.vertex.attribute(gg,"Spectral_025",V(gg), mem)
 #saving the Spectral clustering to a file
 cc <- matrix(NA, ncol=2, nrow=length(ids))
 cc[,1] <- as.character(V(gg)$name)
-cc[,2] <- as.character(V(gg)$Spectral)
+cc[,2] <- as.character(V(gg)$Spectral_025)
 cc <- as.data.frame(cc)
 outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,Cnmin),"w")
 cat("#communities",file=outfile,"\n")
 write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
 close(outfile);
 
-#---
 
-# 
+#0.1 SPECTRAL
+Cnmin <- (1 * length(V(gg)))/100 #can set the minimum community size
+el    <- as.data.frame(get.edgelist(gg,names=T))
+spec  <- CDMSuite::spectral(DF=el, CnMIN=Cnmin)
+mem   <- spec$K[match(V(gg)$name,spec$ID)]
+gg    <- igraph::set.vertex.attribute(gg,"Spectral_1",V(gg), mem)
+#saving the Spectral clustering to a file
+cc <- matrix(NA, ncol=2, nrow=length(ids))
+cc[,1] <- as.character(V(gg)$name)
+cc[,2] <- as.character(V(gg)$Spectral_1)
+cc <- as.data.frame(cc)
+outfile <- file(sprintf("%s/spectral_communities_cmin%s.csv",cldir,Cnmin),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+
+
+
+
+
 # #---
 # # Run lec Clustering
 # # No parameters to tune here
@@ -138,15 +156,11 @@ for( i in 1:length(ids) ){
   ind1 = which(cc[,1]==ids[i])
   Str <- "";
   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-<<<<<<< HEAD
   V(gg)[i]$fc = as.integer(Str); 
 }
 #---
-=======
-  V(gg)[i]$fc = as.integer(Str);
-}
 # #---
->>>>>>> 968aedd3e0e59ded5ca025555a5079e94f05dcb1
+#>>>>>>> 968aedd3e0e59ded5ca025555a5079e94f05dcb1
 # 
 # #---
 # # Run louvain Clustering
@@ -204,46 +218,46 @@ for( i in 1:length(ids) ){
 # }
 # #---
 # 
-# #---
-# # Run sgG1 Clustering
-# #Parameters
-# #spins = 500, as used in paper, as big as the number of communities.
-# #gamma, optimal value is 1.0; this is when maximum modularity is reached. Bigger gamma value leads to more smaller communities. the stability of community structures varies considerably under the change of this parameter. Increasing gamma, tend to favour more edges between communities, i.e. lower the modularity value, rather than edges in communities.  
-# 
-# #gamma = 1.0 & spin=500, gives 25 communites, mod=0.38
-# #gamma = 2.0 & spin=500, gives 34 communites, mod=0.32
-# #gamma = 5.0 & spin=500, gives 85 communites, mod=0.25
-#     
-# ptm <- proc.time()
-# sg  <- igraph::spinglass.community(gg, spins=as.numeric(500),gamma=1)
-# pet <- proc.time() - ptm
-# cat("sgG1 \n")
-# cat(sprintf("time = %.3f \n", pet[[1]]))
-# cat(sprintf("mod=%.3f \n",sg$modularity))
-# cat("---\n")
-# cc      <- matrix(NA, ncol=2, nrow=length(sg$names))
-# cc[,1]  <- as.character(sg$names)
-# cc[,2]  <- as.character(sg$membership)
-# cc      <- as.data.frame(cc)
-# outfile <- file(sprintf("%s/sgG1_communities.csv",cldir),"w")
-# cat("#communities",file=outfile,"\n")
-# write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
-# close(outfile);
-# #---
-# igraph::set.vertex.attribute(gg,"sgG1",V(gg),0)
-# for( i in 1:length(ids) ){
-#   ind1 = which(cc[,1]==ids[i])
-#   Str <- "";
-#   if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
-#   V(gg)[i]$sgG1 = as.integer(Str); 
-# }
-# #---
+#---
+# Run sgG1 Clustering
+#Parameters
+#spins = 500, as used in paper, as big as the number of communities.
+#gamma, optimal value is 1.0; this is when maximum modularity is reached. Bigger gamma value leads to more smaller communities. the stability of community structures varies considerably under the change of this parameter. Increasing gamma, tend to favour more edges between communities, i.e. lower the modularity value, rather than edges in communities.
+
+#gamma = 1.0 & spin=500, gives 25 communites, mod=0.38
+#gamma = 2.0 & spin=500, gives 34 communites, mod=0.32
+#gamma = 5.0 & spin=500, gives 85 communites, mod=0.25
+
+ptm <- proc.time()
+sg  <- igraph::spinglass.community(gg, spins=as.numeric(500),gamma=1)
+pet <- proc.time() - ptm
+cat("sgG1 \n")
+cat(sprintf("time = %.3f \n", pet[[1]]))
+cat(sprintf("mod=%.3f \n",sg$modularity))
+cat("---\n")
+cc      <- matrix(NA, ncol=2, nrow=length(sg$names))
+cc[,1]  <- as.character(sg$names)
+cc[,2]  <- as.character(sg$membership)
+cc      <- as.data.frame(cc)
+outfile <- file(sprintf("%s/sgG1_communities.csv",cldir),"w")
+cat("#communities",file=outfile,"\n")
+write.table( cc, file=outfile, append=T, row.names=F, col.names=F, sep="\t", quote=F);
+close(outfile);
+#---
+igraph::set.vertex.attribute(gg,"sgG1",V(gg),0)
+for( i in 1:length(ids) ){
+  ind1 = which(cc[,1]==ids[i])
+  Str <- "";
+  if( length(ind1) != 0 ){if( Str == "" ){ Str <- as.character(cc[ind1[1],2]) }}
+  V(gg)[i]$sgG1 = as.integer(Str);
+}
+#---
 # 
 # ##---Write .gml graph to file
 # igraph::write.graph(gg, sprintf("%s/%s.gml",grdir,subDIR[S]), "gml")
 # ##---Write .graphml graph to file
 # igraph::write.graph(gg, sprintf("%s/%s.graphml",grdir,subDIR[S]), "graphml")
-# 
+
 # run=TRUE
 # if(run){
 # 
