@@ -50,7 +50,7 @@ done
 annoFILE=$MAINDIR/parameterFiles/annotations.csv
 declare -a annoON annoFILES annoTITLES
 
-IFS=$',' ARRAY=($(<$annoFILE))
+IFS=$'\n,' ARRAY=($(<$annoFILE))
 
 
 echo annoON
