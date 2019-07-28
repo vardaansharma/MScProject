@@ -1,0 +1,9 @@
+1.Völgyi_2017/Volgyi_2018_AD_increased_mapped.xlsx
+1.Völgyi_2017/Volgyi_AD_deecreased_mapped.xlsx
+2.Neuner_2017/1-s2.0-S0166432816303564-mmc2_mapped.xlsx
+3.Sweet_2016/diffrential__exp_proteins.xlsx
+5.Chang_2015/CHANG_2015_DES.xlsx
+6.Chang_2013/CHANG_2013_DES_mapped.xlsx
+6.Chang_2013/CHANG_2013_DES_1_mapped.xlsx
+7.Zolochevska_2018/7.Zolochevshka2018_NDANvsAD_DE_mapped_OS.xlsx
+8.Krivinko_2018/Krivinko_2018_PSDEnriched_mice_mapped_OS.xlsx
