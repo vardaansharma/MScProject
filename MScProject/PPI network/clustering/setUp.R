@@ -3,13 +3,9 @@ rm(list=ls())
 #Set the absolute path to this working directory
 version="17_05_2019"
 #mainDir <- sprintf("/afs/inf.ed.ac.uk/user/c/cmclean5/WORK/DATA/Human_synaptosome_%s",version)
-<<<<<<< HEAD
-mainDir <- "C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/clustering"
-# mainDir <- "/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/PPI network/clustering"
-=======
+
 #mainDir <- "C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/clustering"
 mainDir <- "/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/PPI network/clustering"
->>>>>>> f1d41b0263d56893f82c8a6fc507d8f3caaca60a
 
 
 #Get Path to all top-level directories in folder
@@ -51,13 +47,13 @@ ALGS[12] <- "Geodesic"
 ALGS[13] <- "CONSENSUS"
 ALGS[14] <- "louvain2"
 ALGS[15] <- "Spectral1per"
-<<<<<<< HEAD
+# <<<<<<< HEAD
 ALGS[16] <- "Spectral25per" 
 ALGS[17] <- "Spectral5per"#
-=======
+# =======
 ALGS[16] <- "Spectral25per"#
 ALGS[17] <- "Spectral5per"
->>>>>>> f1d41b0263d56893f82c8a6fc507d8f3caaca60a
+# >>>>>>> f1d41b0263d56893f82c8a6fc507d8f3caaca60a
 ALGS[18] <- "fc2"
 ALGS[19] <- "lec2"
 ALGS[20] <- "wt2"

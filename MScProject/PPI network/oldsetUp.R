@@ -2,11 +2,7 @@ rm(list=ls())
 
 #Set the absolute path to this working directory
 version="17_05_2019"
-#mainDir <- sprintf("/afs/inf.ed.ac.uk/user/c/cmclean5/WORK/DATA/Human_synaptosome_%s",version)
-
-#mainDir <- "C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/PPI network/clustering"
-mainDir <- "/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/PPI network/clustering"
-
+mainDir <- sprintf("/afs/inf.ed.ac.uk/user/c/cmclean5/WORK/DATA/Human_synaptosome_%s",version)
 
 #Get Path to all top-level directories in folder
 DIRS <- list.dirs(mainDir,recursive=F)
@@ -21,7 +17,7 @@ subDIR <- unlist(strsplit(subDIR,".csv"))
 
 #---Location for randomisation files
 rndDIR    <- vector(length=1)
-#rndDIR[1] <- sprintf("/disk/scratch/WORK/DATA/Human_synaptosome_%s",version)
+rndDIR[1] <- sprintf("/disk/scratch/WORK/DATA/Human_synaptosome_%s",version)
 
 #---C++ Dir
 CPP    <- vector(length=4)
@@ -32,13 +28,13 @@ CPP[4] <- "Geodesic"
 
 #---Declare all clustering algorithms
 ALGS    <- vector(length=29)
-ALGS[1]  <- "fc"#
-ALGS[2]  <- "sgG1"#
+ALGS[1]  <- "fc"
+ALGS[2]  <- "sgG1"
 ALGS[3]  <- "sgG2"
 ALGS[4]  <- "sgG5"
-ALGS[5]  <- "Spectral"#
-ALGS[6]  <- "louvain"#
-ALGS[7]  <- "infomap"#
+ALGS[5]  <- "Spectral"
+ALGS[6]  <- "louvain"
+ALGS[7]  <- "infomap"
 ALGS[8]  <- "lec"
 ALGS[9]  <- "wt"
 ALGS[10] <- "SVI"
@@ -47,7 +43,7 @@ ALGS[12] <- "Geodesic"
 ALGS[13] <- "CONSENSUS"
 ALGS[14] <- "louvain2"
 ALGS[15] <- "Spectral1per"
-ALGS[16] <- "Spectral25per"#
+ALGS[16] <- "Spectral25per"
 ALGS[17] <- "Spectral5per"
 ALGS[18] <- "fc2"
 ALGS[19] <- "lec2"
@@ -139,7 +135,7 @@ c=1
 #--- Set 
 #--- Pre-load Graph of interest, stored in file 'graphs.csv'
 pramFILES <- DIRS[grepl("parameterFiles",DIRS)]
-Graph <- read.table(sprintf("%s/graphs.csv",pramFILES),header=F,sep=",",quote="")
+Graph <- read.table(sprintf("%s/graphs.csv",pramFILES),header=F,sep="\t",quote="")
 S     <- as.vector(Graph[which(as.vector(Graph[,1]) == 1)[1],2])
 S     <- match(S,subDIR)
 #S     <- grep(S,subDIR)
@@ -195,33 +191,33 @@ HEIGHT=480
 #source("http://www.bioconductor.org/biocLite.R")
 
 library(igraph);
-library(lattice);
-library(ggplot2);
-library(stringr);
-library(gtable);
-library(grid);
-library(ggrepel);
-library(scales);
-# library(clusterCons);
-library(plyr);
-library(VennDiagram);
-# library(Vennerable);
-# library(biomaRt);
-# library(latex2exp);
-# library(knitr);
-# library(poweRlaw);
-# library(WriteXLS);
-# library(gdata);
-# library(methods);
-# library(ggpubr);
-# library(DBI);
-# library(aricode);
-# library(reshape2);
+#library(lattice);
+#library(ggplot2);
+#library(stringr);
+#library(gtable);
+#library(grid);
+#library(ggrepel);
+#library(scales);
+#library(clusterCons);
+#library(plyr);
+#library(VennDiagram);
+#library(Vennerable);
+#library(biomaRt);
+#library(latex2exp);
+#library(knitr);
+#library(poweRlaw);
+#library(WriteXLS);
+#library(gdata);
+#library(methods);
+#library(ggpubr);
+#library(DBI);
+#library(aricode);
+#library(reshape2);
 
-# library(org.Hs.eg.db)
-# library(org.Mm.eg.db)
-# library(org.Dm.eg.db)
-# library(topGO)
+#library(org.Hs.eg.db)
+#library(org.Mm.eg.db)
+#library(org.Dm.eg.db)
+#library(topGO)
 
 #---Set Scheme in Regions.R for B V. SL Plot Regions in Bridgeness.R
 #--- Select from 1: Basic scheme
