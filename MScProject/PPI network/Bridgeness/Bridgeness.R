@@ -19,10 +19,11 @@ MAD <- function( X, na.rm=F ){
 
 
 #---Directories needed
-OUT <- vector(length=3)
+OUT <- vector(length=4)
 OUT[1] <- DIRS[grepl("Graphs",DIRS)]
 OUT[2] <- DIRS[grepl("POWERlawFIT",DIRS)]
 OUT[3] <- DIRS[grepl("SVI",DIRS)]
+OUT[4] <- '/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/PPI network/Bridgeness/PPI_Network'
 
 #---Check or create output dir
 if( !file_test("-d",subDIR[S]) ){
@@ -37,7 +38,7 @@ runBridge[2] <- 1 #Plot Bridgeness
 
 #---declare clustering algorithms in graph, and with a corresponding consensus matrix
 # alg    <- ALGS[c(1:10)]
-alg <- ALGS[c(4,7,15)]
+alg <- ALGS[c(4)]
 
 #---Clustering results of the SVI algorithm
 SVIFILES <- vector(length=2)
@@ -65,6 +66,8 @@ print('here2')
 #---load corresponding graph which was used to build the consensus matrices from 
 gg <- igraph::read.graph(sprintf("%s/%s/%s.gml",OUT[1],subDIR[S],subDIR[S]),format="gml")
 
+print(OUT[2])
+
 if(runBridge[1]){
     
 
@@ -74,9 +77,11 @@ if(runBridge[1]){
 
     INDX <- which(names(mm)==subDIR[S])
 
-    INDR <- match(V(gg)$name,mm[[INDX]][,1])
+    INDR <- match(V(gg)$name,mm[[INDX]])
     
     CN  <- c('ENTREZ.ID','GENE.NAME','DEGREE','Closeness','Bet','CC','Cl','Clnorm','SP','PR',alg,sprintf("BRIDGE_%s",alg),sprintf("PROB_%s",alg),sprintf("MIX_%s",alg),'BR_CONSENSUS','BR_CONSENSUS_MAD',"BR_CONSENSUS_ADJ")
+    # SP shortest path (mean)
+    # semi local centrality
     
     meas     <- matrix(0, nrow=N, ncol=length(CN))
     colnames(meas) <- CN
@@ -84,15 +89,20 @@ if(runBridge[1]){
     meas[,1] <- as.character(V(gg)$name)
     meas[,2] <- as.character(V(gg)$name)
     # meas[,2] <- as.character(V(gg)$GeneName)
-    meas[,3]  <- as.character(mm[[INDX]][INDR,2])
+    # meas[,3]  <- as.character(mm[[INDX]][INDR,2])
+    meas[,3] <- mm[[2]]
     meas[,4]  <- as.numeric(round(closeness(gg,mode="all",normalized=T),3))
-    meas[,5]  <- as.numeric(mm[[INDX]][INDR,3])
-    meas[,6]  <- as.numeric(mm[[INDX]][INDR,4])
-    meas[,7]  <- as.numeric(mm[[INDX]][INDR,5])
+    # meas[,5]  <- as.numeric(mm[[INDX]][INDR,3])
+    meas[,5] <- mm[[3]]
+    # meas[,6]  <- as.numeric(mm[[INDX]][INDR,4])
+    meas[,6] <- mm[[4]]
+    # meas[,7]  <- as.numeric(mm[[INDX]][INDR,5])
+    meas[,7] <- mm[[5]]
     meas[,8]  <- as.character( (as.numeric(meas[,7]) - min(as.numeric(meas[,7])))/(max(as.numeric(meas[,7])) - min(as.numeric(meas[,7]))) )
-    meas[,9]  <- as.numeric(mm[[INDX]][INDR,6])
-    meas[,10] <- as.numeric(mm[[INDX]][INDR,7])
-
+    # meas[,9]  <- as.numeric(mm[[INDX]][INDR,6])
+    meas[,9] <- mm[[6]]
+    # meas[,10] <- as.numeric(mm[[INDX]][INDR,7])
+    meas[,10] <- mm[[7]]
 
 #START filling meas after PageRank column
 FROM <- which(CN=="PR")
@@ -117,7 +127,7 @@ for( a in 1:length(alg) ){
     meas[,(FROM+a)] <- as.numeric(refin[,3])
 
     #Read in consensus matrix
-    filein = read.csv(file=sprintf("%s/%s/%s/consensusmatrix.txt",rndDIR[1],subDIR[S],alg[a]), header=FALSE, sep=",");
+    filein = read.csv(file=sprintf("%s/consensusmatrix.txt",OUT[4]), header=FALSE, sep=",");
     dimnames(filein)[2] <- dimnames(filein)[1]
 
     #format reference matrix
@@ -273,7 +283,7 @@ for( a in 1:length(alg) ){
                 
         #print out vertex probs for each community, using the non probalistic methods
         Vprobs[,1] <- as.character(V(gg)$name)
-        Vprobs[,2] <- as.character(V(gg)$GeneName)
+        Vprobs[,2] <- as.character(V(gg)$name)
         write.table(Vprobs,sprintf("%s/%s_Vprobs.csv",subDIR[S],alg[a]),row.names=F,col.names=T,sep="\t",quote=F)
         
 
@@ -372,17 +382,17 @@ meas <- read.delim(sprintf("%s/%s_Measures.csv",subDIR[S],subDIR[S]),sep="\t",he
 print('here pr')
 #Build Consensus Bridgness 
 indC   <- match(sprintf("BRIDGE_%s",alg),colnames(meas))
-val    <- apply(meas[,indC],1,median, na.rm=T)
-mad    <- apply(meas[,indC],1,MAD, na.rm=T)
+val    <- lapply(meas[,indC],median, na.rm=T)
+mad    <- lapply(meas[,indC],MAD, na.rm=T)
 
 XX     <- as.vector(unlist(meas[,indC]))
 XXmed  <- median(XX, na.rm=T)
 XXmad  <- MAD(XX, na.rm=T)
-valAdj <- (val-XXmed)/XXmad
+valAdj <- (XX-XXmed)/XXmad
     
 #Add Concensus Bridgeness to Measures file
-meas[,grepl('BR_CONSENSUS',colnames(meas))]     <- val
-meas[,grepl('BR_CONSENSUS_MAD',colnames(meas))] <- mad
+meas[,grepl('BR_CONSENSUS$',colnames(meas))]    <- unlist(val)
+meas[,grepl('BR_CONSENSUS_MAD',colnames(meas))] <- unlist(mad)
 meas[,grepl('BR_CONSENSUS_ADJ',colnames(meas))] <- valAdj
     
 #Write Measures to file 
