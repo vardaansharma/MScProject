@@ -32,7 +32,7 @@ if( !file_test("-d",subDIR[S]) ){
 
 #---Set Options
 runBridge  <- vector(length=2)
-runBridge[1] <- 1 #Calculate Bridgeness
+runBridge[1] <- 0 #Calculate Bridgeness
 runBridge[2] <- 1 #Plot Bridgeness
 
 
@@ -46,14 +46,17 @@ SVIFILES[1] <- "network.gml"
 SVIFILES[2] <- "groups.txt"
 
 #---VIP genes
-VIP    <- vector(length=2)
+VIP    <- vector(length=5)
 VIP[1] <- "BrProteins_Pre.csv"
 VIP[2] <- "BrProteins_PSD_reduced.csv"
+VIP[3] <- "Diff_exp3.csv"
+VIP[4] <- "Diff_exp2.csv"
+VIP[5] <- "Diffrentially_Expressed.csv"
 
-vips=2;
-if( grepl("Pre",subDIR[S]) ){
-    vips=1;
-}
+vips=5;
+# if( grepl("Pre",subDIR[S]) ){
+#     vips=1;
+# }
 
 print('here1')
 #---read VIP gene list
