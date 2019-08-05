@@ -53,7 +53,7 @@ VIP[3] <- "Diff_exp3.csv"
 VIP[4] <- "Diff_exp2.csv"
 VIP[5] <- "Diffrentially_Expressed.csv"
 
-vips=5;
+vips=3;
 # if( grepl("Pre",subDIR[S]) ){
 #     vips=1;
 # }

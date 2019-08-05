@@ -1,0 +1,92 @@
+community,Significant enrichment,Enriched GO terms,Enriched GO IDs,p values
+1.0,NO,[],[],[]
+2.0,NO,[],[],[]
+3.0,NO,[],[],[]
+4.0,NO,[],[],[]
+5.0,YES,['response_to_cAMP'],['GO:0051591'],[0.0307721]
+6.0,YES,['protein_kinase_A_signaling'],['GO:0010737'],[0.00169871]
+7.0,YES,"['ionotropic_glutamate_receptor_signaling_...', 'trans-synaptic_signaling', 'synaptic_signaling', 'chemical_synaptic_transmission', 'calcium_ion_homeostasis', 'calcium-mediated_signaling', 'regulation_of_postsynaptic_membrane_pote...', 'chemical_synaptic_transmission,_postsyna...', 'modulation_of_chemical_synaptic_transmis...', 'MAPK_cascade']","['GO:0035235', 'GO:0099537', 'GO:0099536', 'GO:0007268', 'GO:0055074', 'GO:0019722', 'GO:0060078', 'GO:0099565', 'GO:0050804', 'GO:0000165']","[9.208799999999999e-05, 0.000103674, 0.000103674, 0.000103674, 0.00110208, 0.00137886, 0.00364481, 0.00422145, 0.030815699999999998, 0.0406848]"
+8.0,YES,['axon_guidance'],['GO:0007411'],[0.011664299999999999]
+9.0,NO,[],[],[]
+10.0,NO,[],[],[]
+11.0,YES,"['myelination', 'protein_kinase_C_signaling']","['GO:0042552', 'GO:0070528']","[0.0242804, 0.0330853]"
+12.0,NO,[],[],[]
+13.0,NO,[],[],[]
+14.0,YES,"['protein_kinase_B_signaling', 'myelination', 'TOR_signaling', 'hormone-mediated_signaling_pathway', 'neuroepithelial_cell_differentiation']","['GO:0043491', 'GO:0042552', 'GO:0031929', 'GO:0009755', 'GO:0060563']","[0.00137543, 0.0020744, 0.00562532, 0.0109029, 0.046655]"
+15.0,YES,['TOR_signaling'],['GO:0031929'],[0.0465438]
+16.0,YES,"['signal_release_from_synapse', 'neurotransmitter_secretion', 'presynaptic_process_involved_in_chemical...', 'synaptic_vesicle_exocytosis', 'calcium_ion-regulated_exocytosis_of_neur...']","['GO:0099643', 'GO:0007269', 'GO:0099531', 'GO:0016079', 'GO:0048791']","[0.00880306, 0.00880306, 0.00947662, 0.038382400000000004, 0.0496438]"
+17.0,NO,[],[],[]
+18.0,NO,[],[],[]
+19.0,NO,[],[],[]
+20.0,NO,[],[],[]
+21.0,YES,"['MAPK_cascade', 'cAMP-mediated_signaling', 'stress-activated_MAPK_cascade', 'dopamine_receptor_signaling_pathway', 'hormone-mediated_signaling_pathway']","['GO:0000165', 'GO:0019933', 'GO:0051403', 'GO:0007212', 'GO:0009755']","[0.00238014, 0.00516828, 0.00947662, 0.0123387, 0.0123387]"
+22.0,NO,[],[],[]
+23.0,YES,"['synaptic_signaling', 'trans-synaptic_signaling', 'chemical_synaptic_transmission', 'synapse_assembly', 'axon_guidance', 'regulation_of_neurotransmitter_receptor_...', 'Fc_receptor_mediated_stimulatory_signali...', 'modulation_of_chemical_synaptic_transmis...', 'synapse_organization', 'MAPK_cascade', 'regulation_of_synapse_organization', 'regulation_of_postsynaptic_membrane_pote...', 'chemical_synaptic_transmission,_postsyna...']","['GO:0099536', 'GO:0099537', 'GO:0007268', 'GO:0007416', 'GO:0007411', 'GO:0099601', 'GO:0002431', 'GO:0050804', 'GO:0050808', 'GO:0000165', 'GO:0050807', 'GO:0060078', 'GO:0099565']","[0.00127868, 0.00127868, 0.00127868, 0.00143422, 0.00229357, 0.00314437, 0.00523218, 0.0195373, 0.020826499999999998, 0.024290400000000004, 0.024468200000000002, 0.0299176, 0.0327801]"
+24.0,NO,[],[],[]
+25.0,NO,[],[],[]
+26.0,YES,"['trans-synaptic_signaling', 'synaptic_signaling', 'chemical_synaptic_transmission', 'Wnt_signaling_pathway,_calcium_modulatin...']","['GO:0099537', 'GO:0099536', 'GO:0007268', 'GO:0007223']","[0.0325216, 0.0325216, 0.0325216, 0.049486300000000004]"
+27.0,YES,"['presynapse_assembly', 'neurotransmitter_receptor_transport_to_p...', 'neurotransmitter_receptor_transport', 'dopamine_metabolic_process', 'regulation_of_synapse_assembly', 'dopamine_receptor_signaling_pathway', 'synapse_assembly']","['GO:0099054', 'GO:0098877', 'GO:0099637', 'GO:0042417', 'GO:0051963', 'GO:0007212', 'GO:0007416']","[0.00960746, 0.0190757, 0.022201, 0.022201, 0.0314851, 0.043651199999999994, 0.0496438]"
+28.0,NO,[],[],[]
+29.0,NO,[],[],[]
+30.0,YES,['protein_kinase_C_signaling'],['GO:0070528'],[0.019091]
+31.0,YES,"['calcium_ion_homeostasis', 'presynapse_assembly', 'synapse_organization', 'innate_immune_response-activating_signal...', 'activation_of_innate_immune_response']","['GO:0055074', 'GO:0099054', 'GO:0050808', 'GO:0002758', 'GO:0002218']","[0.00702969, 0.026122700000000002, 0.0456376, 0.0456376, 0.0475051]"
+32.0,YES,"['synaptic_vesicle_endocytosis', 'vesicle-mediated_transport_in_synapse', 'synaptic_vesicle_cycle', 'regulation_of_synaptic_vesicle_cycle', 'synaptic_vesicle_exocytosis']","['GO:0048488', 'GO:0099003', 'GO:0099504', 'GO:0098693', 'GO:0016079']","[6.35728e-07, 1.34777e-05, 0.000123187, 0.0198149, 0.0470411]"
+33.0,YES,"['regulation_of_synapse_organization', 'synapse_organization', 'MAPK_cascade']","['GO:0050807', 'GO:0050808', 'GO:0000165']","[0.00263896, 0.0300324, 0.0406848]"
+34.0,NO,[],[],[]
+35.0,YES,"['synapse_assembly', 'modulation_of_chemical_synaptic_transmis...', 'chemical_synaptic_transmission', 'trans-synaptic_signaling', 'synaptic_signaling', 'regulation_of_synapse_assembly', 'stress-activated_MAPK_cascade', 'synapse_organization', 'calcium_ion_homeostasis', 'regulation_of_synapse_organization', 'regulation_of_postsynaptic_membrane_pote...', 'chemical_synaptic_transmission,_postsyna...', 'presynapse_assembly']","['GO:0007416', 'GO:0050804', 'GO:0007268', 'GO:0099537', 'GO:0099536', 'GO:0051963', 'GO:0051403', 'GO:0050808', 'GO:0055074', 'GO:0050807', 'GO:0060078', 'GO:0099565', 'GO:0099054']","[0.000568228, 0.000832823, 0.00118528, 0.00118528, 0.00118528, 0.00490722, 0.00651546, 0.00919465, 0.013833600000000001, 0.013847100000000001, 0.0170713, 0.0187822, 0.0330853]"
+36.0,NO,[],[],[]
+37.0,YES,"['dopamine_receptor_signaling_pathway', 'cAMP-mediated_signaling', 'Wnt_signaling_pathway,_calcium_modulatin...', 'cAMP_metabolic_process']","['GO:0007212', 'GO:0019933', 'GO:0007223', 'GO:0046058']","[0.000326254, 0.00123877, 0.0164504, 0.045886]"
+38.0,NO,[],[],[]
+39.0,NO,[],[],[]
+40.0,YES,['axon_guidance'],['GO:0007411'],[0.00149487]
+41.0,NO,[],[],[]
+42.0,NO,[],[],[]
+43.0,NO,[],[],[]
+44.0,YES,"['synaptic_vesicle_exocytosis', 'neurotransmitter_secretion', 'signal_release_from_synapse', 'synaptic_vesicle_fusion_to_presynaptic_a...', 'presynaptic_process_involved_in_chemical...', 'synaptic_vesicle_cycle', 'vesicle-mediated_transport_in_synapse', 'synaptic_vesicle_priming', 'trans-synaptic_signaling', 'synaptic_signaling', 'chemical_synaptic_transmission', 'neurotransmitter_receptor_transport_to_p...', 'regulation_of_postsynaptic_membrane_neur...', 'neurotransmitter_receptor_transport', 'modulation_of_chemical_synaptic_transmis...', 'neurotransmitter_uptake', 'calcium_ion-regulated_exocytosis_of_neur...', 'regulation_of_synaptic_vesicle_exocytosi...']","['GO:0016079', 'GO:0007269', 'GO:0099643', 'GO:0031629', 'GO:0099531', 'GO:0099504', 'GO:0099003', 'GO:0016082', 'GO:0099537', 'GO:0099536', 'GO:0007268', 'GO:0098877', 'GO:0099072', 'GO:0099637', 'GO:0050804', 'GO:0001504', 'GO:0048791', 'GO:2000300']","[1.06241e-08, 2.55559e-07, 2.55559e-07, 3.06789e-07, 3.3014899999999995e-07, 4.22924e-07, 1.05647e-06, 3.4111400000000005e-06, 0.00034104, 0.00034104, 0.00034104, 0.00041242300000000003, 0.00041242300000000003, 0.0007024860000000001, 0.000761292, 0.00109397, 0.00463223, 0.040759699999999996]"
+45.0,NO,[],[],[]
+46.0,NO,[],[],[]
+47.0,NO,[],[],[]
+48.0,NO,[],[],[]
+49.0,YES,['stress-activated_MAPK_cascade'],['GO:0051403'],[0.0254114]
+50.0,NO,[],[],[]
+51.0,YES,"['calcium-mediated_signaling', 'calcium_ion_homeostasis']","['GO:0019722', 'GO:0055074']","[0.00175829, 0.00702969]"
+52.0,NO,[],[],[]
+53.0,YES,['B_cell_receptor_signaling_pathway'],['GO:0050853'],[0.046655]
+54.0,YES,"['stress-activated_MAPK_cascade', 'innate_immune_response-activating_signal...', 'MAPK_cascade', 'activation_of_innate_immune_response', 'toll-like_receptor_signaling_pathway', 'T_cell_receptor_signaling_pathway']","['GO:0051403', 'GO:0002758', 'GO:0000165', 'GO:0002218', 'GO:0002224', 'GO:0050852']","[0.00710283, 0.0108847, 0.011207, 0.011761200000000001, 0.018593799999999997, 0.0395084]"
+55.0,YES,['Fc_receptor_mediated_stimulatory_signali...'],['GO:0002431'],[0.031960300000000004]
+56.0,NO,[],[],[]
+57.0,YES,['synapse_organization'],['GO:0050808'],[0.025647800000000002]
+58.0,YES,['T_cell_receptor_signaling_pathway'],['GO:0050852'],[0.0366511]
+59.0,NO,[],[],[]
+60.0,YES,"['protein_kinase_B_signaling', 'MAPK_cascade', 'stress-activated_MAPK_cascade', 'axon_guidance']","['GO:0043491', 'GO:0000165', 'GO:0051403', 'GO:0007411']","[0.00539471, 0.0180313, 0.0273375, 0.032975300000000006]"
+61.0,YES,"['cAMP_metabolic_process', 'Fc_receptor_mediated_stimulatory_signali...']","['GO:0046058', 'GO:0002431']","[0.00593935, 0.0180535]"
+62.0,NO,[],[],[]
+63.0,YES,['modulation_of_chemical_synaptic_transmis...'],['GO:0050804'],[0.0331782]
+64.0,YES,['myelin_assembly'],['GO:0032288'],[0.0390705]
+65.0,NO,[],[],[]
+66.0,YES,['axon_guidance'],['GO:0007411'],[0.00300196]
+67.0,YES,['synapse_maturation'],['GO:0060074'],[0.0406324]
+68.0,NO,[],[],[]
+69.0,YES,['protein_kinase_B_signaling'],['GO:0043491'],[0.029766900000000002]
+70.0,NO,[],[],[]
+71.0,YES,"['cAMP_metabolic_process', 'neuroepithelial_cell_differentiation']","['GO:0046058', 'GO:0060563']","[0.00593935, 0.0345494]"
+72.0,NO,[],[],[]
+73.0,YES,"['synapse_maturation', 'regulation_of_neurotransmitter_receptor_...']","['GO:0060074', 'GO:0099601']","[0.022201, 0.0329796]"
+74.0,NO,[],[],[]
+75.0,NO,[],[],[]
+76.0,YES,"['innate_immune_response-activating_signal...', 'activation_of_innate_immune_response', 'immune_response-activating_signal_transd...', 'T_cell_receptor_signaling_pathway']","['GO:0002758', 'GO:0002218', 'GO:0002757', 'GO:0050852']","[0.000435952, 0.000477463, 0.00327092, 0.00416489]"
+77.0,NO,[],[],[]
+78.0,YES,"['stress-activated_MAPK_cascade', 'MAPK_cascade', 'B_cell_receptor_signaling_pathway', 'immune_response-activating_signal_transd...', 'axon_guidance', 'calcium_ion_homeostasis', 'Fc_receptor_mediated_stimulatory_signali...']","['GO:0051403', 'GO:0000165', 'GO:0050853', 'GO:0002757', 'GO:0007411', 'GO:0055074', 'GO:0002431']","[0.000108144, 0.00011533399999999999, 0.00115879, 0.014368299999999999, 0.0159865, 0.0266178, 0.044000599999999994]"
+79.0,YES,"['myelination', 'trans-synaptic_signaling', 'synaptic_signaling', 'chemical_synaptic_transmission', 'modulation_of_chemical_synaptic_transmis...']","['GO:0042552', 'GO:0099537', 'GO:0099536', 'GO:0007268', 'GO:0050804']","[0.0275371, 0.0419841, 0.0419841, 0.0419841, 0.0467824]"
+80.0,YES,['axon_extension_involved_in_axon_guidance'],['GO:0048846'],[0.0112631]
+81.0,NO,[],[],[]
+82.0,YES,"['protein_kinase_C_signaling', 'protein_kinase_A_signaling']","['GO:0070528', 'GO:0010737']","[0.026122700000000002, 0.04283819999999999]"
+83.0,YES,"['cAMP-mediated_signaling', 'response_to_cAMP', 'stress-activated_MAPK_cascade', 'modulation_of_chemical_synaptic_transmis...', 'MAPK_cascade', 'trans-synaptic_signaling', 'synaptic_signaling', 'chemical_synaptic_transmission']","['GO:0019933', 'GO:0051591', 'GO:0051403', 'GO:0050804', 'GO:0000165', 'GO:0099537', 'GO:0099536', 'GO:0007268']","[0.00961254, 0.0195079, 0.0220095, 0.030815699999999998, 0.0406848, 0.0428599, 0.0428599, 0.0428599]"
+84.0,NO,[],[],[]
+85.0,YES,"['T_cell_receptor_signaling_pathway', 'innate_immune_response-activating_signal...', 'activation_of_innate_immune_response', 'immune_response-activating_signal_transd...', 'MAPK_cascade']","['GO:0050852', 'GO:0002758', 'GO:0002218', 'GO:0002757', 'GO:0000165']","[0.00011912299999999999, 0.00019690400000000002, 0.000216015, 0.00155446, 0.010208400000000001]"
+86.0,YES,"['immune_response-activating_signal_transd...', 'Fc_receptor_mediated_stimulatory_signali...', 'T_cell_receptor_signaling_pathway', 'innate_immune_response-activating_signal...', 'activation_of_innate_immune_response']","['GO:0002757', 'GO:0002431', 'GO:0050852', 'GO:0002758', 'GO:0002218']","[0.0149974, 0.0150518, 0.0308633, 0.0385918, 0.040204699999999996]"
+87.0,YES,"['T_cell_receptor_signaling_pathway', 'innate_immune_response-activating_signal...', 'activation_of_innate_immune_response', 'immune_response-activating_signal_transd...', 'MAPK_cascade']","['GO:0050852', 'GO:0002758', 'GO:0002218', 'GO:0002757', 'GO:0000165']","[5.4806699999999994e-09, 1.6138299999999998e-08, 1.96784e-08, 1.3022999999999998e-06, 7.06431e-05]"
+88.0,NO,[],[],[]
+89.0,NO,[],[],[]
+90.0,NO,[],[],[]
+91.0,NO,[],[],[]
