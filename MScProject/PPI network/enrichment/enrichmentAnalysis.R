@@ -39,8 +39,8 @@ plotRatio <- function(xx, plotDIR, subDIR, desc="", anno="", LEGtextSize=1.5, LE
     #---
     
     #--- test intervals
-    X1 = 7
-    X2 = 54
+    X1 = 5
+    X2 = 50
     X3 = 90
 
     rank <- matrix("",ncol=3,nrow=length(xx[,1]))
@@ -185,7 +185,10 @@ library(viridis)
         guides(color = guide_legend(override.aes = list(size=LEGlineSize)),
                alpha = FALSE,
                size  = FALSE)
-
+print('xs')
+print(as.numeric(X1))
+print(as.numeric(X2))
+print(as.numeric(X3))
 png(sprintf("%s/%sFe_col_%s.png",plotDIR,subDIR,desc),width=WIDTH,height=HEIGHT,units="px");
 print(gplot3)
 dev.off()
@@ -426,6 +429,7 @@ anno  <- read.delim(sprintf("%s/annotations.csv",OUT[3]),header=F,sep=",",quote=
 # print(anno)
 ANNO  <- as.vector(anno[which(as.vector(anno[,1]) == 1),3])
 Afile <- as.vector(anno[which(as.vector(anno[,1]) == 1),2])
+print(Afile)
 afile <- read.delim(sprintf("%s/%s",OUT[4],Afile),sep="\t", skip=1,header=F)
 
 print('here')
@@ -580,18 +584,17 @@ cands <- addDescription(afile, statsR1@CAN, "GO:", "GO.")
 write.table(cands, "pvalues_candidate_C.csv", sep="\t", row.names=F, col.names=T, quote=F)
 
 print('here?')
-#adjusted p.value
-#statsR2 <- summaryStats(RES, alpha[1], usePadj=TRUE, FeMAX=FeMAX, FcMAX=FcMAX)
-#stats2  <- statsR2@SUM
-#ranki   <- which(colnames(stats2)=="EnrichedComs(%)")
-#stats2  <- stats2[order(as.numeric(stats2[,ranki]),decreasing=T),]
+# adjusted p.value
+statsR2 <- summaryStats(RES, alpha[1], usePadj=TRUE, FeMAX=FeMAX, FcMAX=FcMAX)
+stats2  <- statsR2@SUM
+ranki   <- which(colnames(stats2)=="EnrichedComs(%)")
+stats2  <- stats2[order(as.numeric(stats2[,ranki]),decreasing=T),]
 
-#write.table(stats2,      "adjusted_stats.csv", sep="\t", row.names=F, col.names=T, quote=F)
+write.table(stats2,      "adjusted_stats.csv", sep="\t", row.names=F, col.names=T, quote=F)
 
-#cands <- addDescription(afile, statsR2@CAN, "GO:", "GO.")
-#write.table(cands, "adjusted_candidate_C.csv", sep="\t", row.names=F, col.names=T, quote=F)
-
-# Output needed for sigmoid fit 
+cands <- addDescription(afile, statsR2@CAN, "GO:", "GO.")
+write.table(cands, "adjusted_candidate_C.csv", sep="\t", row.names=F, col.names=T, quote=F)
+ # Output needed for sigmoid fit 
 print('here maybe')
 write.table(statsR1@SUM3,"data_for_sigmoid_fit.csv", sep="\t", col.names=T, row.names=F, quote=F)
 
@@ -607,8 +610,8 @@ if( run ){
               LEGtextSize=0.75, LEGlineSize=2)
 
     #---For adjusted p.values
-    #plotRatio(xx=statsR2@SUM3, plotDIR=plotDIR, subDIR=subDIR[S],
-    #          desc="adjusted", anno=ANNO,
-    #          LEGtextSize=0.75, LEGlineSize=2)
+    plotRatio(xx=statsR2@SUM3, plotDIR=plotDIR, subDIR=subDIR[S],
+             desc="adjusted", anno=ANNO,
+             LEGtextSize=0.75, LEGlineSize=2)
     print('in last thing')
 }

@@ -227,7 +227,7 @@ library(VennDiagram);
 #--- Select from 1: Basic scheme
 #--- Select from 2: Deferential non-bridging, primary and secondray, bridging proteins
 
-Scheme = 2
+Scheme = 1
 source(sprintf("%s/Regions.R",pramFILES))
 
 #---Selected Regions for Venn, i.e. 1,2,3,4 

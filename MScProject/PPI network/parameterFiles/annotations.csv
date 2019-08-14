@@ -1,4 +1,5 @@
-0,flatfile.go.BP.csv,GOBP
-1,flatfile_human_gene2HDO.csv,HDO
+1,flatfile.go.BP.csv,GOBP
+0,flatfile+AF8-human+AF8-gene2HDO.csv,HDO
 0,flatfile.go.MF.csv,GOMF
-1,flatfile_human_ov_PAPERS.csv,OV
+0,flatfile+AF8-human+AF8-ov+AF8-PAPERS.csv,OV
+0,flatfile.human.HDO.csv,HDO

@@ -3,9 +3,15 @@ library(igraph)
 library(ggplot2)
 library(poweRlaw)
 
-all_proteins <- read_csv("C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/Networks/Combined.csv")
-PPI_List_Unique <- read_csv("C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/Networks/PPI_List_Unique.csv")
-PPI_List <- read_csv("C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/Networks/PPI_List.csv")
+# source('/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/PPI network/setUp.R');
+# all_proteins <- read_csv("C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/Networks/Combined.csv")
+# PPI_List_Unique <- read_csv("C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/Networks/PPI_List_Unique.csv")
+# PPI_List <- read_csv("C:/Users/homoe/OneDrive - University of Edinburgh/PROJECT/MScProject/Networks/PPI_List.csv")
+
+all_proteins <- read_csv("/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/Networks/Combined.csv")
+PPI_List_Unique <- read_csv("/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/Networks/PPI_List_Unique.csv")
+PPI_List <- read_csv("/afs/inf.ed.ac.uk/user/s18/s1882216/MSCPROJECT/MScProject/Networks/PPI_List.csv")
+
 
 graph <- graph_from_data_frame(PPI_List,directed=FALSE)
 
@@ -19,7 +25,7 @@ sgraph <- simplify(graph,remove.multiple=TRUE,remove.loops=TRUE,edge.attr.comb=a
 comps <- components(sgraph)
 
 #taking only biggest subgraph
-i <- which.max(comps$csize)``
+i <- which.max(comps$csize)
 vg <- groups(comps)
 csgraph <- induced_subgraph(sgraph,vg[[i]])
 write_graph(csgraph, "PPI_Network.csv","ncol")

@@ -29,8 +29,8 @@ if( Scheme == 1 ){
     Ymax <- vector(length=Nele)
 
     #quadrant each gene lies in
-    Xmin[1] = 0.0; Xmax[1] = 0.5; Ymin[1] = 0.5; Ymax[1] = 1.0; quad[1] = 1; quadName[1] = "ul";
-    Xmin[2] = 0.5; Xmax[2] = 1.0; Ymin[2] = 0.5; Ymax[2] = 1.0; quad[2] = 2; quadName[2] = "ur";
+    Xmin[1] = 0.0; Xmax[1] = 0.125; Ymin[1] = 0.5; Ymax[1] = 1.0; quad[1] = 1; quadName[1] = "ul";
+    Xmin[2] = 0.125; Xmax[2] = 1.0; Ymin[2] = 0.5; Ymax[2] = 1.0; quad[2] = 2; quadName[2] = "ur";
     Xmin[3] = 0.0; Xmax[3] = 0.5; Ymin[3] = 0.1; Ymax[3] = 0.5; quad[3] = 3; quadName[3] = "ll";
     Xmin[4] = 0.5; Xmax[4] = 1.0; Ymin[4] = 0.0; Ymax[4] = 0.5; quad[4] = 4; quadName[4] = "lr";
 

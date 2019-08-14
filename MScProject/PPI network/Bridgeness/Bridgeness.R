@@ -46,14 +46,16 @@ SVIFILES[1] <- "network.gml"
 SVIFILES[2] <- "groups.txt"
 
 #---VIP genes
-VIP    <- vector(length=5)
+VIP    <- vector(length=6)
 VIP[1] <- "BrProteins_Pre.csv"
 VIP[2] <- "BrProteins_PSD_reduced.csv"
 VIP[3] <- "Diff_exp3.csv"
 VIP[4] <- "Diff_exp2.csv"
 VIP[5] <- "Diffrentially_Expressed.csv"
+VIP[6] <- "test_pros.csv"
+VIP[7] <- "bg5.csv"
 
-vips=3;
+vips=7;
 # if( grepl("Pre",subDIR[S]) ){
 #     vips=1;
 # }
@@ -293,7 +295,7 @@ for( a in 1:length(alg) ){
     } else {#run over SVI algorithm
 
         gg2 <- igraph::read.graph(sprintf("%s/%s/%s",OUT[3],subDIR[S],SVIFILES[1]),format="gml")
-        PRINT('heer why')
+        # PRINT('heer why')
         gr  <- read.table(sprintf("%s/%s/%s",OUT[3],subDIR[S],SVIFILES[2]),sep="\t",header=F)
         
         #--- store alg. cluster results
@@ -379,10 +381,10 @@ close(outfile);
 
 
 if( runBridge[2] ){
-print('inhere')
+# print('inhere')
 #Read-in all measures    
 meas <- read.delim(sprintf("%s/%s_Measures.csv",subDIR[S],subDIR[S]),sep="\t",header=T)
-print('here pr')
+# print('here pr')
 #Build Consensus Bridgness 
 indC   <- match(sprintf("BRIDGE_%s",alg),colnames(meas))
 val    <- lapply(meas[,indC],median, na.rm=T)
@@ -507,13 +509,13 @@ for( a in 1:length(alg) ){
     GenesLR <- genes4
 
     if( Scheme == 2 ){
-
+        print('2')
         GenesUL <- genes4
         GenesUR <- genes6
         GenesLL <- genes2
         GenesLR <- genes3
     }
-    
+    # print(as.vector(GenesUL))
     #plot
     gplot <- ggplot(dd,aes(x=as.numeric(as.vector(X)),y=as.numeric(as.vector(Y)) ))+geom_point(aes(alpha=X*Y),colour="magenta",show.legend=F)+
 
@@ -532,10 +534,10 @@ for( a in 1:length(alg) ){
     labs(x=Xlab,y=Ylab,title=sprintf("%s",alg[a]))+
         xlim(c(0,1))+ylim(c(0,1))+
         theme(            
-            axis.title.x=element_text(face="bold",size=rel(2.5)),
-            axis.title.y=element_text(face="bold",size=rel(2.5)),
-            legend.title=element_text(face="bold",size=rel(1.5)),
-            legend.text=element_text(face="bold",size=rel(1.5)),
+            axis.title.x=element_text(face="bold",size=rel(2.25)),
+            axis.title.y=element_text(face="bold",size=rel(2.25)),
+            legend.title=element_text(face="bold",size=rel(0.5)),
+            legend.text=element_text(face="bold",size=rel(0.5)),
             legend.key=element_blank())+
         theme(panel.grid.major = element_line(colour = "grey40",size=0.2),
               panel.grid.minor = element_line(colour="grey40",size=0.1),
@@ -555,7 +557,7 @@ for( a in 1:length(alg) ){
         GAnno4 +
         GAnno5 +
 
-       png(sprintf("%s/%s_%s_BrVCl.png",plotDIR,subDIR[S],alg[a]),width=WIDTH,height=HEIGHT,units="px")
+       png(sprintf("%s/%s_%s_BrVCl_%ss1.png",plotDIR,subDIR[S],alg[a],VIP[vips]),width=WIDTH,height=HEIGHT,units="px")
        print(gplot)
        dev.off()
 
